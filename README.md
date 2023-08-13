@@ -1,2 +1,0 @@
-# fttawiki
-very good

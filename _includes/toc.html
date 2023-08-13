@@ -1,0 +1,10 @@
+<ul>
+    <li>Links:
+        <ul>
+        {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+        {% for page in pages %}
+            <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </li>
+</ul>
