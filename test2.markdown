@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagev2
 title: Test2
 permalink: /test2/
 ---
