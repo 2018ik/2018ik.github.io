@@ -37,7 +37,9 @@ Yet, fallen man did not know himself and strived to do good to improve himself (
 
 Paul says in Romans that he did not know coveting, except through the law. It is the law which causes us to know sin.
 
-## Romans 7
+## Laws in Romans
+
+The laws in Romans actually have a scientific 
 
 ### Three Lives
 In Romans 7, we have three lives as a regenerated human being - the Divine life in our spirit, the human life in our soul, and the Satanic life in the flesh.
