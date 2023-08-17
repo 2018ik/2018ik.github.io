@@ -40,8 +40,4 @@ By this point we are at least able to recite with understanding, and therefore w
 - Beginners and new ones should seek help from those who are experienced for guidance
 - The timing of each part is crucial so that PSRP can be completed in a timely manner
 - PSRP is not a shortcut, the amount of time to adequately study a message should be around the same as the length of the message itself (i.e. 60-90 minutes for a typical message)
-- The reward is worth the time - you're understanding of the truth will be revolutionized!
-
-
-
-
+- The reward is worth the time - your understanding of the truth will be revolutionized!
