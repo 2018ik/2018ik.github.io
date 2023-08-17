@@ -6,6 +6,7 @@ permalink: /morning_revival/
 - [Background](#background)
 - [Pictures of Morning Revival](#pictures-of-morning-revival)
   - [Manna](#manna)
+  - [Bread of the Presence](#bread-of-the-presence)
   - [Mary](#mary)
   - [Abraham](#abraham)
   - [Jacob](#jacob)
@@ -14,14 +15,14 @@ permalink: /morning_revival/
   - [Jesus](#jesus)
   - [George Muller](#george-muller)
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
+- [How to Practice](#how-to-practice)
+- [Benefits](#benefits)
 
 ## Background
 
-We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day.
+We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. ??:??).
 
-Lam 3 something the Lord's compassions and mercy are new every morning.
-
-Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. There is the most supply and light in the morning.
+Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
 
 ## Pictures of Morning Revival
@@ -30,7 +31,15 @@ Many individuals recorded in the Bible contacted the Lord early in the morning.
 
 ### Manna
 
-Exodus 16
+> "And they gathered [the manna] morning by morning, each one according to his eating, and when the sun became hot, it melted."
+
+\- Exodus 16:21
+
+Manna can only be found in the mornings. Past the morning, it will melt.
+
+### Bread of the Presence
+
+Unlike manna, the bread of the presence is only to be enjoyed by the priests in the presence of God. Presence in Hebrew is the same word for face. When we enter into the Lord's presence, we behold his face.
 
 ### Mary
 
@@ -70,3 +79,14 @@ He found the Lord is often pleased to nourish him, and this spiritual food could
 
 ### All those who are of any use in God's hands
 
+Believe it or not, but in order to be useful in God's hands, morning revival is essential.
+
+## How to Practice
+
+Entering into the presence of the Lord, and coming face-to-face with Him should be the primary objective of our morning revival. 
+
+## Benefits
+
+As we come to the Lord morning by morning, something fills us to the brim. We also have a surplus (Exo. 16:??), and this surplus is bread to God. 
+
+As we behold the Lord each morning, we are being transformed (2 Cor. 3:18).

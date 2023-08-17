@@ -1,0 +1,50 @@
+---
+layout: pagev2
+title: New Jerusalem
+permalink: /new_jerusalem/
+---
+- [Background](#background)
+- [History](#history)
+  - [Description](#description)
+- [Glorification](#glorification)
+- [Application](#application)
+
+>"After my study of the Bible for the past sixty-nine years, what have I seen? I would say that I have seen the New Jerusalem. This is my vision, this is my revelation, and this is my ministry."
+
+\- Practical Points Concerning Blending, pp. 25-26
+
+## Background
+
+The New Jerusalem is not a physical city; it is the greatest and ultimate sign in the scriptures. 
+
+It is often believed that we will go to heaven, and there will be some kind of mansion, golden streets, etc. Similarly, we may have certain concepts regarding the New Jerusalem. But the Bible tells us that the New Jerusalem is a lot more than just a city. If we miss this, then we are missing a rich gospel that the Lord is showing us.
+
+>"And I saw the holy city, New Jerusalem, coming down out of heaven from God, **prepared as a bride** adorned for her husband"
+
+\- Rev. 21:2
+
+This is not a physical city - we are **becoming** the New Jerusalem, the bride of Christ, through which we will be joined to God in oneness.
+
+Our living out of the New Jerusalem is for us to become the New Jerusalem, and our working out the New Jerusalem is for us to build the New Jerusalem by the flowing Triune God.
+
+## History
+
+Genesis 1-2 is the organic blueprint, the architectural plan of the Triune God, and Revelation 21-22 reveals the finished product, the organic masterpiece of the Triune God.
+
+### Description
+
+The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. The street signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration. 
+
+## Glorification
+
+The New Jerusalem is for the glorification of the Triune God as the oneness of the believers built into the Triune God (John 17). John 17 reveals the divine incorporation of God and man, and that the firstborn Son and the Sons of God might be glorified. John likely wrote his gospel after he had seen the vision. The fulfillment of this prayer is consummated in the New Jerusalem.
+
+## Application
+
+Everything that we do, everything that we say - is it for the building?
+
+
+
+
+
+

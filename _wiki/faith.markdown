@@ -21,6 +21,8 @@ Humans have a natural concept to believe, but that is not the true faith. This t
 
 In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
 
+After we are given faith, this faith must be exercised, that the virtue of the divine life may be developed and reach maturity.
+
 ## Believing
 
 Believing in is to believe that God is real. To believe into God is to have an organic union. 
