@@ -20,7 +20,7 @@ permalink: /morning_revival/
 
 ## Background
 
-We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. ??:??).
+We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
 Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
