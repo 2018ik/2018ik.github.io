@@ -4,28 +4,33 @@
     padding: 0;
   }
 
-  li {
-    margin: 5px 0;
-  }
-
-  /* Style the outer list item */
-  li:first-child {
-    column-count: 3; /* Number of columns */
-    column-gap: 20px; /* Adjust the gap between columns */
-    max-height: 100%; /* Adjust the max height as needed */
-    overflow-y: auto; /* Add a scrollbar when content overflows */
-  }
-
   /* Style the nested list */
-  li > ul {
-    padding-left: 20px; /* Indent the nested list */
+  ul ul {
+    margin: 0;
+    padding-left: 0;
   }
 
   /* Style the nested list items */
-  li > ul > li {
+  ul ul li {
     margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  /* Style the nested list item links */
+  ul ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  /* Style the nested list item links on hover */
+  ul ul li a:hover {
+    color: #007bff;
   }
 </style>
+
+
 
 <ul>
     <li>
