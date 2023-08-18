@@ -1,0 +1,54 @@
+---
+layout: pagev2
+title: Faith
+permalink: /faith/
+---
+- [Background](#background)
+- [Application](#application)
+- [Believing](#believing)
+- [Abraham](#abraham)
+- [Receiving](#receiving)
+
+## Background
+
+Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14).
+
+Faith comes out of hearing, and hearing through the word of God.
+
+## Application
+
+Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16). 
+
+In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
+
+After we are given faith, this faith must be exercised, that the virtue of the divine life may be developed and reach maturity.
+
+## Believing
+
+Believing in is to believe that God is real. To believe into God is to have an organic union. 
+
+## Abraham
+
+The way God dealt with Abraham was by faith. Abraham believed God, and it was accounted to him as righteousness. The law in fact came after Abraham.
+
+The God of glory appeared to Abraham, and through this appearing, there was an infusing of God into Abraham. 
+
+He didn't respond right away, but eventually, Abraham's father died which caused him to cross the river. But each appearing of God to Abraham infused more of God into him, to produce within him faith. 
+
+Abraham then responded, and went out in faith, not knowing where he was going.
+
+Faith brings us into the blessing promised to Abraham (Gal 3:9, 14). It was promised to Abraham that all the nations of the Earth would be blessed. Christ as the seed of Abraham is now in resurrection, and is the Spirit as the all-inclusive blessing. The good land that was promised to Israel is actually included in this Spirit. By receiving the Spirit, we receive all of these blessings.
+
+Likewise, when we hear, something of the Lord is infused into us.
+
+For example, if we go into a jewelry store, the salesman can only sell something to you if he makes you appreciate its beauty. The salesman is able to infuse into you some level of appreciation of the jewelry by talking about its beauty, its preciousness. 
+
+## Receiving
+
+We receive the Spirit into our spirit through faith (Gal. 3:2, 5). After we receive the Spirit, we are no longer under law. Faith replaces law (Gal. 3:23).
+
+By hearing the Word, there is a welling up appreciation. Then we call on Him, then we receive Him. And now, we've accepted Him through this receiving. By receiving God, we are then able to minister to others, and infuse something of the Word into others.
+
+
+
+

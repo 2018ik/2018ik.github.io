@@ -17,6 +17,7 @@ permalink: /morning_revival/
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
 - [How to Practice](#how-to-practice)
 - [Benefits](#benefits)
+- [Sweetness](#sweetness)
 
 ## Background
 
@@ -90,3 +91,7 @@ Entering into the presence of the Lord, and coming face-to-face with Him should 
 As we come to the Lord morning by morning, something fills us to the brim. We also have a surplus (Exo. 16:??), and this surplus is bread to God. 
 
 As we behold the Lord each morning, we are being transformed (2 Cor. 3:18).
+
+## Sweetness
+
+When we come to the Lord in the morning, we should experience his sweetness.
