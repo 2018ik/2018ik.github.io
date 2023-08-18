@@ -1,16 +1,56 @@
 ---
 layout: basev2
 ---
-<head>
-  <style media = "all">
-     table {
-      margin-bottom: 0px;
-     }
-  </style>
-</head>
-<script async src="https://cse.google.com/cse.js?cx=85f072e0d742647bd">
-</script>
-<div class="gcse-searchbox"></div>
-<br>
-<div class="gcse-searchresults"></div>
+<style>
+  /* Style the search input */
+  #search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    box-shadow: none;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+  }
 
+  /* Style the search input when focused */
+  #search-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+
+  /* Style the search input placeholder */
+  #search-input::placeholder {
+    color: #999;
+  }
+
+  /* Style the search input on hover */
+  #search-input:hover {
+    border-color: #999;
+  }
+
+  /* Style the search input on disabled state */
+  #search-input:disabled {
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+  }
+</style>
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="search...">
+  <ul id="results-container"></ul>
+  </div>
+  
+  <!-- Script pointing to search-script.js -->
+  <script src="../search-script.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json'
+  })
+  </script>
