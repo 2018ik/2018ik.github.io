@@ -5,6 +5,7 @@ permalink: /confession/
 ---
 - [Background](#background)
 - [Tips and tricks](#tips-and-tricks)
+
 ## Background
 
 Confession issues from the light of God. Having received light from God which exposed our offenses, we confess what we have seen and the blood cleanses us.

@@ -7,6 +7,7 @@ permalink: /kingdom/
 >"Seek first His Kingdom and His righteousness, and all these things will bea dded to you"
 
 \- Matt. 6:33
+
 ## Background
 
 - [Background](#background)

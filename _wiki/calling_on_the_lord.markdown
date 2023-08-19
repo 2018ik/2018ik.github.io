@@ -17,7 +17,6 @@ permalink: /calling_on_the_lord/
   - [Paul](#paul)
 - [The Recovery](#the-recovery)
 
-
 ## Background
 
 Calling on the Lord means to call out, to cry out or to invoke a person. Men began to call upon the name of Jehovah in the time of Enosh (Gen 4:26). 

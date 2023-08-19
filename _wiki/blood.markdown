@@ -4,6 +4,7 @@ title: Blood
 permalink: /blood/
 ---
 - [Background](#background)
+
 ## Background
 
 

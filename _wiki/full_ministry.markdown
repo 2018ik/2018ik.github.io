@@ -4,7 +4,10 @@ title: Full Ministry of Christ
 permalink: /full_ministry/
 ---
 - [Background](#background)
-
+- [Three Stages](#three-stages)
+  - [Incarnation](#incarnation)
+  - [Inclusion](#inclusion)
+  - [Intensification](#intensification)
 
 ## Background
 
