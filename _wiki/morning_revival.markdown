@@ -17,10 +17,23 @@ permalink: /morning_revival/
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
 - [How to Practice](#how-to-practice)
   - [Confession](#confession)
+  - [In the Face](#in-the-face)
+  - [Tips](#tips)
+    - [Rise up early and go to bed early](#rise-up-early-and-go-to-bed-early)
+    - [Love the Lord more than the bed](#love-the-lord-more-than-the-bed)
+    - [Use Your Voice](#use-your-voice)
+    - [Less Doing](#less-doing)
+    - [Don't Set High Standards](#dont-set-high-standards)
+    - [Diligent Habit](#diligent-habit)
+    - [Redeem the Time](#redeem-the-time)
+    - [Remind One Another](#remind-one-another)
+    - [Not Ritualistic](#not-ritualistic)
 - [Benefits](#benefits)
 - [Sweetness](#sweetness)
 
 ## Background
+
+Morning revival is a time in the morning to be with the Lord and contact the Lord.
 
 We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
@@ -91,11 +104,61 @@ Entering into the presence of the Lord, and coming face-to-face with Him should 
 
 Each morning, we should confess every sin which the Lord shines on.
 
+### In the Face
+
+We need personal, intimate, and direct contact with the Lord in order to see the Lord's face. The Lord is the one who shines in our hearts to illuminate the knowledge of the glory of God in the face of Jesus Christ (2 Cor. 4:6). The Lord is shining and ready all the time, we can come and turn our hearts to the Lord that all the veils may be taken away, that we can behold the face of Jesus Christ.
+
+### Tips
+
+#### Rise up early and go to bed early
+
+This is very practical, it is difficult to have morning revival if we don't wake up in the morning.
+
+#### Love the Lord more than the bed
+
+We need to get out bed immediately - don't delay. Right after, speak to the Lord, call on His name and tell Him you love Him.
+
+#### Use Your Voice
+
+>"Oh Jehovah, in the morning you will hear my voice!"
+
+\- Psa. 5:3
+
+Our morning time should not just be in our thoughts; it is not a mental exercise. We need to open our mouths audibly, whether by whisper or a ringing shout. The Lord will *hear* the psalmist's voice.
+
+#### Less Doing
+
+The first step is to contact the Lord; don't start doing your morning routine, or by telling the Lord the various things you are doing to accomplish today. Begin by coming to Him and enjoy His presence.
+
+#### Don't Set High Standards
+
+Take it little by little; start with one verse, 5 minutes, build it up over time.
+
+#### Diligent Habit
+
+This all needs to be done consistently. We never graduate from morning revival. 
+
+#### Redeem the Time
+
+Although we all need to start somewhere, we also need to spend adequate time.
+
+#### Remind One Another
+
+>"Therefore I will be ready always to remind you concerning these things, even though you know them"
+
+\- 2 Pet. 1:12
+
+Rely on your companions to remind you each morning.
+
+#### Not Ritualistic
+
+We should fellowship with the Lord, even regarding our waking up early. This should not be something which we do solely out of our natural self. We need the Lord to open our ear in the morning; we need learn to take the Lord as our full supply.
+
 ## Benefits
 
-As we come to the Lord morning by morning, something fills us to the brim. We also have a surplus (Exo. 16:??), and this surplus is bread to God. 
+As we come to the Lord morning by morning, something fills us to the brim. We also have a surplus (Exo. 16:??), and this surplus is bread to God. This supplies us throughout the day.
 
-As we behold the Lord each morning, we are being transformed (2 Cor. 3:18).
+As we behold the Lord each morning, we receive the shining in our hearts, and the glory of God in the face of Jesus Christ (2 Cor. 4:6). As a result, we are being transformed (2 Cor. 3:18).
 
 ## Sweetness
 
