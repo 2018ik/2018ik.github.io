@@ -8,6 +8,7 @@ permalink: /faith/
 - [Believing](#believing)
 - [Abraham](#abraham)
 - [Receiving](#receiving)
+- [God is Faithful](#god-is-faithful)
 
 ## Background
 
@@ -49,6 +50,8 @@ We receive the Spirit into our spirit through faith (Gal. 3:2, 5). After we rece
 
 By hearing the Word, there is a welling up appreciation. Then we call on Him, then we receive Him. And now, we've accepted Him through this receiving. By receiving God, we are then able to minister to others, and infuse something of the Word into others.
 
+## God is Faithful
 
+When good things happen to us, it is easy to declare "God is faithful." But what about when bad things happen? Is He still faithful to us? Actually God is not faithful in providing us with material things. He is faithful to take away our idols. He is faithful to lead us into His economy to eat, drink, breathe and to enjoy Him.
 
 

@@ -54,7 +54,6 @@ No other belief besides the unique faith was allowed by the apostles (Gal. 1:7-9
 
 We should be governed by love in our teaching and meeting. This is the only way to abide by the apostles' teaching.
 
-
 ## Words of Warning
 
 - Never forget about the apostles' teaching

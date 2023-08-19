@@ -7,6 +7,9 @@ permalink: /light/
 - [Contrast to Darkness](#contrast-to-darkness)
 - [Contrast to Introspection](#contrast-to-introspection)
 - [Agreement](#agreement)
+- [Blindness](#blindness)
+  - [Elisha](#elisha)
+  - [Saul of Tarsus](#saul-of-tarsus)
 
 ## Background
 
@@ -23,3 +26,14 @@ God's presence which issues in the light will spontaneously reveal the hidden th
 ## Agreement
 
 We must agree with what is exposed by the light. By confessing, we agree with and acknowledge what we see in God as light.
+
+## Blindness
+
+The absent of light means we are blind.
+
+### Elisha
+
+Elisha struck the Syrians with blindness. The New Testament ministry to deal with the enemy is to make them blind, open their eyes, and give them a feast.
+
+### Saul of Tarsus
+

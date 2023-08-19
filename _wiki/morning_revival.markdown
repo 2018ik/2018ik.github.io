@@ -16,6 +16,7 @@ permalink: /morning_revival/
   - [George Muller](#george-muller)
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
 - [How to Practice](#how-to-practice)
+  - [Confession](#confession)
 - [Benefits](#benefits)
 - [Sweetness](#sweetness)
 
@@ -85,6 +86,10 @@ Believe it or not, but in order to be useful in God's hands, morning revival is 
 ## How to Practice
 
 Entering into the presence of the Lord, and coming face-to-face with Him should be the primary objective of our morning revival. 
+
+### Confession
+
+Each morning, we should confess every sin which the Lord shines on.
 
 ## Benefits
 
