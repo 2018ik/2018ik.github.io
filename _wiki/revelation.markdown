@@ -6,4 +6,4 @@ permalink: /revelation/
 - [Background](#background)
 
 ## Background
-Revelation is God shining on the facts of the Bible.s
+Revelation is God shining on the facts of the Bible.

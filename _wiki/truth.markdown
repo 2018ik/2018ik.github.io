@@ -12,7 +12,7 @@ permalink: /truth/
 
 ## Background
 
-Truth comes first, and experience follows. For example, we must be clear regarding Christ's redemption to properly apply the blood. We enter into a deeper experience of life by means of the truth. Life is actually the content of the truth.
+Truth is the divine light shined on the facts, and televising a vision of those facts into our being. Truth comes first, and experience follows. For example, we must be clear regarding Christ's redemption to properly apply the blood. We enter into a deeper experience of life by means of the truth. Life is actually the content of the truth.
 
 The truth is also required to bring the saints into their organic function. We need to eat the solid food in order to bring others to this stage. 
 
@@ -23,3 +23,7 @@ The truth is also required to bring the saints into their organic function. We n
 \- Eph. 3:18
 
 The truth was actually designed be impossible to understand for a single individual. We must apprehend *with all the saints*; this is a corporate matter.
+
+## Prayer
+
+Truth comes from prayer. We should pray the truth into our lives. We should pray over all the truths we have heard and spoken, so they do not remain merely in our minds.
