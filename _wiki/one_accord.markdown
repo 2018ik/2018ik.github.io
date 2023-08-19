@@ -13,7 +13,7 @@ permalink: /one_accord/
 
 Some greek translation (homothumadon) - the inward parts (mind, emotion, will) are all the same. This is not an outward oneness, i.e. we are all doing the same thing, but an inward oneness. 
 
-In the book of Acts, the 120 were of one accord - thinking the same thing, same purposes, same will. When there is this kind of one accord, the blessing comes. They prayed for 10 days, and the Spirit poured out upon the body of Christ, which brought forth the churches.
+In the book of Acts, the 120 were of one accord - thinking the same thing, same purposes, same will. When there is this kind of one accord, the blessing comes. They prayed for 10 days, and the Spirit poured out upon the Body of Christ, which brought forth the churches.
 
 If we don't have the one accord, we can have all the good services and group meetings, but it is empty and without reality. 
 

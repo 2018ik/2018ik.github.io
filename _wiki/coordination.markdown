@@ -15,7 +15,7 @@ permalink: /coordination/
 
 Coordination is the greatest need in the Lord's move on the Earth. Without coordination there is no move. 
 
-The Body of Christ is not an organization. In an organization there is hierarchy to ensure things are carried out in a good way. In the body it is not like this; it is in the way of life. We are all joined to the Lord as the head (Eph 4:12). 
+The Body of Christ is not an organization. In an organization there is hierarchy to ensure things are carried out in a good way. In the Body it is not like this; it is in the way of life. We are all joined to the Lord as the head (Eph 4:12). 
 
 The Lord is not only the corporate head, but also the individual head (Eph 4:15). 
 

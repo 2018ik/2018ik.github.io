@@ -16,7 +16,7 @@ Romans 12:1 refers to presenting our bodies as a living sacrifice. This implies 
 
 While Jesus Christ is always the same (Heb. 13:8), our enjoyment of Him sometimes depends on our physical condition. Chronic illnesses, pain and physical disabilities can actually affect the quality of our experience of the Lord, to say nothing of our longevity. Therefore we should have the burden to take proper care of our physical bodies. This should be in response to the Lord's compassions to us, and is altogether reasonable and rational (Rom. 12:1).
 
-To consecrate isn't a matter of just giving your whole heart to the Lord, it should also follow that we give our whole body to the Lord.
+To consecrate isn't a matter of just giving your whole heart to the Lord, it should also follow that we give our whole Body to the Lord.
 
 Our caring for our health does not mean we won't have health problems or we won't live long, but it is part of our consecration to the Lord, as a loving bestowal of our being to Him that He can do whatever He would like and we would be able to cooperate as much as possible.
 

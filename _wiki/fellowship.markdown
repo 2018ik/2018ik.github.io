@@ -25,7 +25,7 @@ Fellowship is the fow of the eternal life; this life is constantly in motion, li
 
 ### Example of Blood
 
-If the flow of blood stops, it clots. This can cause many issues (strokes, pulmonary embolism, etc.). We have to keep the blood flowing for our body to function properly. The lack of flow results in detachment, death and darkness.
+If the flow of blood stops, it clots. This can cause many issues (strokes, pulmonary embolism, etc.). We have to keep the blood flowing for our Body to function properly. The lack of flow results in detachment, death and darkness.
 
 ### Example of Electricity
 
