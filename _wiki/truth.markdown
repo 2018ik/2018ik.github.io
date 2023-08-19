@@ -5,6 +5,7 @@ permalink: /truth/
 ---
 - [Background](#background)
 - [Corporate Aspect](#corporate-aspect)
+- [Prayer](#prayer)
 
 >"Buy truth and do not sell it"
 
@@ -12,7 +13,9 @@ permalink: /truth/
 
 ## Background
 
-Truth is the divine light shined on the facts, and televising a vision of those facts into our being. Truth comes first, and experience follows. For example, we must be clear regarding Christ's redemption to properly apply the blood. We enter into a deeper experience of life by means of the truth. Life is actually the content of the truth.
+Truth is the divine light shined on the facts, and televising a vision of those facts into our being. Truth comes first, and experience follows. For example, we must be clear regarding Christ's redemption to properly apply the blood. We enter into a deeper experience of life by means of the truth. 
+
+Life is actually the content of the truth. This means if we don't have the truth, we don't have the life. We can't be a "life" person who speaks spiritual things without the truth.
 
 The truth is also required to bring the saints into their organic function. We need to eat the solid food in order to bring others to this stage. 
 
