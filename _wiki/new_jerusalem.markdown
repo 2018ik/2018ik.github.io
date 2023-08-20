@@ -7,6 +7,7 @@ permalink: /new_jerusalem/
 - [History](#history)
   - [Description](#description)
 - [Glorification](#glorification)
+- [Central Line](#central-line)
 - [Application](#application)
 
 >"After my study of the Bible for the past sixty-nine years, what have I seen? I would say that I have seen the New Jerusalem. This is my vision, this is my revelation, and this is my ministry."
@@ -38,6 +39,12 @@ The New Jerusalem has one throne with one flow of life, one tree of life, and on
 ## Glorification
 
 The New Jerusalem is for the glorification of the Triune God as the oneness of the believers built into the Triune God (John 17). John 17 reveals the divine incorporation of God and man, and that the firstborn Son and the Sons of God might be glorified. John likely wrote his gospel after he had seen the vision. The fulfillment of this prayer is consummated in the New Jerusalem.
+
+## Central Line
+
+God's eternal intention for us to become the New Jerusalem is seen in Genesis 1-2 as the organic blueprint and in Revelation 21-22 as the finished product, the organic masterpiece of the Triune God. 
+
+First, we can establish that man is a vessel created according to God's plan that we may contain and express Him. The tree of life in Genesis represents Christ Himself as life for us to eat; this tree extends also to Revelation. Likewise we see a river of water of life flowing to reach the four directions of the earth; in this flow are three precious materials for God's building. The goal is the producing of a couple, a corporate great God-man.
 
 ## Application
 

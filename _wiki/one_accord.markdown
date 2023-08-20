@@ -4,6 +4,7 @@ title: One Accord
 permalink: /one_accord/
 ---
 - [Background](#background)
+- [Vision](#vision)
 - [Oneness vs One Accord](#oneness-vs-one-accord)
 - [Dealing with others](#dealing-with-others)
 - [Tabernacle](#tabernacle)
@@ -11,13 +12,16 @@ permalink: /one_accord/
 
 ## Background
 
-Some greek translation (homothumadon) - the inward parts (mind, emotion, will) are all the same. This is not an outward oneness, i.e. we are all doing the same thing, but an inward oneness. 
+The one accord (homothumadon) implies the inward parts (mind, emotion, will) are all the same. This is not an outward oneness, i.e. we are all doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
 
 In the book of Acts, the 120 were of one accord - thinking the same thing, same purposes, same will. When there is this kind of one accord, the blessing comes. They prayed for 10 days, and the Spirit poured out upon the Body of Christ, which brought forth the churches.
 
-If we don't have the one accord, we can have all the good services and group meetings, but it is empty and without reality. 
+The one accord is what brings us into the proper coordination. We will have an invincible morale, and we will march over all obstacles (Rom. 15:5). If we don't have the one accord, we can have all the good services and group meetings, but it is empty and without reality. 
 
-The one accord is what brings us into the proper coordination.
+
+## Vision
+
+Since we are all governed by one heavenly vision, we only have one teaching, one practice, one thinking to produce one Body as the testimony to the Lord. Seeing this vision is therefore the basis for our one accord.
 
 ## Oneness vs One Accord
 
