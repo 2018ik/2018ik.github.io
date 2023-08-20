@@ -14,6 +14,7 @@ permalink: /paul/
 
 ## Background
 
+In the 14 epistles of Paul we see the three words: ME, JESUS, VESSEL.
 
 ## History
 ### Conversion
@@ -44,7 +45,7 @@ We need to open our eyes to progress to see more day by day (Acts 26:18).
 
 The Lord's Recovery is not about following a particular person - it is about following the heavenly vision.
 
-The king says afterwards that much learning must have been driving Paul insane; regardless, Paul then tries to preach the gospel to the king. Then Agrippa ragequit and left the scene, stating that Paul had not done anything wrong.
+The king says afterwards that much learning must have been driving Paul insane; regardless, Paul then tries to preach the gospel to the king. Then Agrippa rage-quit and left the scene, stating that Paul had not done anything wrong.
 
 ## Governed by the Spirit
 

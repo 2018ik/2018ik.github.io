@@ -11,6 +11,8 @@ permalink: /table/
 - [Table Meeting](#table-meeting)
   - [Lord's Supper](#lords-supper)
 - [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
+  - [Testimony #2](#testimony-2)
 
 >"So then let us keep the feast, not with old leaven, neither with the leaven of malice and evil, but with the unleavened bread of sincerity and truth."
 
@@ -70,11 +72,15 @@ The Lord's supper is actually different from the Lord's table (1 Cor. 11:20). Th
 
 ## Testimonies
 
+### Testimony \#1
+
 > I've always took the Lord superficially at the table, but I was convicted by the Lord for the many substitutes I had for Him. For example, my work and my negative feelings toward my wife. Only after dealing with these things was I able to partake and enter into the enjoyment. 
 > 
 > You and You alone should be unique constituent of my being. Lord I repent for feeding on so many other things, so many substitutes for Christ. Grant me to be poor in spirit, grant me to be unloaded of any anxieties in my heart that I can be filled with you exclusively that you can be one constituent of my being. 
 > 
 > Since the bread signifies Your one mystical universal body, I must live in peace with every member of the body of Christ and enjoy you as the peace offering in relation to every member of body of Christ. Help me to see the treasure in earthen vessels - I don't want to look at the clay element which resides in us with my physical eyes; enlighten my heart to see the priceless treasure in every brother and sister. 
+
+### Testimony \#2
 
 >A number of years ago a well meaning saint purchased two tickets for my family to see the play "Christmas Carol" one saturday afternoon. I was trying not to be late since I didn't want a significant price paid by this dear saint to go to waste and I was getting a little nervous because there was considerable traffic that I didn't forsee. But the Lord seemed to be saying in a very living way: "Don't you see there's a feast that I've prepared by paying the highest price that is My precious blood?"
 >
