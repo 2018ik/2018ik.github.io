@@ -1,48 +1,54 @@
+<head>
+  <!-- Other meta tags, title, styles, etc. -->
+  <script src="../js/sort-script.js"></script>
+</head>
+
 <style>
-  ul {
-    list-style: none;
-    padding: 0;
+  /* Table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td a { 
+    display: block;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
   }
 
-  /* Style the nested list */
-  ul ul {
-    margin: 0;
-    padding-left: 0;
+  th {
+    cursor: pointer;
   }
 
-  /* Style the nested list items */
-  ul ul li {
-    margin: 5px 0;
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    cursor: pointer; /* Change cursor to indicate interactivity */
-    transition: background-color 0.2s;
-  }
-
-  /* Style the nested list items on hover */
-  ul ul li:hover {
+  /* Highlight header on hover */
+  th:hover {
     background-color: #f5f5f5;
   }
 
-  /* Style the nested list item links */
-  ul ul li a {
-    text-decoration: none;
-    color: #333;
-    display: block; /* Display as block to make the entire list item clickable */
+  /* Alternating row colors */
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
   }
 </style>
 
-
-
-
-<ul>
-    <li>
-        <ul>
-        {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
-        {% for page in pages %}
-            <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-        {% endfor %}
-        </ul>
-    </li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Word Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+    {% for page in pages %}
+      {% assign content = page.content | markdownify | strip_html | escape_once %}
+      {% assign word_count = content | replace: "\n", ' ' | split: ' ' | size %}
+      <tr>
+          <td><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></td>
+          <td>{{ word_count }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
