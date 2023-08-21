@@ -6,7 +6,6 @@ layout: basev2
   #search-input {
     padding: 10px;
     border: 1px solid #ccc;
-    border-radius: 5px;
     font-size: 16px;
     width: 90%;
     box-shadow: none;
@@ -35,36 +34,34 @@ layout: basev2
     background-color: #f5f5f5;
     cursor: not-allowed;
   }
-  
-  ul {
+  /* Reset default list styles */
+  ul, ol {
     list-style: none;
     padding: 0;
-  }
-
-  /* Style the nested list */
-  ul ul {
     margin: 0;
-    padding-left: 0;
   }
 
-  /* Style the nested list items */
-  ul ul li {
-    margin: 5px 0;
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+  /* Style for top-level list items */
+  ul > li {
+    font-size: 16px;
+    width: 90%;
   }
 
-  /* Style the nested list item links */
-  ul ul li a {
-    text-decoration: none;
+  /* Style for links in list items */
+  ul > li > a {
+    display: block;
+    padding: 10px;
+    background-color: #f4f4f4;
     color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
   }
 
-  /* Style the nested list item links on hover */
-  ul ul li a:hover {
-    color: #007bff;
+  /* Style for link hover */
+  ul > li > a:hover {
+    background-color: #fbfbfb;
   }
+
 </style>
 
 <!-- Html Elements for Search -->
