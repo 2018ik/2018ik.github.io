@@ -4,15 +4,16 @@ title: Kingdom
 permalink: /kingdom/
 ---
 
+- [Background](#background)
+- [Matthew](#matthew)
+- [Kingdom Rule](#kingdom-rule)
+  
 >"Seek first His Kingdom and His righteousness, and all these things will bea dded to you"
 
 \- Matt. 6:33
 
 ## Background
 
-- [Background](#background)
-- [Matthew](#matthew)
-- [Kingdom Rule](#kingdom-rule)
 
 The kingdom of God is a realm in which God can exercise his authority. The kingdom life is not just something in the future. We can enter into the kingdom life today, and the prerequisite is our growth in life.
 

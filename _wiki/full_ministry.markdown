@@ -13,16 +13,39 @@ permalink: /full_ministry/
 
 ## Three Stages
 
+These stages are linear in time with regards to their occurrences and revelations. However, in terms of experience they are cyclical.
+
 ### Incarnation
 
-Incarnation is for Christ to bring god into man, to express God in humanity, and to accomplish His judicial redemption.
+Incarnation is for: 
+
+1. Bringing the infinite God into finite man
+   1. To bring God into man is basic, but to bring the infinite into finite is much more mysterious.
+2. To unite, mingle and incorporate the Triune God with the tripartite man
+   1. Uniting relates to life, mingling relates to nature, and incorporation relates to spirit. 
+3. To express in His humanity the bountiful God in His rich attributes through His aromatic virtues
+   1. When something is aromatic, we can just sense how pleasant and delightful it is but it's not swallowing us up.
+4. To accomplish His all-inclusive judicial redemption.
 
 ### Inclusion
 
+Inclusion refers to the Spirit of God, economically, as a result of Christ's resurrection to include divinity, the Lord's human living, the power of His death and resurrection.
+
 Romans 5:10 says that we need to be saved much more than just our judicial salvation. Furthermore, Christ as been begotten as God's firstborn Son, to become the life-giving Spirit, and to generate the believers for His Body.
+
+Inclusion is for:
+1. To be begotten as God's firstborn Son (Rom. 8:29)
+2. To become the life-giving Spirit (1 Cor 15:45)
+   1. The Lord is on the throne, but he is also in us as the Spirit. We believe all that the Bible says without making a system out of it.
+3. To regenerate the believers for His Body
 
 ### Intensification
 
-This for Christ to intensify His organic salvation, to produce the overcomers, and to consummate the New Jerusalem.
+This is an intensification of inclusion. In inclusion, we have the Spirit of grace; now we have 7 times the measure of grace (and love, peace, joy, etc.). 
+
+This for Christ to:
+1. Intensify His organic salvation
+2. Produce the overcomers
+3. Consummate the New Jerusalem.
 
 We are currently living in the stage of intensification. The Lord has already been intensified.
