@@ -19,6 +19,8 @@ Life is actually the content of the truth. This means if we don't have the truth
 
 The truth is also required to bring the saints into their organic function. We need to eat the solid food in order to bring others to this stage. 
 
+
+
 ## Corporate Aspect
 
 >"May be full of strength to apprehend with all the saints what the breadth and length and height and depth are"

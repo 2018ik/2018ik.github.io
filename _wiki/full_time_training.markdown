@@ -5,6 +5,9 @@ permalink: /ftta/
 ---
 - [Background](#background)
 - [Unique Atmosphere](#unique-atmosphere)
+- [Classes](#classes)
+  - [The Full Ministry of Christ](#the-full-ministry-of-christ)
+  - [The Triune God and His Word](#the-triune-god-and-his-word)
 
 >"Buy truth and do not sell it"
 
@@ -23,3 +26,13 @@ The study of the truth in the FTTA constitutes the trainees with a healthy depos
 The FTTA has a unique atmosphere with an environment most conducive to studying the truth. It is a separated and sanctified place, which takes the way of the proper teaching. There is also a community of consecrated ones (your peers) to pursue with. 
 
 This is an extended period of time without social media bombardment, endless scrolling and content consumption, and where one can learn to come to the mountain to behold God to eat and to drink.
+
+## Classes
+
+### The Full Ministry of Christ
+
+### The Triune God and His Word
+
+This is the foundational class of the full-time training. Much like how eating, drinking and breathing are foundational to physically living, this class is foundational and will impact every other class we have in the training.
+
+If we don't have a good grasp of the revelation concerning the Triune God, our concept regarding the New Jerusalem will be warped. Likewise, if we don't have a good basis in the Word, it's impossible for us to grasp the revelation it contains.
