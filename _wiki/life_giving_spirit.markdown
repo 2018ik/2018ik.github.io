@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: Spirit
-permalink: /spirit/
+title: Life-giving Spirit
+permalink: /life_giving_spirit/
 ---
 - [Background](#background)
 - [All-Inclusive](#all-inclusive)

@@ -7,7 +7,7 @@ permalink: /body_of_christ/
 
 ## Background
 
-Paul is the only writer in the new Testament to use the term "Body of Christ." Those who see that they are members of the Body treasure the Body and honor the other members.
+The Body of Christ is the church, the house of God, the kingdom of God, and the bride of Christ, consisting of His chosen and redeemed people who are constituted into one entity. Paul is the only writer in the new Testament to use the term "Body of Christ." Those who see that they are members of the Body treasure the Body and honor the other members.
 
 The Body of Christ must be governing principle for the church, the ministry, and the work. These three things are distinct manifestations of the Body - for the expression, function in service and increase respectively. The Body of Christ is obtained through a cycle involving minsters working to build up churches (see: ministry).
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: Flock
-permalink: /flock/
+title: Revival
+permalink: /revival/
 ---
 - [Background](#background)
 
