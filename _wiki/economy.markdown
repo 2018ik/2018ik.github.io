@@ -5,6 +5,7 @@ permalink: /economy/
 ---
 - [Background](#background)
 - [New Testament Economy](#new-testament-economy)
+- [Eternal economy](#eternal-economy)
 
 ## Background
 
@@ -12,4 +13,8 @@ God's economy is to dispense the Triune God into His chosen and redeemed people 
 
 ## New Testament Economy
 
-Processed, dispensing, expression
+The content of God's entire New Testament economy in His complete salvation is Christ as the Son of Man cherishing us and as the Son of God nourishing us.
+
+## Eternal economy 
+
+God becoming man that man might become God in life and in nature but not in the Godhead is the essence of the entire Bible, the "diamond in the box" of the bible, the eternal economy of God.
