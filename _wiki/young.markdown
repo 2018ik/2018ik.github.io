@@ -4,6 +4,7 @@ title: Young People
 permalink: /young/
 ---
 - [Background](#background)
+- [Burden](#burden)
 
 ## Background
 
@@ -14,3 +15,7 @@ When we exercise our spirit, we become like a little child (Luke 18:17), which a
 Whenever God calls us, he always has something new to do. He has a desire to turn the age which requires something revolutionary. This is why we need a new start with the Lord every day - this it to be young in our spirit.
 
 The Lord doesn't need spiritual giants, he needs little captives. We need to pray for the Lord to conquer us and to never let us win, and to defeat us all the time. Ironically in God's eternal economy, our defeat means we are winning.
+
+## Burden
+
+Our burden for the young people should be for them to love the Lord and enjoy the Lord and enjoy the Lord and love the Lord.
