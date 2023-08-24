@@ -6,6 +6,7 @@ permalink: /church/
 - [Background](#background)
 - [Universal](#universal)
 - [Local](#local)
+  - [History](#history)
   - [Three Elements](#three-elements)
     - [Ground of Locality](#ground-of-locality)
     - [Oneness of the Body](#oneness-of-the-body)
@@ -25,7 +26,9 @@ In Matthew 16:18, when He says He will build the Church upon this rock, it refer
 
 ## Local
 
-A local Church is the Body expressed locally in a particular city - Antioch (Acts 13:1).
+A local church is the Body expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; this is the practical way in which the Body of Christ can be expressed.
+
+### History
 
 Jerusalem was the center of the Jewish religion, and the church there was primarily composed of Jews. On the other hand, Antioch was the center of the gentile world. Antioch was chosen by the Lord to carry out this new move to the gentiles. 
 

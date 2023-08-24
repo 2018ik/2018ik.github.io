@@ -4,6 +4,7 @@ title: Body of Christ
 permalink: /body_of_christ/
 ---
 - [Background](#background)
+- [Christ](#christ)
 
 ## Background
 
@@ -12,3 +13,7 @@ The Body of Christ is the church, the house of God, the kingdom of God, and the 
 The Body of Christ must be governing principle for the church, the ministry, and the work. These three things are distinct manifestations of the Body - for the expression, function in service and increase respectively. The Body of Christ is obtained through a cycle involving minsters working to build up churches (see: ministry).
 
 Saved ones are actually added to the Lord (Acts 11:24). This is to be added to the Body of Christ. This is then followed by the local church, where the believers are brought into Antioch (Acts 11:26). This shows that the local churches follows, and is the manifestation of the Body of Christ. Likewise, we are also baptized into one Body (1 Cor. 12:13).
+
+## Christ
+
+God only cares for Christ, and we must be in Christ to be the Body of Christ. This involves denying our self, picking up the cross, and following Him.
