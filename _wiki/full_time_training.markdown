@@ -8,6 +8,7 @@ permalink: /ftta/
 - [Classes](#classes)
   - [The Full Ministry of Christ](#the-full-ministry-of-christ)
   - [The Triune God and His Word](#the-triune-god-and-his-word)
+  - [Spirit](#spirit)
 - [Regulations](#regulations)
   - [Church Life](#church-life)
   - [Prayer Meeting](#prayer-meeting)
@@ -42,6 +43,10 @@ This is the foundational class of the full-time training. Much like how eating, 
 
 If we don't have a good basis in the Word, it's impossible for us to grasp the revelation it contains.
 Likewise, of we don't have a good grasp of the revelation concerning the Triune God, our concept regarding the New Jerusalem will be warped.
+
+### Spirit
+
+If you went to a seminary or Bible school, there would be no class devoted to the Spirit from the perspective we have here, versus something like pneumatology. The Spirit is the reaching between God and man, and we need to know the Spirit in our spirit to experience the Spirit as it is in the spirit that we have all the elements of divinity and the uplifted humanity of Jesus. 
 
 ## Regulations
 
