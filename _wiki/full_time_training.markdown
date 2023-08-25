@@ -9,6 +9,7 @@ permalink: /ftta/
   - [The Full Ministry of Christ](#the-full-ministry-of-christ)
   - [The Triune God and His Word](#the-triune-god-and-his-word)
   - [Spirit](#spirit)
+  - [Experience of Christ as Life](#experience-of-christ-as-life)
 - [Regulations](#regulations)
   - [Church Life](#church-life)
   - [Prayer Meeting](#prayer-meeting)
@@ -47,6 +48,16 @@ Likewise, of we don't have a good grasp of the revelation concerning the Triune 
 ### Spirit
 
 If you went to a seminary or Bible school, there would be no class devoted to the Spirit from the perspective we have here, versus something like pneumatology. The Spirit is the reaching between God and man, and we need to know the Spirit in our spirit to experience the Spirit as it is in the spirit that we have all the elements of divinity and the uplifted humanity of Jesus. 
+
+### Experience of Christ as Life
+
+This is perhaps the most fundamental and basic class in the FTTA. However, often the most superficially basic things actually go very deep; after all, Christ Himself is very deep and bottomless.
+
+While it's important to learn the basic matters such as our human Spirit is the divine resonance, this basic matter also opens into something much more than just that.
+
+Suppose you are a basketball player, a game which requires basic skills. Once you know the basics, you can play the game. In this class, it's not that you learn the basics to play the game - when you learn the basics you *are* playing the game. By learning about how to experience Christ as life, you actually experience Christ as life.
+
+We have the books *The Experience of Life* and *The Experience of Christ*, but these may imply that were are experiencing the life of Christ. Instead we have the experience of Christ as life. In this class, we experience the person directly, as the high priests did in the Holy of Holies. And as we go into His person directly, the experience we have supersedes and is higher than when are looking for food, light, life or a particular element. Now we want Him, and if we have Him, we have all the contents included in Him.
 
 ## Regulations
 
