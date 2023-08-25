@@ -28,9 +28,9 @@ Christ is the reality and the light (John 1:4; 6), however it is through the Spi
 
 ### The Book Reveals the Person
 
-In John 5 we see that the pharisees search the scriptures and are unable find the Son in it. Then in John 6, we see that the words which the Lord speaks are Spirit and life. However, the word at this point is merely the Old Testament; yet, it is Spirit and life, and reveals God. 
+In John 5 we see that the Pharisees search the scriptures and are unable to find the Son in it. Then in John 6, we see that the words which the Lord speaks are Spirit and life. However, the word at this point is merely the Old Testament; yet, it is Spirit and life, and reveals God. 
 
-If we approach the scriptures in the right way, that is with an exercised spirit through the Spirit of reality, we get a real living person. If we approach the scriptures in the wrong way, we separate the person from the book we lose the person and we abuse the book. 
+If we approach the scriptures in the right way, that is with an exercised spirit through the Spirit of reality, we get a real living person. If we approach the scriptures in the wrong way, we separate the person from the book. We lose the person and we abuse the book. 
 
 ### Not About Knowing "Things"
 

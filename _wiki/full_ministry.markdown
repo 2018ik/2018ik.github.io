@@ -17,27 +17,27 @@ These stages are linear in time with regards to their occurrences and revelation
 
 ### Incarnation
 
-Incarnation is for: 
+Incarnation is to: 
 
-1. Bringing the infinite God into finite man
+1. Bring the infinite God into finite man
    1. To bring God into man is basic, but to bring the infinite into finite is much more mysterious.
-2. To unite, mingle and incorporate the Triune God with the tripartite man
+2. Unite, mingle and incorporate the Triune God with the tripartite man
    1. Uniting relates to life, mingling relates to nature, and incorporation relates to spirit. 
-3. To express in His humanity the bountiful God in His rich attributes through His aromatic virtues
+3. Express in His humanity the bountiful God in His rich attributes through His aromatic virtues
    1. When something is aromatic, we can just sense how pleasant and delightful it is but it's not swallowing us up.
-4. To accomplish His all-inclusive judicial redemption.
+4. Accomplish His all-inclusive judicial redemption.
 
 ### Inclusion
 
 Inclusion refers to the Spirit of God, economically, as a result of Christ's resurrection to include divinity, the Lord's human living, the power of His death and resurrection.
 
-Romans 5:10 says that we need to be saved much more than just our judicial salvation. Furthermore, Christ as been begotten as God's firstborn Son, to become the life-giving Spirit, and to generate the believers for His Body.
+Romans 5:10 says that we need to be saved much more than just our judicial salvation. Furthermore, Christ as been begotten as God's firstborn Son, to become the life-giving Spirit, and to regenerate the believers for His Body.
 
-Inclusion is for:
-1. To be begotten as God's firstborn Son (Rom. 8:29)
-2. To become the life-giving Spirit (1 Cor 15:45)
+Inclusion is for Christ to:
+1. Be begotten as God's firstborn Son (Rom. 8:29)
+2. Become the life-giving Spirit (1 Cor 15:45)
    1. The Lord is on the throne, but he is also in us as the Spirit. We believe all that the Bible says without making a system out of it.
-3. To regenerate the believers for His Body
+3. Regenerate the believers for His Body
 
 ### Intensification
 

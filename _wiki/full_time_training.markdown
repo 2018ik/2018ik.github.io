@@ -40,7 +40,8 @@ This is an extended period of time without social media bombardment, endless scr
 
 This is the foundational class of the full-time training. Much like how eating, drinking and breathing are foundational to physically living, this class is foundational and will impact every other class we have in the training.
 
-If we don't have a good grasp of the revelation concerning the Triune God, our concept regarding the New Jerusalem will be warped. Likewise, if we don't have a good basis in the Word, it's impossible for us to grasp the revelation it contains.
+If we don't have a good basis in the Word, it's impossible for us to grasp the revelation it contains.
+Likewise, of we don't have a good grasp of the revelation concerning the Triune God, our concept regarding the New Jerusalem will be warped.
 
 ## Regulations
 
