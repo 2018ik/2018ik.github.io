@@ -10,7 +10,9 @@ permalink: /ftta/
   - [The Triune God and His Word](#the-triune-god-and-his-word)
   - [Spirit](#spirit)
   - [Experience of Christ as Life](#experience-of-christ-as-life)
-- [Regulations](#regulations)
+- [Gospel Team](#gospel-team)
+  - [Team-only Fellowship](#team-only-fellowship)
+- [Meetings](#meetings)
   - [Church Life](#church-life)
   - [Prayer Meeting](#prayer-meeting)
   - [Group Meeting](#group-meeting)
@@ -59,7 +61,15 @@ Suppose you are a basketball player, a game which requires basic skills. Once yo
 
 We have the books *The Experience of Life* and *The Experience of Christ*, but these may imply that were are experiencing the life of Christ. Instead we have the experience of Christ as life. In this class, we experience the person directly, as the high priests did in the Holy of Holies. And as we go into His person directly, the experience we have supersedes and is higher than when are looking for food, light, life or a particular element. Now we want Him, and if we have Him, we have all the contents included in Him.
 
-## Regulations
+## Gospel Team
+
+### Team-only Fellowship
+
+The goal of team-only fellowship is to enter into the practical experience of a vital group. Recall a vital group's nature is spirit; we must exercise our spirit to enjoy and contact the Lord. We're developing a habit of learning to open and fellowship with one another during this time. Don't withhold your portion of Christ.
+
+We also need to learn how to receive; if others open and there is not the proper response, it will discourage opening. Create the atmosphere where anyone can open and contribute their portion of Christ.
+
+## Meetings
 
 ### Church Life
 
