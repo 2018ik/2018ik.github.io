@@ -12,6 +12,18 @@ permalink: /spirit/
     - [John 7](#john-7)
   - [Seven Spirits](#seven-spirits)
 - [Essence vs Economy](#essence-vs-economy)
+- [Titles](#titles)
+  - [Spirit of God](#spirit-of-god)
+  - [Lord Spirit](#lord-spirit)
+  - [Spirit of Christ](#spirit-of-christ)
+  - [Spirit of Jesus](#spirit-of-jesus)
+  - [Spirit of Jesus Christ](#spirit-of-jesus-christ)
+  - [Spirit of Reality](#spirit-of-reality)
+  - [Spirit of Life](#spirit-of-life)
+  - [Spirit of Power](#spirit-of-power)
+  - [Compound Spirit](#compound-spirit)
+  - [Seven Spirits](#seven-spirits-1)
+  - [The Spirit](#the-spirit)
 
 ## Background
 
@@ -74,4 +86,47 @@ The church continued to degrade, and could not fulfill God's eternal economy. Th
 When Christ became a man, He changed His form to become flesh (John 1:14). This is economical; essentially there is never change in the Divine Trinity. But by becoming a man, economically there was a change in form. When He resurrected from the dead he did not cast off His humanity it became a part of Him; His humanity had now interwoven into the Spirit. 
 
 Economically, the Word became flesh, and then the last Adam became the life-giving Spirit.
+
+## Titles
+
+The Holy Spirit is referred to by many titles, each denoting a specific aspect of the Spirit.
+
+### Spirit of God
+
+This is the Spirit of God from the beginning, mentioned in Genesis 1:2. This Spirit was "not yet."
+
+### Lord Spirit
+
+2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord.
+
+### Spirit of Christ
+
+The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrection.
+
+### Spirit of Jesus
+
+The Spirit of Jesus is mentioned only in Acts 16:7  and is related to the Lord's humanity and human living.
+
+### Spirit of Jesus Christ
+
+The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His humanity and human living and in His resurrection.
+
+### Spirit of Reality
+
+The Spirit of reality such as in John 14:17 shows that in the whole universe, only One is real. Being in the Spirit is required for anything we experience to be real. For example, the Spirit is the reality of resurrection, and the reality of Christ's all-inclusive death.
+
+### Spirit of Life
+
+The Spirit of Life in Romans 8:2 shows that Spirit contains the element of the divine life. If we have the Spirit, we have life.
+
+### Spirit of Power
+
+The Spirit has power without economically. This spirit of power in Acts 1:8 allowed many to receive the Pentecostal power, which was had an outward power.
+
+### Compound Spirit
+
+### Seven Spirits
+
+### The Spirit
+
 
