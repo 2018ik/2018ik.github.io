@@ -5,6 +5,8 @@ permalink: /gospel/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 >"God desires that all men be saved."
 
@@ -22,4 +24,14 @@ Salvation does not start with us, it started with the Trine God, who predestinat
 
 Romans 10:20 - if you are looking for seekers, you will never find them. How can you have a seeking heart without being saved? God was found by those who did not seek; He became manifest to those who did not ask. Those who are not seeking and did not ask for the Lord are most qualified to be saved.
 
-The Spirit sweeps, and the Son will continue to seek out the lost ones *until* they are saved. This does not specify an end time; don't give up on those who whom you are burdened for.
+The Spirit sweeps, and the Son will continue to seek out the lost ones *until* they are saved. This does not specify an end time; don't give up on those who whom you are burdened for. We may give up but the Triune God never gives up. 
+
+## Testimonies
+
+### Testimony #1
+
+>There was a brother who was raised Buddhist, and he was fishing at the shore, and fell in the ocean and was carried away by the current. He knew he was going to drown and didn't want the others to try and save him and end up in the same fate. Thus, he motioned to the others that he would be alright and to go back. 
+>
+>In this moment, he cried out to God - "Help me." And he says he heard something, a voice which said: "If you want to swim in the ocean all day, I'll be with you." And he got empowered. And he realized that it was Jesus. The strangest case of being saved and baptized at the same time. This one was chosen. How are you going to explain that? He swam back, he reached the shore before the others. They crawled to shore he walked to shore.
+>
+>Then he tried to be a baptist for 8 years, and was so dead after he got saved he was so angry he tried to find God in being a baptist. He tried to find God in denominations and couldn't find it. But he came to the church. How do you explain this? He doesn't know God, why didn't he call out to Buddha, he was trained to be a Buddhist? When you are about to die you learn who God is. It's like Paul - "who are you Lord?" 
