@@ -7,6 +7,6 @@ permalink: /recovery/
 
 ## Background
 
-The Lord's Recovery is a recovery of high peak truths regarding God's New Testament economy. 
+The Lord's Recovery is a recovery of life (the experience of Christ as life), function and practical oneness in God's New Testament economy. 
 
 One aspect of the recovery is all members prophesying, as opposed to one man speaking.
