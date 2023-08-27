@@ -10,6 +10,7 @@ permalink: /ftta/
   - [The Triune God and His Word](#the-triune-god-and-his-word)
   - [Spirit](#spirit)
   - [Experience of Christ as Life](#experience-of-christ-as-life)
+  - [Lessons on Children, Young People, and Campus Work](#lessons-on-children-young-people-and-campus-work)
 - [Gospel Team](#gospel-team)
   - [Team-only Fellowship](#team-only-fellowship)
 - [Meetings](#meetings)
@@ -60,6 +61,10 @@ While it's important to learn the basic matters such as our human Spirit is the 
 Suppose you are a basketball player, a game which requires basic skills. Once you know the basics, you can play the game. In this class, it's not that you learn the basics to play the game - when you learn the basics you *are* playing the game. By learning about how to experience Christ as life, you actually experience Christ as life.
 
 We have the books *The Experience of Life* and *The Experience of Christ*, but these may imply that were are experiencing the life of Christ. Instead we have the experience of Christ as life. In this class, we experience the person directly, as the high priests did in the Holy of Holies. And as we go into His person directly, the experience we have supersedes and is higher than when are looking for food, light, life or a particular element. Now we want Him, and if we have Him, we have all the contents included in Him.
+
+### Lessons on Children, Young People, and Campus Work
+
+In the Bible there are 3 lines: the central line (fundamental tenets of the faith - Word of God, Divine Trinity, Christ, Spirit, etc.), supplemental line (potential points of disagreement - prophecies, types, the church, eschatology) and a third line of leaves and branches (practical procedures to carry out the former two). In order for a tree to exist, it needs the trunk which supplies all the leaves and branches; however the leaves and branches are what bear fruit. This lesson is part of the leaves and branches, and covers practical matters in raising up the next generation.
 
 ## Gospel Team
 
