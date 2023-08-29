@@ -125,6 +125,8 @@ The Spirit has power without economically. This spirit of power in Acts 1:8 allo
 
 ### Compound Spirit
 
+This can be illustrated by the hin of olive oil and the four spices. When the ingredients were separated, the Spirit was not yet. After the spices are compounded into the oil, it is now the compound oil, able to anoint and signifies the compound Spirit.
+
 ### Seven Spirits
 
 ### The Spirit
