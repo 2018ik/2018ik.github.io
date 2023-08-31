@@ -5,6 +5,7 @@ permalink: /revival/
 ---
 - [Background](#background)
 - [Habakkuk's Prayer](#habakkuks-prayer)
+- [Connotation](#connotation)
 
 >"O Jehovah, revive your work \
 in the midst of the years."
