@@ -4,7 +4,9 @@ title: Son of God
 permalink: /son_of_god/
 ---
 - [Background](#background)
+- [Economical change](#economical-change)
 - [Designated](#designated)
+  - [Firstborn](#firstborn)
 
 ## Background
 
@@ -14,4 +16,6 @@ Before the incarnation of Jesus, Christ was already the Son of God (Rom 8:3). Ho
 
 Designation implies there was something not "Son of God"-like before, and that would be the humanity of Jesus. Now as the Son of God, he possesses both divinity and humanity. 
 
-As this designated One is the firstborn, and not the only-begotten, there will be more sons in the future. Christ the firstborn son serves as a prototype to produce His many sons. We too can be designated and revealed as sons of God, possessing both divinity and humanity.
+### Firstborn 
+
+As this designated One is the firstborn, and not only just the only-begotten (John 3:16), there will be more sons in the future. Christ the firstborn son serves as a prototype to produce His many sons. We too can be designated and revealed as sons of God, possessing both divinity and humanity.

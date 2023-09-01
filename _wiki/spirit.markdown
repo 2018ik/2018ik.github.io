@@ -29,9 +29,11 @@ permalink: /spirit/
 
 The Spirit (also known as the Spirit of God, Spirit of Christ, Spirit of Jesus, Spirit of Jesus Christ, Spirit of Jehovah, Holy Spirit, Life-giving Spirit, Sevenfold-intensified Spirit) is part of the Divine Trinity, along with the Father and Son.
 
+Every aspect of the  Spirit is for us to enjoy Christ.
+
 ## Revelation of the Spirit
 
-The revelation of the Spirit is progressive; beginning with the Spirit of God in Genesis which only had the divinity of god, and ending with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
+The revelation of the Spirit is progressive; be ginning with the Spirit of God in Genesis which only had the divinity of god, and ending with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
 
 ## History 
 
@@ -93,7 +95,7 @@ The Holy Spirit is referred to by many titles, each denoting a specific aspect o
 
 ### Spirit of God
 
-This is the Spirit of God from the beginning, mentioned in Genesis 1:2. This Spirit was "not yet."
+This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding above the waters. This is also the Spirit of the creator, and was at that point located outside of man. This Spirit was "not yet" (John 7:39). However, this one is now in us as the Spirit of Christ.
 
 ### Lord Spirit
 
@@ -101,7 +103,7 @@ This is the Spirit of God from the beginning, mentioned in Genesis 1:2. This Spi
 
 ### Spirit of Christ
 
-The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrection.
+The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrection. This Christ is an all-inclusive Christ, and this Christ is God and the man Jesus Christ, the redeemer in whom we have redemption so this Christ is in whom we have all of God's purpose and full salvation. This title touches the all-inclusiveness of this Spirit and is used interchangeably with Spirit of God in Romans 8:9. As the Spirit of God dwells in us (Rom. 8:??), this implies that God went through a process so that we can contain Him. Therefore, this Spirit of God that indwells us is the all-inclusive Spirit of Christ that is living in us.
 
 ### Spirit of Jesus
 

@@ -5,14 +5,19 @@ permalink: /gospel/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
+  - [Romans 1:3-4](#romans-13-4)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
->"God desires that all men be saved."
-
 ## Background
 
+The gospel of God involves a person with two natures: divinity and humanity. The reason why He became the son of God in humanity is to go through a process to elevate his humanity and become the prototype so that we can go through the same process of designation and transformation.
+
 ## Biblical Basis
+
+### Romans 1:3-4
+
+The entire gospel of God is revealed in these two verses. The gospel is related to a *person*, that is His son, who was the seed of David according to the flesh.
 
 1 Peter 1:2-3 reveals the operation of the Triune God to bring salvation to us. We can see this in the picture of the New Jerusalem; that city has 3 gates on each side. That means He is available to anyone - no matter what direction we may be from, there are these gates we can come to. The marvelous thing is that because we are fallen, there is no standard before we were saved. There is just God's mercy, and the very triune God becomes our entrance into this divine entity, the mingling of God and man. It also says in Revelation that the gates are never closed. Our gates should never be closed, and we are trained to be the gates where mankind can come into this eternal entity.
 
