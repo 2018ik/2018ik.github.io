@@ -18,10 +18,12 @@ Throughout history, there are many who participate in strange practices, some of
 
 The magi were then corrected by the priests and scribes through the scriptures that the birth place would be in Bethlehem. When we have both the leading of the spirit as well as the word, we are kept in lane.
 
+To experience Christ is to taste Christ being distributed.
+
 ## Experiencing Christ as Life
 
 In everything we do, we can experience Christ as life. 
 
 ## Tips
-
+ 
 1. Set a timer for one minute, set aside everything else, and exercise to touch the Lord for that minute. If we are faithful to this minute each day, we will find this minute growing. 
