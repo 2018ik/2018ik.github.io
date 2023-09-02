@@ -17,7 +17,7 @@ The book of Romans shows us His person and work.
 
 ### 1
 
-Romans 1 is on the essence of Jesus Christ the God-man. Verses 3 and 4 in particular reveal that He was [designated the Son of God](./son_of_god#designated).
+Romans 1 is on the essence of Jesus Christ the God-man. Verses 3 and 4 in particular reveal that He was [designated the Son of God](../son_of_god#designated).
 
 ## Topics
 

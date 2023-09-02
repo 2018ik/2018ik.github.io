@@ -1,19 +1,28 @@
 ---
 layout: pagev2
-title: Ananias
-permalink: /ananias/
+title: Ananias and Sapphira
+permalink: /ananias_and_sapphira/
 ---
 - [Background](#background)
+- [History](#history)
+- [Significance](#significance)
 
 ## Background
 
-Ananias was a disciple in Damascus whom the Lord spoke to in a vision regarding Saul.
-He must have had a very intimate relationship with the Lord, because the Lord could speak to Him.
+Ananias and Sapphira are a couple portrayed in Acts 5 who lied to Holy Spirit and died as a result. Their act of charity demonstrates that it is not what we do that matters, but the intent.
 
-He was real with Lord regarding how evil Saul of Tarsus was (Acts 9:13). He knew that Saul had identified believers based on their calling upon the name of the Lord. This is a question we should ask ourselves - are we arrestable? Would Saul of Tarsus arrest us? We should be those who call upon the name of the Lord.
+## History
 
-When Ananias laid hands on Saul, the first thing he said was "Brother Saul," which means He recognized Him as a child of God. Saul could not have received his sight unless a member of Body laid his hands on him. We need to depend on the Body for our sight and ministry.
+In the early church, Ananias along with Sapphira his wife sold a piece of property, and put aside some of the proceeds. Then, they set a part of it at the feet of the apostles.
 
+Previously, many sold all that they had and gave it to the apostles Acts 4:32-37, so Ananias and Sapphira were attempting to give the impression that they were giving all they had, despite holding back some of the proceeds. 
 
+This caused Peter to convict both Ananias and Sapphira of testing the Spirit of the Lord, after which both of them expired.
+
+## Significance
+
+We see that lying to the apostles is also lying to God and likewise the Holy Spirit (Acts 5:3-4), indicating they were one. This has a similar implication to the [vision Paul saw](../paul#acts-9) where the Lord said that *He* was the one being persecuted.
+
+We also see the matter of intent, that is the source of one's actions. Although the donating a portion of the proceeds was good, the intent was hypocritical, as they were trying to appear more generous than they actually were. In God's New Testament economy, the ends never justify the means.
 
 
