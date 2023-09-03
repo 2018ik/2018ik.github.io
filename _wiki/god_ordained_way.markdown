@@ -6,6 +6,11 @@ permalink: /god_ordained_way/
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
 - [Practice](#practice)
+  - [Steps](#steps)
+    - [Begetting](#begetting)
+    - [Nourishing](#nourishing)
+    - [Perfecting](#perfecting)
+    - [Building](#building)
   - [Vision](#vision)
   - [Revival](#revival)
   - [God's Economy](#gods-economy)
@@ -15,15 +20,29 @@ permalink: /god_ordained_way/
 
 ## Background
 
-The God-ordained way refers to begetting, nourishing, perfecting and prophesying. This is how to church life can be practiced according to the New Testament ministry.
+The God-ordained way refers to begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry.
 
 Each of these four steps requires presenting the truth to others. The best way to be constituted by the truth in the experience of many is PSRP.
 
 ## Biblical Basis
 
-The whole New Testament is about cherishing and nourishing. 
+Our goal is to build up the Body of Christ (Eph 4:8-16), but in order to do so, we must see how the early church portrayed in Acts did so. Actually, the whole New Testament is about cherishing and nourishing. 
 
 ## Practice
+
+### Steps
+
+#### Begetting
+
+We need to preach the gospel to obtain the material for the building. This is to have sinners saved and regenerated to become members of Christ.
+
+#### Nourishing
+
+After being saved, the believers need to grow in the divine life. This could be through the home meetings and group meetings, where we lead to to function in the meetings and to care for one another.
+
+#### Perfecting
+
+#### Building
 
 ### Vision  
 

@@ -4,7 +4,10 @@ title: Grace
 permalink: /grace/
 ---
 - [Background](#background)
-- [Boulder Example](#boulder-example)
+- [Biblical Basis](#biblical-basis)
+  - [Versus Law](#versus-law)
+- [Experience](#experience)
+  - [Boulder Example](#boulder-example)
 
 >"I thank my God always concerning you based upon the grace of God which was given to you in Christ Jesus"
 
@@ -12,6 +15,19 @@ permalink: /grace/
 
 ## Background
 
-## Boulder Example
+Grace is God in His Trinity processed through incarnation, human living, crucifixion, resurrection and ascension to be everything to us. Contrary to the popular notion of grace being mere material gifts from God, 
+Grace is God Himself becoming to us our everything in a subjective way.
+
+## Biblical Basis
+
+John 1:17 tells us that grace came with Jesus Christ. Before incarnation, grace had not come. 
+
+### Versus Law
+
+Grace is greater than the law .
+
+## Experience 
+
+### Boulder Example
 
 The Lord's grace is our supply. When we encounter a boulder in our path, he may not necessarily remove the boulder. Instead, he may raise the water level so that we may simply float over the boulder.

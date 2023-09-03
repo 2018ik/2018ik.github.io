@@ -1,6 +1,6 @@
 ---
 layout: pagev2
-title: Romans
+title: Romans (Book)
 permalink: /romans/
 ---
 - [Background](#background)
