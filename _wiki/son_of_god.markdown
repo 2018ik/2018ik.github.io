@@ -4,7 +4,6 @@ title: Son of God
 permalink: /son_of_god/
 ---
 - [Background](#background)
-- [Economical change](#economical-change)
 - [Designated](#designated)
   - [Firstborn](#firstborn)
 
@@ -18,4 +17,4 @@ Designation implies there was something not "Son of God"-like before, and that w
 
 ### Firstborn 
 
-As this designated One is the firstborn, and not only just the only-begotten (John 3:16), there will be more sons in the future. Christ the firstborn son serves as a prototype to produce His many sons. We too can be designated and revealed as sons of God, possessing both divinity and humanity.
+In eternity, there was the only-begotten Son (John 3:16). However, this designated One is also the firstborn, and not just the only-begotten, meaning there will be more sons in the future. Christ the firstborn son serves as a prototype to produce His many sons. We too can be designated and revealed as sons of God, possessing both divinity and humanity.

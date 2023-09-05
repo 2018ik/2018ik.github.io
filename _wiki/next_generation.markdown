@@ -6,7 +6,8 @@ permalink: /next_generation/
 - [Background](#background)
 - [History](#history)
 - [Importance](#importance)
-- [Minimum Requirement To Serve](#minimum-requirement-to-serve)
+- [How to Serve](#how-to-serve)
+  - [Minimum Requirement](#minimum-requirement)
 
 ## Background
 
@@ -22,8 +23,13 @@ In 1967, the work was prevailing, but it was a general work mainly for the adult
 
 We need to see the preciousness of the young people and their importance in God's hands. Even Nebuchadnezzar saw the importance of young people, this is why he brought the young ones to his palace. 
 
-TikTok (? confirm app with chinese person) actually serves the dual purpose of undermining the young people of the west while educating the young people in China. In like matter, the real enemy - Satan - does the exact same thing; dumb us down and occupy this generation to have no appetite for the things of God. Things that should be used to educate, train and perfect the young people to get into the Word of God are being turned to use to completely dumb down their ability to receive anything of God.
+TikTok actually serves the dual purpose of undermining the young people of the west while educating the young people in China. In like matter, the real enemy - Satan - does the exact same thing; dumb us down and occupy this generation to have no appetite for the things of God. Things that should be used to educate, train and perfect the young people to get into the Word of God are being turned to use to completely dumb down their ability to receive anything of God.
 
-## Minimum Requirement To Serve
+Many homes don't know how to deal with their children, so the church has to come in and help. The most important thing is still how the parents manage their own home. If parents just depend on the church to do it then there will be a lack. 
+
+## How to Serve
+
+### Minimum Requirement
 
 The minimum capital required for the young people's work is to have a heart (2 Cor. 6:11). This does not mean our personal preference, but to see a genuine importance and value of the young people work. If we see this, then spontaneously we will have a heart for it.
+

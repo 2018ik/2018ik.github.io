@@ -79,6 +79,6 @@ We have to take care of fellowship, intercession, mutual care and shepherding. T
 ## The God-ordained Way
 
 1. The first step is begetting
-2. The second step is feeding
-3. The third step is perfecting
+2. The second step is feeding/nourishing
+3. The third step is perfecting/teaching
 4. The fourth step is building

@@ -7,5 +7,5 @@ permalink: /anointing/
 
 ## Background
 
-In the Bible, the anointing always follows the blood (Lev 14:14-18). 
+In the Bible, the anointing always follows the blood (Lev. 14:14-18). 
 
