@@ -10,7 +10,6 @@ permalink: /church/
   - [Three Elements](#three-elements)
     - [Ground of Locality](#ground-of-locality)
     - [Oneness of the Body](#oneness-of-the-body)
-    - [Reality of the Spirit of Oneness](#reality-of-the-spirit-of-oneness)
 
 ## Background
 
@@ -45,6 +44,4 @@ The Bible reveals that there should be one church in one city.
 #### Oneness of the Body
 
 A genuine local church must be in the fellowship of the body, and receive all the believers in the city.
-
-#### Reality of the Spirit of Oneness
 

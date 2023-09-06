@@ -4,6 +4,7 @@ title: Light
 permalink: /light/
 ---
 - [Background](#background)
+- [Biblical Definition](#biblical-definition)
 - [Contrast to Darkness](#contrast-to-darkness)
 - [Contrast to Introspection](#contrast-to-introspection)
 - [Agreement](#agreement)
@@ -14,6 +15,10 @@ permalink: /light/
 ## Background
 
 The light is not a thing, such as a shining or presence, it is a Person, God Himself. This light gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. 
+
+## Biblical Definition
+
+Ephesians 5 is the only place in the Bible which is "everything that makes manifest" (Eph 5:13). The word revelation in Greek is apokalupsis. Apo is to open, and kalupsis is a veil. Therefore, revelation simply means the removal of a veil. Light is related to revelation. To be enlightened means to receive a revelation. Once light comes, revelation comes. Revelation is determined by the amount of light received. God’s revelation is what we receive through His light; it is the effect of this light in us. When light comes from God and reaches us, we have revelation. The end result of light is revelation. 
 
 ## Contrast to Darkness
 
