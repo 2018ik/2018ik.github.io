@@ -4,7 +4,9 @@ title: Body of Christ
 permalink: /body_of_christ/
 ---
 - [Background](#background)
-- [Christ](#christ)
+- [Reality Today](#reality-today)
+  - [Characteristics](#characteristics)
+  - [Christ](#christ)
 
 ## Background
 
@@ -14,6 +16,19 @@ The Body of Christ must be governing principle for the church, the ministry, and
 
 Saved ones are actually added to the Lord (Acts 11:24). This is to be added to the Body of Christ. This is then followed by the local church, where the believers are brought into Antioch (Acts 11:26). This shows that the local churches follows, and is the manifestation of the Body of Christ. Likewise, we are also baptized into one Body (1 Cor. 12:13).
 
-## Christ
+## Reality Today
 
-God only cares for Christ, and we must be in Christ to be the Body of Christ. This involves denying our self, picking up the cross, and following Him.
+The reality of the Body of Christ refers to the experience of the consummated Body of Christ (the New Jerusalem) in the present day. That is, the present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
+
+S.S. 1:6-8 -> S.S. 7:12
+
+### Characteristics
+
+1. Corporate living
+2. The Spirit
+3. Absolute
+4. Conformed
+
+### Christ
+
+God only cares for Christ, and we must be in Christ to be in the reality of the Body of Christ. This involves denying our self, picking up the cross, and following Him.

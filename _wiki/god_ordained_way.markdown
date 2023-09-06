@@ -30,6 +30,8 @@ Our goal is to build up the Body of Christ (Eph 4:8-16), but in order to do so, 
 
 ## Practice
 
+All of the below steps should be executed when one is in the [reality of the Body of Christ](../body_of_christ#reality-today), otherwise it is a mere facsimile. We need be involvement with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way.
+
 ### Steps
 
 #### Begetting
