@@ -4,6 +4,10 @@ title: Revelation
 permalink: /revelation/
 ---
 - [Background](#background)
+- [Etymology](#etymology)
+- [Examples in the Bible](#examples-in-the-bible)
+  - [Peter](#peter)
+  - [Paul](#paul)
 - [Wisdom](#wisdom)
 - [Age of Revelation](#age-of-revelation)
 - [High Peak](#high-peak)
@@ -12,6 +16,20 @@ permalink: /revelation/
 ## Background
 
 Revelation is God shining on the facts of the Bible. There is a curtain over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation.
+
+## Etymology
+
+
+
+## Examples in the Bible
+
+### Peter
+
+Peter received revelation from the Father to know Jesus as Christ, the Son of the living God (Matt. 16:1?). 
+
+### Paul
+
+
 
 ## Wisdom
 

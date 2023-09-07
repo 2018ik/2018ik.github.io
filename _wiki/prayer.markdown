@@ -12,6 +12,9 @@ permalink: /prayer/
 - [Dispensing](#dispensing)
   - [Passport application](#passport-application)
 - [Inhaling](#inhaling)
+- [Types](#types)
+  - [Individual](#individual)
+  - [Corporate](#corporate)
 
 >"But you, beloved, building up yourselves upon your most holy faith, praying in the Holy Spirit"
 
@@ -66,3 +69,13 @@ The Lord has applied for a passport to enter into us. Our prayer is the stamp on
 ## Inhaling
 
 Inhaling implies taking in a gas, and bringing it into us that it may be absorbed. When we pray, God as the divine air is able to move into our inner being unimpeded as if we are breathing Him in.
+
+## Types
+
+### Individual
+
+Personal prayer is to absorb God.
+
+### Corporate
+
+Corporate prayer is to bind and to loose what has been bound and loosed in the heavens. That is, to fight the spiritual warfare.
