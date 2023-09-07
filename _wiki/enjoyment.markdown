@@ -6,6 +6,7 @@ permalink: /enjoyment/
 - [Background](#background)
 - [Through the Cross](#through-the-cross)
 - [Introspection](#introspection)
+- [Issuing](#issuing)
 - [Testimony](#testimony)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
@@ -26,6 +27,9 @@ There is a sweetness to the killing element of Christ's death, as seen in the ci
 
 We need to look away unto Jesus (Heb. 12:2). It is easy to introspect, and to analyze ourselves. By doing this, we lose our enjoyment of Christ.
 
+## Issuing
+
+The enjoyment of God issues in Him making His home in our hearts.
 
 ## Testimony
 
