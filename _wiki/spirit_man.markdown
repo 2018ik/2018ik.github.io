@@ -4,6 +4,8 @@ title: Spirit (of man)
 permalink: /spirit_man/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
+  - [Two Spirits](#two-spirits)
 - [Location](#location)
 - [Function](#function)
   - [Residence of the Divine Spirit](#residence-of-the-divine-spirit)
@@ -21,6 +23,11 @@ permalink: /spirit_man/
 The basic understanding that man has a human spirit is required for understanding the New Testament. The same word "spirit" is used to describe both the human and divine spirits, where "spirit" can be uppercase or lowercase in a particular verse to specify which spirit.
 
 Our regenerated human spirit is the key to everything in the Christian life, as that is where God is. In everything we do, we should ask ourselves: "Am I doing this in spirit?"
+
+## Biblical Basis
+
+### Two Spirits
+
 
 ## Location
 
