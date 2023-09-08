@@ -1,0 +1,90 @@
+<style type="text/css">
+    .post-history {
+        margin-bottom: 10px;
+    }
+    
+    .post-history h3 {
+        margin: 0 0 10px 0;
+    }
+    
+    .history-entry {
+        border: 1px solid #ccc;
+        border-bottom-width: 0px;
+        padding: 10px 10px 10px 60px;
+        font-size: 0.8em;
+    }
+    
+    .history-entry:first-of-type {
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+    }
+    
+    .history-entry:last-of-type {
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
+        border-bottom-width: 1px;
+    }
+    
+    .history-entry IMG {
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        float: left;
+        margin-left: -50px;
+    }
+    
+    .history-entry a {
+        display: block;
+        color: #000;
+        font-weight: bold;
+    }
+    </style>
+    <div id="post_history" class="post-history" style="display: none">
+        <h3>Revision History</h3>
+    
+    </div>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.0/moment.min.js"></script>
+    <script>
+    (function () {
+        var url = 'https://api.github.com/repos/2018ik/2018ik.github.io/commits?path={{ page.path }}',
+            xhr = new XMLHttpRequest();
+    
+        // from http://stackoverflow.com/questions/1219860/html-encoding-in-javascript-jquery
+        function htmlEscape(str) {
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+        }
+    
+        xhr.open('GET', url);
+        xhr.send();
+        xhr.onreadystatechange = function () {
+            var commits, html,
+                post_history = document.getElementById('post_history');
+            if (xhr.readyState !== 4 || xhr.status !== 200) return;
+    
+            commits = JSON.parse(xhr.responseText);
+            if (commits && commits.length) {
+                html = commits.map(function (commit) {
+                    var author = htmlEscape(commit.commit.author.name),
+                        avatar = commit.author.avatar_url,
+                        date = moment(new Date(commit.commit.author.date)).fromNow(),
+                        message = htmlEscape(commit.commit.message.split('\n')[0]),
+                        url = commit.html_url;
+                    
+                    return '<div class="history-entry">' +
+                                '<img src="' + avatar + '">' +
+                                '<a href="' + url + '" target="gh-history">' + message + '</a>' +
+                                '<span>' + author + ' updated this ' + date.toLocaleString() + '</span>' + 
+                            '</div>';
+                }).join('');
+    
+                post_history.innerHTML += html;
+                post_history.style.display = 'block';
+            }
+        };
+    })();
+    </script>
