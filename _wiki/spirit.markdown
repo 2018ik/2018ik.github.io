@@ -20,6 +20,7 @@ permalink: /spirit/
   - [Spirit of Jesus Christ](#spirit-of-jesus-christ)
   - [Spirit of Reality](#spirit-of-reality)
   - [Spirit of Life](#spirit-of-life)
+  - [Life-giving Spirit](#life-giving-spirit)
   - [Spirit of Power](#spirit-of-power)
   - [Compound Spirit](#compound-spirit)
   - [Seven Spirits](#seven-spirits-1)
@@ -120,6 +121,10 @@ The Spirit of reality such as in John 14:17 shows that in the whole universe, on
 ### Spirit of Life
 
 The Spirit of Life in Romans 8:2 shows that Spirit contains the element of the divine life. If we have the Spirit, we have life.
+
+### Life-giving Spirit
+
+The life-giving Spirit seen in 1 Corinthians 15:45 is the same Spirit as the Spirit of life, however, *life-giving* indicates an active movement, while *of life* indicates an essential characteristic. For example, there is the bread of life (John 6:35) and the living bread (John 6:51). The bread of life indicates its condition is life, that is, we have a piece of bread which *can* give life. On the other hand, when we eat this bread and digest it, it becomes the *living* bread to us, as it sustains our living. Likewise, after taking in the Spirit of life into our being, it imparts life to us as the life-giving Spirit.
 
 ### Spirit of Power
 
