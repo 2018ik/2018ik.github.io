@@ -34,5 +34,5 @@ The soul exhibits many emotions throughout the Bible, indicating that man's emot
 
 ### Will
 
-The soul can choose (Job 7:15),refuse (Job 6:7), and seek after things (1 Chron. 22:19). These are functions of man's will. Numbers 30 also talks about binding one's soul, which in context we can see is a matter of making a vow, which is to do with man's will. The Hebrew word *soul* is also occasionally translated into *will* based on context (Psa. 27:12; 41:2).
+The soul can choose (Job 7:15), refuse (Job 6:7), and seek after things (1 Chron. 22:19). These are functions of man's will. Numbers 30 also talks about binding one's soul, which in context we can see is a matter of making a vow, which is to do with man's will. The Hebrew word *soul* is also occasionally translated into *will* based on context (Psa. 27:12; 41:2).
 

@@ -5,7 +5,6 @@ permalink: /spirit_man/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
-  - [Two Spirits](#two-spirits)
   - [Conscience](#conscience)
   - [Fellowship](#fellowship)
   - [Intuition](#intuition)
@@ -33,9 +32,11 @@ Our regenerated human spirit is the key to everything in the Christian life, as 
 
 ## Biblical Basis
 
-### Two Spirits
+Many verses in the Bible indicate that there is the Spirit of God as well as a spirit of man, sometimes even in the same verse. 
 
-Many verses in the Bible indicate that there is the Spirit of God as well as a spirit of man.
+Romans 8:16 says that the Spirit witnesses with our spirit, indicating that there is both a Spirit of God and a spirit of man. Hebrews 4:12 draws a distinction between the soul and spirit, and 1 Thessalonians shows that man has a spirit, soul and body.
+
+The following sections on the three functions of the spirit contain verses which prove there is a human spirit.
 
 ### Conscience
 

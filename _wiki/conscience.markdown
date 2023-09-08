@@ -4,12 +4,28 @@ title: Conscience
 permalink: /conscience/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
+  - [The Spirit](#the-spirit)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-Our conscience either justifies us or condemns us. 
+The conscience enables one to discern right from wrong, and is a function of the human spirit. It can either justify us or condemn us. 
+
+## Biblical Basis
+
+### The Spirit
+
+It is easy to tell that the conscience is a part of the human spirit.
+
+Romans 9:1 states "My conscience bearing witness with me in the Holy Spirit." We know the Holy Spirit witnesses with our human spirit, which allows our conscience to witness in the Holy Spirit, in our conscience. 
+
+In 1 Corinthians 5:3 the apostle Paul says that in his spirit he judged a sinful person. To judge means either to condemn or to justify, which are acts of the conscience. This confirms that the condemning or justifying function is in the spirit; hence, the conscience is in the spirit. 
+
+Psalm 51:10 speaks of "a right spirit within me" and Psalm 34:18 speaks of being "contrite in spirit." Knowing right from wrong is related to the conscience.
+
+Deuteronomy 2:30 shows that man can harden his spirit, which means that the conscience was hardened. When we cast off the feeling in the conscience, we become hardened in the spirit.
 
 ## Testimonies
 

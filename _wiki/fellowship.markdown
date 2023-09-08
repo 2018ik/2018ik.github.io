@@ -13,6 +13,8 @@ permalink: /fellowship/
 
 ## Background
 
+Fellowship is for worshipping, praying and rejoicing, and is a function of the human spirit. This brings in communion with God.
+
 Fellowship implies a sense of traffic. In fact, the word used for "fellowship" in the Chinese Recovery Version Bible is "traffic." This can be illustrated by the power plant being the source of the electrical current or traffic. 
 
 When we are brought into the fellowship, we not only have a vertical fellowship with God but also a horizontal fellowship with one another (1 John 1:3). These are two components of one fellowship. In order to have genuine fellowship, there must be both components.
