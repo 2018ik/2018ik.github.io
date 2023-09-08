@@ -13,6 +13,7 @@ permalink: /spirit/
   - [Seven Spirits](#seven-spirits)
 - [Essence vs Economy](#essence-vs-economy)
 - [Titles](#titles)
+  - [Holy Spirit](#holy-spirit)
   - [Spirit of God](#spirit-of-god)
   - [Lord Spirit](#lord-spirit)
   - [Spirit of Christ](#spirit-of-christ)
@@ -28,9 +29,9 @@ permalink: /spirit/
 
 ## Background
 
-The Spirit (also known as the Spirit of God, Spirit of Christ, Spirit of Jesus, Spirit of Jesus Christ, Spirit of Jehovah, Holy Spirit, Life-giving Spirit, Sevenfold-intensified Spirit) is part of the Divine Trinity, along with the Father and Son.
+The Spirit (also known as the Holy Spirit, Spirit of God, Spirit of Christ, Spirit of Jesus, Spirit of Jesus Christ, Spirit of Jehovah, Holy Spirit, Life-giving Spirit, Sevenfold-intensified Spirit) is part of the Divine Trinity, along with the Father and Son.
 
-Every aspect of the  Spirit is for us to enjoy Christ.
+Every aspect of the  Spirit is for us to enjoy Christ. In fact, the Spirit of God dwells in man.
 
 ## Revelation of the Spirit
 
@@ -93,6 +94,10 @@ Economically, the Word became flesh, and then the last Adam became the life-givi
 ## Titles
 
 The Holy Spirit is referred to by many titles, each denoting a specific aspect of the Spirit.
+
+### Holy Spirit
+
+
 
 ### Spirit of God
 
