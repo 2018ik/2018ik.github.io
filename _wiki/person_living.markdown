@@ -1,0 +1,24 @@
+---
+layout: pagev2
+title: Person & Living
+permalink: /person_living/
+---
+- [Background](#background)
+- [Biblical Basis](#biblical-basis)
+- [Practical Basis](#practical-basis)
+
+## Background
+
+God pays more attention to what kind of person or character someone is than what they can accomplish. In a sense, in God's economy, the person *is* the work. 
+
+## Biblical Basis
+
+Jesus could do nothing except that which was allowed by the Father (John ??:??). 
+
+Matthew 17:7-12 teaches that a good tree produces good fruit and that a corrupt tree produces bad fruit. A good tree inherently produces good fruit; it is the proper source which brings forth the proper results. Likewise, a proper minister will spontaneously result in a good ministry. It is senseless to try to work out a good ministry without first taking care of the person.
+
+## Practical Basis
+
+If one is able to do much (i.e. speak eloquently, have much knowledge and life experience) but has a bad character, they will be unable to gain new believers. New ones are always listening to the things leading ones say and do, even the small things. If the leading ones are sloppy, rude or of bad character during off-hours, what kind of testimony would that give to those observing? It would lessen the value of *all* of their words.
+
+The Christian life is a life of sowing; everything one does is a kind of sowing, either of the flesh or the spirit (Gal. 6:7-8). That is, what one does in their daily living is also a pattern that the younger ones follow (2 Tim 3:10). A dissolute life establishes a bad standard which others - especially one's children - will follow.

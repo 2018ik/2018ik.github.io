@@ -17,6 +17,8 @@ permalink: /heart/
 
 The heart consists of the soul and the conscience. Many times "soul" and "heart" are used interchangeably in the Bible, but there is nonetheless a definite aspect of the conscience in the heart. As a result, light comes from the heart.
 
+Just like how we need a healthy physical heart for our physical living, we likewise need a healthy heart for our psychological and spiritual living.
+
 ![diagram of heart](../img/WL64-03-20EconomyGod06_4_chart.png)
 
 ## Biblical Basis
