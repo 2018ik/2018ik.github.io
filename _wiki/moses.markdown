@@ -13,6 +13,8 @@ permalink: /moses/
 
 ## History
 
+The first 40 years of Moses' life can be characterized by "I can." The last 40 years can be characterized with "I cannot, but God can."
+
 ### Birth
 
 After his birth, he was cared for by his mother, where no doubt Godly thoughts were infused into his being.

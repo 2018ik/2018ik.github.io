@@ -5,6 +5,12 @@ permalink: /resurrection/
 ---
 - [Background](#background)
 - [Significance](#significance)
+  - [Victory](#victory)
+  - [Justification](#justification)
+  - [Designation](#designation)
+  - [Person](#person)
+  - [Process](#process)
+  - [Destiny](#destiny)
 - [God of Resurrection](#god-of-resurrection)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
@@ -15,15 +21,32 @@ Christ's resurrection is the beginning of the new creation. It produced the firs
 
 ## Significance
 
+### Victory
+
 For a vast majority of Christians, resurrection is simply a historical process that Jesus underwent 2000 years ago. Seemingly the most significant aspect of resurrection is that it signifies Christ's complete victory of death, Hades and the grave. 
+
+### Justification
 
 More prudent Christians may say according to Romans 4:25 He was raised for our justification. The fact that he was resurrected from the dead means that God received the death of the only begotten son on our behalf for the sufficient payment of the penalty of our sin. We have the receipt, the proof that God has accepted the death of Christ as an adequate payment for our sins which should have resulted in our own death.
 
+### Designation
+
+Actually when Jesus was resurrected, He was regenerated (as well as all believers), reborn with the divine life of God.
+
+### Person
+
 Resurrection is actually a person. In John 11, the Lord told others that He *is* the resurrection and the life. Any time we face the attack of death in any form, we can contact the Lord as the Spirit in our spirit who is the resurrection and the life.
+
+
+### Process
 
 Resurrection is a present process; to walk in resurrection today is to reign in life (Rom. 6:5). 
 
-In resurrection we all will be like angels, no distinction between males and females. To be brought into the reality of the body of Christ, our whole being must be in resurrection. Resurrection is our destiny; there is a time coming where every particle of our body is in resurrection as the bride of Christ.
+In resurrection we all will be like angels, no distinction between males and females. To be brought into the reality of the body of Christ, our whole being must be in resurrection. 
+
+### Destiny
+
+Resurrection is our destiny; there is a time coming where every particle of our body is in resurrection as the bride of Christ.
 
 The mingling of divinity and humanity was not complete on incarnation; the human flesh of Jesus had nothing to do with divinity. It was in resurrection that humanity was brought into divinity. It is only in death that was can experience resurrection; resurrection is entering into death, passing through death, and emerging from death.
 
