@@ -35,7 +35,7 @@ Every aspect of the  Spirit is for us to enjoy Christ. In fact, the Spirit of Go
 
 ## Revelation of the Spirit
 
-The revelation of the Spirit is progressive; be ginning with the Spirit of God in Genesis which only had the divinity of god, and ending with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
+The revelation of the Spirit is progressive; beginning with the Spirit of God in Genesis which only had the divinity of god, and ending with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
 
 ## History 
 
