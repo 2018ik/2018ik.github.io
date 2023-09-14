@@ -9,8 +9,10 @@ permalink: /mingling/
 
 ## Background
 
+To mingle is to combine two things in such a way that there is still a distinction between the two things. 
+
 ## Examples
 
 ### The Two Spirits
 
-Te two spirits are mingled together to become one spirit (Gal 5:16).t
+The two spirits are mingled together to become one spirit (Gal 5:16). This is the deepest mystery in the entire Bible.

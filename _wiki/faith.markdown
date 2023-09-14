@@ -14,7 +14,7 @@ permalink: /faith/
 
 Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14).
 
-Faith comes out of hearing, and hearing through the word of God.
+Faith comes out of hearing, and hearing through the word of God. All spiritual things are experienced through faith. 
 
 ## Application
 

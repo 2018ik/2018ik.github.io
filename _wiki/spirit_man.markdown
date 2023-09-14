@@ -72,6 +72,8 @@ Why does Paul use the subjunctive mood ("the Lord *be* with your Spirit" - 2 Tim
 
 ## Function
 
+The spirit is actually what separates man from animal. In a sense, the spirit is the reality of man.
+
 ### Residence of the Divine Spirit
 
 The Spirit of God dwells in us (2 Tim. 4:22), i.e. makes His home in us. If we are in our spirit, the Spirit of God dwells in us, but if we are not, there is a sense that the Spirit is not dwelling, which indicates a certain quality of experiencing the Spirit. Our experience of Christ goes up when we care about this experience.

@@ -12,6 +12,7 @@ permalink: /mystery/
   - [The Trinity](#the-trinity)
   - [God's Presence](#gods-presence)
   - [God's Kingdom](#gods-kingdom)
+  - [The Mingled Spirit](#the-mingled-spirit)
 
 ## Background
 
@@ -42,3 +43,7 @@ Feeling God's direct presence, or from another believer, is a mystery.
 ### God's Kingdom
 
 God's kingdom is not of this world; our riches are not of this world, yet they are real. 
+
+### The Mingled Spirit
+
+The union of God and man is a union of the two spirits, the Spirit of God and the spirit of man (2:11-14); tis union ist he deepest mystery in the Bible.
