@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: Vital Groups
-permalink: /vital_groups/
+title: Vital Group
+permalink: /vital_group/
 ---
 - [Background](#background)
 - [Why "Vital" Groups?](#why-vital-groups)
@@ -18,7 +18,7 @@ permalink: /vital_groups/
 
 ## Background
 
-A vital groups is a group of normal Christians who will bring in a new age.
+A vital group is a group of normal Christians who will bring in a new age.
 
 The church is degraded, and has become abnormal, even since the early church throughout Paul's epistles. Satan's strategy is to bring in many replacements for Christ; instead of Christ himself, believers are often more interested in Bible knowledge, carrying out good works, and trying to do good things.
 
@@ -30,7 +30,7 @@ All of these aforementioned things are *not* normal - therefore to be an overcom
 
 ## Why "Vital" Groups?
 
-To be "vital" means to be living and active. There are many groups - believers who meet together - but there is a need for groups who can steadfastly increase, perfect, and build up the Body of Christ (Acts 2:46-47). 
+To be "vital" means to be living and active. There are many groups - believers who meet together - but there is a need for groups who can steadfastly increase, perfect, and build up the Body of Christ (Acts 2:46-47). These are groups of two or three which gather into the Lord's name (Matt. 18:20).
 
 The nature of the vital groups is spiritual, to be filled with the Holy Spirit. The condition of the vital groups is loving one another (John 13:35) in oneness and with one accord.
 

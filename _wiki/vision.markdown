@@ -4,7 +4,9 @@ title: Vision
 permalink: /vision/
 ---
 - [Background](#background)
-- [Importance](#importance)
+- [Significance](#significance)
+- [Commission](#commission)
+  - [Forgetting](#forgetting)
 
 ## Background
 
@@ -14,8 +16,14 @@ When we receive a vision, we lose all our self-confidence, we need to live a lif
 
 Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
 
-## Importance
+## Significance
 
 A vision keeps the one accord. If everyone has the same vision, they will have one heart, one mouth, one voice, and one tone. We should have no arguments and differing opinions, we should all speak the same thing, think the same thing, an press on in one accord (Phi. 2:2).
 
 We must have a desire in our heart to be directed the vision. For example, Peter received vision that Jesus was Christ, but then proceeded to be one with Satan (Matt. 16).
+
+## Commission
+
+### Forgetting
+
+It is possible to forget about a vision after seeing it. For example, Peter received a vision if Matthew 16, but forgot about it in the subsequent chapter (Matt. 17:4; 17:25).
