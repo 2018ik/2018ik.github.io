@@ -1,6 +1,6 @@
 ---
 layout: pagev2
-title: Galatians
+title: Galatians (Book)
 permalink: /god_ordained_way/
 ---
 - [Background](#background)

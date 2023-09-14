@@ -7,5 +7,6 @@ permalink: /salvation/
 
 ## Background
 
+Salvation or judicial salvation refers to 
 
 
