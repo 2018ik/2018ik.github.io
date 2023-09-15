@@ -27,6 +27,8 @@ permalink: /spirit/
   - [Seven Spirits](#seven-spirits-1)
   - [The Spirit](#the-spirit)
 
+TODO: outline
+
 ## Background
 
 The Spirit (also known as the Holy Spirit, Spirit of God, Spirit of Christ, Spirit of Jesus, Spirit of Jesus Christ, Spirit of Jehovah, Holy Spirit, Life-giving Spirit, Sevenfold-intensified Spirit) is part of the Divine Trinity, along with the Father and Son.
@@ -65,7 +67,7 @@ However, there was not much understanding of the Spirit; some believed that the 
 
 In the 1800s, it became generally accepted and widely considered that in resurrection the Son *became* the life-giving Spirit. It was also revealed the the Spirit makes Christ present to the believers, and that the Trinity operates as one.
 
-### Compound Ointment
+### The Spirit of Christ
 
 Finally, it was recovered in the 1950s that humanity is now in the Spirit, and that the Spirit contains a human element. 
 
@@ -143,4 +145,24 @@ This can be illustrated by the hin of olive oil and the four spices. When the in
 
 ### The Spirit
 
+### Transforming Spirit 
 
+In 2 Corinthians there is a transforming Spirit (2 Cor. 3:18) which when attached has many functions: anointing (2 Cor. 1:21), pledging (2 Cor. 1:22), sealing (2 Cor. 1:23), inscribing (2 Cor. 3:3).
+
+TODO: move to its own page
+
+#### Anointing
+
+This function refers to the compound ointment. The compound all-inclusive Spirit is able to anoint us. Anointing implies that new elements are added. 
+
+#### Pledging
+
+
+
+#### Sealing
+
+Whenever something is stamped or sealed, new elements are also added. The distinction of the seal is that it has a distinguishable image and can be understood outwardly by others.
+
+#### Inscribing
+
+God is writing Christ as the ink into the believers with the transforming Spirit (2 Cor. 3:3). The parchment is still there, except it is now inscribed with Christ. In a sense, the believers are a letter of Christ which can be read by others.
