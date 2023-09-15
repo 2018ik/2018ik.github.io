@@ -15,6 +15,24 @@ The Bible reveals that man has three parts.
  
 ![diagram of spirit](../img/WL64-03-20EconomyGod06_1_chart.png)
 
+## Three Parts
+
+The Lord works in someone first by touching them in their heart, so that they may love Him. Then, this love allows them to exercise their spirit to receive God. Finally, God is able to spread through their being into their soul and body so that they can express God. This is the correct order. We do not exercise our soul and body to do good things so that God will bless us; we allow God to dispense Himself into us first which will spontaneously issue in the outward expression in our actions after He spreads from our spirit into our whole being.
+
+### Body
+
+### Soul
+
+The soul is a reflecting organ (2 Cor. 3:18)
+
+### Spirit
+
+The spirit is a receiving organ (John 4:24).
+
+### (Heart)
+
+The heart, which includes the soul and the conscience places its emphasis on love (Mark 12:30).
+
 ## Three Lives
 
 In Romans 7, we have three lives as a regenerated human being - the Divine life in our spirit, the human life in our soul, and the Satanic life in the flesh.

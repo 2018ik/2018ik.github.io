@@ -15,6 +15,10 @@ The soul refers to one's mind, emotion and will. Through the soul, one can inter
 
 ![diagram of soul](../img/WL64-03-20EconomyGod06_2_chart.png)
 
+## Significance
+
+The divine attributes of God are manifest through the soul. We can't express God with just the spirit. Through the soul we can reflect the Lord (2 Cor. 3:18).
+
 ## Biblical Basis
 
 ### Mind

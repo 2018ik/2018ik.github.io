@@ -21,6 +21,10 @@ Just like how we need a healthy physical heart for our physical living, we likew
 
 ![diagram of heart](../img/WL64-03-20EconomyGod06_4_chart.png)
 
+## Significance
+
+Our heart is loving organ (Mark 12:30); as such we must exercise our heart to love the Lord before we do anything else. If we focus solely on our spirit, to touch the Spirit in our spirit, and forget about loving the Lord, that would be terrible. Actually, all spiritual experience begins with the heart. All believers need a simple turn to just love the Lord.
+
 ## Biblical Basis
 
 ### Soul
@@ -46,6 +50,8 @@ Hebrews 4:12 reveals that the heart has intentions, indicating an aspect of the 
 Hebrews 10:22 says, "Having our hearts sprinkled from an evil conscience" indicating plainly that the conscience has much to do with the heart. 1 John 3:20 mentions that "our heart blames us." To blame is the function of the conscience.
 
 #### Relation to the Spirit
+
+While loving with the heart is the beginning of our relationship with God, it cannot be the sole source through which we enjoy God. In order to receive God in a real way, we need the spirit; we worship in spirit (John 4:24). Yet an exercised spirit still needs a pure heart.
 
 A defiled heart defiles the spirit when it passes through such a heart. The soul contains all kinds of terrible things like pride, jealousy, and greed. The spirit does not contain evil things like the heart does. But when the spirit moves through the heart, it is contaminated and colored by the tainted elements of the heart. The spirit itself certainly does not have such elements, but in its release, the pride that is in the heart attaches itself to the spirit, and the spirit becomes a proud spirit. Sometimes the jealousy in one’s heart is attached to the spirit. When the spirit is released, it becomes a spirit of jealousy. If a man is humble and meek in his heart, he will appear to others as having a humble spirit. 
 

@@ -20,6 +20,10 @@ Our loving the Lord is the indispensable requirement for enabling us to enter in
 
 It is not enough to revere God, fear God, worship God; love is the basic requirement to realize and participate in the things which God has ordained (Mark 12:30).
 
+## Significance
+
+Everything comes out of our loving relationship with God. Without love, our enjoyment and experience of Christ will not last.
+
 ## Types of Love
 
 ### First Love
