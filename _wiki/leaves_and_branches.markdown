@@ -1,35 +1,14 @@
 ---
 layout: pagev2
-title: Supplemental Line
-permalink: /supplemental_line/
+title: Leaves and Branches
+permalink: /leaves_and_branches/
 ---
 - [Background](#background)
-- [Items](#items)
-  - [Prophecies Concerning Christ](#prophecies-concerning-christ)
-  - [Old Testament Types](#old-testament-types)
-  - [Church](#church)
-  - [The Kingdom](#the-kingdom)
 
 ## Background
 
-This line of supplemental points are not the main thing which we speak of in a complete way. We do not reject others based on the supplemental line.
+The leaves and the branches are practices in the Bible which help the central and supplemental lines. This includes but is not limited to: the God-ordained way, the Lord's table, the administration of the local church, head covering, foot washing, the rapture, the keeping of days, the handling of idol sacrifices, one cup vs. many cups at the table, and bread leavening.
 
-## Items
+We need to use these matters, but we should not be distracted by them.
 
-These are just examples, there are many more items.
-
-### Prophecies Concerning Christ
-
-The Old Testament paints a colorful picture of Christ, but it is not the central point. These are points which bring us into the all-inclusive Christ.
-
-### Old Testament Types
-
-These types such as Adam as Christ, Eve as the church, Israel as the children of God and  the tabernacle as God's habitation are all pictures which brings us into the reality revealed in the New Testament, which is Christ.
-
-### Church
-
-Churches are supplementary to the Body of Christ. The church brings us into the reality of the Body of Christ, not vice versa.
-
-### The Kingdom
-
-This refers to the kingdom reward in the end times, as well as the judgement seat and weddings feast.
+For example, head covering is to bring us into the realization of the universal headship of Christ. The first person that practiced foot-washing in the Bible was the Lord Jesus. It brings the believers back into the fellowship of the Body of Christ. These practices are not for the physical practice, but for bringing the believers back into the central line.

@@ -4,14 +4,15 @@ title: Transformation
 permalink: /transformation/
 ---
 - [Background](#background)
-
-TODO: add outline
+- [Biblical Basis](#biblical-basis)
+- [Steps](#steps)
+- [Metabolism](#metabolism)
 
 ## Background
 
 Transformation is the inward metabolic process through which God works to spread his divine life and nature into every part of our being - spirit, soul and body (particularly our soul). This dispensing of the Triune God into members of Christ is for the building up of the Body of Christ.
 
-Transformation is not a perciptible outward change in behavior, but an inward change in essence. Someone who is sickly can change their outward appearance with makeup, but actually by eating healthy food, gradually over time there will be the outward expression. As someone is transformed, there is the gradual change in the way they dress and act *as a spontaneous result* of their inward change in disposition.
+Transformation is not a perceptible outward change in behavior, but an inward change in essence. Someone who is sickly can change their outward appearance with makeup, but actually by eating healthy food, gradually over time there will be the outward expression. As someone is transformed, there is the gradual change in the way they dress and act *as a spontaneous result* of their inward change in disposition.
 
 ## Biblical Basis
 

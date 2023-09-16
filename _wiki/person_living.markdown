@@ -4,10 +4,10 @@ title: Person & Living
 permalink: /person_living/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
 - [Practical Basis](#practical-basis)
-
-TODO: outline
+  - [Examples](#examples)
 
 ## Background
 

@@ -74,8 +74,8 @@
   <tbody>
     {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
     {% for page in pages %}
-      {% assign content = page.content | markdownify | strip_html | escape_once %}
-      {% assign word_count = content | replace: "\n", ' ' | split: ' ' | size %}
+      {% assign content_without_testimony = page.content | markdownify | split: '<h2 id="testimonies">Testimonies</h2>' | first %}
+      {% assign word_count = content_without_testimony | replace: "\n", ' ' | split: ' ' | size %}
       <tr>
           <td><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></td>
           <td>{{ word_count }}</td>

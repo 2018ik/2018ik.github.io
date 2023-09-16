@@ -1,4 +1,12 @@
-TODO: add formatting
+---
+layout: pagev2
+title: Sanctification
+permalink: /sanctification/
+---
+- [Background](#background)
+- [Steps](#steps)
+  - [Positional Sanctification](#positional-sanctification)
+  - [Dispositional Sanctification](#dispositional-sanctification)
 
 ## Background
 

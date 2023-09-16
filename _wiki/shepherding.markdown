@@ -4,8 +4,9 @@ title: Shepherding
 permalink: /shepherding/
 ---
 - [Background](#background)
-
-TODO: outline
+- [Significance](#significance)
+- [How to](#how-to)
+  - [Spirit](#spirit)
 
 ## Background
 

@@ -1,7 +1,13 @@
-TODO: add formatting
+---
+layout: pagev2
+title: Enoch
+permalink: /enoch/
+---
+- [Background](#background)
+- [Parent](#parent)
 
 ## Background
 
 ## Parent
 
-After Enoch begot Methusalah, he began walking with God. Then he was taken; this shows that the first one who was raptured was a parent.
+After Enoch begot Methuselah, he began walking with God. Then he was taken; this shows that the first one who was raptured was a parent.

@@ -4,12 +4,21 @@ title: Parenting
 permalink: /parenting/
 ---
 - [Background](#background)
+- [Significance](#significance)
+- [Keys](#keys)
+  - [Living](#living)
+  - [Strictness](#strictness)
+  - [Double Standards](#double-standards)
+  - [Electronic Devices](#electronic-devices)
+  - [Accurate Words](#accurate-words)
+  - [Children Lie](#children-lie)
+  - [Admit Mistakes](#admit-mistakes)
+  - [God's Mercy](#gods-mercy)
 
-TODO: outline
   
 ## Background
 
-Proper parenting is responsible for the next generation of the church. The main things parents should do is nourish their children in the teaching and admonition of the Lord and to not provoke them to anger or discourage them. Parents must exercise self control and must not be loose in any way, that is, they should have a proper person and living. God has committed the children to us, so we must set a high standard among ourselves regarding conduct, morality, judgements, spiritual matters, etc.
+Proper parenting is responsible for the next generation of the church. The main things parents should do is nourish their children in the teaching and admonition of the Lord and to not provoke them to anger or discourage them. Parents must exercise self control and must not be loose in any way, that is, they should have a proper person and living. God has committed the children to us, so we must set a high standard among ourselves regarding conduct, morality, judgments, spiritual matters, etc.
 
 ## Significance
 
@@ -37,7 +46,7 @@ The convenient form of parenting today is to just give them a device. But it is 
 
 Parents should not make empty promises; do not promise anything that cannot be fulfilled. This disappoints the child, and teaches the child to not trust their parents. Every word must be reliable. One should also not exaggerate to their children.
 
-Likewise, whatever parents instruct their children to do, it must be realistic. The child should also be expected to follow such instructions, and to face resonable consequences when they fail to abide. This teaches them that there are consequences to one's actions.
+Likewise, whatever parents instruct their children to do, it must be realistic. The child should also be expected to follow such instructions, and to face reasonable consequences when they fail to abide. This teaches them that there are consequences to one's actions.
 
 ### Children Lie
 
