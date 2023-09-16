@@ -5,11 +5,15 @@ permalink: /shepherding/
 ---
 - [Background](#background)
 
+TODO: outline
+
 ## Background
 
 In order to not shepherd out of the self, we need to see the high peak of the divine revelation and shepherd through the life of God in us.
 
 ## Significance
+
+
 
 ## How to
 
