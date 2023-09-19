@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: New Testament
-permalink: /new_jerusalem/
+permalink: /new_testament/
 ---
 - [Background](#background)
 - [History](#history)
@@ -22,4 +22,12 @@ Then in Acts after resurrection and ascension now indwells the disciples and pro
 In Romans we see the ideal church life described in chapters 12 to 16.
 
 Then we come to 1 Corinthians which is a more realistic depiction of the church life.
+
+## Signifiance
+
+Christ is the first and last name of the New Testamenent, making it clear what the main content is.
+
+### Instrinsic Significance
+
+The New Testament is the practical fulfillment of the Old Testament. In just the book of Matthew, we see 11 times where a particular prophecy in the Old Testament is fulfilled.
 

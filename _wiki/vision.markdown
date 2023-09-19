@@ -12,9 +12,9 @@ permalink: /vision/
 
 A vision is God revealing to man his desire on earth today. With a vision always comes a divine commission, which in order to carry out is through the ministry. It is up to the receiver of a vision whether or not they want to obey it (Acts 26:19).
 
-When we receive a vision, we lose all our self-confidence, we need to live a life of co-dependence on Him. A vision converts us from everything to Christ Himself; He will be the inner operating God to us, energizing us to carry out His plan (Gal 1:15-16).
+When we receive a vision, we lose all our self-confidence, we need to live a life of co-dependence on Him. A vision converts us from everything to Christ Himself; He will be the inner operating God to us, energizing us to carry out His plan (Gal 1:15-16). Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
 
-Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
+Revelation is required for seeing a vision.
 
 ## Significance
 

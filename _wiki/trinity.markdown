@@ -15,6 +15,10 @@ The Divine Trinity is the Father, the Son, and the Spirit which have coexisted s
 
 ## Biblical  Basis
 
+### Plurality
+
+Even in the first verse of the Bible, we see a Triune God. The Hebrew word used for God *elohim* is grammatically plural, while the verb for created is singular.
+
 ### Coexistence
 
 John 14:16-17 says:
