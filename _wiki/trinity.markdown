@@ -5,6 +5,7 @@ permalink: /trinity/
 ---
 - [Background](#background)
 - [Biblical  Basis](#biblical--basis)
+  - [Plurality](#plurality)
   - [Coexistence](#coexistence)
 - [Function](#function)
 - [Mystery](#mystery)

@@ -1,4 +1,10 @@
-TODO: add formatting
+---
+layout: pagev2
+title: Organic Union
+permalink: /organic_union/
+---
+
+TODO: TC
 
 ## Background
 
