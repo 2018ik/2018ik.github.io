@@ -20,7 +20,7 @@ permalink: /god_ordained_way/
 
 ## Background
 
-The God-ordained way refers to begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry.
+The God-ordained way refers to the way ordained by God in order to carry out His New Testament economy. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry.
 
 Each of these four steps requires presenting the truth to others. The best way to be constituted by the truth in the experience of many is PSRP.
 
@@ -30,7 +30,7 @@ Our goal is to build up the Body of Christ (Eph 4:8-16), but in order to do so, 
 
 ## Practice
 
-All of the below steps should be executed when one is in the [reality of the Body of Christ](../body_of_christ#reality-today), otherwise it is a mere facsimile. We need be involvement with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way.
+All of the below steps should be executed when one is in the [reality of the Body of Christ](../body_of_christ#reality-today), otherwise it is a mere facsimile. We need be involvement with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. These steps should likewise be enjoyable, and occur organically, as being joined to Christ is a prerequisite to carrying out any of the below. Since this requires such a living, it is therefore something that is lived out in one's daily lives.
 
 ### Steps
 
