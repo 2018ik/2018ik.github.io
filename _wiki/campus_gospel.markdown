@@ -27,19 +27,21 @@ Likewise, the new students coming into schools must be "harvested" immediately. 
 
 ## Freshman
 
-Not only are freshman (first-years) the most open, they also have the most time left in the university. This gives them more time to see the full vision of the economy of God. Compare this to a master's student or junior who only has half the amount of time left.
+Not only are freshman (first-years) the most open, they also have the most time left in the university. This gives them more time to see the full vision of the economy of God. Compare this to a master's student or junior who only has half the amount of time left. 
 
 ## How to Preach
 
 ### Choosing
-
-Remember your target: find the freshman, don't talk to older people (we care about them, but focus on the campus work).
 
 Do not go by how someone looks on how open they are - you will be absolutely wrong. Notice the details; see if anyone is wearing/doing anything which you can personally relate to. Likewise, based on how they respond, you can discern where they are in their experience of Christ e.g. are they even saved.
 
 ### Testimony
 
 Those who we preach to should be a testimony to all the nations (Matt 24:14). The demographic of the campus club should be similar to the demographic of the campus itself.
+
+### Oneness
+
+The campus work should be one. There should not be separate operations carried out by disparate groups of local saints, full-time serving ones, trainees, college students, etc. 
 
 ### Questions to Expect
 
