@@ -26,6 +26,10 @@ The real significance of prayer is to contact God in our spirit and to absorb Go
 
 Praying also builds up (Jude 20). This is possible if our prayer is not in our self. 
 
+## Instrinsic Significance
+
+To pray is to realize that we are nothing and can do nothing; prayer is the real denial and repudiating of our self tso that we may enjoy Christ as everything to us (Col. 4:2; Gal. 2:20).
+
 ## Genuine Prayer
 
 Prayer may start in our self, but with the proper yearning and turning, we contact Him which brings us into a bilaterally active touch with Him where we enter into Him as the Spirit in our spirit. This is genuine prayer. As a result, this prayer is also truly what is on God's heart, and all of our prayers will be answered (John 15:7).
