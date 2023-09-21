@@ -12,7 +12,7 @@ permalink: /trinity/
 
 ## Background
 
-The Divine Trinity is the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which we cannot understand with our mind. Actually, the purpose of the Divine Trinity is not for human understanding, but for the dispensing of God into man.
+The Divine Trinity is God Himself: the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which we cannot understand with our mind. Actually, the purpose of the Divine Trinity is not for human understanding, but for the dispensing of God into man as life.
 
 ## Biblical  Basis
 

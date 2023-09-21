@@ -15,17 +15,19 @@ permalink: /grace/
 
 ## Background
 
-Grace is God in His Trinity processed through incarnation, human living, crucifixion, resurrection and ascension to be everything to us. Contrary to the popular notion of grace being mere material gifts from God, grace is God Himself becoming our everything in a subjective way, particularly with an emphasis on enjoyment.
+Grace is God in His Trinity processed through incarnation, human living, crucifixion, resurrection and ascension to be everything to His believers. Contrary to the popular notion of grace being mere material gifts from God, grace is God Himself becoming one's everything in a subjective way, particularly with an emphasis on enjoyment.
 
 ## Biblical Basis
 
-John 1:17 tells us that grace came with Jesus Christ. Before incarnation, grace had not come. 
+John 1:17 reveals that grace came with Jesus Christ. Before incarnation, grace had not come. 
 
 ### Versus Law
 
 Grace is greater than the law .
 
 ## Experience 
+
+Grace experienced is God entering into one's situation to be with them and to do in them what they could not do.
 
 ### Boulder Example
 
