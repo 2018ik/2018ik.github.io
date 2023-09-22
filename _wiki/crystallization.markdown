@@ -1,5 +1,9 @@
-TODO: add stuff
+---
+layout: pagev2
+title: Crystallization
+permalink: /crystallization/
+---
 
 ## Background
 
-Crystallization refers to the instrinsic essence of God's divine revelation. 
+Crystallization refers to the intrinsic essence of God's divine revelation. 

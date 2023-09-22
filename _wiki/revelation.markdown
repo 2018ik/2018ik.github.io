@@ -4,6 +4,7 @@ title: Revelation
 permalink: /revelation/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Etymology](#etymology)
 - [Examples in the Bible](#examples-in-the-bible)
   - [Peter](#peter)
@@ -12,10 +13,12 @@ permalink: /revelation/
 - [Age of Revelation](#age-of-revelation)
 - [High Peak](#high-peak)
 - [Tips](#tips)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
-Revelation is God shining on the facts of the Bible. There is a veil over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or instrinsic signifance of the facts of the Bible.
+Revelation is God shining on the facts of the Bible. There is a veil over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or intrinsic significance of the facts of the Bible.
 
 ## Significance
 

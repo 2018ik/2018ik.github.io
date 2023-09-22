@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Gospel Preaching
+permalink: /gospel_preaching/
+---
+- [Background](#background)
+- [Practice](#practice)
 
 ## Background
 

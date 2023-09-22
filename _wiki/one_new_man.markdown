@@ -1,4 +1,9 @@
-TODO: add
+---
+layout: pagev2
+title: One New Man
+permalink: /one_new_man/
+---
+- [Background](#background)
 
 ## Background
 

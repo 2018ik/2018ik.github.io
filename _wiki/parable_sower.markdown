@@ -1,4 +1,9 @@
-TODO: add
+---
+layout: pagev2
+title: Parable of the Sower
+permalink: /parable_sower/
+---
+- [Background](#background)
 
 ## Background
 

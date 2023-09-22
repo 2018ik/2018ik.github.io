@@ -15,6 +15,7 @@ permalink: /spirit/
 - [Titles](#titles)
   - [Holy Spirit](#holy-spirit)
   - [Spirit of God](#spirit-of-god)
+  - [Spirit of Jehovah](#spirit-of-jehovah)
   - [Lord Spirit](#lord-spirit)
   - [Spirit of Christ](#spirit-of-christ)
   - [Spirit of Jesus](#spirit-of-jesus)
@@ -100,11 +101,11 @@ The Holy Spirit is referred to by many titles, each denoting a specific aspect o
 
 ### Holy Spirit
 
-
-
 ### Spirit of God
 
 This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding above the waters. This is also the Spirit of the creator, and was at that point located outside of man. This Spirit was "not yet" (John 7:39). However, this one is now in us as the Spirit of Christ.
+
+### Spirit of Jehovah
 
 ### Lord Spirit
 

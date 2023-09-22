@@ -7,6 +7,8 @@ permalink: /vision/
 - [Significance](#significance)
 - [Commission](#commission)
   - [Forgetting](#forgetting)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -33,3 +35,11 @@ Paul's supplication for the church in Ephesus that they may see the vision was f
 ### Forgetting
 
 It is possible to forget about a vision after seeing it. For example, Peter received a vision if Matthew 16, but forgot about it in the subsequent chapter (Matt. 17:4; 17:25).
+
+## Testimonies
+
+### Testimony #1
+
+>As the divine revelation results in the vision, so does the vision result in God’s move. God wants to move on earth to accomplish His economy, but this move has to be carried out by man, who has to choose to carry this will out. This is a move in the spiritual sense, but outwardly, God is literally moving to establish more churches for the building up of the Body.
+>
+>In the New Testament, the disciples first received revelation, based on all of the things which Jesus did and taught. This revelation became a vision to disciple all the nations and to declare His name to all the entire inhabited earth. Then, the move was carried out when the Holy Spirit fell upon them. The move is altogether based on divine revelation. For example, the Spirit directed Paul to various countries, and directed Peter to evangelize the gentiles. Anything that God has not revealed is not true, and we can ignore it. Any genuine move of God will be based on divine revelation, which comes from the Word of God.

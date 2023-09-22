@@ -1,4 +1,12 @@
-TODO
+---
+layout: pagev2
+title: Eating
+permalink: /eating/
+---
+- [Background](#background)
+- [Biblical Basis](#biblical-basis)
+- [Practice](#practice)
+- [Issues](#issues)
 
 ## Background
 

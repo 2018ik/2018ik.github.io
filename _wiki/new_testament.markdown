@@ -3,7 +3,9 @@ layout: pagev2
 title: New Testament
 permalink: /new_testament/
 ---
-TODO TC
+- [Background](#background)
+- [Signifiance](#signifiance)
+  - [Instrinsic Significance](#instrinsic-significance)
 
 >"After my study of the Bible for the past sixty-nine years, what have I seen? I would say that I have seen the New Jerusalem. This is my vision, this is my revelation, and this is my ministry."
 
