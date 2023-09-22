@@ -1,4 +1,10 @@
-TODO: add stuff
+---
+layout: pagev2
+title: Processed Triune God
+permalink: /processed_triune_god/
+---
+- [Background](#background)
+- [Processes](#processes)
 
 ## Background
 

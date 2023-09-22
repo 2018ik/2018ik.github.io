@@ -1,4 +1,8 @@
-TODO: do stuff
+---
+layout: pagev2
+title: Spirit Exercise
+permalink: /spirit_exercise/
+---
 
 ## Background
 

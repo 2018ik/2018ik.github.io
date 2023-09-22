@@ -1,4 +1,9 @@
-TODO: add stuff
+---
+layout: pagev2
+title: Stewardship
+permalink: /stewardship/
+---
+- [Background](#background)
 
 ## Background
 

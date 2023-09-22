@@ -15,7 +15,7 @@ permalink: /revelation/
 
 ## Background
 
-Revelation is God shining on the facts of the Bible. There is a curtain over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or instrinsic signifance of the facts of the Bible.
+Revelation is God shining on the facts of the Bible. There is a curtain over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or intrinsic significance of the facts of the Bible.
 
 ## Etymology
 

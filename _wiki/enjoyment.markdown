@@ -7,7 +7,7 @@ permalink: /enjoyment/
 - [Through the Cross](#through-the-cross)
 - [Introspection](#introspection)
 - [Issuing](#issuing)
-- [Testimony](#testimony)
+- [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
 
@@ -31,7 +31,7 @@ We need to look away unto Jesus (Heb. 12:2). It is easy to introspect, and to an
 
 The enjoyment of God issues in Him making His home in our hearts.
 
-## Testimony
+## Testimonies
 
 ### Testimony #1
 

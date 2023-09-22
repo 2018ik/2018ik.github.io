@@ -1,4 +1,10 @@
-TODO: add stuff
+---
+layout: pagev2
+title: Life
+permalink: /life/
+---
+- [Background](#background)
+- [Divine Life](#divine-life)
 
 ## Background
 

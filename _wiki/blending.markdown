@@ -1,4 +1,10 @@
-TODO: format
+---
+layout: pagev2
+title: Blending
+permalink: /blending/
+---
+- [Background](#background)
+- [Requirements](#requirements)
 
 ## Background
 

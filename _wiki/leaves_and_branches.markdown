@@ -7,7 +7,7 @@ permalink: /leaves_and_branches/
 
 ## Background
 
-The leaves and the branches are practices in the Bible which help the central and supplemental lines. This includes but is not limited to: the God-ordained way, the Lord's table, the administration of the local church, head covering, foot washing, the rapture, the keeping of days, the handling of idol sacrifices, one cup vs. many cups at the table, and bread leavening.
+The leaves and the branches are items in the Bible which help the central and supplemental lines. This includes but is not limited to: the God-ordained way, the Lord's table, the administration of the local church, head covering, foot washing, the rapture, the keeping of days, the handling of idol sacrifices, one cup vs. many cups at the table, and bread leavening.
 
 We need to use these matters, but we should not be distracted by them.
 

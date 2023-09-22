@@ -1,4 +1,11 @@
-TODO: add stuff
+---
+layout: pagev2
+title: House of God
+permalink: /house_of_god/
+---
+- [Background](#background)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 

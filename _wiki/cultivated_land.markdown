@@ -1,4 +1,9 @@
-TODO: add 
+---
+layout: pagev2
+title: Cultivated Land
+permalink: /cultivated_land/
+---
+- [Background](#background)
 
 ## Background
 

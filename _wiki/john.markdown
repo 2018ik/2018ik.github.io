@@ -1,4 +1,9 @@
-TODO: stuff
+---
+layout: pagev2
+title: John
+permalink: /john/
+---
+- [Background](#background)
 
 ## Background
 

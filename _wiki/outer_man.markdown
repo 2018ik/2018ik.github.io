@@ -1,4 +1,10 @@
-TODO: add formatting
+---
+layout: pagev2
+title: Outer Man
+permalink: /outer_man/
+---
+- [Background](#background)
+- [Biblical Basis](#biblical-basis)
 
 ## Background
 
