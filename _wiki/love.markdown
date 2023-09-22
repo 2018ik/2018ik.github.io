@@ -24,6 +24,10 @@ It is not enough to revere God, fear God, worship God; love is the basic require
 
 Everything comes out of our loving relationship with God. Without love, our enjoyment and experience of Christ will not last.
 
+## Biblical Basis
+
+When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "do you love me?" (Matt. 21:15). 
+
 ## Types of Love
 
 ### First Love

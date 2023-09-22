@@ -25,6 +25,8 @@ Just like how we need a healthy physical heart for our physical living, we likew
 
 Our heart is loving organ (Mark 12:30); as such we must exercise our heart to love the Lord before we do anything else. If we focus solely on our spirit, to touch the Spirit in our spirit, and forget about loving the Lord, that would be terrible. Actually, all spiritual experience begins with the heart. All believers need a simple turn to just love the Lord.
 
+The heart is in a sense a gateway into one's being. An open heart is required for receiving God. This applies not only to initial salvation, but to all spiritual experience.
+
 ## Biblical Basis
 
 ### Soul
@@ -49,7 +51,7 @@ Hebrews 4:12 reveals that the heart has intentions, indicating an aspect of the 
 
 Hebrews 10:22 says, "Having our hearts sprinkled from an evil conscience" indicating plainly that the conscience has much to do with the heart. 1 John 3:20 mentions that "our heart blames us." To blame is the function of the conscience.
 
-#### Relation to the Spirit
+## Gateway
 
 While loving with the heart is the beginning of our relationship with God, it cannot be the sole source through which we enjoy God. In order to receive God in a real way, we need the spirit; we worship in spirit (John 4:24). Yet an exercised spirit still needs a pure heart.
 
