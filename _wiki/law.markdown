@@ -14,7 +14,7 @@ permalink: /law/
 
 ## Background
 
-The law is primarily God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7).
+The law is primarily God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. It is the latter that is abolished (Eph 2:15), yet, the former is not to be kept out of self-effort (Gal 2:19-21).
 
 The law itself is good and holy, but the intention of the law is to show us our sin. Through the law is clear knowledge of sin, and if man tries to keep the law he will not be justified by God because God's standard of righteousness is His own righteous being and no fallen being can meet the standard of God's righteousness.
 
