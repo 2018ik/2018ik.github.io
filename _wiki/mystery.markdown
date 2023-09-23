@@ -16,7 +16,7 @@ permalink: /mystery/
 
 ## Background
 
-The Bible contains many mysteries which cannot be comprehended by our mind. 
+The Bible contains many mysteries which cannot be comprehended by one's mind (John 16:12). These mysteries can only be realized through the Spirit of reality (John 16:13), which God has sent according to His will to make these things known (Col. 1:27; Eph. 3:9).
 
 ## Application
 
@@ -26,7 +26,7 @@ These mysteries can be understood through God's revelation. Peter's affirmation 
 
 ### Christ
 
-Christ is the mystery of God
+Christ is the mystery of God (Col. 2:2).
 
 ### The Church
 

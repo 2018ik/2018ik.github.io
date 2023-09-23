@@ -18,6 +18,14 @@ permalink: /gospel/
 
 The gospel of God involves a person with two natures: divinity and humanity. The reason why He became the son of God in humanity is to go through a process to elevate his humanity and become the prototype so that we can go through the same process of designation and transformation.
 
+## Content
+
+The content of the gospel is that man fell, and was redeemed by God so that man may be saved in the *present* from the all things of the flesh throubgh the Spirit in their spirit.
+
+## Focus
+
+The focus of the gospel is God received by man as the Spirit (Gal. 3). 
+
 ## Biblical Basis
 
 ### Romans 1:3-4

@@ -18,6 +18,11 @@ permalink: /kingdom/
 
 The kingdom of God is a realm in which God can exercise his authority. The kingdom life is not just something in the future. We can enter into the kingdom life today, and the prerequisite is our growth in life.
 
+
+## Significance
+TODO
+For the sake of God's kingdom, He will add to us all these things (e.g. daily bread). These are things required for us to live the kingdom life, not everything which we desire out of our self.
+
 ## Biblical Basis
 
 ### Matthew

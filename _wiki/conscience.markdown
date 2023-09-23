@@ -13,6 +13,11 @@ permalink: /conscience/
 
 The conscience enables one to discern right from wrong, and is a function of the human spirit. It can either justify us or condemn us. 
 
+
+## Significance
+
+The conscience is the leading part of the human spirit, and without dealing with a dirtied conscience, there is no fellowship with God (1 John 1:6). If one feels that there is a barrier between them and God, they must confess what their conscience accuses them of.
+
 ## Biblical Basis
 
 ### The Spirit
@@ -26,6 +31,10 @@ In 1 Corinthians 5:3 the apostle Paul says that in his spirit he judged a sinful
 Psalm 51:10 speaks of "a right spirit within me" and Psalm 34:18 speaks of being "contrite in spirit." Knowing right from wrong is related to the conscience.
 
 Deuteronomy 2:30 shows that man can harden his spirit, which means that the conscience was hardened. When we cast off the feeling in the conscience, we become hardened in the spirit.
+
+## Function
+
+The conscience touches any offense one may have towards God and man (Acts 24:16). This includes situations where one may not necessarily be fully in the wrong. Just because someone else is also in the wrong, this does **not** justify oneself being in the wrong. For example, if Bob steals a $10 pen from Mike, who stole a $20000 car from Bob, Bob nonetheless still must confess fault to Mike.
 
 ## Testimonies
 
