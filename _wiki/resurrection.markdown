@@ -66,7 +66,7 @@ The mingling of divinity and humanity was not complete on incarnation; the human
 
 The principle of resurrection is that everything natural must pass through death and then resurrect with God's element. 
 
-In the New Jerusalem, the Lamb on the throne represents the resurrected Lord who has now been glorified and enthroned. The life-giving Spirit is the river of water of life. No resurrection, no New Jerusalem, no fulfillment of God's economy.
+In the New Jerusalem, the Lamb on the throne represents the resurrected firstborn Son of God who has now been glorified and enthroned. The regenerated believers as the bride of Christ are the constituents of the New Jerusalem. The life-giving Spirit is the river of water of life. No resurrection, no Body of Christ, no New Jerusalem, no fulfillment of God's economy.
 
 ## God of Resurrection
 

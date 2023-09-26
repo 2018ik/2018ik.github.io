@@ -15,7 +15,11 @@ permalink: /revelation/
 
 ## Background
 
-Revelation is God shining on the facts of the Bible. There is a curtain over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or instrinsic signifance of the facts of the Bible.
+Revelation is God shining on the facts of the Bible. There is a veil over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or instrinsic signifance of the facts of the Bible.
+
+## Significance
+
+Receiving revelation requires the operation of the Holy Spirit.
 
 ## Etymology
 
@@ -25,7 +29,7 @@ Revelation is God shining on the facts of the Bible. There is a curtain over the
 
 ### Peter
 
-Peter received revelation from the Father to know Jesus as Christ, the Son of the living God (Matt. 16:1?). 
+Peter received revelation from the Father to know Jesus as Christ, the Son of the living God (Matt. 16:16). This is the only time Peter is referred to as "Simon Barjona" (Matt. 16:17) where Barjona means son of Jonah, and Jonah means *dove*, which typifies the Holy Spirit. 
 
 ### Paul
 
@@ -56,3 +60,11 @@ How to receive revelation:
 7. Have a thorough confession
 8. Come to the Bible each day with the realization that we are coming to God
 9. Singing, praying, pray-reading the Word
+10. Prepare and speak prophecies 
+
+
+## Testimonies
+
+### Testimony #1
+
+> How did I come to see the truths in the Bible? First, it's because I love the Lord Jesus. There have been many brilliant scholars throughout history, but the deep and hidden things of God's economy are only for His lovers. We should pray "Lord Jesus I love you" before opening the Scriptures. Secondly, it's because I love the Bible. Thirdly, it's because I have studied and treasured the ministry of the Word.
