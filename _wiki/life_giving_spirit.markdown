@@ -10,6 +10,10 @@ permalink: /life_giving_spirit/
 
 ## Background
 
+## Significance
+
+The life-giving Spirit is the essence and reality of the Body of Christ (1 Cor. 12:13). As the blood is the essence of a physical body, if the Spirit is removed from the Body, it becomes a corpse.
+
 ## All-Inclusive
 
 ### Human Elements

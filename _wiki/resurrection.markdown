@@ -21,6 +21,20 @@ Christ's resurrection is the beginning of the new creation. It produced the firs
 
 ## Significance
 
+The typical understanding of Christ's resurrection is that:
+
+1. One needs to believe that Jesus was raised from the dead to be saved (Rom. 10:10)
+2. It was the magnificent and full victory over death, Hades and the grave (Rev. 1:TODO)
+3. It proves God accepted Christ's death as justification for our sins (Rom. 4:25)
+
+The problem with these three facts is that they have very little to do with the organic significance of Christ's resurrection for the fulfillment of God's eternal economy which is His endeavor to dispense Himself as the Spirit into our being so that He may gain an organism of Himself which is the Body which consummates the New Jerusalem.
+
+Through the death, the shell of the Lord's humanity was broken and the divine life was released, and in resurrection, the divine life:
+
+1. ???
+2. Produces the many grains as His reproduction
+3. Transfigures from flesh to the life-giving Spirit
+
 ### Victory
 
 For a vast majority of Christians, resurrection is simply a historical process that Jesus underwent 2000 years ago. Seemingly the most significant aspect of resurrection is that it signifies Christ's complete victory of death, Hades and the grave. 
@@ -51,6 +65,8 @@ Resurrection is our destiny; there is a time coming where every particle of our 
 The mingling of divinity and humanity was not complete on incarnation; the human flesh of Jesus had nothing to do with divinity. It was in resurrection that humanity was brought into divinity. It is only in death that was can experience resurrection; resurrection is entering into death, passing through death, and emerging from death.
 
 The principle of resurrection is that everything natural must pass through death and then resurrect with God's element. 
+
+In the New Jerusalem, the Lamb on the throne represents the resurrected Lord who has now been glorified and enthroned. The life-giving Spirit is the river of water of life. No resurrection, no New Jerusalem, no fulfillment of God's economy.
 
 ## God of Resurrection
 
