@@ -19,7 +19,9 @@ Christ replaces the law and there is no reason to keep the law (Gal 2:16). Justi
 
 ## Chapter 3
 
-Paul tells the Galatians that it is foolish to take the way of the law, and attempting to perfect themselves by the flesh (Gal. 3:3), when they have already received the Spirit out of the hearing of faith (Gal. 3:2). Then, we see that Abraham received a promise of a blessing (Gal. 3:8),   
+Paul tells the Galatians that it is foolish to take the way of the law, and attempting to perfect themselves by the flesh (Gal. 3:3), when they have already received the Spirit out of the hearing of faith (Gal. 3:2). Then, it is revealed that the promise given to Abraham "In you shall all the nations be blessed" (Gal. 3:8) prophesies concerning Christ as the unique seed of Abraham who brings the blessing to the nations (Gal. 3:16) by means of regeneration.
+
+This blessing is actually the promise to give the Spirit to the believers (Gal. 3:14), a far superior reward to any promise of going to heaven.
 
 ## Chapter 4
 
