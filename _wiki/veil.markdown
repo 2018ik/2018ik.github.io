@@ -2,7 +2,7 @@ TODO
 
 ## Background
 
-The majority of Christians today have a veiled understanding of the Bible. These veils 
+The majority of Christians today have a veiled understanding of the Bible. These veils can be removed by having a heart turned to the Lord (2 Cor. 3:16). This implies that veils are actually just a turned away, darkened heart.
 
 ## Significance
 

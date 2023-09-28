@@ -15,7 +15,7 @@ permalink: /heart/
 
 ## Background
 
-The heart consists of the soul and the conscience. Many times "soul" and "heart" are used interchangeably in the Bible, but there is nonetheless a definite aspect of the conscience in the heart. As a result, light comes from the heart.
+The heart consists of the soul and the conscience and is the gateway to the spirit. Many times "soul" and "heart" are used interchangeably in the Bible, but there is nonetheless a definite aspect of the conscience in the heart. As a result, light comes from the heart.
 
 Just like how we need a healthy physical heart for our physical living, we likewise need a healthy heart for our psychological and spiritual living.
 
@@ -25,7 +25,7 @@ Just like how we need a healthy physical heart for our physical living, we likew
 
 Our heart is loving organ (Mark 12:30); as such we must exercise our heart to love the Lord before we do anything else. If we focus solely on our spirit, to touch the Spirit in our spirit, and forget about loving the Lord, that would be terrible. Actually, all spiritual experience begins with the heart. All believers need a simple turn to just love the Lord.
 
-The heart is in a sense a gateway into one's being. An open heart is required for receiving God. This applies not only to initial salvation, but to all spiritual experience.
+The heart is in a sense a gateway into one's being. An open heart is required for receiving God. This applies not only to initial salvation, but to all spiritual experience. The great power of the spirit is controlled by one's heart (Prov. 4:23).
 
 ## Biblical Basis
 

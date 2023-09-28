@@ -11,8 +11,7 @@ permalink: /conscience/
 
 ## Background
 
-The conscience enables one to discern right from wrong, and is a function of the human spirit. It can either justify us or condemn us. 
-
+The conscience enables one to discern right from wrong, and is a function of the human spirit. It can either justify us or condemn us, and functions as the window of the spirit. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul.
 
 ## Significance
 
