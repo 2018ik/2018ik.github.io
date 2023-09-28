@@ -4,7 +4,7 @@ TODO
 
 Paul's gospel refers to that which he revealed in his New Testament epistles from Romans to Hebrews. This is not any different from the gospel that is revealed in the four books of gospel: Matthew, Mark, Luke and John, but a particular aspect of the gospel revealed by Paul.
 
-Matthew, Mark, Luke and John speak of the kingdom, service, forgiveness and life respectively. These aspects of the gospels are not lost in Paul's writings. He describes the kingdom of God, as well as the characteristics of those who will inhereit it (Rom. 14:17; 1 Cor. 4:20; 6:9; 15:50; Gal. 5:21). He describes the importance of serving God (Rom. Rom. 12:1; Gal. 6:17). He describes very clearly how we were redeemed, justified and reconciled to God (Rom. 4:1; 5:10; Gal. 2:16). Lastly, we see repeatedly that God is being dispensed as life into the believers that we would be one with God in life and nature (Gal 2:20; 4:7; Eph. 1:23; 3:19). 
+Matthew, Mark, Luke and John speak of the kingdom, service, forgiveness and life respectively. These aspects of the gospels are not lost in Paul's writings. He describes the kingdom of God, as well as the characteristics of those who will inherit it (Rom. 14:17; 1 Cor. 4:20; 6:9; 15:50; Gal. 5:21). He describes the importance of serving God (Rom. Rom. 12:1; Gal. 6:17). He describes very clearly how we were redeemed, justified and reconciled to God (Rom. 4:1; 5:10; Gal. 2:16). Lastly, we see repeatedly that God is being dispensed as life into the believers that we would be one with God in life and nature (Gal 2:20; 4:7; Eph. 1:23; 3:19). 
 
 ## Significance
 

@@ -88,6 +88,8 @@ The church continued to degrade, and could not fulfill God's eternal economy. Th
 
 ## Essence vs Economy
 
+The Spirit has both essential and economical aspects. When the Lord breathed the Spirit into the disciples in John 20:22, this was the essential Spirit for their living. When the spirit was poured out in Acts 2:1-4 as a violent wind, this was the economical Spirit for God's economy and His move.
+
 When Christ became a man, He changed His form to become flesh (John 1:14). This is economical; essentially there is never change in the Divine Trinity. But by becoming a man, economically there was a change in form. When He resurrected from the dead he did not cast off His humanity it became a part of Him; His humanity had now interwoven into the Spirit. 
 
 Economically, the Word became flesh, and then the last Adam became the life-giving Spirit.
@@ -114,7 +116,7 @@ The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrecti
 
 ### Spirit of Jesus
 
-The Spirit of Jesus is mentioned only in Acts 16:7  and is related to the Lord's humanity and human living.
+The Spirit of Jesus is mentioned only in Acts 16:7  and is related to the Lord's humanity and human living. This record shows that there is some aspect of humanity now compounded into the Holy Spirit, and that this Spirit which includes the Lord's living from manger to the cross was needed for the apostle's preaching ministry, which had much suffering.
 
 ### Spirit of Jesus Christ
 
@@ -134,7 +136,7 @@ The life-giving Spirit seen in 1 Corinthians 15:45 is the same Spirit as the Spi
 
 ### Spirit of Power
 
-The Spirit has power without economically. This spirit of power in Acts 1:8 allowed many to receive the Pentecostal power, which was had an outward power.
+The Spirit has power without economically. This spirit of power in Acts 1:8 allowed many to receive the Pentecostal power, which was had an outward power. This is emphasized in Luke 24:49 where the outpouring of the economical Spirit is referred to as "put on power from on high." This is to put on like clothing, which is an outward expression of power and authority, items required for God's move on earth.
 
 ### Compound Spirit
 

@@ -18,6 +18,10 @@ For example, a carpenter can build a chair, and design the concept with its colo
 
 The Greek word for church *ekklesia* means a called out assembly. The church is therefore a congregation of people, not a physical building. 
 
+## History
+
+The universal church was established after Jesus passed through His human living and became the life-giving Spirit which was breathed and poured out upon the disciples. 
+
 ## Universal
 
 The Lord Jesus mentions the church twice - once in the universal aspect and once in the local aspect.
