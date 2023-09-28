@@ -4,11 +4,13 @@ title: Two Aspects of Truth
 permalink: /two_aspects_of_truth/
 ---
 - [Background](#background)
+- [Examples](#examples)
+  - [Child and Adult](#child-and-adult)
 
 ## Background
 This is a basic principle of studying the Bible where two facts may seemingly be contradictory (e.g. the essential and economic aspects of the Triune God) and must be examined with wisdom and revelation.
 
-## Examples TODO
+## Examples
 
 ### Child and Adult
 

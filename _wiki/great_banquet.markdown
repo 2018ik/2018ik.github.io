@@ -1,4 +1,11 @@
-## TODO
+---
+layout: pagev2
+title: Great Banquet (Parable)
+permalink: /great_banquet/
+---
+- [Background](#background)
+- [Significance](#significance)
+  - [Compel](#compel)
 
 ## Background
 

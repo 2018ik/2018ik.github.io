@@ -1,4 +1,8 @@
-TODO
+---
+layout: pagev2
+title: Seek First the Kingdom
+permalink: /seek_first_kingdom/
+---
 
 ## Background
 

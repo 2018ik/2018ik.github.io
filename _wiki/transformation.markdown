@@ -4,6 +4,7 @@ title: Transformation
 permalink: /transformation/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
 - [Steps](#steps)
 - [Metabolism](#metabolism)
@@ -14,7 +15,7 @@ Transformation is the inward metabolic process through which God works to spread
 
 Transformation is not a perceptible outward change in behavior, but an inward change in essence. Someone who is sickly can change their outward appearance with makeup, but actually by eating healthy food, gradually over time there will be the outward expression. As someone is transformed, there is the gradual change in the way they dress and act *as a spontaneous result* of their inward change in disposition.
 
-## Significance TODO
+## Significance
 
 The building up of the church requires the proper material, that is gold, silver and precious stones (1 Cor. 3:12) which requires transformation. Each member of the Body of Christ is being transformed into same image as God to build up the Body of Christ (2 Cor. 3:18), which consummates the New Jerusalem (Rev. 21:12-21).
 

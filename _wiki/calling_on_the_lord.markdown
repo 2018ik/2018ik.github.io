@@ -4,6 +4,7 @@ title: Calling on the Lord
 permalink: /calling_on_the_lord/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [History](#history)
 - [Practice by Old Testament saints:](#practice-by-old-testament-saints)
   - [Enosh](#enosh)
@@ -23,7 +24,7 @@ Calling on the Lord means to call out, to cry out or to invoke a person. Men beg
 
 Even from the lowest pit, we can call upon the name of the Lord (Lam. 3:55-56). In the same utterance from Jeremiah, we see that calling is closely related to breathing in the Lord. We can also cry out with a ringing shout (Isa. 12:3-6).
 
-## Significance TODO
+## Significance
 
 Calling on the Lord is not to get something from the Lord, but it is get His person.
 

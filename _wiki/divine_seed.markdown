@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Divine Seed
+permalink: /divine_seed/
+---
+- [Background](#background)
 
 ## Background
 

@@ -1,4 +1,11 @@
-TODO
+---
+layout: pagev2
+title: Paul's Gospel
+permalink: /paul_gospel/
+---
+- [Background](#background)
+- [Significance](#significance)
+- [Biblical Basis](#biblical-basis)
 
 ## Background
 

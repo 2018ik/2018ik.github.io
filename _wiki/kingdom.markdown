@@ -5,6 +5,7 @@ permalink: /kingdom/
 ---
 
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
   - [Matthew](#matthew)
   - [Kingdom of God](#kingdom-of-god)
@@ -20,7 +21,6 @@ The kingdom of God is a realm in which God can exercise his authority. The kingd
 
 
 ## Significance
-TODO
 For the sake of God's kingdom, He will add to us all these things (e.g. daily bread). These are things required for us to live the kingdom life, not everything which we desire out of our self.
 
 ## Biblical Basis

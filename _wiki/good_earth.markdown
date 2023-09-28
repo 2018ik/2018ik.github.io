@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Good Earth
+permalink: /good_earth/
+---
+- [Background](#background)
 
 ## Background
 

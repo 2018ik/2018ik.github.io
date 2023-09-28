@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Spiritual Milk
+permalink: /spiritual_milk/
+---
+- [Background](#background)
 
 ## Background
 

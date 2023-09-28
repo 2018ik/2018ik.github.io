@@ -1,4 +1,11 @@
-TODO
+---
+layout: pagev2
+title: Door Knocking
+permalink: /door_knocking/
+---
+- [Background](#background)
+- [Biblical Basis](#biblical-basis)
+- [Significance](#significance)
 
 ## Background
 

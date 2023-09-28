@@ -1,4 +1,20 @@
-TODO
+---
+layout: pagev2
+title: Veil
+permalink: /veil/
+---
+- [Background](#background)
+- [Significance](#significance)
+- [Types](#types)
+  - [Natural Concepts](#natural-concepts)
+  - [Human Philosophies](#human-philosophies)
+  - [Christian Teachings](#christian-teachings)
+  - [Religious Concepts](#religious-concepts)
+  - [National Character](#national-character)
+  - [Culture](#culture)
+  - [Disposition](#disposition)
+- [Biblical Examples](#biblical-examples)
+  - [Mary](#mary)
 
 ## Background
 

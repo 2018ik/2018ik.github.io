@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Wayside
+permalink: /wayside/
+---
+- [Background](#background)
 
 ## Background
 

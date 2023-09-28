@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Measure
+permalink: /measure/
+---
+- [Background](#background)
+- [Significance](#significance)
 
 ## Background
 

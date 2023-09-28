@@ -1,5 +1,10 @@
-TODO: asdf
-
+---
+layout: pagev2
+title: Cooperation
+permalink: /cooperation/
+---
+- [Background](#background)
+- [Practical Steps](#practical-steps)
 
 ## Background
 

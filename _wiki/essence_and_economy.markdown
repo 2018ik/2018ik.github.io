@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Essence and Economy
+permalink: /essence_and_economy/
+---
+- [Background](#background)
+- [Significance](#significance)
 
 ## Background
 

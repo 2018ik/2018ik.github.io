@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Unveil
+permalink: /unveil/
+---
+- [Background](#background)
+- [Tips](#tips)
 
 ## Background
 
@@ -12,7 +18,7 @@ Similarly, we need to realize that the vast majority have a superficial understa
 
 ## Tips
 
-1. Turn the heart to the Lord. Whenever the heart turns to the Lord, the veil is taken away (TODO). One needs to pray morning by morning that their heart may be turned to the Lord. Turning to the Lord however requires that we be saved from pride. 
+1. Turn the heart to the Lord. Whenever the heart turns to the Lord, the veil is taken away (2 Cor. 3:16). One needs to pray morning by morning that their heart may be turned to the Lord. Turning to the Lord however requires that we be saved from pride. 
 2. Be saved from pride. God resists the proud.
 3. Consider ourselves in a sober-minded way
 4. Bind the blinding work of the god of this age

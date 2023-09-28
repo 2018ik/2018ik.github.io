@@ -24,7 +24,7 @@ Christ's resurrection is the beginning of the new creation. It produced the firs
 The typical understanding of Christ's resurrection is that:
 
 1. One needs to believe that Jesus was raised from the dead to be saved (Rom. 10:10)
-2. It was the magnificent and full victory over death, Hades and the grave (Rev. 1:TODO)
+2. It was the magnificent and full victory over death, Hades and the grave (Rev. 1:18)
 3. It proves God accepted Christ's death as justification for our sins (Rom. 4:25)
 
 The problem with these three facts is that they have very little to do with the organic significance of Christ's resurrection for the fulfillment of God's eternal economy which is His endeavor to dispense Himself as the Spirit into our being so that He may gain an organism of Himself which is the Body which consummates the New Jerusalem.

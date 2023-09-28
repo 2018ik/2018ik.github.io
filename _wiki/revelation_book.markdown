@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Revelation (Book)
+permalink: /revelation/
+---
+- [Background](#background)
 
 ## Background
 

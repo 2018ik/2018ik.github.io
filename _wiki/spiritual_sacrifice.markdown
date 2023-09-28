@@ -1,8 +1,19 @@
-TODO
+---
+layout: pagev2
+title: Spiritual Sacrifices
+permalink: /spiritual_sacrifices/
+---
+- [Background](#background)
+- [Significance](#significance)
+  - [Christ](#christ)
+  - [Gospel](#gospel)
+  - [Oneself](#oneself)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
-Spiritual sacrifices are offerred to God by the New Testament priests (1 Pet 2:5). These differ from the Old Testament sacrifices, which were literal sacrifices and include Christ as the reality of the Old Testament types, sinners saved by the gospel (Rom. 15:16), and one's own body (Rom 12:1).
+Spiritual sacrifices are offered to God by the New Testament priests (1 Pet 2:5). These differ from the Old Testament sacrifices, which were literal sacrifices and include Christ as the reality of the Old Testament types, sinners saved by the gospel (Rom. 15:16), and one's own body (Rom 12:1).
 
 ## Significance
 

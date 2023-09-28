@@ -6,14 +6,16 @@ permalink: /parenting/
 - [Background](#background)
 - [Significance](#significance)
 - [Keys](#keys)
-  - [Living](#living)
-  - [Strictness](#strictness)
+  - [Self-Living](#self-living)
+  - [Self-Strictness](#self-strictness)
   - [Double Standards](#double-standards)
   - [Electronic Devices](#electronic-devices)
   - [Accurate Words](#accurate-words)
   - [Children Lie](#children-lie)
   - [Admit Mistakes](#admit-mistakes)
+  - [Deal With Pride](#deal-with-pride)
   - [God's Mercy](#gods-mercy)
+- [Mutual Perfection](#mutual-perfection)
 
   
 ## Background
@@ -65,5 +67,4 @@ Children should not be given excessive praise, so as to build up their pride. Th
 In the end, one must entrust their children to God's mercy. Even Samuel, someone who had essentially no negative things written about him, had children who did not follow his ways (1 Sam. 8:3). However, it is still absolutely the parent's responsibility for their child's upbringing.
 
 ## Mutual Perfection
-TODO
 Children are actually the spirit's helper - they serve likewise to transform the parents, that they may be perfected.

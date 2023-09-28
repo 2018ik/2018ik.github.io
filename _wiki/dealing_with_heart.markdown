@@ -1,4 +1,13 @@
-TODO
+---
+layout: pagev2
+title: Dealing with the Heart
+permalink: /dealing_with_the_heart/
+---
+- [Background](#background)
+- [Steps](#steps)
+  - [Purification](#purification)
+  - [Confess](#confess)
+  - [Fellowship, Intuition](#fellowship-intuition)
 
 ## Background
 

@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: God's Move
+permalink: /gods_move/
+---
+- [Background](#background)
+- [Steps](#steps)
 
 ## Background
 
