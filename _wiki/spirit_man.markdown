@@ -40,6 +40,8 @@ Many verses in the Bible indicate that there is the Spirit of God as well as a s
 
 Romans 8:16 says that the Spirit witnesses with our spirit, indicating that there is both a Spirit of God and a spirit of man. Hebrews 4:12 draws a distinction between the soul and spirit, and 1 Thessalonians shows that man has a spirit, soul and body.
 
+1 Corinthians 2:11 mentions the spirit of man, except this verse also personifies the spirit with the pronoun "who," indicating a mingling of the Spirit of God with our spirit, in which there is a person present in man's spirit.
+
 The following sections on the three functions of the spirit contain verses which prove there is a human spirit.
 
 ### Conscience

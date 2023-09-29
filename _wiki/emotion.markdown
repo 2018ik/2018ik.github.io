@@ -11,6 +11,10 @@ permalink: /emotion/
 
 All of man's emotions are experienced by the soul. This includes love, hate, joy, grief, etc.
 
+## Significance
+
+One can only have deep communion with the Lord when one loves Him supremely.
+
 ## Biblical Basis
 
 ### The Soul

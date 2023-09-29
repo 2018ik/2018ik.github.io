@@ -13,9 +13,11 @@ permalink: /conscience/
 
 The conscience enables one to discern right from wrong, and is a function of the human spirit. It can either justify us or condemn us, and functions as the window of the spirit. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul.
 
+The conscience serves to direct the soul, and confirms whether or not a particular intention is right with God.
+
 ## Significance
 
-The conscience is the leading part of the human spirit, and without dealing with a dirtied conscience, there is no fellowship with God (1 John 1:6). If one feels that there is a barrier between them and God, they must confess what their conscience accuses them of.
+The conscience is the leading part of the human spirit, and without dealing with a dirtied conscience, there is no fellowship with God (1 John 1:6). If one feels that there is a barrier between them and God, they must confess what their conscience accuses them of. 
 
 ## Biblical Basis
 

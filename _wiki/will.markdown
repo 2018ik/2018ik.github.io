@@ -11,6 +11,10 @@ permalink: /will/
 
 The will is the part of the soul which can choose, refuse and decide. When one sets their heart to do something, that is an exercise of the will.
 
+## Significance
+
+
+
 ## Biblical Basis
 
 ### The Soul

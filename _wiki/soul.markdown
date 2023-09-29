@@ -17,7 +17,7 @@ The soul refers to one's mind, emotion and will. Through the soul, one can inter
 
 ## Significance
 
-The divine attributes of God are manifest through the soul. We can't express God with just the spirit. Through the soul we can reflect the Lord (2 Cor. 3:18).
+The divine attributes of God are manifest through the soul. God cannot be expressed with just the spirit. Through the soul we can reflect the Lord (2 Cor. 3:18).
 
 ## Biblical Basis
 
@@ -40,3 +40,8 @@ The soul exhibits many emotions throughout the Bible, indicating that man's emot
 
 The soul can choose (Job 7:15), refuse (Job 6:7), and seek after things (1 Chron. 22:19). These are functions of man's will. Numbers 30 also talks about binding one's soul, which in context we can see is a matter of making a vow, which is to do with man's will. The Hebrew word *soul* is also occasionally translated into *will* based on context (Psa. 27:12; 41:2).
 
+## Dealing
+
+One must deal with the soul in order to manifest its true function (to express God). Without this dealing, the soul expresses the self. In fact, despite having a spirit, man can live by means of only the soul, as seen in Genesis 2:7 where Adam was a living soul. 
+
+The dealing of the soul begins with the [dealing of the heart](../dealing_with_heart.markdown), and is initiated by the spreading of the spirit into the soul.
