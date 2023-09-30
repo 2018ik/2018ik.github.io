@@ -29,7 +29,6 @@ If one is able to do much (i.e. speak eloquently, have much knowledge and life e
 
 The Christian life is a life of sowing; everything one does is a kind of sowing, either of the flesh or the spirit (Gal. 6:7-8). That is, what one does in their daily living is also a pattern that the younger ones follow (2 Tim 3:10). A dissolute life establishes a bad standard which others - especially one's children - will follow.
 
-
 ### Examples
 
 On Lord's day (Sunday), believers should go to the Lord's day meeting, because it is the proper testimony of a Christian. Nowadays, Sunday morning seems to be the only available time for things to be done - sports, birthday parties, etc. As ones who belong to God, believers must have a particular living, including during the Lord's day morning.
