@@ -7,7 +7,7 @@ permalink: /galatians_chapters/
 
 ## Background
 
-The Book of Galatians has 6 chapters.
+The Epistle to the Galatians has 6 chapters.
 
 ## Chapter 1
 

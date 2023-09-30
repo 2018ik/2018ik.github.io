@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Galatians (Book)
-permalink: /god_ordained_way/
+permalink: /galatians/
 ---
 - [Background](#background)
 - [Summary](#summary)

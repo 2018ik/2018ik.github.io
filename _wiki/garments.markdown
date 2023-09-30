@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Garments
+permalink: /garments/
+---
+- [Background](#background)
 
 ## Background
 

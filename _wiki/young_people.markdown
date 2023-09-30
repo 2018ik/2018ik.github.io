@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Young People
-permalink: /young/
+permalink: /young_people/
 ---
 - [Background](#background)
 - [Burden](#burden)
