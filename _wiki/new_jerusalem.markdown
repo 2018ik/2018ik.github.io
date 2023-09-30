@@ -20,13 +20,17 @@ The New Jerusalem is not a physical city; it is the greatest and ultimate sign i
 
 It is often believed that we will go to heaven, and there will be some kind of mansion, golden streets, etc. Similarly, we may have certain concepts regarding the New Jerusalem. But the Bible tells us that the New Jerusalem is a lot more than just a city. If we miss this, then we are missing a rich gospel that the Lord is showing us.
 
+Our living out of the New Jerusalem is for us to become the New Jerusalem, and our working out the New Jerusalem is for us to build the New Jerusalem by the flowing Triune God.
+
+## Biblical Basis TODO
+
+In Revelation 1:1 we see that Christ made His revelation known by signs. As the Lamb is a sign for Christ, so are the lampstands signs for the local churches, so is the New Jerusalem a sign for the bridge of Christ, which is the consummation of the Body of Christ, which is the totality of the believers.
+
 >"And I saw the holy city, New Jerusalem, coming down out of heaven from God, **prepared as a bride** adorned for her husband"
 
 \- Rev. 21:2
 
-This is not a physical city - we are **becoming** the New Jerusalem, the bride of Christ, through which we will be joined to God in oneness.
-
-Our living out of the New Jerusalem is for us to become the New Jerusalem, and our working out the New Jerusalem is for us to build the New Jerusalem by the flowing Triune God.
+This is not a physical and lifeless city made of literal, physical stones - we are **becoming** the New Jerusalem, the bride of Christ, through which we will be joined to God in oneness
 
 ## History
 
