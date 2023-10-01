@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Living Pattern
+permalink: /living_pattern/
+---
+- [Background](#background)
+- [Significance](#significance)
 
 ## Background
 

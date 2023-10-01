@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Intrinsic Significance
+permalink: /intrinsic_significance/
+---
+- [Background](#background)
 
 ## Background
 

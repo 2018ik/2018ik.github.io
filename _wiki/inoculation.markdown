@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Inoculation
+permalink: /inoculation/
+---
+- [Background](#background)
+- [History](#history)
 
 ## Background
 

@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Self Glory
+permalink: /self_glory/
+---
+- [Background](#background)
+- [Biblical Basis](#biblical-basis)
 
 ## Background
 

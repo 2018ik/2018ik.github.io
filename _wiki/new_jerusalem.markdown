@@ -4,6 +4,7 @@ title: New Jerusalem
 permalink: /new_jerusalem/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [History](#history)
   - [Description](#description)
 - [Glorification](#glorification)
@@ -22,7 +23,7 @@ It is often believed that we will go to heaven, and there will be some kind of m
 
 Our living out of the New Jerusalem is for us to become the New Jerusalem, and our working out the New Jerusalem is for us to build the New Jerusalem by the flowing Triune God.
 
-## Biblical Basis TODO
+## Biblical Basis
 
 In Revelation 1:1 we see that Christ made His revelation known by signs. As the Lamb is a sign for Christ, so are the lampstands signs for the local churches, so is the New Jerusalem a sign for the bridge of Christ, which is the consummation of the Body of Christ, which is the totality of the believers.
 

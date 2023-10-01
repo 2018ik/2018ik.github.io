@@ -5,29 +5,35 @@ permalink: /local_church/
 ---
 - [Background](#background)
 - [History](#history)
-- [Biblical Basis](#biblical-basis)
 - [Three Elements](#three-elements)
   - [Ground of Locality](#ground-of-locality)
   - [Oneness of the Body](#oneness-of-the-body)
 - [Function](#function)
   - [Administration](#administration)
   - [Kingdom Authority](#kingdom-authority)
+- [Constituents](#constituents)
+  - [Elders](#elders)
+  - [Serving Ones](#serving-ones)
+  - [Believers](#believers)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 
 ## Background
 
-A local church is the Body expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; this is the practical way in which the Body of Christ can be expressed.
+A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; this is the practical way in which the Body of Christ can be expressed.
 
 ## History
+
+The establishment of local churches began from the day of Pentecost (Acts 2:1) in the city of Jerusalem (Acts 2:5; 8:1). Then churches were established in Judea, Samaria and Galilee (Acts 9:31). The gospel then spread to Phoenicia, Cyprus and Antioch (Acts 11:19-26), then Syria and Cilicia (Acts 15:40-41).
+
+The move then moved to Asia Minor in the province of Galatia , establishing churches in Lystra, Iconium and Antioch (a different Antioch than the one before, which was in Pisidia) (Acts 14:21-23). Then, seven churches were established in Asia: Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea (Rev. 1:11).
+
+Churches were eventually raised in Europe as well: Macedonia (2 Cor. 8:1), Philippi (Phil. 1:1), Thessalonica (Acts 16:9-12; 17:1-4; 1 Thes. 1:1), Corinth (1 Cor. 1:2), Cenchrea (Romans 16:1), Rome (Romans 1:7).
 
 Jerusalem was the center of the Jewish religion, and the church there was primarily composed of Jews. On the other hand, Antioch was the center of the gentile world. Antioch was chosen by the Lord to carry out this new move to the gentiles. 
 
 The group of believers in Antioch was quite diverse: Jews, Romans, those of African descent, those related Herod, etc. The Church is composed of all kinds of people in all kinds of backgrounds. We are different in the old creation, one one in Christ.
-
-## Biblical Basis
-
 
 ## Three Elements
 
@@ -52,6 +58,19 @@ Matthew 18:17 says "But if he refuses to hear them, tell it to the church." The 
 In verse 18 the Lord Jesus says, "Truly I say to you, Whatever you bind on the earth shall be what has been bound in heaven, and whatever you loose on the earth shall be what has been loosed in heaven." Here to bind means to condemn, and to loose means to forgive. As in 16:19, what we bind or loose on earth should be what has been bound or loosed already in heaven.
 
 The kingdom authority can be exercised by the church to deal with the offending brother. The brother mentioned in 18:15-17 is first offending and then rebellious. First he offends someone. Then because he will not listen to the one he has offended, to two or three witnesses, or even to the church, he becomes rebellious. Because he rebels against the church, the church must exercise its authority to bind and loose. When he repents, the church must forgive him and restore him to the fellowship of the church. 
+
+## Constituents
+
+### Elders
+
+Elders (Acts 20:17), or overseers (20:28) denote a person of maturity in a particular local church. This is not to create a hierarchy, but to 
+
+### Serving Ones
+
+Serving ones (Acts 6:2) or deacons (Phil. 1:1) are those who serve under the leadership of the overseers. 
+
+### Believers
+
 
 ## Testimonies
 

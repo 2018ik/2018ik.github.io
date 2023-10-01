@@ -117,11 +117,11 @@ The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrecti
 
 ### Spirit of Jesus
 
-The Spirit of Jesus is mentioned only in Acts 16:7  and is related to the Lord's humanity and human living. This record shows that there is some aspect of humanity now compounded into the Holy Spirit, and that this Spirit which includes the Lord's living from manger to the cross was needed for the apostle's preaching ministry, which had much suffering.
+The Spirit of Jesus is mentioned only in Acts 16:7 and is related to the Lord's humanity and human living. This record shows that there is some aspect of humanity now compounded into the Holy Spirit, and that this Spirit which includes the Lord's living from manger to the cross was needed for the apostle's preaching ministry, which had much suffering.
 
 ### Spirit of Jesus Christ
 
-The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His humanity and human living and in His resurrection.
+The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His humanity and human living and in His divinity and resurrection. This is the all-inclusive compound life-giving Spirit. The Spirit of Jesus Christ bountifully supplies the believers to live Christ (Phil. 1:19). It is only by the operation of this Spirit that one can work out their full salvation (Phil. 2:12-16).
 
 ### Spirit of Reality
 

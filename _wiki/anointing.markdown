@@ -8,7 +8,7 @@ permalink: /anointing/
 
 ## Background
 
-In the Bible, the anointing always follows the blood (Lev. 14:14-18). 
+The anointing refers to God as the Holy Spirit applying the very element of God Himself to the believers, which produces a particular sense through the spirit's function of intuition. In the Bible, the anointing always follows the blood (Lev. 14:14-18).  
 
 ## Leading
 
