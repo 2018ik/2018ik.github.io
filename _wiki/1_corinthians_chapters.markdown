@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: 1 Corinthians (Book)
-permalink: /first_corinthians/
+title: 1 Corinthians Chapters
+permalink: /first_corinthians_chapters/
 ---
 - [Background](#background)
 - [Chapter 7](#chapter-7)

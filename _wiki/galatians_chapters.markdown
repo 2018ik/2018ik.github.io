@@ -1,6 +1,6 @@
 ---
 layout: pagev2
-title: Galatians (Chapter Summaries)
+title: Galatians (Chapters)
 permalink: /galatians_chapters/
 ---
 - [Background](#background)
