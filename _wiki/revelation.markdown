@@ -10,7 +10,6 @@ permalink: /revelation/
   - [Peter](#peter)
   - [Paul](#paul)
 - [Wisdom](#wisdom)
-- [Age of Revelation](#age-of-revelation)
 - [High Peak](#high-peak)
 - [Tips](#tips)
 - [Testimonies](#testimonies)
@@ -37,14 +36,9 @@ Peter received revelation from the Father to know Jesus as Christ, the Son of th
 ### Paul
 
 
-
 ## Wisdom
 
 Revelation goes hand-in-hand with wisdom (Eph. 1:??); we need wisdom as well as revelation. Neither of these items come from our natural mind, but our spirit.
-
-## Age of Revelation
-
-If you look at all the situation, it seems like it is imminent that the Lord is returning. 
 
 ## High Peak
 
@@ -64,7 +58,6 @@ How to receive revelation:
 8. Come to the Bible each day with the realization that we are coming to God
 9. Singing, praying, pray-reading the Word
 10. Prepare and speak prophecies 
-
 
 ## Testimonies
 

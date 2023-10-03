@@ -4,6 +4,7 @@ title: Incarnation
 permalink: /Incarnation/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Principle of Incarnation](#principle-of-incarnation)
 
 ## Background
@@ -12,7 +13,7 @@ Incarnation refers to God becoming flesh (John 1:14), coming in the likeness of 
 
 ## Significance
 
-God became a man so that He could dispense Himself into us, to be our grace and reality in order that we can enjoy Him and realize Himself as everything in us. When God the Father sent His Son, the Father did not stay in heaven (see: modalism), but the Father is with the Son and one with the Son (John 8:29).
+God became a man, bringing finite God into finite man, so that He could dispense Himself into us, to be our grace and reality in order that we can enjoy Him and realize Himself as everything in us. When God the Father sent His Son, the Father did not stay in heaven (see: modalism), but the Father is with the Son and one with the Son (John 8:29).
 
 ## Principle of Incarnation
 
