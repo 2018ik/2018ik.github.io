@@ -4,13 +4,13 @@ title: Spirit (of man)
 permalink: /spirit_man/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
+- [Parts of the Spirit](#parts-of-the-spirit)
   - [Conscience](#conscience)
   - [Fellowship](#fellowship)
   - [Intuition](#intuition)
 - [Location](#location)
-- [Function](#function)
-  - [Residence of the Divine Spirit](#residence-of-the-divine-spirit)
 - [Distractions](#distractions)
   - [To Do Good](#to-do-good)
   - [Doctrines](#doctrines)
@@ -24,7 +24,7 @@ permalink: /spirit_man/
 
 The spirit is the innermost part of the man, and consists of the functions of the conscience, intuition and fellowship. In a more general sense, the spirit is the only way through which man can contact and receive God.
 
-The basic understanding that man has a human spirit is required for understanding the New Testament. The same word "spirit" is used to describe both the human and divine spirits, where "spirit" can be uppercase or lowercase in a particular verse to specify which spirit.
+The basic understanding that man has a human spirit is required for understanding the New Testament. The same word "spirit" is used to describe both the human and divine spirits, where it is up to the translator whether to use the capital Spirit or lowercase spirit respectively.
 
 Our regenerated human spirit is the key to everything in the Christian life, as that is where God is.
 
@@ -32,7 +32,9 @@ Our regenerated human spirit is the key to everything in the Christian life, as 
 
 ## Significance
 
-To not use the spirit to contact God is akin to using the entirely wrong organ to accompish certain things (e.g. eating with one's ear). We cannot contact God through our body or our soul. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when we are saved, our spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, we must turn to and use our spirit.
+The spirit is what separates man from animal. In a sense, the spirit is the reality of man. 
+
+To not use the spirit to contact God is akin to using the entirely wrong organ to accomplish certain things (e.g. eating with one's ear). One cannot contact God through their body or their soul. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when one is saved, their spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, one must turn to their spirit.
 
 ## Biblical Basis
 
@@ -42,7 +44,15 @@ Romans 8:16 says that the Spirit witnesses with our spirit, indicating that ther
 
 1 Corinthians 2:11 mentions the spirit of man, except this verse also personifies the spirit with the pronoun "who," indicating a mingling of the Spirit of God with our spirit, in which there is a person present in man's spirit.
 
-The following sections on the three functions of the spirit contain verses which prove there is a human spirit.
+In the Old Testament, there are types which illustrate the three parts of man. For example, the temple as the dwelling place of God contains three sections, and is also directly indicated by Jesus who referred to Himself as a temple (John 2:19-21).
+
+When the Spirit of God dwells in man (2 Tim. 4:22), the dwelling place is the human spirit. This is typified by the Holy of Holies; when one enters the Holy of Holies today, they are entering into their spirit (Heb. 10:19).
+
+Similarly, the Israelites were saved out of Egypt, wandered in the wilderness, and was brought into Canaan, a type of the all-inclusive Christ.
+
+![temple](../img/WL64-03-20EconomyGod03_3_chart.png)
+
+## Parts of the Spirit
 
 ### Conscience
 
@@ -75,14 +85,6 @@ Mark 2:8 says "Knowing fully in His spirit." The knowing of the spirit is a diff
 Hebrews 4:12 reveals that the human soul and spirit need to be divided. We see a type of this in the Old Testament in the temple with its outer court, Holy place, and Holy of Holies. Likewise, we see a type of this in the children of Israel going out of Egypt, through the wilderness and entering into the good land. When we are not contacting God and receiving His word, the spirit is covered and difficult to distinguish from the soul. 
 
 Why does Paul use the subjunctive mood ("the Lord *be* with your Spirit" - 2 Tim. 4:22) rather than asserting that "the Lord *is* with your Spirit." That is because the Lord's being with our Spirit is dependent on our relationship with Him. He could be *in* our spirit but not *with* our spirit. 
-
-## Function
-
-The spirit is actually what separates man from animal. In a sense, the spirit is the reality of man.
-
-### Residence of the Divine Spirit
-
-The Spirit of God dwells in us (2 Tim. 4:22), i.e. makes His home in us. If we are in our spirit, the Spirit of God dwells in us, but if we are not, there is a sense that the Spirit is not dwelling, which indicates a certain quality of experiencing the Spirit. Our experience of Christ goes up when we care about this experience.
 
 ## Distractions
 
