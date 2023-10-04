@@ -20,7 +20,7 @@ permalink: /god_ordained_way/
 
 ## Background
 
-The God-ordained way refers to the way ordained by God in order to carry out His New Testament economy. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry, in which all believers are priests (1 Pet 2:9).
+The God-ordained way refers to the way ordained by God to carry out His New Testament economy by releasing the organic functions of the members of the Body of Christ. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry, in which all believers are priests (1 Pet 2:9).
 
 Each of these four steps requires presenting the truth to others. The best way to be constituted by the truth in the experience of many is PSRP.
 
@@ -30,7 +30,9 @@ Our goal is to build up the Body of Christ (Eph 4:8-16), but in order to do so, 
 
 ## Practice
 
-All of the below steps should be executed when one is in the [reality of the Body of Christ](../body_of_christ#reality-today), otherwise it is a mere facsimile. We need be involvement with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. These steps should likewise be enjoyable, and occur organically, as being joined to Christ is a prerequisite to carrying out any of the below. Since this requires such a living, it is therefore something that is lived out in one's daily lives.
+Practicing the God-ordained way is not a purely outward matter, the below steps should be executed with a view of God's economy, otherwise it is a mere facsimile. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer.
+
+Generally speaking however, for each step one must first see the vision, so their work is backed by a divine commission. Then, they must pray, followed by labor. This is a patient, persistent and faithful work to preach the gospel and to bear lasting fruit. Much like a farmer, one must appreciate the fruits of their labor and care for their fields to yield a consistent harvest. Lastly, one must study their results, and study the truth. 
 
 ### Steps
 
@@ -46,19 +48,9 @@ After being saved, the believers need to grow in the divine life. This could be 
 
 #### Building
 
-### Vision  
+## Opposition TODO
 
-The vision of the God-ordained way is to enter into a new revival. 
-
-### Revival
-
-The Lord needs to revive us (Hab. 3:2) so that we can enlighten all that they may see what the economy of the mystery is (Eph. 3:9). This has been revealed to us, and now we need to have the burden to enlighten all; it is not merely an individual matter.
-
-Revival is not just a one time thing, or a once a year thing. We need to be revived every morning during morning revival.
-
-### God's Economy
-
-The focus of the God-ordained way is God's economy. When we present God to others, we need to have God's economy in mind. We are just stewards in God's household cooperating with His good pleasure.
+There are many even among Christians who do not condone gospel preaching, as well as the principle of each one prophesying i.e. speaking for God. This argument is that those who are not theologically educated cannot speak the proper words. 
 
 ## Testimonies
 
