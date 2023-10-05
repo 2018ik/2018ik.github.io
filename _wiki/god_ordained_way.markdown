@@ -11,9 +11,7 @@ permalink: /god_ordained_way/
     - [Nourishing](#nourishing)
     - [Perfecting](#perfecting)
     - [Building](#building)
-  - [Vision](#vision)
-  - [Revival](#revival)
-  - [God's Economy](#gods-economy)
+- [Opposition](#opposition)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
@@ -26,7 +24,7 @@ Each of these four steps requires presenting the truth to others. The best way t
 
 ## Biblical Basis
 
-Our goal is to build up the Body of Christ (Eph 4:8-16), but in order to do so, we must see how the early church portrayed in Acts did so. Actually, the whole New Testament is about cherishing and nourishing. 
+The goal of the God-ordained way is to build up the Body of Christ (Eph 4:8-16). In order to do so, the way early church developed in Acts can be examined, and the way the early apostles preached can be followed as an example. Actually, the whole New Testament is about cherishing and nourishing. 
 
 ## Practice
 
@@ -48,7 +46,7 @@ After being saved, the believers need to grow in the divine life. This could be 
 
 #### Building
 
-## Opposition TODO
+## Opposition
 
 There are many even among Christians who do not condone gospel preaching, as well as the principle of each one prophesying i.e. speaking for God. This argument is that those who are not theologically educated cannot speak the proper words. 
 

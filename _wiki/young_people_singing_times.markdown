@@ -1,4 +1,14 @@
-TODO
+---
+layout: pagev2
+title: Young People Singing Times
+permalink: /young_people_singing_times/
+---
+- [Background](#background)
+- [Leading](#leading)
+  - [Exercise](#exercise)
+  - [Be Cheerful](#be-cheerful)
+  - [Post-song Coordination](#post-song-coordination)
+  - [Relax](#relax)
 
 ## Background
 
