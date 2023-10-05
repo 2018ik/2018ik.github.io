@@ -33,11 +33,11 @@ Churches were eventually raised in Europe as well: Macedonia (2 Cor. 8:1), Phili
 
 Jerusalem was the center of the Jewish religion, and the church there was primarily composed of Jews. On the other hand, Antioch was the center of the gentile world. Antioch was chosen by the Lord to carry out this new move to the gentiles. 
 
-The group of believers in Antioch was quite diverse: Jews, Romans, those of African descent, those related Herod, etc. The Church is composed of all kinds of people in all kinds of backgrounds. We are different in the old creation, one one in Christ.
+The group of believers in Antioch was quite diverse: Jews, Romans, those of African descent, those related Herod, etc. The Church is composed of all kinds of people in all kinds of backgrounds. We are different in the old creation, but one in Christ.
 
 ## Three Elements
 
-Suppose a church is very rowdy, disorderly, divisive and sued each other constantly - is it a local church? Well, this describes the church in Corinth, which is nonetheless a local church. What constitutes a local church are the following three elements.
+Suppose a church is very rowdy, disorderly, divisive and brought lawsuits upon each other constantly - is it a local church? Well, this describes the church in Corinth, which is nonetheless a local church. What constitutes a local church are the following three elements.
 
 ### Ground of Locality
 
@@ -63,7 +63,7 @@ The kingdom authority can be exercised by the church to deal with the offending 
 
 ### Elders
 
-Elders (Acts 20:17), or overseers (20:28) denote a person of maturity in a particular local church. This is not to create a hierarchy, but to 
+Elders (Acts 20:17), or overseers (20:28) are a individuals of maturity who oversee a particular local church. "Elder" denotes spiritual maturity, while "overseer" denotes the function. This is not to create a hierarchy, but to shepherd the church of God.
 
 ### Serving Ones
 
