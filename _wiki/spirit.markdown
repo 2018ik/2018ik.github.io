@@ -73,8 +73,6 @@ Finally, it was recovered in the 1950s that humanity is now in the Spirit, and t
 
 Chapter 5 of *The Spirit of Christ* by Andrew Murray, a dutch reformer who lived in South Africa in the 1800s, reveals that the Spirit now as the Spirit of the glorified Jesus had the glorified humanity of Jesus added to it. So when the Spirit comes to humanity it contains the person of Christ in His humanity.
 
-#### John 7
-
 In verse 39, we see the "Spirit was not yet, because Jesus had not yet been glorified." This is not that Christ as glorified, which became the requirement to *send* the Spirit, but the Spirit was *not yet*. The Spirit is eternal, and clearly operating in the Old Testament as a person of the Trinity. So in what sense was the Spirit "not yet" before Jesus was glorified?
 
 When Jesus was incarnated, he lived a sinless life as the God man; he was anointed by the Spirit in baptism; he lived a human life, died, resurrected, and all of these things were processed into Him; all of these human experiences were constituted and compounded into Him. 
@@ -150,3 +148,7 @@ This can be illustrated by the hin of olive oil and the four spices. When the in
 ### Transforming Spirit 
 
 In 2 Corinthians there is a transforming Spirit (2 Cor. 3:18) which when attached has many functions: anointing (2 Cor. 1:21), pledging (2 Cor. 1:22), sealing (2 Cor. 1:23), inscribing (2 Cor. 3:3).
+
+### Spirit of Love 
+
+In Colosians 1 there is a Spirit of love (Col. 1:8). This is the love-giving aspect of the Spirit. A person's natural love can only go so far; only the all-inclusive love of Spirit can enable someone to love all the saints, regardless of their personal preferenece (Col. 1:4).

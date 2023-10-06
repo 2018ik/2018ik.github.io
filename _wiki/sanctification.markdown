@@ -10,7 +10,9 @@ permalink: /sanctification/
 
 ## Background
 
-## Steps
+Sanctification is one's saturation with God's holy nature that they themselves may become holy.
+
+## Types
 
 ### Positional Sanctification
 
