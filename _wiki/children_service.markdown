@@ -17,17 +17,23 @@ The children's work or children's service encompasses all services which deal wi
 
 ## Importance
 
-Nurturing the next generation must begin at a young age. While the parents play the primary role, that does not mean the church should ignore this responsibility and to make up for what the parents lack. The key difference between the church's children's work and parenting however is that the former allows friendships to be established between children and families. 
+On one hand, the children's meeting allows the children to be taken out of the adult's meeting, which they may not understand and serve as a distraction.
+
+On the other hand, while the parents play the primary role in nurtuting their own children, that does not mean the church should ignore this responsibility; it should make up for what the parents lack. The key difference between parenting and the church's children's work however is that the latter allows friendships to be established between children and families, so that even new families can be gained.
 
 ## History
 
-The children's work was initially just a child-care service, where parents who attend the meeting can leave their children. This was because the children won't easily understand what is going on in the adult's meeting, and can also be a distraction. Furthermore, they could develop the impression that the meetings are not interesting, and be reluctant to attend when they grow up. Therefore, the children's work began. Properly prepared material followed, such as videos and songs. Then, there was a burden to have children meetings not just as the Lord's day meeting daycare but also to continue to foster the children throughout the week.
+The children's work was initially just a child-care service, where parents who attend the meeting can leave their children. This was because the children won't easily understand what is going on in the meeting, and can be a distraction. Furthermore, they could develop a negative impression of the meetings be reluctant to attend when they grow up. Therefore, the children's work began. Properly prepared material followed, such as videos and songs. Then, there was a burden to have children meetings not just as the Lord's day meeting daycare but also to continue to foster the children throughout the week.
 
 ## Services
+
+In taking care of the children's work, the entire church must be mobilized. Even opening a single house takes the labor of the Body: cleaning, invitations, scheduling, food preparation, transportation, learning material, etc.
 
 ### Meetings
 
 There should be a children's meeting held alongside every Lord's day meeting for parents who bring their children. However, to use this space for the gathering of potentially thousands of children in a city is not scalable. Therefore, the best location is in the saint's homes. If a hundred couples have an average of two children, and each family opened their home for a children's meeting for ten, there will be an extra eight hundred spots for other children in the community. These parents do not need to worry about providing the learning material as the church can handle such matters.
+
+In fact, there doesn't need to be teaching material. These gatherings can just be a time to blend and enjoy.
 
 ### Preparing Material
 
