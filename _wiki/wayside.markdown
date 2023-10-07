@@ -7,4 +7,4 @@ permalink: /wayside/
 
 ## Background
 
-The wayside is hardened by worldl y traffic
+The wayside is hardened by worldly traffic
