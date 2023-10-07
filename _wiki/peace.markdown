@@ -1,6 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Peace
+permalink: /peace/
+---
 
-##
+## Background
 
 ## The Church
 

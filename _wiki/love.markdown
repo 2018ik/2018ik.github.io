@@ -4,8 +4,11 @@ title: Love
 permalink: /love/
 ---
 - [Background](#background)
+- [Significance](#significance)
+- [Biblical Basis](#biblical-basis)
 - [Types of Love](#types-of-love)
-  - [First Love](#first-love)
+  - [Human Love](#human-love)
+  - [Divine Love](#divine-love)
 - [Practice](#practice)
   - [Look](#look)
   - [Calling](#calling)
@@ -28,7 +31,7 @@ Everything comes out of a loving relationship with God. It is not enough to reve
 
 When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "Do you love me?" (Matt. 21:15). 
 
-## Types of Love TODO
+## Types of Love
 
 ### Human Love
 
