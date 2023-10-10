@@ -17,7 +17,11 @@ permalink: /prophesying/
 
 ## Background
 
-Prophesying is the peak of our speaking God's word. Prophesying in the meetings of the church fulfills the greatest prophecy in the Bible, which is to build up the church (Matt 16:18). The recovery of all members prophesying is also a key part in overthrowing the clergy-laity system. 
+Prophesying is the peak of our speaking God's word. Prophesying fulfills the greatest prophecy in the Bible, which is to build up the church (Matt 16:18). The recovery of all members prophesying is also a key part in overthrowing the clergy-laity system. 
+
+## Significance
+
+God desires a speaking people who can correspond with Him. The masses listening to a few is not the way to build up the church. The way to build up the church is for each member of body to function, and one of the ways to function is to speak for God, that is to prophesy.
 
 ## Three Elements
 
