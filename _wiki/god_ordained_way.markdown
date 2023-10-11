@@ -20,7 +20,9 @@ permalink: /god_ordained_way/
 
 The God-ordained way refers to the way ordained by God to carry out His New Testament economy by releasing the organic functions of the members of the Body of Christ. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry, in which all believers are priests (1 Pet 2:9).
 
-Each of these four steps requires presenting the truth to others. The best way to be constituted by the truth in the experience of many is PSRP.
+## Significance
+
+The God-ordained way is a recovery of the proper way to practice the New Testament priesthood. In comparison to the typical goal of gospel preaching, that is to save sinners, that is only the first step in the God-ordained way, which has the view to perfect the believers.
 
 ## Biblical Basis
 
