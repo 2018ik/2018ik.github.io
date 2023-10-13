@@ -4,6 +4,7 @@ title: Heart
 permalink: /heart/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
   - [Soul](#soul)
     - [Mind](#mind)
@@ -11,11 +12,13 @@ permalink: /heart/
     - [Will](#will)
   - [Spirit](#spirit)
     - [Conscience](#conscience)
-    - [Relation to the Spirit](#relation-to-the-spirit)
+- [Gateway](#gateway)
 
 ## Background
 
 The heart consists of the soul and the conscience and is the gateway to the spirit. Many times "soul" and "heart" are used interchangeably in the Bible, but there is nonetheless a definite aspect of the conscience in the heart. As a result, light comes from the heart.
+
+Two other key differences between the soul and the heart is that while the soul represents a person, and is commonly translated as such (i.e. X number of souls = X number of persons), a person in action and moving towards a goal is actually their heart. Furthermore, the heart is a loving organ.
 
 Just like how we need a healthy physical heart for our physical living, we likewise need a healthy heart for our psychological and spiritual living.
 

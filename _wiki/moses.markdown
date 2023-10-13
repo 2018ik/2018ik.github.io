@@ -8,6 +8,7 @@ permalink: /moses/
   - [Birth](#birth)
   - [Worldly Education](#worldly-education)
   - [Wilderness](#wilderness)
+  - [Failure](#failure)
 
 ## Background
 
@@ -26,3 +27,7 @@ After his birth, he was cared for by his mother, where no doubt Godly thoughts w
 Moses refused to be called Pharaoh's daughter (Exo. ??:??)
 
 ### Wilderness
+
+### Failure
+
+Rather than speaking to the rock to get water, he struck the rock again with his staff in anger. This violated God's law governmentally, and as a result, he was barred from entering the good land (Num. 20:8-12).
