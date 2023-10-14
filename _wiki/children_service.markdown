@@ -13,13 +13,17 @@ permalink: /children_work/
 
 ## Background
 
-The children's work or children's service encompasses all services which deal with raising up the children, generally those of elementary school age. This includes holding meetings, both during Lord's day as well as throughout the week which are focused on shepherding the children, as well as contacting the children's parents or preparing teaching material.
+The children's work encompasses all services which deal with raising up the children, generally those of elementary school age. The consensus is that the children's work is a more effective way to gain an increase than the campus work or door knocking, and preaching the gospel in general.
+
+The children's work includes holding meetings, both during Lord's day as well as throughout the week which are focused on shepherding the children, as well as contacting the children's parents or preparing teaching material. Actually, even the children themselves are part of the work: through the church's care, the children become gospel seeds who express Christ to their classmates.
 
 ## Importance
 
 On one hand, the children's meeting allows the children to be taken out of the adult's meeting, which they may not understand and serve as a distraction.
 
-On the other hand, while the parents play the primary role in nurtuting their own children, that does not mean the church should ignore this responsibility; it should make up for what the parents lack. The key difference between parenting and the church's children's work however is that the latter allows friendships to be established between children and families, so that even new families can be gained.
+On the other hand, while the parents play the primary role in nurturing their own children, that does not mean the church should ignore this responsibility; it should make up for what the parents lack. The key difference between parenting and the church's children's work however is that the latter allows friendships to be established between children and families, so that even new families can be gained.
+
+Furthermore, the children's work is a gospel work: children can be gained for the gospel. Statistics show that of those who are brought into the church life from primary school to college age, there is a *negative* correlation between age and having brought their family into the church life. If children are brought into the church life, there is a much higher chance that the entire household will be brought in.
 
 ## History
 
