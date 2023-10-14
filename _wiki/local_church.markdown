@@ -25,9 +25,9 @@ A **local church** is the Body of Christ expressed locally in a particular city 
 
 ## History
 
-The establishment of local churches began from the day of Pentecost (Acts 2:1) in the city of Jerusalem (Acts 2:5; 8:1). Then churches were established in Judea, Samaria and Galilee (Acts 9:31). The gospel then spread to Phoenicia, Cyprus and Antioch (Acts 11:19-26), then Syria and Cilicia (Acts 15:40-41).
+The establishment of local churches began from the day of Pentecost (Acts 2:1) in the city of Jerusalem (Acts 2:5; 8:1). As a result of persecution, the early Christians were scattered, fulfilling the Lord's prophecy (Acts 1:8; Acts 8:1) that churches be established in Judea and Samaria. The work then reached Galilee as well (Acts 9:31). Then, the gospel spread to Phoenicia, Cyprus and Antioch (Acts 11:19-26), then Syria and Cilicia (Acts 15:40-41).
 
-The move then moved to Asia Minor in the province of Galatia , establishing churches in Lystra, Iconium and Antioch (a different Antioch than the one before, which was in Pisidia) (Acts 14:21-23). Then, seven churches were established in Asia: Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea (Rev. 1:11).
+Next was Asia Minor in the province of Galatia, where the apostles established churches in Lystra, Iconium and Antioch (a different Antioch than the one before, which was in Pisidia) (Acts 14:21-23). Then, seven churches were established in Asia: Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea (Rev. 1:11).
 
 Churches were eventually raised in Europe as well: Macedonia (2 Cor. 8:1), Philippi (Phil. 1:1), Thessalonica (Acts 16:9-12; 17:1-4; 1 Thes. 1:1), Corinth (1 Cor. 1:2), Cenchrea (Romans 16:1), Rome (Romans 1:7).
 
