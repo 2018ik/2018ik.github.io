@@ -5,12 +5,13 @@ permalink: /life_giving_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)
+- [Biblical Basis](#biblical-basis)
 - [All-Inclusive](#all-inclusive)
   - [Human Elements](#human-elements)
 
 ## Background
 
-The life-giving Spirit is an aspect of the Holy Spirit which emphasizes its function to actively indwell and give life to man. This title of the Spirit is explicitly mentioned only once in 1 Corinthians 15:45, where the last Adam became a life-giving Spirit. The verb *became* indicates that this life-giving aspect was not always there. This is an economical change which the Spirit went through upon Christ’s resurrection, and only after resurrection can the Spirit now indwell man and give life to man.
+The **life-giving Spirit** is an aspect of the Holy Spirit which emphasizes its function to actively indwell and give life to man. This title of the Spirit is explicitly mentioned only once in 1 Corinthians 15:45, where the last Adam became a life-giving Spirit. The verb *became* indicates that this life-giving aspect was not always there. This is an economical change which the Spirit went through upon Christ’s resurrection, and only after resurrection can the Spirit now indwell man and give life to man.
 
 Although the element of the Spirit is life, this life in a vacuum cannot do anything for man. Thus, Christ had to become the life-giving Spirit to dispense Himself into His chosen and redeemed people. For example, bread may contain all the nutrients to sustain life, but bread sitting by itself on a table can’t be considered life-giving bread. However, when someone eats the bread and begins digesting it, at that moment, the nutrients are being distributed into that person and thus the bread is now giving life. This life-giving Spirit is spiritual food which indwells man and gives life to man, that man’s entire being can be fully assimilated with Christ as its content.
 
@@ -18,6 +19,11 @@ Although the element of the Spirit is life, this life in a vacuum cannot do anyt
 
 The life-giving Spirit is the essence and reality of the Body of Christ (1 Cor. 12:13). As the blood is the essence of a physical body, if the Spirit is removed from the Body, it becomes a corpse.
 
+## Biblical Basis
+
+1 Corinthians 15:45 says that last Adam became a life-giving Spirit. The context of the chapter indicates clearly this becoming was a result of resurrection. The previous verse 44 speaks of a soulish body being raised as a spiritual body. This resurrected body is spiritual because it is saturated by the Spirit, which can now indwell man as a result of resurrection.
+
+Joh 14:16-17 speaks of another Comforter. The life-giving Spirit which indwells man is the fulfillment of this prophecy.
 ## All-Inclusive
 
 ### Human Elements
