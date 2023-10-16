@@ -4,6 +4,8 @@ title: Prophesying
 permalink: /prophesying/
 ---
 - [Background](#background)
+- [Significance](#significance)
+- [History](#history)
 - [Three Elements](#three-elements)
 - [Love](#love)
 - [PSRP](#psrp)
@@ -22,6 +24,12 @@ Prophesying is the peak of our speaking God's word. Prophesying fulfills the gre
 ## Significance
 
 God desires a speaking people who can correspond with Him. The masses listening to a few is not the way to build up the church. The way to build up the church is for each member of body to function, and one of the ways to function is to speak for God, that is to prophesy.
+
+## History
+
+Meetings where one person speaks and everyone else listens is rooted in tradition, and is what is expected from a church meeting. However, Watchman Nee has noted since 1937 in *The Normal Christian Church Life* that this type of meeting has no place in the church. In his 1948 *Church Affairs* he said that this type of message meeting was according to the "customers of the nations and charged all to push back on this unscriptural tradition.
+
+This tradition continued in the Lord's recovery until 1984, when Witness Lee began working with the church in Taipei to transition from message meetings to ones where each person speaks. After being trained for three years, the church began practicing prophesying meetings as they are done today in November of 1987.
 
 ## Three Elements
 

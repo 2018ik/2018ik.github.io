@@ -4,6 +4,7 @@ title: God-ordained Way
 permalink: /god_ordained_way/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
 - [Practice](#practice)
   - [Steps](#steps)
@@ -38,15 +39,19 @@ Generally speaking however, for each step one must first see the vision, so thei
 
 #### Begetting
 
-We need to preach the gospel to obtain the material for the building. This is to have sinners saved and regenerated to become members of the Body of Christ.
+The first step is to preach the gospel as New Testament priests (Rom. 15:16) to obtain the material for the building. This is to have sinners saved and regenerated to become members of the Body of Christ. 
 
 #### Nourishing
 
-After being saved, the believers need to grow in the divine life. This could be through the home meetings and group meetings, where we lead to to function in the meetings and to care for one another.
+After being saved, the believers need to grow in the divine life. After a new child is born, they must be nourished; this is to feed the lambs (John 21:15). This could be through the home meetings and group meetings, where we lead to to function in the meetings and to care for one another.
 
 #### Perfecting
 
+Perfecting is to allow the new believers to build up the Body of Christ. The primary role of the gifted ones is to perfect the saints for the building (Eph. 4:11-12).
+
 #### Building
+
+To build up the church is to speak for God. This is revealed clearly in 1 Corinthians 14. When the believers come together and enter into their function, especially in the matter of prophesying, the church is built up (1 Cor. 14:26). 
 
 ## Opposition
 
