@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hidden Manna
-permalink: Hidden Manna
+permalink: /hidden_manna/
 ---
 - [Background](#background)
 

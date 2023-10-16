@@ -29,4 +29,4 @@ This blessing is actually the promise to give the Spirit to the believers (Gal. 
 
 ## Chapter 6
 
-When Son is revealed in someone (Gal. 1:16), He will live in them (Gal. 2:20). As He dwells within, He becomes the all-inclusive life-giving Spirit as the reality of the blessing of Abraham and becomes formed in man (Gal. 4:19). The result of the Christ who is revealed, lived, subjectively all-inclusive and formed is the practicality of the new creation (Gal. 6:15).
+When Son is revealed in someone (Gal. 1:16), He will live in them (Gal. 2:20). Through this indwelling, He becomes real to them as the all-inclusive life-giving Spirit as the reality of the blessing of Abraham (Gal. 3:14) and becomes formed in man (Gal. 4:19). The result of this Christ who is revealed, indwelling, subjectively all-inclusive and formed is the practicality of the new creation (Gal. 6:15).

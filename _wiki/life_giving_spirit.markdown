@@ -4,11 +4,15 @@ title: Life-giving Spirit
 permalink: /life_giving_spirit/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [All-Inclusive](#all-inclusive)
   - [Human Elements](#human-elements)
-  - [Wisdom and Revelation](#wisdom-and-revelation)
 
 ## Background
+
+The life-giving Spirit is an aspect of the Holy Spirit which emphasizes its function to actively indwell and give life to man. This title of the Spirit is explicitly mentioned only once in 1 Corinthians 15:45, where the last Adam became a life-giving Spirit. The verb *became* indicates that this life-giving aspect was not always there. This is an economical change which the Spirit went through upon Christ’s resurrection, and only after resurrection can the Spirit now indwell man and give life to man.
+
+Although the element of the Spirit is life, this life in a vacuum cannot do anything for man. Thus, Christ had to become the life-giving Spirit to dispense Himself into His chosen and redeemed people. For example, bread may contain all the nutrients to sustain life, but bread sitting by itself on a table can’t be considered life-giving bread. However, when someone eats the bread and begins digesting it, at that moment, the nutrients are being distributed into that person and thus the bread is now giving life. This life-giving Spirit is spiritual food which indwells man and gives life to man, that man’s entire being can be fully assimilated with Christ as its content.
 
 ## Significance
 
@@ -21,6 +25,4 @@ The life-giving Spirit is the essence and reality of the Body of Christ (1 Cor. 
 Everything of Christ, who He is, what He is, is all embodied in the Spirit. When we touch the Bible to receive Christ the person, we receive not only the divine but also the human. We start to exhibit the human elements of humility, patience, etc.
 
 Not only is God great and almighty, but He is also humble; He was manifested as a slave to serve man. However, the Spirit does not work in us to strengthen our own humility, but it dispenses Christ's humility into us, which becomes an expression of an attribute of God in our human virtues.
-
-### Wisdom and Revelation
 

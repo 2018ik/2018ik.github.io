@@ -41,6 +41,3 @@ We shouldn't have our living and our understanding settled. For example, we shou
 ## Opinion of God
 
 Actually, there is one opinion that matters, and that is God's opinion, which can be expressed through us. Paul gives His opinion in 1 Corinthians 7:40, but in this case, the Spirit of God was in his opinion. Our own opinions do not matter, but we can be saturated with the life-giving Spirit to the extent that our own opinions reflect what is on God's heart.
-
-
-
