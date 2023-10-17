@@ -21,7 +21,7 @@ Three verses which explicitly state that Christ is in the believers is Romans 8:
 
 >If Christ is in you, though the body is dead because of sin, yet the spirit is life because of righteousness.
 
-The previous verse 9 says the Spirit of God dwells in man. This is equivalent to the Spirit of life in verse 2. For this Spirit to dwell in man is therefore to enliven man's deadened spirit. However, verse 10's condition is "if Christ is in you." Therefore, the Spirit is in fact Christ Himself dwelling in man.
+The previous verse 9 says the Spirit of God dwells in man. This is the same Spirit as the Spirit of life in this verse and verse 2. For a Spirit of life to dwell in man is therefore to enliven man's deadened spirit. However, verse 10's condition specifically says "if **Christ** is in you." Therefore, the Spirit is in fact Christ Himself dwelling in man.
 
 ## Colossians 1:27
 
@@ -33,4 +33,4 @@ The mystery of God and the riches of His glory is actually Christ, who is in the
 
 >Test yourselves whether you are in the faith; prove yourselves; or do you not recognize yourselves that Jesus Christ is in you, unless you are disapproved?
 
-Paul's test for whether or not someone has faith is whether or not they recognize that Christ dwells in them.
+Paul's test for whether or not someone has faith is whether or not they recognize that Christ dwells in them. Faith is for the facts to be substantiated and subjectively experienced by the believers (Heb. 11:1). Christ Jesus dwelling in man is a fact, but for man to recognize that Christ is in them is a matter of faith.

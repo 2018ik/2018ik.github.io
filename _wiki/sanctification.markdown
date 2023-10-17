@@ -4,7 +4,7 @@ title: Sanctification
 permalink: /sanctification/
 ---
 - [Background](#background)
-- [Steps](#steps)
+- [Types](#types)
   - [Positional Sanctification](#positional-sanctification)
   - [Dispositional Sanctification](#dispositional-sanctification)
 
@@ -18,5 +18,5 @@ Sanctification is one's saturation with God's holy nature that they themselves m
 
 ### Dispositional Sanctification
 
-This is one of the eight steps of God's organic salvation. 
+This is one of the eight steps of God's organic salvation, and an ongoing process for the believers' perfection (Heb. 2:11; 10:14).
 
