@@ -10,7 +10,8 @@ permalink: /galatians/
 ## Background
 
 Paul wrote the epistle to the Galatians iin approximately A.D. 54, after traveling through Galatia and arriving in Corinth.
-During this time, the Galatians were distracted by the law keepers, or Judaizers who treasured the law more than the gospel. 
+
+During this time, the Galatians were distracted by the law keepers, or Judaizers who treasured the law more than the gospel. Paul reveals to them that justification is not through the law, and that to keep the law is contrary to God's economy. Actually, Galatians is the most basic book in the Bible with respect to God's New Testament economy. 
 
 ## Summary
 

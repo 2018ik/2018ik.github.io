@@ -5,20 +5,17 @@ permalink: /law/
 ---
 - [Background](#background)
 - [History](#history)
-- [Laws in Romans](#laws-in-romans)
-  - [Five laws](#five-laws)
 - [Curse](#curse)
 - [The Flesh](#the-flesh)
 - [Positive function of the law](#positive-function-of-the-law)
 - [End of the Law](#end-of-the-law)
+- [Related Pages](#related-pages)
 
 ## Background
 
-The law is primarily God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. It is the latter that is abolished (Eph 2:15), yet, the former is not to be kept out of self-effort (Gal 2:19-21).
+The law refers to the Mosaic law given in the Old Testament to the children of Israel, and was God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. It is the latter that is abolished (Eph 2:15), yet, the former is not to be kept out of self-effort (Gal 2:19-21).
 
 The law itself is good and holy, but the intention of the law is to show us our sin. Through the law is clear knowledge of sin, and if man tries to keep the law he will not be justified by God because God's standard of righteousness is His own righteous being and no fallen being can meet the standard of God's righteousness.
-
-In Romans, Paul reveals another aspect of the law: its automatic working. Along with this we see what he calls the law of the Spirit of life.
 
 ## History
 
@@ -29,32 +26,6 @@ Instead, man ate the tree of knowledge of good and evil and was condemned by God
 Now man is in another situation - his soul has become independent of God, and has become the self. The Satanic life and nature caused man to become flesh, and his whole being has become deadened. Man himself has become a constitution of flesh.
 
 Yet, fallen man did not know himself and strived to do good to improve himself (Exo. 19:8). Man's inclination was to keep the law, and to do good. This is also the condition of fallen men today (Rom. 7).
-
-## Laws in Romans
-
-We see the Old Testament law ("law of God") defined clearly along with four others "laws" in Romans 7-8. These four laws operate under what we today would term a scientific law. For example, the "laws" of physics aren't actually laws which we need to follow, but are basic facts of physics which operate automatically. When you drop an object, it will fall down automatically without you doing anything.
-
-### Five laws
-
-1. The law of God (Rom. 7:22)
-
-This law shows us this portrait of who God is as love, light, holiness and righteousness. This is the same the Old Testament law mentioned previously.
-
-1. The law of good (Rom. 7:23)
-
-This law is present in our mind and desires to do the good, and causes us to want to choose to follow the law of God.
-
-3. The law of sin and of death (Rom. 7:23)
-
-This law in our flesh is stronger than the law of good in our mind. While we make the resolution to do good in order to fulfill the law of God, this law of sin and of death will inevitably overcome us and cause us to fail.
-
-4. The law "that" (Rom. 7:21)
-
-This is the law the rules over our will to do good. Whenever we will to do good, the evil will inevitably be present.
-
-5. The law of the Spirit of life
-
-This law is installed in our spirit, and this is the most powerful law, and overcomes the law of sin and of death. By turning to our spirit, this law spontaneously activates, and allows us to fulfill the law of God.
 
 ## Curse
 
@@ -73,3 +44,8 @@ For example, in the Old Testament, after transgressing God's law, there is the c
 ## End of the Law
 
 In the New Testament, Christ's coming is the end of the law (Rom. 10:17). We are justified when we are joined to Christ through righteousness. This is by faith.
+
+
+## Related Pages
+
+1. [The Laws in Romans](../law_romans.markdown)
