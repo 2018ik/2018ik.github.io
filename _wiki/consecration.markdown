@@ -4,9 +4,6 @@ title: Consecration
 permalink: /consecration/
 ---
 
->"Therefore whether we live or we die, we are the Lord's"
-
-\- Romans 14:8b
 - [Background](#background)
 - [Aspects](#aspects)
   - [Basis](#basis)
@@ -15,6 +12,10 @@ permalink: /consecration/
   - [Purpose](#purpose)
   - [Result](#result)
 - [Tips](#tips)
+
+>"Therefore whether we live or we die, we are the Lord's"
+
+\- Romans 14:8b
 
 ## Background
 
@@ -27,6 +28,7 @@ Our consecration means that we are willing to work in whatever we are assigned t
 Consecration should be a daily practice, and a habit. Losing our daily consecration is the beginning of spiritual decline. 
 
 ## Aspects
+
 ### Basis
 
 The basis behind our consecration is that we are not our own (1 Cor. 6:19) as God has purchased us with a price (1 Cor. 6:20). Technically speaking, our very life is not owned by us or even a joint-ownership between us and God; based on these two verses, God has the entire right of ownership over our lives. Therefore it is altogether normal for us to consecrate ourselves to God. 
@@ -53,8 +55,6 @@ Consecration prior to works is necessary to be used by God and to work for God. 
 The result of consecration is that we abandon our future. When we are truly consecrated, we no longer hold onto any thing which can take us back to the world. Many of us continue to hold onto something, and are unwilling to "burn the bridge" which leads back to the world. This is why we need a daily consecration.
 
 The result is also that we enter into the kingdom of the heavens. 
-
-
 
 ## Tips 
 

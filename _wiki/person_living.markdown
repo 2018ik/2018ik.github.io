@@ -11,7 +11,9 @@ permalink: /person_living/
 
 ## Background
 
-God pays more attention to what kind of person or character someone is than what they can accomplish. In a sense, in God's economy, the person *is* the work. As God's people, our living should be different from the common living; this includes how we behave in our work life, church life and family life. We should be convicted by an improper living.
+God pays more attention to what kind of person or character someone is than what they can accomplish. In a sense, in God's economy, the person *is* the work. The living of God's people should be different from the common living; this includes how one behaves in their work life, church life and family life.
+
+
 
 ## Significance
 
