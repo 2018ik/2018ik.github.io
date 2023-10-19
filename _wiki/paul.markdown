@@ -14,9 +14,12 @@ permalink: /paul/
 
 ## Background
 
+Paul was uniquely prepared by the Lord through his background and experiences to reveal the church in a full way.
+
 In the 14 epistles of Paul we see the three words: ME, JESUS, VESSEL.
 
 ## History
+
 ### Conversion
 
 Paul's conversion is recorded three separate times in Acts. 

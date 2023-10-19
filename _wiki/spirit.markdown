@@ -9,7 +9,6 @@ permalink: /spirit/
   - [Nicene Creed](#nicene-creed)
   - [Further Development](#further-development)
   - [The Spirit of Christ](#the-spirit-of-christ)
-    - [John 7](#john-7)
   - [Seven Spirits](#seven-spirits)
 - [Essence vs Economy](#essence-vs-economy)
 - [Titles](#titles)
@@ -28,6 +27,7 @@ permalink: /spirit/
   - [Seven Spirits](#seven-spirits-1)
   - [The Spirit](#the-spirit)
   - [Transforming Spirit](#transforming-spirit)
+  - [Spirit of Love](#spirit-of-love)
 
 ## Background
 
@@ -123,7 +123,9 @@ The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His huma
 
 ### Spirit of Reality
 
-The Spirit of reality such as in John 14:17 shows that in the whole universe, only One is real. Being in the Spirit is required for anything we experience to be real. For example, the Spirit is the reality of resurrection, and the reality of Christ's all-inclusive death.
+The Spirit of reality such as in John 14:17 shows that in the whole universe, only One is real, and reveals to man the things of God. Being in the Spirit is required for anything we experience to be real. For example, the Spirit is the reality of resurrection, and the reality of Christ's all-inclusive death.
+
+The Spirit of reality worked through the apostles to reveal to them truths necessary for the building up of the church. For example, the gospel of John was written around A.D. 90, after the consummation of the Spirit of reality. John occasionally adds commentary which states that though they did not understand what Jesus spoke at the time, they did now (John 2:20-22; 12:15-16).
 
 ### Spirit of Life
 

@@ -5,6 +5,7 @@ permalink: /church/
 ---
 - [Background](#background)
 - [Etymology](#etymology)
+- [History](#history)
 - [Universal](#universal)
 - [Local](#local)
 
@@ -12,7 +13,7 @@ permalink: /church/
 
 The church has universal and local aspects. In Revelation, we see the universal church expressed locally in seven churches. The reality is the Body of Christ, but the manifestation of the Body requires the local churches. 
 
-For example, a carpenter can build a chair, and design the concept with its color, material and style. If we ask them to show us the chair, they need a physical chair that is built - a practical expression of the chair. This is the local church. By seeing the physical chair, we can see the expression of the carpenter's design, which would be universal church in this analogy.
+For example, a carpenter can build a chair, and design the concept with its color, material and style. If they are asked to show us the chair, they need a physical chair that is built - a practical expression of the chair. This is the local church. By seeing the physical chair, the carpenter's design is expressed. This is the expression of the universal church.
 
 ## Etymology
 
@@ -20,7 +21,7 @@ The Greek word for church *ekklesia* means a called out assembly. The church is 
 
 ## History
 
-The universal church was formed after Jesus passed through His human living and became the life-giving Spirit which was breathed and poured out upon the disciples. Afterwards throughout the book of Acts, the discipes continued to establish local churches in various cities as seen in Acts and the epistles.
+The universal church was formed after Jesus passed through His human living and became the life-giving Spirit which was breathed and poured out upon the disciples. Afterwards throughout the book of Acts, the disciples continued to establish local churches in various cities as seen in Acts and the epistles.
 
 ## Universal
 

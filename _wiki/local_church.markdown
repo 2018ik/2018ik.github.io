@@ -4,6 +4,7 @@ title: Local Church
 permalink: /local_church/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [History](#history)
 - [Three Elements](#three-elements)
   - [Ground of Locality](#ground-of-locality)
@@ -21,7 +22,11 @@ permalink: /local_church/
 
 ## Background
 
-A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; this is the practical way in which the Body of Christ can be expressed.
+A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; there is not a single city mentioned in the New Testament which had multiple churches. This is the practical way in which the Body of Christ can be expressed.
+
+## Biblical Basis
+
+In the New Testament, whenever the plural "churches" is used, it is to refer to a group of churches in a particular region e.g. Galatia (Gal. 1:2). On the other hand, for any individual city, the singular "church" is always used (Acts 13:1; 15:4; Rom.16:1; 1 Cor. 1:2; 1 Thes. 1:1; Rev. 2:1).When John addressed the churches in Asia in Revelation 2 and 3, each church was addressed specifically as the "church in" each of the seven cities. 
 
 ## History
 
@@ -54,6 +59,8 @@ A genuine local church must be in the fellowship of the body, and receive all th
 Matthew 18:17 says "But if he refuses to hear them, tell it to the church." The church here is the local church, and must administrate over this situation.
 
 ### Kingdom Authority
+
+The local churches are the practical way through which God establishes His kingdom on earth today.
 
 In verse 18 the Lord Jesus says, "Truly I say to you, Whatever you bind on the earth shall be what has been bound in heaven, and whatever you loose on the earth shall be what has been loosed in heaven." Here to bind means to condemn, and to loose means to forgive. As in 16:19, what we bind or loose on earth should be what has been bound or loosed already in heaven.
 
