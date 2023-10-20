@@ -28,6 +28,8 @@ permalink: /spirit/
   - [The Spirit](#the-spirit)
   - [Transforming Spirit](#transforming-spirit)
   - [Spirit of Love](#spirit-of-love)
+  - [Eternal Spirit](#eternal-spirit)
+  - [Spirit of Grace](#spirit-of-grace)
 
 ## Background
 
@@ -154,3 +156,11 @@ In 2 Corinthians there is a transforming Spirit (2 Cor. 3:18) which when attache
 ### Spirit of Love 
 
 In Colosians 1 there is a Spirit of love (Col. 1:8). This is the love-giving aspect of the Spirit. A person's natural love can only go so far; only the all-inclusive love of Spirit can enable someone to love all the saints, regardless of their personal preferenece (Col. 1:4).
+
+### Eternal Spirit
+
+Christ was offered through the eternal Spirit (Heb. 9:14), which is not bound by time. Therefore, His redemption applies to all people throughout history, including all in the Old Testament age. 
+
+### Spirit of Grace
+
+The Spirit is of grace (Heb. 10:29) which is God dispensed into man to be his enjoyment. As partakers of the Holy Spirit (Heb. 6:4), man receives grace through the Spirit of grace.
