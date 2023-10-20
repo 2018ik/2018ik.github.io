@@ -4,7 +4,6 @@ title: Spirit (of God)
 permalink: /spirit/
 ---
 - [Background](#background)
-- [Revelation of the Spirit](#revelation-of-the-spirit)
 - [History](#history)
   - [Nicene Creed](#nicene-creed)
   - [Further Development](#further-development)
@@ -33,13 +32,11 @@ permalink: /spirit/
 
 ## Background
 
-The Spirit (also known as the Holy Spirit, Spirit of God, Spirit of Christ, Spirit of Jesus, Spirit of Jesus Christ, Spirit of Jehovah, Holy Spirit, Life-giving Spirit, Sevenfold-intensified Spirit) is part of the Divine Trinity, along with the Father and Son.
+The Spirit of God or Holy Spirit, is part of the Divine Trinity, along with the Father and Son. 
 
-Every aspect of the  Spirit is for us to enjoy Christ. In fact, the Spirit of God dwells in man.
+Every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7).
 
-## Revelation of the Spirit
-
-The revelation of the Spirit is progressive; beginning with the Spirit of God in Genesis which only had the divinity of god, and ending with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
+The revelation of the Spirit in the Bible is progressive. It begins with the Spirit of God in Genesis which only had the divinity of God, and ends with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
 
 ## History 
 
@@ -155,7 +152,7 @@ In 2 Corinthians there is a transforming Spirit (2 Cor. 3:18) which when attache
 
 ### Spirit of Love 
 
-In Colosians 1 there is a Spirit of love (Col. 1:8). This is the love-giving aspect of the Spirit. A person's natural love can only go so far; only the all-inclusive love of Spirit can enable someone to love all the saints, regardless of their personal preferenece (Col. 1:4).
+In Colossians 1 there is a Spirit of love (Col. 1:8). This is the love-giving aspect of the Spirit. A person's natural love can only go so far; only the all-inclusive love of Spirit can enable someone to love all the saints, regardless of their personal preference (Col. 1:4).
 
 ### Eternal Spirit
 
