@@ -5,8 +5,9 @@ permalink: /two_aspects_of_truth/
 ---
 - [Background](#background)
 - [Examples](#examples)
-  - [Child and Adult](#child-and-adult)
-  - [Laboring in Grace](#laboring-in-grace)
+  - [Simplicity vs Maturity](#simplicity-vs-maturity)
+  - [Labor/Suffering vs Grace/Enjoyment](#laborsuffering-vs-graceenjoyment)
+  - [Law vs Grace](#law-vs-grace)
 
 ## Background
 
@@ -14,12 +15,16 @@ This is a basic principle of studying the Bible where two facts may seemingly be
 
 ## Examples
 
-### Child and Adult
+### Simplicity vs Maturity
 
-On one hand, a Christian must mature in life and arrive as a full-grown man (Eph. 4:13), but on the other hand, one must be simplified and to long for God like a little child (1 Pet. 2:2).
+On one hand, a Christian must mature in life and arrive as a full-grown man (Eph. 4:13), but on the other hand, one must be simplified and to long for God like a little child (1 Pet. 2:2). To be mature is a matter of spiritual maturity. To be simple is a matter of one's natural character and disposition. Humans by nature are very complicated; they have complicated emotions, complicated ambitions and complicated mental gymnastics and veils. These are what must be simplified, and believers should have a very simple and child-like enjoyment of Christ as food where they absorb Christ and care about nothing else. This results in spiritual growth unto maturity.
 
-### Laboring in Grace
+### Labor/Suffering vs Grace/Enjoyment
 
-On one hand, the Christian life is a life of sacrifice (Rom. 12:1), labor (1 Cor. 15:10), having fellowship with the Lord's sufferings and being conformed to His death (Phil. 3:10), and is related by Paul to an athletic race which must be run (1 Cor. 9:24). However, it is also a life of enjoyment (Phil 4:4) and the labor is actually light (Matt. 11:30).
+On one hand, the Christian life is a life of sacrifice (Rom. 12:1), labor (1 Cor. 15:10), having fellowship with the Lord's sufferings and being conformed to His death (Phil. 3:10), and is related by Paul to an athletic race which must be run (1 Cor. 9:24). However, it is also a life of enjoyment (Phil 4:4) and the labor is actually supposed to be light (Matt. 11:30). How does one reconcile the Christian life of suffering and enjoyment?
 
-Outwardly, believers must pass through suffering to be conformed to the image of Christ. However, this outward suffering is supplied by inward grace, rest, comfort, even resurrection power. Paul labored more abundantly than anyone else, but it was not him, but the grace of God which was with him (1 Cor. 15:10). Therefore, outwardly, there is labor and suffering. However, inwardly, it is Christ as the infinite supply of grace who is one with man and works through man.
+Outwardly, believers must pass through suffering to be conformed to the image of Christ. However, this outward suffering is supplied by inward grace, rest, comfort, even resurrection power. Paul labored more abundantly than anyone else, but it was not him, but the grace of God which was with him (1 Cor. 15:10). Therefore, humanly speaking, there is labor and suffering. However, inwardly and spiritually, it is Christ as the infinite supply of grace who is one with man and works through man.
+
+### Law vs Grace
+
+The Bible makes it clear that the law is over and that living is now by faith in Christ (Gal. 2:20). However, it is still important to keep and teach the law, ethics, and cultural standards especially to those who aren't saved, like children. The law is a child-conductor unto Christ (Gal. 3:24). Physically young children don't have the mental capacity to understand the deeper truths of the Bible, therefore, it is not necessary to teach grace and faith until a certain age. But they should still be taught to follow rules so as to develop a [good character](../person_living) to be useful to God. Spiritually young children are also not necessarily going to instantly live 100% by faith in Christ and count everything as loss, as Paul did. Likewise, they are also governed by the law, that they may conducted unto Christ. Gaining Christ is a gradual process of transformation, therefore, the law cannot be immediately thrown out of the window.

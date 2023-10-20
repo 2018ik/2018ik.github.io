@@ -1,5 +1,13 @@
-TODO
-
+---
+layout: pagev2
+title: Hypocrisy
+permalink: /hypocrisy/
+---
+- [Background](#background)
+- [Biblical Exampels](#biblical-exampels)
+  - [Achan](#achan)
+  - [Ananias](#ananias)
+  
 ## Background
 
 Hypocrisy is to be contradictory in one's inward nature and outward appearance, for example in appearing outwardly righteous while remaining corrupt inwardly (Matt. 23:25-28).

@@ -11,13 +11,11 @@ permalink: /person_living/
 
 ## Background
 
-God pays more attention to what kind of person or character someone is than what they can accomplish. In a sense, in God's economy, the person *is* the work. The living of God's people should be different from the common living; this includes how one behaves in their work life, church life and family life.
-
-
+God pays more attention to what kind of **person** or **character** someone lives than what they can accomplish. In a sense, in God's economy, the person *is* the work. The living of God's people should be different from the common living; this includes how one behaves in their work life, church life and family life.
 
 ## Significance
 
-It is not enough to live properly only during the church meetings. How one conducts themselves in their daily living has a significant impact on their testimony towards their family (especially the children), friends and coworkers.
+It is not enough to be competent in performing many tasks; the proper Christian living is one which lives out Christ daily, not only during the church meetings. How one conducts themselves in their daily living has a significant impact on their testimony towards their family (especially the children), friends and coworkers. Furthermore, those with a good character can be used by God to carry out many things. Abraham, Moses and Paul all had an excellent character. There is no difference between the Holy Spirit that each person receives; however, the degree to which that Spirit can penetrate one's being is a matter of character. 
 
 ## Biblical Basis
 

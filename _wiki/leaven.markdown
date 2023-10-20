@@ -1,4 +1,20 @@
-TODO
+---
+layout: pagev2
+title: Leaven
+permalink: /leaven/
+---
+- [Background](#background)
+- [Types](#types)
+  - [Hypocrisy](#hypocrisy)
+  - [Modernism](#modernism)
+  - [Politics](#politics)
+  - [Different Teachings](#different-teachings)
+  - [Hierarchy](#hierarchy)
+  - [Lording Over](#lording-over)
+  - [Reviling Words](#reviling-words)
+  - [Lukewarmness](#lukewarmness)
+  - [Following an Individual](#following-an-individual)
+  - [Localism](#localism)
 
 ## Background
 

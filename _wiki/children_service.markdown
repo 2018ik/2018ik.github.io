@@ -41,7 +41,7 @@ In fact, there doesn't need to be teaching material. These gatherings can just b
 
 ### Preparing Material
 
-Videos, songs, stories and other learning material should be developed as children do not like listening to long messages and sermons. This should be an interactive experience. 
+Videos, songs, stories and other learning material should be developed as children do not like listening to long messages and sermons. This should be an interactive experience. Age is also a factor that should be considered. For example, when explaining the creation of man to children, they can understand how God created the heavens and the earth, animals and man, but there is no need to go into the details regarding the Trinity and God's economy. Furthermore, biblical truths should not be given away too cheaply. When children hear the same stories over and over again in a low way, for example the prodigal son (Luke 15), they may be veiled and ignore its significance when encountering the deeper truth regarding this chapter when they are older.
 
 ### Contacting Parents
 

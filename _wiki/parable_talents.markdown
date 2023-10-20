@@ -1,4 +1,10 @@
-TODO
+---
+layout: pagev2
+title: Parable of Talents
+permalink: /parable_of_talents/
+---
+- [Background](#background)
+- [Significance](#significance)
 
 ## Background
 

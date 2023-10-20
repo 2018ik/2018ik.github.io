@@ -3,14 +3,14 @@ layout: pagev2
 title: Way of Righteousness
 permalink: /way_of_righteousness/
 ---
-- [Background TODO](#background-todo)
+- [Background](#background)
 - [Significance](#significance)
   - [Baptism of Jesus](#baptism-of-jesus)
 
 > John came to you in the way of righteousness."
 \- Matt. 21:32
 
-## Background TODO
+## Background
 
 The kingdom of God is of righteousness (Rom. 14:17), and righteousness is the foundation of God's throne (Psa. 89:14). Therefore, the way God operates today is in righteousness. The first step in this way is seen in John's baptism, where one realizes they are good for nothing besides death and burial.
 

@@ -1,4 +1,9 @@
-TODO
+---
+layout: pagev2
+title: Justification
+permalink: /justification/
+---
+- [Background](#background)
 
 ## Background
 
