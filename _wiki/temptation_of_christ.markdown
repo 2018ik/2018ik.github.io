@@ -35,3 +35,4 @@ Then, Satan brought Jesus to the wing of the temple, and asked Him once again as
 Now that Jesus has shown that He stood as a man, Satan tempted Him with worldly glory. If He would bow down and worship Satan, he would give Him all the kingdoms of the world (Matt. 4:8-9). 
 
 Everyone is susceptible to considering how successful those in the world are. In comparison, laboring for the Lord does not result in material gain.
+
