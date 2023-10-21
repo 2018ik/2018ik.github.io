@@ -36,7 +36,7 @@ See footnote 1 of Acts 2:21 in the Recovery Version
 
 ### Enosh
 
-Calling began with Enosh, when men realized the vanity of human life, the fragility of mn, and the need to live for and according to God (Gen 4:26)
+Calling began with Enosh, whose name means "frail mortal man" (Gen 4:26). This indicates that man began calling when they realized the vanity of human life, the fragility of man, and the need to live for and according to God.
 
 ### Abraham and Isaac
 
