@@ -17,13 +17,14 @@ Although the element of the Spirit is life, this life in a vacuum cannot do anyt
 
 ## Significance
 
-The life-giving Spirit is the essence and reality of the Body of Christ (1 Cor. 12:13). As the blood is the essence of a physical body, if the Spirit is removed from the Body, it becomes a corpse.
+The life-giving Spirit is the essence and reality of the Body of Christ (1 Cor. 12:13). As the blood is the essence of a physical body, if the Spirit is removed from the Body, it becomes a corpse. The life-giving Spirit is what builds up the churches into the organism of the Body of Christ, by transforming the local churches into the image of Christ to consummate the New Jerusalem as the eternal enlargement and expression of God.
 
 ## Biblical Basis
 
 1 Corinthians 15:45 says that last Adam became a life-giving Spirit. The context of the chapter indicates clearly this becoming was a result of resurrection. The previous verse 44 speaks of a soulish body being raised as a spiritual body. This resurrected body is spiritual because it is saturated by the Spirit, which can now indwell man as a result of resurrection.
 
 Joh 14:16-17 speaks of another Comforter. The life-giving Spirit which indwells man is the fulfillment of this prophecy.
+
 ## All-Inclusive
 
 ### Human Elements

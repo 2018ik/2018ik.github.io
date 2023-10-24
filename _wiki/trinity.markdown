@@ -8,13 +8,16 @@ permalink: /trinity/
   - [Plurality](#plurality)
   - [Coexistence](#coexistence)
 - [Function](#function)
-- [Mystery](#mystery)
+- [Hypostases](#hypostases)
+  - [Holy Spirit](#holy-spirit)
 
 ## Background
 
 The Divine Trinity is God Himself: the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which we cannot understand with our mind. Actually, the purpose of the Divine Trinity is not for human understanding, but for the dispensing of God into man as life.
 
 ## Biblical  Basis
+
+In the beginning in Genesis, God's intention is revealed in His creation of man, as well as His person. In the New Testament, it is clear that God is triune, as well as the purpose behind the Trinity.
 
 ### Plurality
 
@@ -40,8 +43,10 @@ Lastly, 2 Corinthians 13:14 speaks of the grace of Christ the Son, the love of G
 
 God is triune because He wants to dispense Himself into man. 
 
-The Father, who is the source, the origin, has many riches. Whatever the Father has is the Son’s (John 16:15), and what the Son has is received by the Spirit (2 Cor. 3:17). The Father is embodied in the Son, the Son is transfigured to be the Spirit, and the Spirit is the reaching of the divine Trinity to us. 
+The Father, who is the source, the origin, has many riches. Whatever the Father has is the Son’s (John 16:15), and what the Son has is received by the Spirit (2 Cor. 3:17). The Father is embodied in the Son, the Son is transfigured to be the Spirit, and the Spirit is the reaching of the divine Trinity to us.
 
-## Mystery
+## Hypostases
 
-God is 3 in 1 and 1 in 3, we cannot understand this with our mind.
+### Holy Spirit
+
+The Spirit is Christ. This can be seen in 2 Cor 3:18, 1 Cor. 12:13.

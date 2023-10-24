@@ -12,7 +12,7 @@ permalink: /word_of_god/
 
 ## Background
 
-In the Bible, Christ is called the Word of God (John 1:1). As the Word of God, He is the definition, explanation and expression of God. Just like how someone's speaking allows us to evaluate his person, the Word of God allows us to see who God is.
+The **Word of God** can refer to the Bible, the written word of God, the present speaking of God, or God Himself. Christ is called the Word of God (John 1:1). As the Word of God, He is the definition, explanation and expression of God. Just like how someone's speaking allows us to evaluate his person, the Word of God allows us to see who God is.
 
 If we read this book in the proper way, the primary character (the first and last name mentioned in the New Testament is Jesus Christ) of book will live in the person who reads it. The reading of the physical book with an exercised spirit will result in the living person imparted into the reader.
 
