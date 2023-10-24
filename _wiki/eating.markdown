@@ -14,6 +14,8 @@ permalink: /eating/
 
 **Eating** is the way through which God becomes one with man. God's first provision for man was to give him food to eat (Gen. 1:29). God does not want man to merely admire or to study Christ; that would be akin to studying a steak, but not actually eating it. In order to truly experience Christ as life, one needs to eat Christ, digest Christ, and assimilate Christ. 
 
+Actually, Christ is the reality of all eating. Eating without realizing that Christ is the reality of all the food is in a sense, idolatry.
+
 ## Biblical Basis
 
 Just like in real life, one lives spiritually by eating (John 6:57).

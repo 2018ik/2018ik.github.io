@@ -11,7 +11,7 @@ permalink: /christ_indwelling/
 
 ## Background
 
-Christ is indwelling the believers as the Spirit. When someone receives the Spirit, they also receive Christ, as well as the Father. The entire Triune God is dispensed into man at the same time.
+Christ is **indwelling** the believers as the Spirit. When someone receives the Spirit, they also receive Christ, as well as the Father. The entire Triune God is dispensed into man at the same time.
 
 ## Biblical Basis
 

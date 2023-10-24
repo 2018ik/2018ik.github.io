@@ -27,4 +27,4 @@ Christ's resurrection was a new birth, designated the firstborn Son of God (Rom.
 
 ## Breathing Out
 
-The Lord breathed Himself as the pneumatic Christ into His disciples, bringing the entire consummated Triune God into His believers. This Spirit mingles with the believers' spirit to become one mingled spirit (1 Cor. 6:17).
+The Lord breathed Himself as the pneumatic Christ into His disciples, bringing the entire consummated Triune God into His believers. This Spirit mingles with the believers' spirit to become one mingled spirit (1 Cor. 6:17). The Lord also trained the disciples for forty days, during which they learned to live by the invisible Christ.

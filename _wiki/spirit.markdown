@@ -106,7 +106,7 @@ This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding 
 
 ### Lord Spirit
 
-2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord.
+2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit. Turning to the mingled spirit is to turn to God who is in the heavens. 
 
 ### Spirit of Christ
 

@@ -18,7 +18,7 @@ Faith comes out of hearing, and hearing through the word of God. All spiritual t
 
 ## Application
 
-Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16). 
+Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16), and is in the mingled spirit (1 Cor. 4:13). If one does not live  
 
 In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
 
