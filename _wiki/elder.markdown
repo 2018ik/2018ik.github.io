@@ -1,13 +1,20 @@
 ---
 layout: pagev2
-title: Local Church Administration
-permalink: /local_church_administration/
+title: Elder
+permalink: /elder/
 ---
 - [Background](#background)
+- [Function](#function)
+  - [Taking the Lead](#taking-the-lead)
+  - [Teaching](#teaching)
+  - [Shepherding](#shepherding)
+  - [Finances](#finances)
 
 ## Background
 
-**Elders** are overseers which serve the church. In Acts 20:28, Paul said to the elders that the Holy Spirit has placed them as overseers. In Philippians 1:1, Paul indicates the two offices in the local church as "overseers and deacons."
+**Elders** (or overseers) are mature believers which serve and oversee the church. The elders are appointed by the apostles in each church (Acts 14:23). They are also appointed in every city (Titus 1:5), which shows that the jurisdiction of the elders, as well as the church, is by city.
+
+In Acts 20:28, Paul said to the elders that the Holy Spirit has placed them as overseers. In Philippians 1:1, Paul indicates the two offices in the local church as "overseers and deacons." Nowhere in the Bible does it indicate that the elders are rulers, or have any authority apart from God.
 
 ## Function
 

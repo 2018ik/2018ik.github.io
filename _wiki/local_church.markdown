@@ -12,12 +12,12 @@ permalink: /local_church/
 - [Function](#function)
   - [Administration](#administration)
   - [Kingdom Authority](#kingdom-authority)
-- [Constituents](#constituents)
+- [Offices](#offices)
   - [Elders](#elders)
   - [Serving Ones](#serving-ones)
-  - [Believers](#believers)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
+  - [Testimony #2](#testimony-2)
 
 
 ## Background
@@ -66,7 +66,9 @@ In verse 18 the Lord Jesus says, "Truly I say to you, Whatever you bind on the e
 
 The kingdom authority can be exercised by the church to deal with the offending brother. The brother mentioned in 18:15-17 is first offending and then rebellious. First he offends someone. Then because he will not listen to the one he has offended, to two or three witnesses, or even to the church, he becomes rebellious. Because he rebels against the church, the church must exercise its authority to bind and loose. When he repents, the church must forgive him and restore him to the fellowship of the church. 
 
-## Constituents
+## Offices
+
+There is a pattern established in the New Testament regarding the offices of the local churches. As revealed in Acts and the epistles, there are elders (overseers) and deacons (serving ones). These offices are **not** for hierarchy, but to practically lead, shepherd and teach.
 
 ### Elders
 
@@ -75,9 +77,6 @@ Elders (Acts 20:17), or overseers (20:28) are a individuals of maturity who over
 ### Serving Ones
 
 Serving ones (Acts 6:2) or deacons (Phil. 1:1) are those who serve under the leadership of the overseers. 
-
-### Believers
-
 
 ## Testimonies
 
@@ -88,3 +87,7 @@ Serving ones (Acts 6:2) or deacons (Phil. 1:1) are those who serve under the lea
 >Therefore, the local church, as the practical expression of the universal church, has the authority to exercise this kingdom authority on those who rebel. So when one offends, and would not listen to the church, the church must exercise this kingdom authority to bind the brother, that is to condemn and to cut him off from fellowship. However this is not condemnation for the sake of punishment, but to lead him to repentance. If he repents, the church then must forgive him and restore him to fellowship. 
 >
 > It is this simple - there is no drama, no politics, no backstabbing - the church exercises its kingdom authority to bind and to loose what has been bound and loosed in the heavens. This is neither an individual matter, nor something of man. It is the authority given to the church, and it is the authority to bind and loose what has already been accomplished in the heavens.
+
+### Testimony #2
+
+>We are now more clear on the purposes of the two offices in the local church. There is no complex hierarchy as in Roman Catholicism or today's corporations. Elders and deacons are not here to annul the functions of the other members, nor to lord it over the members so as to create a hierarchy. In Acts 20:28 and 1 Peter 5:2, the elders are told to shepherd the church of God and the flock of God. God has allotted the church to the elders for their temporary care in the present age. However, eternally the church is God's possession. The elders and deacons have no ground to exercise their personal authority over the church. The function of all the members, such as the overseeing and serving functions, are needed for the church to be built up. 

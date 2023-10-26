@@ -4,8 +4,13 @@ title: Apostle
 permalink: /apostle/
 ---
 - [Background](#background)
+- [History](#history)
 
 ## Background
 
-"Apostle" is an anglicized Greek word that means “one who is sent.” Every proper believer is a sent one.
+"Apostle" is an anglicized Greek word that means “one who is sent.” Every proper believer is a sent one. 
+
+## History
+
+In the early church, the 12 apostles played a particular role as those who directly witnessed the life of Jesus (Acts 1:21), and according to the number of disciples originally ordained by Jesus. To replace Judas, they cast lots for a replacement for the 12th member (Acts 1:26). However, as long as the Lord's move continues, the choosing of apostles will also continue. Paul and Barnabas were recognized as apostles (Acts 14:14), and there were many more recognized as apostles who were not directly named (1 Cor. 15:7). Many also declared themselves apostles though they were not (Rev. 2:2), indicating that the apostleship is a dynamic role based on God's calling, not simply the original 12.
 
