@@ -17,9 +17,9 @@ permalink: /law/
 
 ## Background
 
-The **law** usually refers to the Mosaic law, that is the law of God (Josh. 24:26; Rom. 7:22) given in the Old Testament to the children of Israel, and was God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. It is the latter that is abolished (Eph 2:15), yet, the former is not to be kept out of self-effort (Gal 2:19-21).
+The **law** usually refers to the Mosaic law, that is the law of God (Josh. 24:26; Rom. 7:22) given in the Old Testament to the children of Israel, and was God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. It is the latter that is abolished (Eph 2:15), but still, the former is not to be kept out of self-effort (Gal 2:19-21).
 
-The law itself is good and holy (Rom. 7:12), but the intention of the law is to show us our sin (Rom. 7:7; Gal. 3:23-24). Through the law is clear knowledge of sin, and if man tries to keep the law he will not be justified by God because God's standard of righteousness is His own righteous being and no fallen being can meet this standard.
+The law itself is good and holy (Rom. 7:12), but the intention of the law is to expose man of his sin (Rom. 7:7; Gal. 3:23-24). Through the law is clear knowledge of sin, and if man tries to keep the law he will not be justified by God because God's standard of righteousness is His own righteous being and no fallen being can meet this standard.
 
 ## History
 
@@ -51,6 +51,8 @@ The law has a positive function, that is to expose sin. After all, the law in an
 
 For example, in the Old Testament, after transgressing God's law, there is the conviction of sin. The law may even require that one to be put to death. There however is a provision: the trespass offering. By exposing such a sin, the sinner is conducted unto God through the trespass offering. 
 
+In the New Testament, man attempts to fulfill the law, but the evil will be present which causes man to fail (Rom. 7:21). This turns man to Christ, the reality of the trespass offering, where there is no more condemnation (Rom. 8:1).
+
 ### To Conduct Man To Christ
 
 Through the exposing of sin, a person realizes by the law that they are good for nothing but death and burial. This conducts man to Christ as their only hope.
@@ -59,8 +61,7 @@ This can be seen in the best practice for saving a drowning person. The lifeguar
 
 ## End of the Law
 
-In the New Testament, Christ's coming is the end of the law (Rom. 10:17). We are justified when we are joined to Christ through righteousness. This is by faith.
-
+In the New Testament, Christ's coming is the end of man's obligation to keep the law. Through His death and resurrection, no longer is man bound by law to the old man, but rather justified by faith that they may live to God (Gal. 2:19-22).
 
 ## Related Terms
 

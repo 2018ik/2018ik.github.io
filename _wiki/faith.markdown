@@ -12,9 +12,9 @@ permalink: /faith/
 
 ## Background
 
-Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14).
+Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14).
 
-Faith comes out of hearing, and hearing through the word of God. All spiritual things are experienced through faith. 
+Faith comes out of hearing, and hearing through the word of God. All spiritual experiences are through faith. 
 
 ## Application
 
