@@ -25,7 +25,7 @@ There are many Old Testament typees which reveal Christ, most obviously the Pass
 
 ## History
 
-The history of the Israelites show God's move on the earth today. Each failure and success serve as a pattern for the New Testament believers. 
+The history of the Israelites show God's move on the earth today, and actually serve as an admonition to today's believers (1 Cor. 10:11). Each failure and success serve as a pattern for the New Testament believers. 
 
 ## Poetry
 

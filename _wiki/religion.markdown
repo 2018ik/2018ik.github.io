@@ -10,7 +10,7 @@ permalink: /religion/
 
 ## Background
 
-Religion is a veil, and a negative force which distracts from Christ Himself. The typical definition of religion is any kind of metaphysical belief especially of a high power, but in the Bible, it can be seen that Christ is everything (Phil. 1:21; Phil. 2:21), while the outward practices, rituals and doctrines of religion are nothing.
+Religion in the Bible, as depicted by idolatry in the Old Testament and the Pharisees in the New Testament, is a veil, and a negative force which distracts from Christ Himself. Of course, the typical definition of religion is any kind of belief in a high power, but in the Bible, to be religious is worship of any kind - be it sound, scriptural or fundamental - without the presence of Christ. it can be seen that Christ is everything (Phil. 1:21; Phil. 2:21), while the outward practices, rituals and doctrines of religion are nothing.
 
 ## Biblical Basis
 
