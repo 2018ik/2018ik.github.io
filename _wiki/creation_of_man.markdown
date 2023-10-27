@@ -31,7 +31,7 @@ While all the other living creatures were created according their own kind (Gen.
 
 ### Genesis 2:7
 
-God formed man from the dust of the ground, and breathed into his nostrils the breath of life. This breath of life is the spirit, and is translated as such in Proverbs 20:27. This is not the eternal life of God, as Genesis 3:22-24 reveals that that only after partaking of the tree of life will man live forever.
+God formed man from the dust of the ground, and breathed into his nostrils the breath of life. This breath of life is the spirit, and is translated as such in Proverbs 20:27. This is not the eternal life of God, as Genesis 3:22-24 reveals that that only after partaking of the tree of life will man live forever. Furthermore, God works according to the principle of free will. 
 
 Then, the body is seen in the formation from the dust, and the soul is seen in man becoming a "living soul." When the spiritual breath and bodily dust came together, the soul was produced. That man was created tripartite with body, soul and spirit was very purposeful, so that man can receive and express God.
 

@@ -28,12 +28,13 @@ permalink: /morning_revival/
     - [Redeem the Time](#redeem-the-time)
     - [Remind One Another](#remind-one-another)
     - [Not Ritualistic](#not-ritualistic)
+    - [Prepare Yourself Practically](#prepare-yourself-practically)
 - [Benefits](#benefits)
 - [Sweetness](#sweetness)
 
 ## Background
 
-Morning revival is a time in the morning to be with the Lord and contact the Lord.
+**Morning revival** is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived.
 
 We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
@@ -132,7 +133,7 @@ The first step is to contact the Lord; don't start doing your morning routine, o
 
 #### Don't Set High Standards
 
-Take it little by little; start with one verse, 5 minutes, build it up over time.
+Take it little by little; start with one verse, 5 minutes, build it up over time. Don't be disappointed in not meeting your self-made laws.
 
 #### Diligent Habit
 
@@ -153,6 +154,10 @@ Rely on your companions to remind you each morning.
 #### Not Ritualistic
 
 We should fellowship with the Lord, even regarding our waking up early. This should not be something which we do solely out of our natural self. We need the Lord to open our ear in the morning; we need learn to take the Lord as our full supply.
+
+#### Prepare Yourself Practically
+
+Change out of pajamas, stand up, sit up straight, etc. Don't remain lying down. Remember that morning revival is a meeting with God.
 
 ## Benefits
 

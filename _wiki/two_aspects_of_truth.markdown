@@ -6,6 +6,7 @@ permalink: /two_aspects_of_truth/
 - [Background](#background)
 - [Examples](#examples)
   - [Simplicity vs Maturity](#simplicity-vs-maturity)
+  - [Vessel vs Instrument](#vessel-vs-instrument)
   - [Labor/Suffering vs Grace/Enjoyment](#laborsuffering-vs-graceenjoyment)
   - [Law vs Grace](#law-vs-grace)
 
@@ -18,6 +19,10 @@ This is a basic principle of studying the Bible where two facts may seemingly be
 ### Simplicity vs Maturity
 
 On one hand, a Christian must mature in life and arrive as a full-grown man (Eph. 4:13), but on the other hand, one must be simplified and to long for God like a little child (1 Pet. 2:2). To be mature is a matter of spiritual maturity. To be simple is a matter of one's natural character and disposition. Humans by nature are very complicated; they have complicated emotions, complicated ambitions and complicated mental gymnastics and veils. These are what must be simplified, and believers should have a very simple and child-like enjoyment of Christ as food where they absorb Christ and care about nothing else. This results in spiritual growth unto maturity.
+
+### Not Doing vs Doing
+
+One one hand, man is a vessel, a container made by God to contain God. This is to not try to do anything, and to rather simply stop and receive the filling of God. However, God also gave man a stewardship (Eph. 3:2) that he may serve God. However, this serving is not out of the self, but with God's filling as the source. Therefore, on one hand, man is simply a vessel who should stop his natural doing, and on the other hand, through the filling man is able to serve God in the proper way. 
 
 ### Labor/Suffering vs Grace/Enjoyment
 
