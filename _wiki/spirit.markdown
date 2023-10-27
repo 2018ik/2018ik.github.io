@@ -29,6 +29,7 @@ permalink: /spirit/
   - [Spirit of Love](#spirit-of-love)
   - [Eternal Spirit](#eternal-spirit)
   - [Spirit of Grace](#spirit-of-grace)
+  - [Spirit of Glory](#spirit-of-glory)
 
 ## Background
 
@@ -110,7 +111,9 @@ This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding 
 
 ### Spirit of Christ
 
-The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrection. This Christ is an all-inclusive Christ, and this Christ is God and the man Jesus Christ, the redeemer in whom we have redemption so this Christ is in whom we have all of God's purpose and full salvation. This title touches the all-inclusiveness of this Spirit and is used interchangeably with Spirit of God in Romans 8:9. As the Spirit of God dwells in us (Rom. 8:??), this implies that God went through a process so that we can contain Him. Therefore, this Spirit of God that indwells us is the all-inclusive Spirit of Christ that is living in us.
+The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrection. This Christ is an all-inclusive Christ, and this Christ is God and the man Jesus Christ, the redeemer. This title touches the all-inclusiveness of this Spirit and is used interchangeably with Spirit of God in Romans 8:9, as they are one Spirit. 
+
+This Spirit of Christ is also mentioned in 1 Peter 1:10-11, which speaks of this Spirit testifying to the prophets. The prophets were able to search out the time and manner of Christ's human living because the Spirit of Christ made it known to them. This was possible as the Spirit is also the eternal Spirit (Heb 9:14). 
 
 ### Spirit of Jesus
 
@@ -156,8 +159,12 @@ In Colossians 1 there is a Spirit of love (Col. 1:8). This is the love-giving as
 
 ### Eternal Spirit
 
-Christ was offered through the eternal Spirit (Heb. 9:14), which is not bound by time. Therefore, His redemption applies to all people throughout history, including all in the Old Testament age. 
+Christ was offered through the eternal Spirit (Heb. 9:14), which is not bound by time. Therefore, His redemption applies to all people throughout history, including all in the Old Testament age. In fact, He was slain from the foundation of the world (Rev. 13:8). 
 
 ### Spirit of Grace
 
 The Spirit is of grace (Heb. 10:29) which is God dispensed into man to be his enjoyment. As partakers of the Holy Spirit (Heb. 6:4), man receives grace through the Spirit of grace.
+
+### Spirit of Glory
+
+1 Peter 4:13-14 mentions the Spirit of glory and of God which rests upon suffering believers. This is the Spirit which operated on Stephen which caused his face to be like that of an angel (Acts 6:15).

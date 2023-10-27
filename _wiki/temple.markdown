@@ -22,5 +22,5 @@ In the late 1950s and early 1960s there were ambitious coworkers who raised up d
 
 In Christ's resurrection, He became a life-giving Spirit, which is the highest significance of resurrection. Did you realize that becoming a life-giving Spirit is also a work of Christ? We will realize one day that it is a work to become a husband, it is a marvelous work to become a Father, likewise to become a life-giving Spirit was indeed a glorious work.
 
-In the New Testament, the reality of the temple is actually the human body, which is a temple of the Holy Spirit (1 Cor. 16:19-20).
+In the New Testament, the reality of the temple is actually the human body, which is a temple of the Holy Spirit (1 Cor. 6:19-20).
 
