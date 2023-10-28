@@ -18,7 +18,7 @@ fi
 file_content="---
 layout: pagev2
 title: $name
-permalink: $permalink
+permalink: /$permalink/
 ---
 - [Background](#background)
 
