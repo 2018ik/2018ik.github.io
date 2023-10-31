@@ -4,11 +4,11 @@ title: Confession
 permalink: /confession/
 ---
 - [Background](#background)
-- [Tips and tricks](#tips-and-tricks)
+- [Tips](#tips)
 
 ## Background
 
-Confession issues from the light of God. Having received light from God which exposed our offenses, we confess what we have seen and the blood cleanses us. This is guaranteed as God is faithful and righteous to cleanse us from all unrighteousness (1 John 1:9)
+Confession issues from the light of God. Having received light from God which exposed our offenses, we confess what we have seen and the blood cleanses us. This is guaranteed as God is faithful and righteous to cleanse us from all unrighteousness (1 John 1:9). Actually,He does not even remember the sins which are cleansed (Heb. 8:12).
 
 ## Tips
 1. We do not need to beg or go through some kind of mental application

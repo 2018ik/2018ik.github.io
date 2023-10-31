@@ -80,6 +80,8 @@ No one can say "Jesus is Lord" except in the Holy Spirit (Rom. 12:3). We drink t
 
 Calling on the name of the Lord also allows us to depart from unrighteousness (2 Tim. 2:19). Furthermore, seeking to be a vessel unto honor, sanctified, useful to the master, we need to call on the Lord out of a pure heart with companions (2 Tim. 21-22).
 
+On the negative side, the way Saul determined whom to persecute was by whether or not they called on the name of the Lord.
+
 ## The Recovery
 
 Calling on the name of the Lord is one of the items recovered in the Lord's recovery. Thousands of saints have been released and enriched through calling on the name of the Lord.
