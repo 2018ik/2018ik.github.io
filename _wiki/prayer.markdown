@@ -4,6 +4,7 @@ title: Prayer
 permalink: /prayer/
 ---
 - [Background](#background)
+- [Instrinsic Significance](#instrinsic-significance)
 - [Genuine Prayer](#genuine-prayer)
   - [God's Will](#gods-will)
   - [Not of the soul](#not-of-the-soul)
@@ -22,13 +23,13 @@ permalink: /prayer/
 
 ## Background
 
-The real significance of prayer is to contact God in our spirit and to absorb God Himself. Our creator ordained that we would have a life that can live together with Him. This is prayer. We should feel some kind of personal movement toward Him when we pray.
+**Prayer** is to contact God in the spirit to absorb God.
 
-Praying also builds up (Jude 20). This is possible if our prayer is not in our self. 
+Praying in spirit builds up the church (Jude 20).
 
 ## Instrinsic Significance
 
-To pray is to realize that we are nothing and can do nothing; prayer is the real denial and repudiating of our self tso that we may enjoy Christ as everything to us (Col. 4:2; Gal. 2:20).
+To pray is to realize that the self is nothing and can do nothing; prayer is the real denial and repudiating of one's self so that one may enjoy Christ as their everything (Col. 4:2; Gal. 2:20).
 
 ## Genuine Prayer
 
