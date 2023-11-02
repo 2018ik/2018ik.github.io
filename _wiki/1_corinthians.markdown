@@ -10,11 +10,9 @@ permalink: /first_corinthians/
 
 ## Background
 
-First Corinthians describes a realistic church life, in contrast to the ideal described in Romans 12-16. We are no better than the Corinthians, especially in terms of our inner being.
+**First Corinthians** describes a realistic church life which was full of problems, in contrast to the ideal described in Romans 12-16. The churches of today are no better than the Corinthians, especially in terms of many believers' inner being.
 
-In this book, we see the spiritual, the soulish, and the fleshly. In fact, during this time to call someone a Corinthian was an insult due to their degraded condition.
-
-Paul's intention was to solve the problems among the saints in Corinth. However for all the problems, especially divisiveness, the only solution is the enjoyment of the all-inclusive Christ.
+In this book, there is the spiritual, the soulish, and the fleshly. In fact, during this time to call someone a Corinthian was an insult due to their degraded condition. Paul's intention was to solve the problems among the saints in Corinth. However for all the problems, especially divisiveness, the only solution is the enjoyment of the all-inclusive Christ, which is repeatedly emphasized throughout the book. In fact, Paul did not determine to know anything among the Corinthians except the Christ who was crucified (1 Cor. 2:2).
 
 ## Divisions
 

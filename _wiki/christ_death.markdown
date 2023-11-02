@@ -4,10 +4,11 @@ title: Christ's Death
 permalink: /christ_death/
 ---
 - [Background](#background)
+- [Significance](#significance)
 
 ## Background
 
-Christ's death has a redemptive aspect and a life-releasing aspect. This is signified by the piercing of His side, where blood and water flowed out (John 19:34).
+**Christ's death** has a redemptive aspect and a life-releasing aspect. This is signified by the piercing of His side, where blood and water flowed out (John 19:34).
 
 ## Significance
 

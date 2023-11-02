@@ -23,7 +23,7 @@ permalink: /prayer/
 
 ## Background
 
-**Prayer** is to contact God in the spirit to absorb God.
+**Prayer** is to contact God in the spirit to absorb God. It is the believers' response to God's flowing in, and their flowing back to God. 
 
 Praying in spirit builds up the church (Jude 20).
 

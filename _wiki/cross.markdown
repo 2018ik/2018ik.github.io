@@ -4,8 +4,11 @@ title: Cross
 permalink: /cross/
 ---
 - [Background](#background)
+- [Significance](#significance)
 
 ## Background
+
+The **cross** of Christ is God's way of terminating the old creation that the life of Jesus can be manifested (1 Cor. 4:10-12). To take up the cross and follow the Lord is for the self, natural life, and old man to be terminated (Matt. 16:24). Outwardly, this may appear to be suffering, but inwardly, it is actually an enjoyment. With the termination and death of the old man, comes the resurrection of the new man (1 Pet. 2:24). This new life, a mingled, grafted life joined to Christ in an organic union, is true enjoyment.
 
 When the Lord was alive, He was already living in the principle of the cross. In His baptism, He already showed us He died. His whole life was a life of bearing the cross. In the end of His life, He was nailed to the cross. 
 
