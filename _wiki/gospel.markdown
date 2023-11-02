@@ -4,6 +4,7 @@ title: The Gospel
 permalink: /gospel/
 ---
 - [Background](#background)
+- [Focus](#focus)
 - [Biblical Basis](#biblical-basis)
   - [Romans 1:3-4](#romans-13-4)
   - [Philippians](#philippians)
@@ -16,7 +17,7 @@ permalink: /gospel/
 
 ## Background
 
-The gospel of God is the entire content of the Bible, which involves His [entire work and purpose](../economy).
+The **gospel** of God is the entire content of the Bible, which involves His [entire work and purpose](../economy). The gospel is not merely a judicial salvation from eternal perdition, but the entire word of the truth (Eph. 1:13).
 
 In Old Testament, man fell, and in the New Testament, man was redeemed by God so that man may be saved in the *present* from the all things of the flesh through the Spirit in their spirit.
 
