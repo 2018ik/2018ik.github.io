@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ "$(uname -s)" == "Linux" ]; then
+    BASH_EXECUTABLE="/bin/bash"
+else
+    BASH_EXECUTABLE="/bin/bash.exe"
+fi
+
 if [ "$#" -ne 1 ]; then
   echo "Usage: $0 <name>"
   exit 1
@@ -7,7 +13,8 @@ fi
 
 name="$1"
 permalink=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
-script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+script_dir="$($BASH_EXECUTABLE -c 'echo $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )')"
 filename="$script_dir/_wiki/${permalink}.markdown"
 
 if [ -e "$filename" ]; then
@@ -23,6 +30,10 @@ permalink: /$permalink/
 - [Background](#background)
 
 ## Background"
+
+if [ "$(uname -s)" != "Linux" ]; then
+  file_content=$(echo -e "$file_content" | dos2unix)
+fi
 
 echo -e "$file_content" > "$filename"
 echo "Wiki page '$permalink' created successfully."
