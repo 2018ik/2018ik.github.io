@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Home Meeting
-permalink: home_meeting
+permalink: /home_meeting/
 ---
 - [Background](#background)
 - [Scriptural Basis](#scriptural-basis)
