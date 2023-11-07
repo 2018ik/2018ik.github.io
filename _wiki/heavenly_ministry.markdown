@@ -7,7 +7,7 @@ permalink: /heavenly_ministry/
 
 ## Background
 
-Christ's heavenly ministry refers to the work He is accomplishing since after His ascension to His coming back, which includes His ascension, pouring out of the economical Spirit, sending out of the disciples, raising up of gifted ones to perfect the saints, and the prophecy of His second coming. This is not just an idle downtime prior to the second coming, but He is in fact more active now than even during His earthly ministry. The goal of the heavenly ministry is to gain a full salvation in the believers, that they can build up the Body of Christ.
+Christ's **heavenly ministry** refers to the work He is accomplishing since after His [ascension](../christ_ascension) to His coming back, which includes His ascension, pouring out of the economical Spirit, sending out of the disciples, raising up of gifted ones to perfect the saints, and the prophecy of His second coming. This is not just an idle downtime prior to the second coming, but He is in fact more active now than even during His earthly ministry. The goal of the heavenly ministry is to gain a full salvation in the believers, that they can build up the Body of Christ.
 
 ## Ascension
 

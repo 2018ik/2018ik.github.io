@@ -9,7 +9,7 @@ permalink: /christ_ascension/
 
 ## Background
 
-The **ascension of Christ** marks the end of His earthly ministry, and begins His heavenly ministry. 
+The **ascension of Christ** marks the end of His earthly ministry, and begins His heavenly ministry. In His ascension, Christ entered into the glory of God, leading His many sons to glory. 
 
 ## Significance
 

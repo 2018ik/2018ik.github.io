@@ -12,7 +12,7 @@ permalink: /headship/
 
 ## Background
 
-The headship is a matter of authority. 
+The **headship** is a matter of authority, and the unique Head of the Body is Christ (Eph. 1:22).
 
 ## Man and Woman
 
