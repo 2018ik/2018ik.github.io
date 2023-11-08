@@ -10,7 +10,7 @@ permalink: /nourishing/
 
 **Nourishing** (and cherishing) is the second step of the God-ordained way, and follows begetting. This is according to the Biblical principle of bearing remaining fruit.
 
-Nourishing the new believers involves educating them spiritually with the loving care of God.
+Nourishing the new believers involves educating them spiritually with the loving care of God. During this time, they should learn about the crucial practices of the Christian life, such as reading the Bible, praying, having morning revival, and attending the meetings. During this time, the focus should be on feeding, not on correction.
 
 ## Biblical Basis
 

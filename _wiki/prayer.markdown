@@ -79,7 +79,7 @@ Inhaling implies taking in a gas, and bringing it into us that it may be absorbe
 
 ### Individual
 
-Personal prayer is to absorb God.
+Personal prayer is to absorb God. According to the Scripture, one should unceasingly pray (1 Thes. 5:17), which is to be continually in spirit praying short prayers throughout the day.
 
 ### Corporate
 

@@ -12,6 +12,7 @@ permalink: /morning_revival/
   - [Jacob](#jacob)
   - [Moses](#moses)
   - [Samuel's parents](#samuels-parents)
+  - [Various Psalmists](#various-psalmists)
   - [Jesus](#jesus)
   - [George Muller](#george-muller)
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
@@ -34,12 +35,11 @@ permalink: /morning_revival/
 
 ## Background
 
-**Morning revival** is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived.
+**Morning revival** (or **morning watch) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived.
 
 We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
 Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
-
 
 ## Pictures of Morning Revival
 
@@ -72,10 +72,16 @@ Gen 19:27 He rose up early it the morning and went to the place where he had sto
 Gen 28:18-19. After he had the dream of the heavenly ladder, where the Lord spoke to him regarding his descendants, he rose up early in the morning. He took the stone that he had under his head and set it as a pillar and poured oil on top of it, and called the name of that place Bethel.
 
 ### Moses
+
 Exodus 32:2,4 Moses rose up early in th morning to go up to Mt. Sinai to receive the 10 commandments.
 
 ### Samuel's parents
+
 1 Sam 1:19
+
+### Various Psalmists
+
+David set forth his words to Jehovah in the morning, that He would hear his voice (Psa. 5:3). Other psalmists also watched for the Lord in the morning (Psa. 119:147; 130:6).
 
 ### Jesus
 
