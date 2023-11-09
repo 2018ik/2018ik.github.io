@@ -12,12 +12,11 @@ permalink: /law/
   - [To Govern Man](#to-govern-man)
   - [To Expose Sin](#to-expose-sin)
   - [To Conduct Man To Christ](#to-conduct-man-to-christ)
-- [End of the Law](#end-of-the-law)
 - [Related Terms](#related-terms)
 
 ## Background
 
-The **law** usually refers to the Mosaic law, that is the law of God (Josh. 24:26; Rom. 7:22) given in the Old Testament to the children of Israel, and was God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. It is the latter that is abolished (Eph 2:15), but still, the former is not to be kept out of self-effort (Gal 2:19-21).
+The **law** refers to the Mosaic law, that is the law of God (Josh. 24:26; Rom. 7:22) given in the Old Testament to the children of Israel, and was God's principle in dealing with man in the Old Testament. God decreed the law as a portrait of Himself and a standard of good to expose man of his inability to keep the law and to cause him to know his sin (Rom 3:20, Rom 7:7). In the Old Testament, there was both the law of moral commandments, as well as ritual commandments in ordinances. Specifically speaking, it is the latter that is abolished (Eph 2:15), but still, the former moral commandments are not to be kept out of self-effort. Paul declares to the New Testament believers that He has died to law that he might live to God (Gal. 2:19), and that if righteousness is through the law, then Christ has died for nothing (Gal. 2:21).
 
 The law itself is good and holy (Rom. 7:12), but the intention of the law is to expose man of his sin (Rom. 7:7; Gal. 3:23-24). Through the law is clear knowledge of sin, and if man tries to keep the law he will not be justified by God because God's standard of righteousness is His own righteous being and no fallen being can meet this standard.
 
@@ -30,6 +29,8 @@ Instead, man ate the tree of knowledge of good and evil and was condemned by God
 Now man is in another situation - his soul has become independent of God, and has become the self. The Satanic life and nature caused man to become flesh, and his whole being has become deadened. Man himself has become a constitution of flesh.
 
 Yet, fallen man did not know himself and strived to do good to improve himself (Exo. 19:8). Man's inclination was to keep the law, and to do good. This is also the condition of fallen men today (Rom. 7).
+
+In the New Testament, Christ's coming is the end of man's obligation to keep the law. Through His death and resurrection, no longer is man bound by law to the old man, but rather justified by faith that they may live to God (Gal. 2:19-22).
 
 ## Curse
 
@@ -58,10 +59,6 @@ In the New Testament, man attempts to fulfill the law, but the evil will be pres
 Through the exposing of sin, a person realizes by the law that they are good for nothing but death and burial. This conducts man to Christ as their only hope.
 
 This can be seen in the best practice for saving a drowning person. The lifeguard should wait until the drowning person has exhausted all effort and stops struggling before saving them. When a person loses all hope in their natural effort and stops their own doing, it is easy for them to believe and receive Christ.
-
-## End of the Law
-
-In the New Testament, Christ's coming is the end of man's obligation to keep the law. Through His death and resurrection, no longer is man bound by law to the old man, but rather justified by faith that they may live to God (Gal. 2:19-22).
 
 ## Related Terms
 
