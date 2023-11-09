@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: The Table
-permalink: /table/
+title: The Lord's Table
+permalink: /lords_table/
 ---
 - [Background](#background)
 - [The Two Elements](#the-two-elements)
@@ -20,9 +20,9 @@ permalink: /table/
 
 ## Background
 
-The Lord's table actually implies the entire New Testament economy, which involves the processed consummated Triune God dispensing Himself into us as the Spirit to be our life supply to produce the church as the organic Body of Christ.
+The **Lord's table** is the Lord giving Himself to His believers as the bread and cup that they may partake of Him and enjoy Him. This table actually implies the entire New Testament economy, which involves the processed consummated Triune God dispensing Himself into us as the Spirit to be our life supply to produce the church as the organic Body of Christ.
 
-To remember the Lord by the table is not to meditate on his processes merely in our mind, it's to exercise our mingled spirit to eat and drink the Lord. **If we ever feel that our love for the Lord is waning, we need to feel the undying love of the Lord for us displayed on the table.**
+To remember the Lord by the table is not to meditate on his processes merely in our mind, it's to exercise the mingled spirit to eat and drink the Lord. This requires body consciousness, that is to enter into the reality of the Body of Christ. If we ever feel that our love for the Lord is waning, we need to feel the undying love of the Lord for us displayed on the table.
 
 ## The Two Elements
 
@@ -36,9 +36,9 @@ Intrinsically, flesh and blood are both human elements, which represents his inc
 
 ### Bread
 
-In order for the Lord Jesus to be eaten by us, He needed to die on the cross. The breaking of the bread remembers the physical body of the Lord being broken. When we hear the sound of the bread breaking, our hearts should move, and we should realize the suffering the Lord went through because He loved us.
+The bread refers to the Lord's body composed of the many believers. The members of the Body are one because we they all partake of the one bread, which constitutes each member with the same Christ (1 Cor 10:17).
 
-The bread refers to the Lord's body composed of the many believers. We are the one Body because we all partake of the one bread, which constitutes each member with the same Christ (1 Cor 10:17). 
+In order for the Lord Jesus to be eaten, He needed to die on the cross. The breaking of the bread signifies the physical body of the Lord being broken. When hearing the sound of the bread breaking, one's hearts should move and realize the suffering the Lord went through because of His love for all mankind.
 
 A superficial description of a believer in Christ may simply go to church every week. However, to be a genuine member, we need to eat, digest and assimilate Christ. This is symbolized by the bread of life.
 
