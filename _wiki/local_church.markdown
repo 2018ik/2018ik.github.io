@@ -50,7 +50,9 @@ The Bible reveals that there should be one church in one city.
 
 ### Oneness of the Body
 
-A genuine local church must be in the fellowship of the body, and receive all the believers in the city.
+A genuine local church must be in the fellowship of the body, and receive all the believers in the city. Likewise, all the local churches are on the same level, and receive the same teaching from the apostles (1 Cor. 4:17; 7:17; 1 Tim. 1:3), practicing the church life (1 Cor. 11:16), and act together (2 Cor. 8:18-19). 
+
+Despite being composed of many races, cultures and ages, every local church should be identical like the seven golden lampstands (Rev. 1:12). Actually, the only reason why the churches are different at all is due to sin and degradation. In Revelation 2 and 3, the unique characteristics of each church are all negative. God has no intention in preserving these differences; He desires to eliminate them.
 
 ## Function
 
