@@ -22,7 +22,9 @@ permalink: /local_church/
 
 ## Background
 
-A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; there is not a single city mentioned in the New Testament which had multiple churches. This is the practical way in which the Body of Christ can be expressed.
+A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; there is not a single city mentioned in the New Testament which had multiple churches. This is the practical way in which the Body of Christ can be expressed. 
+
+Each local church should be the same intrinsically in life and nature, as a result of fellowship with one another. This means that the churches are not an organization, and not hierarchical, but rather operate by means of the organic flow of the divine life. Any outward organizational similarity should be the issue of fellowship.
 
 ## Biblical Basis
 
@@ -52,7 +54,7 @@ The Bible reveals that there should be one church in one city.
 
 A genuine local church must be in the fellowship of the body, and receive all the believers in the city. Likewise, all the local churches are on the same level, and receive the same teaching from the apostles (1 Cor. 4:17; 7:17; 1 Tim. 1:3), practicing the church life (1 Cor. 11:16), and act together (2 Cor. 8:18-19). 
 
-Despite being composed of many races, cultures and ages, every local church should be identical like the seven golden lampstands (Rev. 1:12). Actually, the only reason why the churches are different at all is due to sin and degradation. In Revelation 2 and 3, the unique characteristics of each church are all negative. God has no intention in preserving these differences; He desires to eliminate them.
+Despite being composed of many races, cultures and ages, every local church should be identical like the seven golden lampstands (Rev. 1:12). Actually, the only reason why the churches are different at all is due to sin and degradation. In Revelation 2 and 3, the unique characteristics of each church are primarily negative. God has no intention in preserving these differences; He desires to eliminate them.
 
 ## Function
 
