@@ -10,6 +10,7 @@ permalink: /trinity/
 - [Function](#function)
 - [Hypostases](#hypostases)
   - [Holy Spirit](#holy-spirit)
+- [Related Terms](#related-terms)
 
 ## Background
 
@@ -50,3 +51,7 @@ The Father, who is the source, the origin, has many riches. Whatever the Father 
 ### Holy Spirit
 
 The Spirit is Christ. This can be seen in 2 Cor 3:18, 1 Cor. 12:13.
+
+## Related Terms
+
+1. Economical Trinity

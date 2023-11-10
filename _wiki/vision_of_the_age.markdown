@@ -23,9 +23,7 @@ permalink: /vision_of_the_age/
 
 ## Background
 
-In every age there is the vision of that age, and we need to serve God according to the commission of the vision of that age. The way by which we carry out this commission is through the ministry of the age. 
-
-In every age the Lord has special things that he wants to accomplish. The vision of an age refers to the overall vision and direction of that particular age.
+In every age there is the **vision of that age**, and we need to serve God according to a certain commission, to accomplish the things He wants to get done in that age. The vision of an age refers to the overall vision and direction in that particular time. The way by which we carry out this commission is through the ministry of the age. 
 
 God's word reveals to us that in every age He gives only one vision to man (Acts 26:19, Eph 1:17). In the building of god, there is only "one window" - one revelation and one vision through one ministry (Gen 6:13-14, 16). This window is the life-giving Spirit, which enables us to see such a vision. If we are shown such a vision, we should live according to it (Acts 26:19).
 
