@@ -8,6 +8,7 @@ permalink: /prayer/
 - [Genuine Prayer](#genuine-prayer)
   - [God's Will](#gods-will)
   - [Not of the soul](#not-of-the-soul)
+  - [Divine Facts](#divine-facts)
   - [Why doesn't it work?](#why-doesnt-it-work)
 - [Principle of Prayer](#principle-of-prayer)
 - [Dispensing](#dispensing)
@@ -48,6 +49,10 @@ Prayer is not something which we do out of our mind, or even something that is p
 Through our prayer God passes through our being, and we pass through His being. Our words pass though Him and His words pass through Us and two pray together one prayer.
 
 Often the first word of our prayer is of the mind, but by the end, it is altogether of the spirit.
+
+### Divine Facts
+
+Prayers should be divine facts, for example what the Lord prayed in John 17. Praying for one's need is okay, but it should be prayed in a divine way. 
 
 ### Why doesn't it work?
 

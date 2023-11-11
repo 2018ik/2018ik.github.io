@@ -8,13 +8,15 @@ permalink: /satan/
 - [Tactics](#tactics)
   - [Substitutes](#substitutes)
   - [Questioning](#questioning)
-- [Uses](#uses)
+- [Used By God](#used-by-god)
   - [Sifting](#sifting)
+- [Titles](#titles)
+  - [Ruler of the World](#ruler-of-the-world)
 
 
 ## Background
 
-Satan (Hebrew meaning *adversary*) is 
+Satan (Hebrew meaning *adversary*) is TODO
 
 ## History
 
@@ -38,8 +40,14 @@ Just like how Satan tempted Eve in the fall of man, he will ask questions which 
 
 The fundamental problem with questions is that it engages the human mind. Doubt is something of the mind.
 
-## Uses
+## Used By God
 
 ### Sifting
 
 The Lord uses the enemy along with His cross to "sift us" (Job; Luke 22). That is, to remove all our negative things and to make them in resurrection. This is why in Acts chapter 1 they are in one accord.
+
+## Titles
+
+### Ruler of the World
+
+As the ruler of the world (John 14:30), TODO

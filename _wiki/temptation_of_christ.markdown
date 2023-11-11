@@ -8,10 +8,11 @@ permalink: /temptation_of_christ/
   - [Stones to Bread](#stones-to-bread)
   - [Angelic Protection](#angelic-protection)
   - [Worldly Glory](#worldly-glory)
+- [Prayer](#prayer)
 
 ## Background
 
-In the wilderness, Jesus was tempted for forty days as a man. To be tempted as a man is to overcome the temptations as a man and to not exercise His divine standing and authority.
+In the wilderness, Jesus was tempted for forty days as a man. He overcame these temptations as a man by not exercising His divine standing and authority.
 
 Satan's tempting of Jesus was threefold: firstly to tempt Him to ignore His human status, secondly to tempt Him to assume His divine status, and thirdly to tempt His humanity by offering the glory of the kingdoms of the world.
 
@@ -36,3 +37,6 @@ Now that Jesus has shown that He stood as a man, Satan tempted Him with worldly 
 
 Everyone is susceptible to considering how successful those in the world are. In comparison, laboring for the Lord does not result in material gain.
 
+## Prayer
+
+Although He spent forty days in the wilderness fasting, there is no record of Him praying. Although there is no record, He was likely praying (1 Thes. 5:17). This accompanying prayer was kept secret as a mystery, indicating that it was a divine and mystical prayer.
