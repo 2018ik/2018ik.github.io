@@ -14,6 +14,7 @@ permalink: /parenting/
   - [Children Lie](#children-lie)
   - [Admit Mistakes](#admit-mistakes)
   - [Deal With Pride](#deal-with-pride)
+  - [Proper Teaching](#proper-teaching)
   - [God's Mercy](#gods-mercy)
 - [Mutual Perfection](#mutual-perfection)
 
@@ -62,9 +63,14 @@ When a parent makes a mistake especially in what they say, they must stand befor
 
 Children should not be given excessive praise, so as to build up their pride. They should be humbled, so as to understand that they are not nothing and God is everything.
 
+### Proper Teaching
+
+When explaining deep concepts like God becoming man, prudence and wisdom must be exercised.
+
 ### God's Mercy
 
 In the end, one must entrust their children to God's mercy. Even Samuel, someone who had essentially no negative things written about him, had children who did not follow his ways (1 Sam. 8:3). However, it is still absolutely the parent's responsibility for their child's upbringing.
 
 ## Mutual Perfection
+
 Children are actually the spirit's helper - they serve likewise to transform the parents, that they may be perfected.

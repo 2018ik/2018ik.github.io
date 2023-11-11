@@ -22,7 +22,7 @@ Leaven in the Bible signifies sin, evil, different and strange teachings, and ot
 
 ## Types
 
-In the four Gospels, there are three types of leaven explictly stated, that of the:
+In the four Gospels, there are three types of leaven explicitly stated, that of the:
 1. Pharisees, signifying hypocrisy (Luke 12:1)
 2. Sadducees, signifying modernism (Matt. 16:6)
 3. Herod, signifying politics (Mark 8:15). 
