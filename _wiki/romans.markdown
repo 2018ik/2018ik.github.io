@@ -4,7 +4,7 @@ title: Romans (Book)
 permalink: /romans/
 ---
 - [Background](#background)
-- [Overview](#overview)
+- [Summary](#summary)
   - [Introduction](#introduction)
   - [Condemnation](#condemnation)
   - [Justification](#justification)
@@ -22,7 +22,7 @@ permalink: /romans/
 
 The book of Romans shows us His person and work. It can be divided into eight sections: introduction, condemnation, justification, sanctification, glorification, selection, transformation and conclusion.
 
-## Overview
+## Summary
 
 ### Introduction
 

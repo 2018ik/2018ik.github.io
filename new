@@ -6,34 +6,39 @@ else
     BASH_EXECUTABLE="/bin/bash.exe"
 fi
 
-if [ "$#" -ne 1 ]; then
-  echo "Usage: $0 <name>"
+if [ "$#" -eq 0 ]; then
+  echo "Usage: $0 <name1> <name2> <name3> ..."
   exit 1
 fi
 
-name="$1"
-permalink=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
-
 script_dir="$($BASH_EXECUTABLE -c 'echo $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )')"
-filename="$script_dir/_wiki/${permalink}.markdown"
 
-if [ -e "$filename" ]; then
-  echo "File '$filename' already exists."
-  exit 0
-fi
+for name in "$@"; do
+  permalink=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')_book
 
-file_content="---
+  filename="$script_dir/_wiki/${permalink}.markdown"
+
+  if [ -e "$filename" ]; then
+    echo "File '$filename' already exists."
+  else
+    file_content="---
 layout: pagev2
-title: $name
+title: $name (Book)
 permalink: /$permalink/
 ---
 - [Background](#background)
 
-## Background"
+## Background
 
-if [ "$(uname -s)" != "Linux" ]; then
-  file_content=$(echo -e "$file_content" | dos2unix)
-fi
+## Summary
 
-echo -e "$file_content" > "$filename"
-echo "Wiki page '$permalink' created successfully."
+## Topics"
+
+    if [ "$(uname -s)" != "Linux" ]; then
+      file_content=$(echo -e "$file_content" | dos2unix)
+    fi
+
+    echo -e "$file_content" > "$filename"
+    echo "Wiki page '$permalink' created successfully."
+  fi
+done

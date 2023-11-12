@@ -18,6 +18,7 @@ permalink: /local_church/
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
+- [Testimony #3](#testimony-3)
 
 
 ## Background
@@ -48,7 +49,7 @@ Suppose a church is very rowdy, disorderly, divisive and brought lawsuits upon e
 
 ### Ground of Locality
 
-The Bible reveals that there should be one church in one city.
+The Bible reveals that there should be one church in one city. Therefore, if a person moves to a certain city with a local church, they must learn the lesson of self-denial to meet there rather than to start another church in that locality. Without this limitation, the churches are free to divide over any matter, eventually resulting in the thousands of denominations of today. If each one takes the cross to stay in their locality and be one with that church, the Lord can gain His unique expression in each city. 
 
 ### Oneness of the Body
 
@@ -95,3 +96,7 @@ Serving ones (Acts 6:2) or deacons (Phil. 1:1) are those who serve under the lea
 ### Testimony #2
 
 >We are now more clear on the purposes of the two offices in the local church. There is no complex hierarchy as in Roman Catholicism or today's corporations. Elders and deacons are not here to annul the functions of the other members, nor to lord it over the members so as to create a hierarchy. In Acts 20:28 and 1 Peter 5:2, the elders are told to shepherd the church of God and the flock of God. God has allotted the church to the elders for their temporary care in the present age. However, eternally the church is God's possession. The elders and deacons have no ground to exercise their personal authority over the church. The function of all the members, such as the overseeing and serving functions, are needed for the church to be built up. 
+
+## Testimony #3
+
+>We must be one with the local church which we are sovereignly assigned to. There must be no divisions, back doors or fire escapes. We must be restricted, and this restriction is actually a protection. The problem with Christians today is that they do not read the Bible, so they don't see the local churches, so they don't have this restriction, and they don't have this protection, and they divide again and again and again. We must have our eyes opened to see this vision, which will solve all our problems. The Lord's recovery today is to recover this unique, proper, practical and living expression of the Body.

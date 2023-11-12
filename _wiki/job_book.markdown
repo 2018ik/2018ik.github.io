@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Job (Book)
-permalink: /job/
+permalink: /job_book/
 ---
 - [Background](#background)
 - [God's Word](#gods-word)

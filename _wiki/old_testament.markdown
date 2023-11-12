@@ -5,7 +5,6 @@ permalink: /old_testament/
 ---
 - [Background](#background)
 - [Significance](#significance)
-  - [Instrinsic Significance](#instrinsic-significance)
 - [Types](#types)
 - [History](#history)
 - [Poetry](#poetry)
@@ -14,8 +13,6 @@ permalink: /old_testament/
 ## Background
 
 ## Significance
-
-### Instrinsic Significance
 
 The Old Testament is a figurative portrait of God's economy; everything spoken of in the Old Testament are concerning Christ and must be fulfilled and has been fulfilled in Christ Jesus (Luke 24:44).
 
