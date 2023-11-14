@@ -18,6 +18,8 @@ permalink: /satan/
 
 Satan (Hebrew meaning *adversary*) is TODO
 
+Satan wants to inject death, darkness, disorder and disharmony into the church. The solution to this is clear - life and light must be ministered to the churches, following which order, harmony and oneness spontaneously issue forth.
+
 ## History
 
 When Satan first came to man, he was hidden as a serpent.

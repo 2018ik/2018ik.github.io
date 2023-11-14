@@ -4,7 +4,7 @@ title: Prayer
 permalink: /prayer/
 ---
 - [Background](#background)
-- [Instrinsic Significance](#instrinsic-significance)
+- [Significance](#significance)
 - [Genuine Prayer](#genuine-prayer)
   - [God's Will](#gods-will)
   - [Not of the soul](#not-of-the-soul)
@@ -28,7 +28,7 @@ permalink: /prayer/
 
 Praying in spirit builds up the church (Jude 20).
 
-## Instrinsic Significance
+## Significance
 
 To pray is to realize that the self is nothing and can do nothing; prayer is the real denial and repudiating of one's self so that one may enjoy Christ as their everything (Col. 4:2; Gal. 2:20).
 
@@ -40,7 +40,7 @@ Optimally, we should only offer genuine prayers to God.
 
 ### God's Will
 
-First, we need to recognize that God has a will. Then God will reveal His will to us, and we simply pray this will back to Him and He has a way to move through that.
+First, one must recognize that God has a will. If God reveals His will to someone, they should pray this will back to Him and He has a way to move through that. God's ways and thoughts are higher than man's (Isa. 55:8-9).
 
 ### Not of the soul
 

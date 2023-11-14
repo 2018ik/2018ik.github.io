@@ -14,7 +14,7 @@ fi
 script_dir="$($BASH_EXECUTABLE -c 'echo $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )')"
 
 for name in "$@"; do
-  permalink=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')_book
+  permalink=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
 
   filename="$script_dir/_wiki/${permalink}.markdown"
 
@@ -23,16 +23,15 @@ for name in "$@"; do
   else
     file_content="---
 layout: pagev2
-title: $name (Book)
+title: $name
 permalink: /$permalink/
 ---
 - [Background](#background)
+- [Significance](#significance)
 
 ## Background
 
-## Summary
-
-## Topics"
+## Significance"
 
     if [ "$(uname -s)" != "Linux" ]; then
       file_content=$(echo -e "$file_content" | dos2unix)
