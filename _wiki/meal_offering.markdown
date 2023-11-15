@@ -7,4 +7,4 @@ permalink: /meal_offering/
 
 ## Background
 
-Fine flour mingled with oil. Humanity is mingled with humanity.
+The **meal offering** in the Old Testament was fine flour mingled with oil, which signifies humanity mingled with humanity.

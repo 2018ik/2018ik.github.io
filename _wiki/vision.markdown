@@ -5,6 +5,7 @@ permalink: /vision/
 ---
 - [Background](#background)
 - [Significance](#significance)
+- [Receiving](#receiving)
 - [Commission](#commission)
   - [Forgetting](#forgetting)
 - [Testimonies](#testimonies)
@@ -14,9 +15,9 @@ permalink: /vision/
 
 A vision is God revealing to man his desire on earth today. With a vision always comes a divine commission and a burden for God's move, which is carried out through the ministry. It is up to the receiver of a vision whether or not they want to obey it (Acts 26:19), however when we truly see a geniune vision, it is easier to obey it than to ignore it.
 
-When we receive a vision, we lose all our self-confidence, we need to live a life of co-dependence on Him. A vision converts us from everything to Christ Himself; He will be the inner operating God to us, energizing us to carry out His plan (Gal 1:15-16). Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
+When a person receives a vision, they lose all self-confidence and live a life of co-dependence on Him. A vision converts a person from everything to Christ Himself; He will be the inner operating God to them, energizing them to carry out His plan (Gal 1:15-16). Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
 
-Revelation is required for seeing a vision. The difference is that revelation is an initial receiving of some truth, whereas a vision is a further consideration of the revelation which issues in a move and truly controls one's life.
+Revelation is required for seeing a vision. The difference is that revelation is an initial receiving of some truth, whereas a vision is a further consideration of the revelation which issues in a move and truly controls one's life. While a revelation allows one to understand and teach a divine fact, a vision allows one to be directed, even willingly martyred for what they have seen.
 
 ## Significance
 
@@ -24,11 +25,11 @@ A vision keeps the one accord. If everyone has the same vision, they will have o
 
 We must have a desire in our heart to be directed the vision. For example, Peter received vision that Jesus was Christ, but then proceeded to be one with Satan (Matt. 16).
 
-## Equation
+## Receiving
 
 Vision = Revelation + Light + Sight
 
-Paul's supplication for the church in Ephesus that they may see the vision was for them to have a spirit of wisdom and **revelation**, and that the **eyes** of their heart may be **enlightened** (Eph. 1:17-18). Here there is revelation (which is an issuing of the aforementioned wisdom), light, and sight.
+Paul's supplication for the church in Ephesus that they may see the vision was for them to have a spirit of wisdom and **revelation**, and that the **eyes** of their heart may be **enlightened** (Eph. 1:17-18). Here there is revelation (which is an issuing of the aforementioned wisdom), light, and sight. To see a vision, one must constantly muse upon and pray over the revelations that they have received. Without adequate prayer, even revelations can remain as mere doctrine.
 
 ## Commission
 

@@ -35,6 +35,7 @@ Peter received revelation from the Father to know Jesus as Christ, the Son of th
 
 ### Paul
 
+Paul saw the facts of the Old Testament, and the physical vision which he had experienced. However, the gospel that was announced to him he did not receive from man, nor was he taught it, but through a revelation by Jesus Christ (Gal. 1:11-12). 
 
 ## Wisdom
 

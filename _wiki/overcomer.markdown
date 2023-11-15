@@ -12,6 +12,7 @@ permalink: /overcomer/
 
 Overcomers are believers who lived the proper Christian life of running the race to gain Christ (1 Cor. 9:24) and have fought the good fight against Satan and his kingdom of darkness for God's kingdom (Eph. 6:10-19). These are they who love the Lord with the first love, are empowered by the Lord, and enjoy the Lord who set them as a seal on His heart and His arm (S.S. 8:6).
 
+The overcomers can be likened to a beachhead, in which the Lord can use as the starting point for His gaining of the earth.
 
 ## Significance
 

@@ -7,6 +7,6 @@ permalink: /burnt_offering/
 
 ## Background
 
-The reality of the burnt offering is Christ, who is altogether for God's will.
+The reality of the burnt offering is Christ, who is altogether for God's will and God's glory.
 
 
