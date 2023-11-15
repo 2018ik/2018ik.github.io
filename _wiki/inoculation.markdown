@@ -30,6 +30,12 @@ To inoculate, one must be:
 
 Inoculation should be administered early in the shepherding of new ones, even in the first contact. But as an ongoing process, it should be progressive and should eventually touch the ministry, the church, and the various false accusations made.
 
+A few reasons why the ministry is unfairly criticized is due to its:
+
+1) Origin being an old Chinese man from China who doesn't speak English very well
+2) Pointing out of the issues of denominations, to bring back the ground of locality of the churches
+3) Pointing out of the issues of the Catholic church
+
 ## Antidote
 
 Unlike inoculation, an antidote is applied *after* the poison. This is to correct those who oppose or are exposed to those who oppose. This should be done in meekness (2 Tim. 2:25) and with prayer to bind the enemy (Matt. 12:29). The view hear is to listen to see where they are coming from, and to turn them from darkness to light without arguing or debating.

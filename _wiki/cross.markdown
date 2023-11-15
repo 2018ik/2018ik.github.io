@@ -16,4 +16,6 @@ We got nailed to the cross first, we have been crucified with Christ. In His dea
 
 ## Significance
 
-While the blood cleanses objectively, the cross purifies subjectively. This is to break down all of one's natural concepts and goals to solely pursue God.
+While the blood cleanses objectively, the cross purifies subjectively. This is to break down all of one's natural concepts and goals to solely pursue God. 
+
+The imparting of life is actually always due to suffering the killing of the cross.

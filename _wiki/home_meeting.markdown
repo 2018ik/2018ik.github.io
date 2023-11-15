@@ -9,7 +9,7 @@ permalink: /home_meeting/
 
 ## Background
 
-Home meetings are meetings which are held in believers' homes. If there is only a single meeting each week in the church meeting hall based on a definite, regular schedule, it will be difficult for each member to come into function. The Lord actually wants to build the church through organic gatherings in each believer's home, that the children, relatives, neighbors, and new ones can all be built up. These meetings are not necessarily just for teaching, but for nourishing and cherishing the attendees. These meetings also provide a testimony for the neighbors, and provide an opportunity for witness and gospel preaching. 
+Home meetings are meetings which are held in new believers' homes. The emphasis here is on raising up the new ones. These meetings are not necessarily for teaching, but for nourishing and cherishing the attendees. These meetings also provide a testimony for the neighbors, and provide an opportunity for witness and gospel preaching. After the new ones have met in the homes and are sufficiently mature in life, they can be brought to the Lord's day meetings.
 
 ## Scriptural Basis
 
