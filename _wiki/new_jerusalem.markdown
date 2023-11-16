@@ -41,7 +41,11 @@ Genesis 1-2 is the organic blueprint, the architectural plan of the Triune God, 
 
 ### Description
 
-The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. The street signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration. 
+The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. 
+
+The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration.  
+
+The river of water of life proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
 
 ## Glorification
 

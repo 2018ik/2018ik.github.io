@@ -4,7 +4,9 @@ title: Headship
 permalink: /headship/
 ---
 - [Background](#background)
-- [Man and Woman](#man-and-woman)
+- [Significance](#significance)
+- [Biblical Basis](#biblical-basis)
+  - [Man and Woman](#man-and-woman)
 
 >"Christ is the head of every man, and the man is the head of the woman, and God is the head of Christ."
 
@@ -12,9 +14,15 @@ permalink: /headship/
 
 ## Background
 
-The **headship** is a matter of authority, and the unique Head of the Body is Christ (Eph. 1:22).
+The **headship** is a matter of authority, and the unique Head of the Body is Christ (Eph. 1:22). Subjecting oneself to Christ's headship is to be under His throne, and the one sitting on the throne is the Triune God - God, the Lamb and the Spirit (Rev. 22:1-2). 
 
-## Man and Woman
+## Significance
+
+Holding the Head, who is Christ, allows for the growth of the Body (Col. 2:19). 
+
+## Biblical Basis
+
+### Man and Woman
 
 Brothers have the privilege to take the lead, but it is not to rule over or control anyone. It is to be a pattern to jump into the flow of the Spirit.
 
