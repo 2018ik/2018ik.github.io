@@ -9,6 +9,7 @@ permalink: /local_church/
 - [Three Elements](#three-elements)
   - [Ground of Locality](#ground-of-locality)
   - [Oneness of the Body](#oneness-of-the-body)
+  - [???](#)
 - [Function](#function)
   - [Administration](#administration)
   - [Kingdom Authority](#kingdom-authority)
@@ -23,13 +24,13 @@ permalink: /local_church/
 
 ## Background
 
-A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; there is not a single city mentioned in the New Testament which had multiple churches. This is the practical way in which the Body of Christ can be expressed. 
+A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; there is not a single city mentioned in the New Testament which had multiple churches. This is the practical way in which the Body of Christ can be expressed and built up. If there is only a universal church of disjoint, individual believers, it would be impossible for them to be built together (Eph. 2:22), joined together, and knit together (Eph. 4:16).
 
 Each local church should be the same intrinsically in life and nature, as a result of fellowship with one another. This means that the churches are not an organization, and not hierarchical, but rather operate by means of the organic flow of the divine life. Any outward organizational similarity should be the issue of fellowship.
 
 ## Biblical Basis
 
-In the New Testament, whenever the plural "churches" is used, it is to refer to a group of churches in a particular region e.g. Galatia (Gal. 1:2). On the other hand, for any individual city, the singular "church" is always used (Acts 13:1; 15:4; Rom.16:1; 1 Cor. 1:2; 1 Thes. 1:1; Rev. 2:1).When John addressed the churches in Asia in Revelation 2 and 3, each church was addressed specifically as the "church in" each of the seven cities. 
+In the New Testament, whenever the plural "churches" is used, it is to refer to a group of churches in a particular region e.g. Galatia (Gal. 1:2). On the other hand, for any individual city, the singular "church" is always used (Acts 13:1; 15:4; Rom.16:1; 1 Cor. 1:2; 1 Thes. 1:1; Rev. 2:1).When John addressed the churches in Asia in Revelation 2 and 3, each church was addressed specifically as the "church in" each of the seven cities. These seven churches are represented by seven lampstands, which show that each local church is the same in life and nature, and are a shining testimony for God (Rev. 2:20).
 
 ## History
 
@@ -56,6 +57,8 @@ The Bible reveals that there should be one church in one city. Therefore, if a p
 A genuine local church must be in the fellowship of the body, and receive all the believers in the city. Likewise, all the local churches are on the same level, and receive the same teaching from the apostles (1 Cor. 4:17; 7:17; 1 Tim. 1:3), practicing the church life (1 Cor. 11:16), and act together (2 Cor. 8:18-19). 
 
 Despite being composed of many races, cultures and ages, every local church should be identical like the seven golden lampstands (Rev. 1:12). Actually, the only reason why the churches are different at all is due to sin and degradation. In Revelation 2 and 3, the unique characteristics of each church are primarily negative. God has no intention in preserving these differences; He desires to eliminate them.
+
+### ???
 
 ## Function
 
