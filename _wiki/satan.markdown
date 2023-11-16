@@ -32,7 +32,7 @@ Satan is the father of lies (John 8:44). His tactics sow seeds of doubt to draw 
 
 ### Substitutes
 
-Satan offers many cheap knock-offs to substitute what God has given man. TODO
+Satan offers many cheap knock-offs to substitute what God has given man. TODO This substitution can be summed up as the world system, which emerged after the fall of man with the formation of cities, culture and entertainment. These substitutes are not necessarily sin, but even good things and religious things. 
 
 Our human wisdom, philosophy and culture drives us to teach by human wisdom (1 Cor. 2:13), which generates different teachings apart from the Apostle's teaching.
 
