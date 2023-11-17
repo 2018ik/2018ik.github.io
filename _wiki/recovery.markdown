@@ -6,12 +6,11 @@ permalink: /recovery/
 - [Background](#background)
 - [Recovered Items](#recovered-items)
   - [The life-giving Spirit](#the-life-giving-spirit)
+  - [Prophesying](#prophesying)
 
 ## Background
 
-The Lord's Recovery is a recovery of life (the experience of Christ as life), function and practical oneness in God's New Testament economy. 
-
-One aspect of the recovery is all members prophesying, as opposed to one man speaking.
+The Lord's Recovery is a recovery of life, function and practical oneness in God's New Testament economy. This is to recover the subjective experience of Christ as life in a practical way, that the Body of Christ may be built up so the Lord can return.
 
 ## Recovered Items
 
@@ -20,3 +19,5 @@ One aspect of the recovery is all members prophesying, as opposed to one man spe
 >"The last Adam became the life-giving Spirit"
 
 \- 1 Cor 15:45b
+
+### Prophesying
