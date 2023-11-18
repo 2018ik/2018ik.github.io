@@ -21,11 +21,11 @@ permalink: /parenting/
   
 ## Background
 
-Proper parenting is responsible for the next generation of the church. The main things parents should do is nourish their children in the teaching and admonition of the Lord and to not provoke them to anger or discourage them. Parents must exercise self control and must not be loose in any way, that is, they should have a proper person and living. God has committed the children to us, so we must set a high standard among ourselves regarding conduct, morality, judgments, spiritual matters, etc.
+Proper parenting is responsible for the next generation of the church. The main things parents should do is nourish their children in the teaching and admonition of the Lord and to not provoke them to anger or discourage them. Parents must exercise self control and must not be loose in any way, that is, they should have a proper person and living. God has committed the children to their parents, so they must set a high standard among themselves regarding conduct, morality, judgments, spiritual matters, etc.
 
 ## Significance
 
-God has entrusted a human body, along with its soul and spirit to the parents. The parents have their children before them every day, thus the children learn their ways primarily from their parents, not the church. One's children will do what their parents do, and say what their parents say. It is not pratical to need to rescue the children back from the world when they are older; keeping the next generation in the church is the parent's practical responsibility in God's economy.
+God has entrusted a human body, along with its soul and spirit to the parents. The parents have their children before them every day, thus the children learn their ways primarily from their parents, not the church. One's children will do what their parents do, and say what their parents say. It is not practical to need to rescue the children back from the world when they are older; keeping the next generation in the church is the parent's practical responsibility in God's economy.
 
 ## Keys
 

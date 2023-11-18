@@ -4,7 +4,10 @@ title: Children's Work
 permalink: /children_work/
 ---
 - [Background](#background)
-- [Importance](#importance)
+- [Goals](#goals)
+  - [Proper Humanity](#proper-humanity)
+  - [Sense of God](#sense-of-god)
+  - [Gospel](#gospel)
 - [History](#history)
 - [Services](#services)
   - [Meetings](#meetings)
@@ -17,13 +20,19 @@ The children's work encompasses all services which deal with raising up the chil
 
 The children's work includes holding meetings, both during Lord's day as well as throughout the week which are focused on shepherding the children, as well as contacting the children's parents or preparing teaching material. Actually, even the children themselves are part of the work: through the church's care, the children become gospel seeds who express Christ to their classmates.
 
-## Importance
+## Goals
 
-On one hand, the children's meeting allows the children to be taken out of the adult's meeting, which they may not understand and serve as a distraction.
+### Proper Humanity
 
-On the other hand, while the parents play the primary role in nurturing their own children, that does not mean the church should ignore this responsibility; it should make up for what the parents lack. The key difference between parenting and the church's children's work however is that the latter allows friendships to be established between children and families, so that even new families can be gained.
+On one hand, the children's meeting allows the children to be taken out of the adult's meeting, which they may not understand and serve as a distraction. On the other hand, while the parents play the primary role in nurturing their own children, that does not mean the church should ignore this responsibility; it should make up for what the parents lack. Children before being saved should be taught the law - that is to teach them ethics, morals and culture to build up their humanity (Gal. 3:24). 
 
-Furthermore, the children's work is a gospel work: children can be gained for the gospel. Statistics show that of those who are brought into the church life from primary school to college age, there is a *negative* correlation between age and having brought their family into the church life. If children are brought into the church life, there is a much higher chance that the entire household will be brought in.
+### Sense of God
+
+The children should be taught that there is a God who is all-powerful and cares for them. They should be thankful for what God has accomplished for them and given them, and be led to thank God for various things.
+
+### Gospel
+
+The children's work is a gospel work: children can be gained for the gospel. A key difference between parenting and the church's children's work however is that the latter allows friendships to be established between children and families, so that even new families can be gained. Statistics show that of those who are brought into the church life from primary school to college age, there is a *negative* correlation between age and having brought their family into the church life. If children are brought into the church life, there is a much higher chance that the entire household will be brought in.
 
 ## History
 
@@ -41,7 +50,9 @@ In fact, there doesn't need to be teaching material. These gatherings can just b
 
 ### Preparing Material
 
-Videos, songs, stories and other learning material should be developed as children do not like listening to long messages and sermons. This should be an interactive experience. Age is also a factor that should be considered so as to not introduce premature knowledge. For example, when explaining the creation of man to children, they can understand how God created the heavens and the earth, animals and man, but there is no need to go into the details regarding the Trinity and God's economy. Younger children should be taught proper morality to build up their humanity. Biblical truths should not be given away too cheaply. When children hear the same stories over and over again in a low way, for example the prodigal son (Luke 15), they may be veiled and ignore its significance when encountering the deeper truth regarding this chapter when they are older.
+Videos, songs, stories and other learning material should be developed as children do not like listening to long messages and sermons. This should be an interactive experience, preferably with a story and illustrations. Age is also a factor that should be considered so as to not introduce premature knowledge. For example, when explaining the creation of man to children, they can understand how God created the heavens and the earth, animals and man, but there is no need to go into the details regarding the Trinity and God's economy. 
+
+Younger children should be taught proper morality to build up their humanity. Biblical truths should not be given away too cheaply. When children hear the same stories over and over again in a low way, for example the prodigal son (Luke 15), they may be veiled and ignore its significance when encountering the deeper truth regarding this chapter when they are older. Yet, these lessons should still include a Bible verse, to ground the lesson in the truth.
 
 ### Contacting Parents
 

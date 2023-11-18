@@ -5,6 +5,7 @@ permalink: /premature_knowledge/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
+- [In Practice](#in-practice)
 
 ## Background
 
@@ -13,3 +14,7 @@ permalink: /premature_knowledge/
 ## Biblical Basis
 
 The wisdom and grace manifest in Jesus increased as He grew physically (Luke 2:40); children may be able to comprehend a particular truth, but be unable to realize the deeper experience as they lack spiritual wisdom.
+
+## In Practice
+
+Practically, it doesn't make sense to teach the children according to the spirit because they aren't regenerated yet. 
