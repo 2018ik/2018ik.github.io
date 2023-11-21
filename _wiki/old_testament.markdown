@@ -32,3 +32,4 @@ The books of poetry show that Christ Himself should be man's pursuit of perfecti
 
 The books of prophecy show how the aforementioned books are going to be fulfilled. 
 
+Some think that the prophecies concerning the nation of Israel, especially regarding its restoration, in the Old Testament refer to body of Christians in the New Testament. However, John-Nelson Darby and others asserted that these prophecies will actually be fulfilled literally. This thought was further strengthened by the literal restoration of Israel in 1967.p
