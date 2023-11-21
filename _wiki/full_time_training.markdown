@@ -14,10 +14,6 @@ permalink: /ftta/
 - [Gospel Team](#gospel-team)
   - [Team-only Fellowship](#team-only-fellowship)
 - [Meetings](#meetings)
-  - [Church Life](#church-life)
-  - [Prayer Meeting](#prayer-meeting)
-  - [Group Meeting](#group-meeting)
-  - [Lord's Day Meeting](#lords-day-meeting)
 
 >"Buy truth and do not sell it"
 
@@ -76,8 +72,6 @@ We also need to learn how to receive; if others open and there is not the proper
 
 ## Meetings
 
-### Church Life
-
 When going to the meetings, you should not act any differently than a normal saint from that locality. Don't elevate or degrade yourself, don't wear your FTTA badge. 
 
 It is good to go early to meet some saints and to fellowship with them. Also it is good to linger a while and get to know the saints. This is very helpful for you and very enjoyable for the saints. Every church that you will go to is very happy to have the trainees visit them because you bring in a certain vitality to the meetings. So they're interested to have you, they're interested to care for you they're interested to keep you. They will enjoy fellowshipping with you but it would be sad if we went and we just isolated ourselves or we didn't make ourselves available to the saints. Also even though they appreciate you as a factor of vitality in the meetings we don't want to be over-functioning a bit too much in the prophesying meeting, let the other saints prophesy, in the prayer meeting, let the other saints pray. We just enter in the same way as they and we give ground to them but don't try to show how full of content you are or how full of life you are just function in a normal way and they will realize what you have. Then wherever you go its good to not go to be served but to serve but to volunteer to participate in service you know strictly in the homes it's good if you stay after the group meeting in that home and ask can I help clean up in any way or putting things back where they go whatever is needed just make yourself available and that also will make an impression on them. Also in the church meetings you know there are ways the trainees can serve just ask someone after the meeting and you will get to know some of the saints there.
@@ -85,17 +79,3 @@ It is good to go early to meet some saints and to fellowship with them. Also it 
 When you serve in that kind of way, doing something practical, that will supply you also. You will feel not like a visitor but like you are one of the saints and you are entering in bearing the burden with them and they will appreciate you for that. I think the other brothers will have some more points and they'll take it from here.
 
 There are some young people who are left with a positive impression by the trainees and I can testify that I'm one of those young people growing up in the church in LA we would have the USC team come tuesdays, wednesdays fridays and lord's days and I don't remember anything they said but I remember their person. I remember their actions, behaviors, conduct among the saints, their exercise, I even remember one brother who I could tell he was a dispositionally awkward but he made the effort to speak with me and I really appreciated that. That doesn't mean we need to be super outgoing and charming but just our effort to deny ourselves and present our bodies that will lead to a very positive impression among all the saints and especially our young people so I just amen and echo Doug's fellowship.
-
-### Prayer Meeting
-
-Pray at least once in the prayer meeting. 
-
-### Group Meeting
-
-The group meeting is the one another meeting (Heb. 1:24-25). To have a home to go to - what a rest!
-
-Here there is mutual teaching, fellowship, care, and intercession. Enter in: wash the dishes, take out the trash, bring food item, etc.
-
-### Lord's Day Meeting
-
-Call hymns and prophesy.
