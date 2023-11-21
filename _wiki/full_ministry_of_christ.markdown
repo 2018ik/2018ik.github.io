@@ -1,17 +1,22 @@
 ---
 layout: pagev2
 title: Full Ministry of Christ
-permalink: /full_ministry/
+permalink: /full_ministry_of_christ/
 ---
 - [Background](#background)
-- [Three Stages](#three-stages)
+- [In Three Stages](#in-three-stages)
   - [Incarnation](#incarnation)
   - [Inclusion](#inclusion)
   - [Intensification](#intensification)
+- [In Two Stages](#in-two-stages)
+  - [Earthly Ministry](#earthly-ministry)
+  - [Heavenly Ministry](#heavenly-ministry)
 
 ## Background
 
-## Three Stages
+The **full ministry of Christ** is His ministry which spans from His incarnation to the New Jerusalem. This can be divided in various ways (TODO: how?).
+
+## In Three Stages
 
 These stages are linear in time with regards to their occurrences and revelations. However, in terms of experience they are cyclical.
 
@@ -49,3 +54,9 @@ This for Christ to:
 3. Consummate the New Jerusalem.
 
 We are currently living in the stage of intensification. The Lord has already been intensified.
+
+## In Two Stages
+
+### Earthly Ministry
+
+### Heavenly Ministry
