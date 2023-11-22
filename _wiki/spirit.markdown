@@ -35,7 +35,7 @@ permalink: /spirit/
 
 The Spirit of God or Holy Spirit, is part of the Divine Trinity, along with the Father and Son. 
 
-Every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7).
+Believers receive the Spirit when they are saved (Gal. 3:2) and every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7).
 
 The revelation of the Spirit in the Bible is progressive. It begins with the Spirit of God in Genesis which only had the divinity of God, and ends with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
 
