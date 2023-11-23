@@ -23,7 +23,7 @@ The God-ordained way refers to the way ordained by God to carry out His New Test
 
 ## Significance
 
-The God-ordained way is a recovery of the proper way to practice the New Testament priesthood. In comparison to the typical goal of gospel preaching, that is to save sinners, that is only the first step in the God-ordained way, which has the view to perfect the believers.
+The God-ordained way is a recovery of the proper way to practice the New Testament priesthood which was revealed to the apostles by the Holy Spirit. This is revealed in Acts to be a matter of cherishing, nourishing and perfecting the believers in the homes. 
 
 ## Biblical Basis
 
