@@ -69,9 +69,9 @@ In the 1800s, it became generally accepted and widely considered that in resurre
 
 ### The Spirit of Christ
 
-Finally, it was recovered in the 1950s that humanity is now in the Spirit, and that the Spirit contains a human element. 
+Finally, it was recovered in the 1950s that humanity is now in the Spirit, and that the Spirit contains a human element.
 
-Chapter 5 of *The Spirit of Christ* by Andrew Murray, a dutch reformer who lived in South Africa in the 1800s, reveals that the Spirit now as the Spirit of the glorified Jesus had the glorified humanity of Jesus added to it. So when the Spirit comes to humanity it contains the person of Christ in His humanity.
+Chapter 5 of *The Spirit of Christ* by Andrew Murray, a dutch reformer who lived in South Africa in the 1800s, reveals that the Spirit now as the Spirit of the glorified Jesus had the glorified humanity of Jesus added to it. So when the Spirit comes to humanity it contains the person of Christ in His humanity. The truth that Christ is the Spirit is arguably the greatest truth recovered in the nineteenth century.
 
 In verse 39, we see the "Spirit was not yet, because Jesus had not yet been glorified." This is not that Christ as glorified, which became the requirement to *send* the Spirit, but the Spirit was *not yet*. The Spirit is eternal, and clearly operating in the Old Testament as a person of the Trinity. So in what sense was the Spirit "not yet" before Jesus was glorified?
 

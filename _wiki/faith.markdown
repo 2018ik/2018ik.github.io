@@ -12,13 +12,13 @@ permalink: /faith/
 
 ## Background
 
-Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14). 
+Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14). 
 
 Faith comes out of hearing, and hearing through the word of God. All spiritual experiences are through faith. Faith must be kept with a good conscience; failing to take care of the conscience by confessing will weaken one's faith (1 Tim. 1:19).
 
 ## Application
 
-Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16), and is in the mingled spirit (1 Cor. 4:13). If one does not live  
+Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16), and is in the mingled spirit (1 Cor. 4:13). One should really thank God for His faithfulness, since they themselves do not have faith. 
 
 In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
 

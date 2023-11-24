@@ -4,8 +4,7 @@ title: Enjoyment
 permalink: /enjoyment/
 ---
 - [Background](#background)
-- [Through the Cross](#through-the-cross)
-- [Introspection](#introspection)
+- [Significance](#significance)
 - [Issuing](#issuing)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
@@ -13,19 +12,17 @@ permalink: /enjoyment/
 
 ## Background
 
-Christ is our allotted portion to be our enjoyment (Col. 1:12). This enjoyment is actually the unique solution to all problems  in the church. The way to enjoy the Lord is to love Him (2:9-10; 16:22).
+Christ is our allotted portion to be our enjoyment (Col. 1:12). This enjoyment is actually the unique solution to all problems in the church. The way to enjoy the Lord is to love Him (1 Cor. 2:9-10; 16:22).
 
-The more limited we are, the more we should enjoy. Paul was in prison, and the high peak truths he revealed in his epistles were all during imprisonment.
+Actually, the more limited one is, the more they should enjoy. Enjoyment should not be tied to the environment; if it is, then it is not true enjoyment. Paul was in prison, yet the high peak truths he revealed in his epistles were all during imprisonment.
 
-## Through the Cross
+## Significance
+
+To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. 
 
 The enjoyment of the all-inclusive Christ solves all the problems in the church through the work of the cross to make us spiritual men for God's building. The genuine enjoyment of Christ includes the death of Christ in the compound spirit (Exo. 30:22-25) with its killing element, which is applied to all the negative persons, things and matters related to us in our daily life, church life, and work, so that we may live a crucified life by the power of Christ's resurrection life (Phil 1:19; 3:10).
 
 There is a sweetness to the killing element of Christ's death, as seen in the cinnamon in the compound ointment. When negative matters trouble us in our daily life, we can enjoy the compound ointment, and all these troubling things are eliminated and killed, and we are in resurrection.
-
-## Introspection
-
-We need to look away unto Jesus (Heb. 12:2). It is easy to introspect, and to analyze ourselves. By doing this, we lose our enjoyment of Christ.
 
 ## Issuing
 

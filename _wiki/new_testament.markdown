@@ -12,7 +12,7 @@ permalink: /new_testament/
 
 ## Background
 
-The New Testament consists of the four gospels, Acts, Paul's epistles, the epistles of James, Peter, John and Jude, and Revelation. 
+The **New Testament** consists of the four gospels, Acts, Paul's epistles, the epistles of James, Peter, John and Jude, and Revelation. 
 
 First are the gospels depict the life of Jesus in various ways: in Matthew He's the king-savior, in Mark He's the slave-savior, in Luke He's them man-savior, and in John he's the God-savior. In Acts after resurrection and ascension He now indwells the disciples and propagates Himself through His living witnesses. This book is called Acts because there is a group of people who are not God in the Godhead but are God in function i.e. they are the *acting* God.
 

@@ -14,9 +14,9 @@ permalink: /fellowship/
 
 ## Background
 
-**Fellowship** in a general sense is a common, joint and corporate participation in something, and in the scriptural sense, involves the issue and flow of the divine life. Fellowship implies a sense of traffic. In fact, the word used for "fellowship" in the Chinese Recovery Version Bible is "traffic." This can be illustrated by the power plant being the source of the electrical current or traffic to many homes. On one hand, there is a vertical fellowship between each home and the power plant, and on the other hand, there is a horizontal fellowship between each home, as they are all interconnected on the same grid. Likewise, a Christian must have both fellowship with God, as well as with the members of the Body (1 John 1:3).
+**Fellowship** (Greek: *koinomia*) is a common, joint and corporate participation between two paries in something. Fellowship implies a sense of traffic. In fact, the word used for "fellowship" in the Chinese Recovery Version Bible is "traffic." This can be illustrated by the power plant being the source of the electrical current or traffic to many homes. On one hand, there is a vertical fellowship between each home and the power plant, and on the other hand, there is a horizontal fellowship between each home, as they are all interconnected on the same grid. Likewise, a Christian must have both fellowship with God, as well as with the members of the Body (1 John 1:3).
 
-This fellowship is unique - there is only one life, one source, on Christ, one Spirit - thus there can only be one genuine fellowship of life. Staying in this fellowship is crucial for the Christian life. To be cut off from the fellowship, that is to no longer meet with or commune with the local believers, will inevitably result in spiritual death.
+In the scriptural sense, fellowship involves the issue and flow of the divine life. This fellowship is unique - there is only one life, one source, on Christ, one Spirit - thus there can only be one genuine fellowship of life. Staying in this fellowship is crucial for the Christian life. To be cut off from the fellowship, that is to no longer meet with or commune with the local believers, will inevitably result in spiritual death.
 
 ## Analogies
 

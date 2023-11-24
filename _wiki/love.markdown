@@ -19,7 +19,7 @@ permalink: /love/
 
 ## Background
 
-Loving the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared. This is not a love of one's natural self, but a divine life which comes from the Spirit of love (Col. 1:8). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
+**Loving** the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared. This is not a love originating from one's natural self, but a divine life which comes from the Spirit of love (Col. 1:8). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
 
 Between faith, hope and love, the greatest is love (1 Cor. 13:13).
 
@@ -29,7 +29,11 @@ Everything comes out of a loving relationship with God. It is not enough to reve
 
 ## Biblical Basis
 
-When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "Do you love me?" (Matt. 21:15). 
+When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "Do you love me?" (Matt. 21:15).  
+
+Love actually constrains the believers (2 Cor. 5:14), which means to be forcibly limited and confined within certain bounds.
+
+The degradation of the church as revealed in letter to the church in Ephesus began with the loss of the first love (Rev. 2:4-5).
 
 ## Types of Love
 

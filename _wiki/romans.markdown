@@ -20,7 +20,7 @@ permalink: /romans/
 
 ## Background
 
-The book of Romans shows us His person and work. It can be divided into eight sections: introduction, condemnation, justification, sanctification, glorification, selection, transformation and conclusion.
+The book of Romans shows Christ's person and work. It can be divided into eight sections: introduction, condemnation, justification, sanctification, glorification, selection, transformation and conclusion.
 
 ## Summary
 

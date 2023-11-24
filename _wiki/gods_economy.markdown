@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: The Economy of God
-permalink: /economy/
+title: God's Economy
+permalink: /gods_economy/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

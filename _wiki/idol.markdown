@@ -8,7 +8,7 @@ permalink: /idol/
 
 ## Background
 
-Idols are anything that one loves more than the Lord, and anything that replaces the Lord in their lives. Not just pictures on the wall or statues, but Ezekiel 14:3 says "these people have set up idols in their hearts." There can be something in the heart which replaces the Lord.
+Idols are anything that one loves more than the Lord, and anything that replaces the Lord in their lives. Not just pictures on the wall or statues, but Ezekiel 14:3 says "these people have set up idols in their hearts." There can be many inherently unsinful and common things in the heart which replace the Lord.
 
 ## Biblical Examples
 
