@@ -11,7 +11,7 @@ permalink: /dealing_with_the_heart/
 
 ## Background
 
-As the heart is the gateway to one's being, it is necessary to deal with the heart in order to have fellowship with God and to have an "undefiled" spirit (2 Cor. 7:1).
+As the heart is the gateway to one's being, it is necessary to deal with the heart in order to have fellowship with God and to have an "undefiled" spirit (2 Cor. 7:1). The heart is like flypaper, it is very easy for stuff to stick to it. 
 
 ## Steps
 

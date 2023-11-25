@@ -10,7 +10,7 @@ permalink: /hypocrisy/
   
 ## Background
 
-Hypocrisy is to be contradictory in one's inward nature and outward appearance, for example in appearing outwardly righteous while remaining corrupt inwardly (Matt. 23:25-28).
+Hypocrisy is to be contradictory in one's inward nature and outward appearance, for example in appearing outwardly righteous while remaining corrupt inwardly (Matt. 23:25-28). As a corollary, one's natural goodness and ability is false spirituality and is a great hindrance to the expression of the life of God.
 
 ## Biblical Exampels
 
