@@ -5,28 +5,58 @@ permalink: /enjoyment/
 ---
 - [Background](#background)
 - [Significance](#significance)
-- [Issuing](#issuing)
+- [Biblical Basis](#biblical-basis)
+- [Application](#application)
+- [Aspects](#aspects)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
 
+>"Always rejoice,"
+
+\- 1 Thes. 5:17
+  
 ## Background
+
+**Enjoyment** is the joy of the Triune God becoming the joy of His people (Rom. 15:13), and implies an inner satisfaction, peace and contentment. To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. God does not want man just to receive Him, but to enjoy Him.
 
 Christ is our allotted portion to be our enjoyment (Col. 1:12). This enjoyment is actually the unique solution to all problems in the church. The way to enjoy the Lord is to love Him (1 Cor. 2:9-10; 16:22).
 
 Actually, the more limited one is, the more they should enjoy. Enjoyment should not be tied to the environment; if it is, then it is not true enjoyment. Paul was in prison, yet the high peak truths he revealed in his epistles were all during imprisonment.
 
-## Significance
-
-To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. 
-
 The enjoyment of the all-inclusive Christ solves all the problems in the church through the work of the cross to make us spiritual men for God's building. The genuine enjoyment of Christ includes the death of Christ in the compound spirit (Exo. 30:22-25) with its killing element, which is applied to all the negative persons, things and matters related to us in our daily life, church life, and work, so that we may live a crucified life by the power of Christ's resurrection life (Phil 1:19; 3:10).
 
 There is a sweetness to the killing element of Christ's death, as seen in the cinnamon in the compound ointment. When negative matters trouble us in our daily life, we can enjoy the compound ointment, and all these troubling things are eliminated and killed, and we are in resurrection.
 
-## Issuing
+## Significance
 
-The enjoyment of God issues in Him making His home in our hearts.
+In order to be faithful, normal, and proper Christians, the primary matter one needs to take care of is enjoying the Lord; this needs to become a vision. Outwardly, a normal Christian worker may be laboring and seemingly suffering, but inwardly, they are enjoying the Lord. 
+
+## Biblical Basis
+
+Outside of the Lord's Recovery, the matter of enjoying God is hardly mentioned. However, God evidently has wanted man to enjoy Him since the beginning:
+
+God did not put man into a factory, but the Garden of Eden, which is a garden of pleasure. In the garden, there was the tree of life, rivers flowing out to drink, and other plants to eat. God did not charge man to do anything; giving him hammer or spade. Rather, He wanted man to eat the tree of life. 
+
+At the end of the Bible, in the consummation of God's economy - the holy city New Jerusalem - there is still the tree of life and river of water of life. Even in eternity, God's people will continue to enjoy Him as food and drink.
+
+The Lord spoke to the disciples that His joy could be in them and that their joy may be made full (John 15:11). This is not just a little joy, but a joy that is made full, to the extent that all negative thoughts, anxieties, etc. are squeezed out. This joy evidently is not any material things, but Christ Himself.
+
+## Application
+
+Although the organ by which a person enjoys God is the soul, the spirit must take the lead aggressively in enjoying the Lord (Heb. 4:12). It is easy to only desire to enjoy the Lord when one is naturally at ease, but it is imperative to think the one thing and to use the spirit to enjoy the Lord in every situation whether good or bad.
+
+## Aspects
+
+In one's experience, enjoying the Lord can have many aspects, which include but is not limited to:
+
+1. Living in the divine romance (S.S. 1:1-4)
+2. The divine dispensing of the Divine trinity (2 Cor. 13:14; Eph. 3:14-21)
+3. Drinking the river of God's pleasures (Psa. 46:4; 36:8)
+4. Knowing God's love (Gal. 2:20; Rom. 8:38-39)
+5. Doing God's will (Psa. 40:8a)
+6. Contentment in all circumstances (Phil. 4:11)
+7. Entering into the joy of the Lord in the kingdom (Matt. 25:21-23)
 
 ## Testimonies
 

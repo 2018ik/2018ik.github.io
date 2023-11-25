@@ -17,7 +17,7 @@ permalink: /grace/
 
 ## Background
 
-**Grace** is God in His Trinity processed through incarnation, human living, crucifixion, resurrection and ascension to be everything to His believers, especially in enjoyment. Contrary to the popular notion of grace being mere material gifts from God, grace is God Himself becoming one's everything in a subjective way. As grace is subjective, it is only as real as one chooses to cooperate with God; attempting to follow the law to justify oneself out of natural effort actually nullifies grace (Gal. 2:21).
+**Grace** is God in His Trinity processed through incarnation, human living, crucifixion, resurrection and ascension to be everything to His believers, especially in the matter of enjoyment. Contrary to the popular notion of grace being mere material gifts from God, grace is God Himself becoming one's everything in a subjective way. As grace is subjective, it is only as real as one chooses to cooperate with God; attempting to follow the law to justify oneself out of natural effort actually nullifies grace (Gal. 2:21).
 
 Technically speaking, the entire Bible can be summarized as God in the beginning, the New Jerusalem at the end, and grace in its operation to bring mankind to that ending (Rev. 22:21).
 

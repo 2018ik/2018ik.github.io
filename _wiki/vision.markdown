@@ -13,7 +13,7 @@ permalink: /vision/
 
 ## Background
 
-A vision is God revealing to man his desire on earth today. With a vision always comes a divine commission and a burden for God's move, which is carried out through the ministry. It is up to the receiver of a vision whether or not they want to obey it (Acts 26:19), however when we truly see a geniune vision, it is easier to obey it than to ignore it.
+A vision is a spectacular sight of God revealing His desire on earth today. With a vision always comes a divine commission and a burden for God's move, which is carried out through the ministry. It is up to the receiver of a vision whether or not they want to obey it (Acts 26:19), however when we truly see a geniune vision, it is easier to obey it than to ignore it.
 
 When a person receives a vision, they lose all self-confidence and live a life of co-dependence on Him. A vision converts a person from everything to Christ Himself; He will be the inner operating God to them, energizing them to carry out His plan (Gal 1:15-16). Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
 
