@@ -8,9 +8,10 @@ permalink: /growth_in_life/
 
 ## Background
 
-Growth in life is the increase of God's life in believers who have been regenerated with His life.
+Growth in life is the increase of God's life, which is God Himself, in believers who have been regenerated with His life, and is for the building up of the Body. Growth comes from holding to the truth in love, and to take Christ as the Head of the Body. The Body is supplied by the Head, who adds more of His life into the Body (Eph. 4:15; Col. 2:19). 
 
-The basic requirement for growing in life is loving the Lord (1 Pet. 1:8). Next, one must take heed to their spirit, that is to exercise their spirit to contact the Lord (1 Pet. 2:5). Lastly, one must guard their heart with all vigilance (1 Pet. 3:15) to stay on the pathway of life.
+Experientially, the basic requirement for growing in life is loving the Lord (1 Pet. 1:8). Next, one must take heed to their spirit, that is to exercise their spirit to contact the Lord (1 Pet. 2:5). Then, one must guard their heart with all vigilance (1 Pet. 3:15) to stay on the pathway of life. Lastly, it is God who causes the growth (1 Cor. 3:6).
+
 
 ## Biblical Basis
 

@@ -1,6 +1,6 @@
 ---
 layout: pagev2
-title: prophet
+title: Prophet
 permalink: /prophet/
 ---
 - [Background](#background)

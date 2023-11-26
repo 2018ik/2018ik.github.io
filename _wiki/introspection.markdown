@@ -8,6 +8,6 @@ permalink: /introspection/
 
 ## Background
 
-We need to look away unto Jesus (Heb. 12:2). It is easy to **introspect**, and to analyze ourselves. By doing this, we lose our enjoyment of Christ.
+**Introspection** is to use the mind to analyze oneself, whether it is of certain sins or a lack of spiritual attainment. By doing this, the enjoyment of Christ is lost. Rather, the real need is to look away unto Jesus (Heb. 12:2). Anything bothersome which is realized through introspection should be brought to Christ, who is the wonderful counselor.
 
 ## Significance
