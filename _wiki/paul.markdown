@@ -9,8 +9,10 @@ permalink: /paul/
     - [Acts 9](#acts-9)
     - [Acts 22](#acts-22)
     - [Acts 26](#acts-26)
-- [Governed by the Spirit](#governed-by-the-spirit)
-- [Completing Ministry](#completing-ministry)
+  - [Completing Ministry](#completing-ministry)
+- [Characteristics](#characteristics)
+  - [Governed by the Spirit](#governed-by-the-spirit)
+  - [??? TODO name (factor for others' progress)](#-todo-name-factor-for-others-progress)
 
 ## Background
 
@@ -50,14 +52,20 @@ The Lord's Recovery is not about following a particular person - it is about fol
 
 The king says afterwards that much learning must have been driving Paul insane; regardless, Paul then tries to preach the gospel to the king. Then Agrippa rage-quit and left the scene, stating that Paul had not done anything wrong.
 
-## Governed by the Spirit
-
-Paul was governed by whether or not he had rest in his spirit (2 Cor. 2:13).
-
-## Completing Ministry
+### Completing Ministry
 
 Paul says that he was commissioned to complete the word of God; this means to complete the revelation of God, which without Paul's writings would be incomplete. (Col 1:25)
 
 The central vision of this ministry is God in us as our contents ("vessel"), Christ as the mystery of God ("Jesus"), and the church as the mystery of Christ ("Me").
 
 The Lord's recovery is the recovery of this central vision.
+
+## Characteristics
+
+### Governed by the Spirit
+
+Paul was governed by whether or not he had rest in his spirit (2 Cor. 2:13).
+
+### ??? TODO name (factor for others' progress)
+
+Paul was a factor for others' progress and joy in the faith (Phil. 1:25).

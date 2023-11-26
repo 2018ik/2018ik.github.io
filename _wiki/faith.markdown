@@ -5,16 +5,17 @@ permalink: /faith/
 ---
 - [Background](#background)
 - [Application](#application)
-- [Believing](#believing)
 - [Abraham](#abraham)
 - [Receiving](#receiving)
 - [God is Faithful](#god-is-faithful)
 
 ## Background
 
-Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14). 
+Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14). Faith comes out of hearing, and hearing through the word of God. All spiritual experiences are through faith. Faith must be kept with a good conscience; failing to take care of the conscience by confessing will weaken one's faith (1 Tim. 1:19).
 
-Faith comes out of hearing, and hearing through the word of God. All spiritual experiences are through faith. Faith must be kept with a good conscience; failing to take care of the conscience by confessing will weaken one's faith (1 Tim. 1:19).
+On one hand there is an objective faith, and that is the believing onto judicial salvation. Believing in is to believe that God is real, that Jesus was raised from the dead, and that He is Lord. 
+
+On the other hand, there is a subjective faith, which is a faith that progresses (Phil. 1:25). 
 
 ## Application
 
@@ -23,10 +24,6 @@ Humans have a natural concept to believe, but that is not the true faith. This t
 In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
 
 After we are given faith, this faith must be exercised, that the virtue of the divine life may be developed and reach maturity.
-
-## Believing
-
-Believing in is to believe that God is real. To believe into God is to have an organic union. 
 
 ## Abraham
 

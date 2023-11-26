@@ -13,7 +13,11 @@ permalink: /vision_of_the_age/
     - [Peter](#peter)
     - [Paul](#paul)
     - [John](#john)
-    - [The New Jerusalem](#the-new-jerusalem)
+  - [Further Visions](#further-visions)
+    - [Martin Luther](#martin-luther)
+    - [John-Nelson Darby](#john-nelson-darby)
+    - [Watchman Nee](#watchman-nee)
+    - [Witness Lee](#witness-lee)
 - [An All-Inclusive Vision of Today](#an-all-inclusive-vision-of-today)
 - [Up-to-date](#up-to-date)
 
@@ -23,9 +27,9 @@ permalink: /vision_of_the_age/
 
 ## Background
 
-In every age there is the **vision of that age**, and we need to serve God according to a certain commission, to accomplish the things He wants to get done in that age. The vision of an age refers to the overall vision and direction in that particular time. The way by which we carry out this commission is through the ministry of the age. 
+In every age there is the **vision of that age**, and believers must serve God according to this vision, to accomplish the things He wants to get done in that age. This vision refers to the overall vision and direction in that particular time. 
 
-God's word reveals to us that in every age He gives only one vision to man (Acts 26:19, Eph 1:17). In the building of god, there is only "one window" - one revelation and one vision through one ministry (Gen 6:13-14, 16). This window is the life-giving Spirit, which enables us to see such a vision. If we are shown such a vision, we should live according to it (Acts 26:19).
+The Bible reveals that in every age He gives only one vision to man, and that God is not democratic in whom He chooses to receive divine revelation (Acts 26:19, Eph 1:17). In the building of god, there is only "one window" - one revelation and one vision through one ministry (Gen 6:13-14, 16). This window is the life-giving Spirit, which enables God's people to see such a vision. The way by this commission is carried out is through the ministry of the age. 
 
 ## One Vision
 
@@ -57,9 +61,17 @@ He has God's vision, and knew exactly what God wanted to do. Everyone at that ti
 
 #### John
 
-#### The New Jerusalem
-
 John saw the vision of the New Jerusalem in his 90s, as he wrote in the Book of Revelation.
+
+### Further Visions
+
+#### Martin Luther
+
+#### John-Nelson Darby
+
+#### Watchman Nee
+
+#### Witness Lee
 
 ## An All-Inclusive Vision of Today
 

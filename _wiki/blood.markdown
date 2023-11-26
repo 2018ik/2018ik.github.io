@@ -9,7 +9,9 @@ permalink: /blood/
 
 ## Background
 
-Blood cleanses sins; when God sees blood, He will pass over you (Exo 12:13).
+Blood cleanses sins; when God sees blood, He will passes over His people (Exo 12:13). 
+
+The blood is usually stated to be of Jesus, but Acts 20:28 indicates that this is God's own blood. 
 
 ## Blood of Christ
 

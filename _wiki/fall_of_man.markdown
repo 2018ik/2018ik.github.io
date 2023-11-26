@@ -21,11 +21,11 @@ Despite being fallen without any hope, man was redeemed by God to even become on
 ## Timeline
 TODO
 
-Satan's words to Eve sowed a seed of doubt even before she partook of the fruit. 
+Satan's words to Eve sowed a seed of doubt even before she partook of the fruit. The serpent first asked a general question to Eve, asking if God really told her not to eat of any tree of the garden (Gen. 3:1). To this, Eve responded as follows:
 
-Apparently man's fall was due to the serpent's outward temptation, but the intrinsic cause is the woman's assumption of the headship. She assumed it by speaking to the serpent without the covering of her husband. This response is most likely the first independent act recorded in the Bible. Eve should have simply stood on God's word and fled to God in her spirit.
+>"Of the fruit of the trees of the garden we may eat ... but of the fruit of the tree which is in the middle of the garden you shall not eat of it, nor shall you touch it, lest you die."
 
-"Of the fruit of the trees of the garden we may eat ... but of the fruit of the tree which is in the middle of the garden you shall not eat of it, nor shall you touch it, lest you die."
+Apparently man's fall was due to the serpent's outward temptation, but the intrinsic cause is the woman's assumption of the headship. She assumed it by speaking to the serpent without the covering of her husband. This response is most likely the first independent act recorded in the Bible. Eve should have simply stood on God's word and fled to God in her spirit. The principle is as follows: as soon as someone entertains the poison from the enemy, they can lose their exercise of the spirit and their enjoyment.
 
 Eve's recounting of the facts was fine, if not a bit inaccurate, but by responding she had already fell into the snare. This opened the way for the serpent to respond with a compelete falsehood: "you shall not surely die." First, the serpent questioned to sow seeds of doubt, and it ends with a direct contradiction to God's word. Surely the woman here was not using her spirit, she was engaging her mind.
 
