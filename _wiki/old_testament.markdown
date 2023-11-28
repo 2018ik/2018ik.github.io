@@ -30,6 +30,6 @@ The books of poetry show that Christ Himself should be man's pursuit of perfecti
 
 ## Prophecy
 
-The books of prophecy show how the aforementioned books are going to be fulfilled. 
+The books of prophecy show how the aforementioned books are going to be fulfilled. These prophets were raised up after both the priesthood and the kingship were degraded. In a sense, these are the overcomers of the Old Testament.
 
-Some think that the prophecies concerning the nation of Israel, especially regarding its restoration, in the Old Testament refer to body of Christians in the New Testament. However, John-Nelson Darby and others asserted that these prophecies will actually be fulfilled literally. This thought was further strengthened by the literal restoration of Israel in 1967.p
+Some think that the prophecies concerning the nation of Israel, especially regarding its restoration, in the Old Testament refer to body of Christians in the New Testament. However, John-Nelson Darby and others asserted that these prophecies will actually be fulfilled literally. This thought was further strengthened by the literal restoration of Israel in 1967.

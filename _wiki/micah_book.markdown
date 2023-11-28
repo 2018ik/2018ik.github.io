@@ -4,6 +4,8 @@ title: Micah (Book)
 permalink: /micah_book/
 ---
 - [Background](#background)
+- [Summary](#summary)
+- [Topics](#topics)
 
 ## Background
 
