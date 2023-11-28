@@ -8,7 +8,7 @@ permalink: /regeneration/
 
 ## Background
 
-Regeneration is the first item of organic salvation, and involves being born of God to become children of God belonging to the species of God.
+Regeneration is to generate the redeemed believers with the divine life, making them born of God to become children of God belonging to the species of God. This is the first item of organic salvation.
 
 ## Biblical Basis
 

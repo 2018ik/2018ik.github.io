@@ -10,7 +10,7 @@ permalink: /building/
 
 ## Background
 
-God's work is a **building** work; He is building Himself into man and man into Himself. With God's creation there is nothing of god Himself in His creatures. In His building God works with Himself as the material. Therefore, God's building is is a divine mingling of God Himself with man as His creature.
+**Building** is the believers' growth in the divine life and being joined together with other believers in the divine life (Eph. 4:15-16). God's work is a building work; He is building Himself into man and man into Himself. With God's creation there is nothing of God Himself in His creatures. In His building God works with Himself as the material. Therefore, God's building is is a divine mingling of God Himself with man as His creature.
 
 ## Biblical Basis
 
