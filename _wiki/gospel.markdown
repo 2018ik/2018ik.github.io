@@ -17,9 +17,9 @@ permalink: /gospel/
 
 ## Background
 
-The **gospel** of God is the entire content of the Bible, which involves His [entire work and purpose](../economy). The gospel is not merely a judicial salvation from eternal perdition, but the entire word of the truth (Eph. 1:13).
+The **gospel** of God is the entire content of the Bible, which involves His [entire work and purpose](../economy). Experientially, this is Christ as the embodiment of the processed Triune God reaching the believers as the consummated Spirit to be their everything. The gospel is not merely a judicial salvation from eternal perdition, but the entire word of the truth that is may be subjectively experienced (Eph. 1:13). 
 
-In Old Testament, man fell, and in the New Testament, man was redeemed by God so that man may be saved in the *present* from the all things of the flesh through the Spirit in their spirit.
+In Old Testament, man fell, and in the New Testament, man was redeemed by God so that man may be saved in the present from the all things of the flesh through the Spirit in their spirit.
 
 ## Focus
 
