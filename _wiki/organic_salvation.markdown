@@ -4,6 +4,9 @@ title: Organic Salvation
 permalink: /organic_salvation/
 ---
 - [Background](#background)
+- [Significance](#significance)
+- [History](#history)
+- [Steps](#steps)
 
 ## Background
 
@@ -17,7 +20,7 @@ Being regenerated i.e. saved positionally is not the end of God's salvation work
 
 The line of this inner life began with Madame Guyon and other mystics, whose writings were improved by William Law. These works were later used by Andrew Murray, whose works were used by Jessie Penn-Lewis whose works were used by T. Austin-Sparks, whose works were used by Watchman Nee, whose works were used by Witness Lee.
 
-## Aspects
+## Steps
 
 1. Regeneration
 2. Shepherding
