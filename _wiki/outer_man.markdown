@@ -8,7 +8,7 @@ permalink: /outer_man/
 
 ## Background
 
-The outer man needs to be broken in order for us to be used by the Lord to bear much fruit. This involves breaking the shell of one's soul-life. When we are buried, that is attacked, it only gives us the opportunity to die and bear much fruit. In this respect those who see this fact are invincible. 
+The **outer man** needs to be broken in order for us to be used by the Lord to bear much fruit. This involves breaking the shell of one's soul-life. When we are buried, that is attacked, it only gives us the opportunity to die and bear much fruit. In this respect those who see this fact are invincible. 
 
 ## Biblical Basis
 

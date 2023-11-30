@@ -15,4 +15,4 @@ To mingle is to combine two things in such a way that there is still a distincti
 
 ### The Two Spirits
 
-The two spirits are mingled together to become one spirit (Gal 5:16). This is the deepest mystery in the entire Bible.
+The two spirits are mingled together to become one spirit (1 Cor. 6:17). This is the deepest mystery in the entire Bible.

@@ -7,9 +7,13 @@ permalink: /one_spirit/
 - [Benefits](#benefits)
 - [Spirit of Faith](#spirit-of-faith)
 
+>"But he who is joined to the Lord is one spirit."
+
+\- 1 Cor. 6:17
+
 ## Background
 
-One spirit refers to the mingling of the two spirits of God and man. This mingled spirit is one with God and is the same as God in life and nature but not in the Godhead.
+One spirit refers to the mingling of the Holy Spirit as the consummated life-giving Spirit with the spirit of man. This mingled spirit is one with God and is the same as God in life and nature but not in the Godhead, and is also the highest level of spirituality. The word *joined* in 1 Corinthians 6:17 refers to an organic union with the Lord.
 
 ## Benefits
 

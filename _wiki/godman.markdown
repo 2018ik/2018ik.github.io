@@ -9,7 +9,7 @@ permalink: /godman/
 
 ## Background
 
-God-man, a portmanteau of God and man, refers to the fact that after regeneration, man is spiritually reborn with the life of God (John 3:5), as an entirely new "species" and then man needs to grow unto salvation (1 Peter 2:2). This differs in conotation from "children of God," which while it literally means the same thing, does not as strongly imply the aspect of being a new species.
+God-man, a portmanteau of God and man, refers to the fact that after regeneration, man is spiritually reborn with the life of God (John 3:5), as an entirely new "species." A God-man lives by the mingled spirit. Godman differs in conotation from "children of God," which while it literally means the same thing, does not as strongly imply the aspect of being a new species.
 
 ## Biblical Basis
 

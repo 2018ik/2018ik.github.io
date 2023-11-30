@@ -5,13 +5,16 @@ permalink: /faith/
 ---
 - [Background](#background)
 - [Application](#application)
-- [Abraham](#abraham)
+- [Biblical Examples](#biblical-examples)
+  - [Abraham](#abraham)
 - [Receiving](#receiving)
 - [God is Faithful](#god-is-faithful)
 
 ## Background
 
-Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). Faith is God's principle in dealing with man in his New Testament economy. Christ's coming is the end of the law, and without faith, it is impossible to be well pleasing to Him (Rom. 10:14). Faith comes out of hearing, and hearing through the word of God. All spiritual experiences are through faith. Faith must be kept with a good conscience; failing to take care of the conscience by confessing will weaken one's faith (1 Tim. 1:19).
+Faith is the substantiation of things hoped for, the conviction of things not seen. (Heb. 11:1). Faith is God's principle in dealing with man in his New Testament economy, which replaced the law (Gal. 3:22-25). Faith comes out of hearing, and hearing through the word of God. All spiritual experiences are through faith. Without faith, it is impossible to be well pleasing to Him (Rom. 10:14). Faith must be kept with a good conscience; failing to take care of the conscience by confessing will weaken one's faith (1 Tim. 1:19).
+
+For example, if we go into a jewelry store, the salesman can only sell something to you if he makes you appreciate its beauty. The salesman is able to infuse into you some level of appreciation of the jewelry by talking about its beauty, its preciousness. This is to have faith in the jewelry. Having faith spontaneously results in a sense of appreciation.
 
 On one hand there is an objective faith, and that is the believing onto judicial salvation. Believing in is to believe that God is real, that Jesus was raised from the dead, and that He is Lord. 
 
@@ -25,7 +28,9 @@ In our natural life, we actually cannot believe in God. We need Christ to become
 
 After we are given faith, this faith must be exercised, that the virtue of the divine life may be developed and reach maturity.
 
-## Abraham
+## Biblical Examples
+
+### Abraham
 
 The way God dealt with Abraham was by faith. Abraham believed God, and it was accounted to him as righteousness. The law in fact came after Abraham.
 
@@ -36,10 +41,6 @@ He didn't respond right away, but eventually, Abraham's father died which caused
 Abraham then responded, and went out in faith, not knowing where he was going.
 
 Faith brings us into the blessing promised to Abraham (Gal 3:9, 14). It was promised to Abraham that all the nations of the Earth would be blessed. Christ as the seed of Abraham is now in resurrection, and is the Spirit as the all-inclusive blessing. The good land that was promised to Israel is actually included in this Spirit. By receiving the Spirit, we receive all of these blessings.
-
-Likewise, when we hear, something of the Lord is infused into us.
-
-For example, if we go into a jewelry store, the salesman can only sell something to you if he makes you appreciate its beauty. The salesman is able to infuse into you some level of appreciation of the jewelry by talking about its beauty, its preciousness. 
 
 ## Receiving
 
