@@ -12,4 +12,4 @@ In Revelation 5, Christ is portrayed as the **Lion** of the tribe of Judah (Rev.
 
 ## Significance
 
-By overcoming as the Lion and redeeming His people as the Lamb, He was qualified to open the scroll with seven seals (Rev. 5:9). 
+By overcoming as the Lion and redeeming His people as the Lamb, He was qualified to open the scroll with seven seals (Rev. 5:9). He is also standing, which is for the carrying out of His ongoing heavenly administration in ascension.
