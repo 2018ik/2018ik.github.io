@@ -5,6 +5,7 @@ permalink: /quotes/
 ---
 - [Marriage](#marriage)
 - [Career](#career)
+- [Fellowship](#fellowship)
 
 # Marriage
 
@@ -18,3 +19,6 @@ permalink: /quotes/
 
 >I see many young adults who have a one foot church life: one foot in the church and one foot in the world (especially their career)
 
+# Fellowship
+
+>We should be genuine and transparent, but also learn to season our speech with salt that it may not purvey death.

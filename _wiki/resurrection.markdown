@@ -7,4 +7,4 @@ permalink: /resurrection/
 
 ## Background
 
-**Resurrection** is to bring the dead back to life, and can only be accomplished through Christ, who is resurrection itself (John 11:25). There are many instances of resurrection throughout the Bible, most significant of which is [that of Jesus Himself](../christ_resurrection).
+**Resurrection** is to bring the dead back to life, and only be accomplished through Christ, who is resurrection itself (John 11:25). There are many instances of resurrection throughout the Bible, however true resurrection was only possible after [that of Jesus Himself](../christ_resurrection). 

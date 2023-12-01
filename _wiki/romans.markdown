@@ -17,6 +17,7 @@ permalink: /romans/
   - [1](#1)
 - [Topics](#topics)
   - [Justification by Faith](#justification-by-faith)
+  - [Internal Warfare](#internal-warfare)
 
 ## Background
 
@@ -67,3 +68,7 @@ Romans 1 is on the essence of Jesus Christ the God-man. Verses 3 and 4 in partic
 ### Justification by Faith
 
 Justification by faith is not the center of Romans, nor the gospel, nor the Bible. 
+
+### Internal Warfare
+
+Romans 7 shows that the mind despite wanting to do good, cannot. This is because there is an unwinnable battle between the law of good in the mind, and the law of sin and of death in the flesh. 
