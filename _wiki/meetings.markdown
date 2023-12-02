@@ -10,7 +10,7 @@ permalink: /meetings/
 
 ##  Background
 
-The **meetings** are where God's economy can be carried out, or where He can obtain His practical expression. There are many types of meetings in which believers meet at, such as Lord's table meetings, prophesying meetings, prayer meetings, gospel meetings, home meetings, and group meetings.
+The **meetings** are where God's economy can be carried out, or where He can obtain His practical expression. There are many types of meetings in which believers meet at, such as Lord's table meetings, prophesying meetings, prayer meetings, gospel meetings, home meetings, and group meetings. There are small meetings which go from house to house, as well as big meetings in the local churches. While the big meetings bring people in, the small meetings keep them in and build up the Body.
 
 ## Significance
 
