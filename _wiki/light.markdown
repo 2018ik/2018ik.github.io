@@ -11,10 +11,12 @@ permalink: /light/
 - [Blindness](#blindness)
   - [Elisha](#elisha)
   - [Saul of Tarsus](#saul-of-tarsus)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
-The light is not a thing, such as a shining or presence, it is a Person, God Himself. This light gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. 
+**Light** is that which makes manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself. This light gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. 
 
 ## Biblical Definition
 
@@ -42,3 +44,9 @@ Elisha struck the Syrians with blindness. The New Testament ministry to deal wit
 
 ### Saul of Tarsus
 
+
+## Testimonies
+
+### Testimony #1
+
+>One a brother as at Ralph's and he was looking at a magazine in the supermarket, and someone said "brother so and so" and hurriedly he dropped the magazine. Why? Because that saint radiated the divine light to this brother. Don't you realize that sometimes you're not in your spirit and in your soul therefore in darkness? And then have you ever gotten a call from a brother and received light from this brother? Aren't you brought into the realm of light in that instant?

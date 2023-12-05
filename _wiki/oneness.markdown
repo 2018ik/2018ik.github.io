@@ -10,7 +10,7 @@ permalink: /oneness/
 
 ## Background
 
-**Oneness** is simply the state of being one, to the extent of reproducing the oneness of the Triune God. To be one with the other members of the Body of Christ requires putting off natural preference. Most problems prevailing in Christianity today are due to differing opinions regarding things which have nothing to do with the faith.
+**Oneness** is the state of being one, to the extent of reproducing the oneness of the Triune God. To be one with the other members of the Body of Christ requires putting off natural preference. Most problems prevailing in Christianity today are due to differing opinions regarding things which have nothing to do with the faith. However, oneness is not predicated upon having the same opinions and interpretations but by living in the Triune God, that the same Triune God can be constituted into all the members of the Body of Christ that they may be one intrinsically.
 
 ## Significance
 

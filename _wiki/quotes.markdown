@@ -8,6 +8,7 @@ permalink: /quotes/
 - [Fellowship](#fellowship)
 - [Young People](#young-people)
 - [Migration](#migration)
+- [Bible Study](#bible-study)
 
 # Marriage
 
@@ -34,3 +35,7 @@ permalink: /quotes/
 >Ask the Lord wherever you go to give you a saving companion.
 
 >Don't go, be sent.
+
+# Bible Study
+
+"In the epistles, the Spirit is equivalent to Christ."p
