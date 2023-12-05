@@ -17,7 +17,7 @@ permalink: /daniel_book/
 
 ### Great Human Image
 
-The four parts of the great human image signify four world empires:
+The great human image in Daniel 2 is a prophetic illustration of the history of  human government, sovereignly arranged by the Lord for the carrying out of His economy. The four parts of the great human image signify four world empires:
 
 1. Head of Gold - Babylonian Empire
 2. Breast and arms of silver - Medo-Persia

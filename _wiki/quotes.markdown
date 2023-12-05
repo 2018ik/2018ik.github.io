@@ -7,6 +7,7 @@ permalink: /quotes/
 - [Career](#career)
 - [Fellowship](#fellowship)
 - [Young People](#young-people)
+- [Migration](#migration)
 
 # Marriage
 
@@ -27,3 +28,9 @@ permalink: /quotes/
 # Young People
 
 >Arrange your schedule in this way: 7.5 hours for sleep, 1.5 hours for eating, 1 hour for exercise, 8 hours for study and 6 hours for spiritual things. If you expend your energy in this way, by the time you are thirty you will be able to begin your ministry like the Lord Jesus did.
+
+# Migration
+
+>Ask the Lord wherever you go to give you a saving companion.
+
+>Don't go, be sent.
