@@ -4,17 +4,27 @@ title: Shepherding
 permalink: /shepherding/
 ---
 - [Background](#background)
-- [Significance](#significance)
+- [Biblical Examples](#biblical-examples)
+  - [John 21](#john-21)
+  - [Acts 27-28](#acts-27-28)
 - [How to](#how-to)
   - [Spirit](#spirit)
 
 ## Background
 
+**Shepherding** is to render all-inclusive tender care to the flock. The goal of shepherding is to lead people to the flock that they may be presented full-grown in Christ.
+
 In order to not shepherd out of the self, we need to see the high peak of the divine revelation and shepherd through the life of God in us.
 
-## Significance
+## Biblical Examples
 
+### John 21
 
+John 21 is a real conclusion of all four gospels. The Lord having passed through death and resurrection, meaning that He is now the Spirit, continues to shepherd the disciples. As the 7 disciples backslid, the Lord asked proper questions to cherish them in their endeavor, actually helping them catch the fish. He did not rebuke, adjust, or correct them. This eventually led Him to commissioning Peter to feed his lambs and shepherd His sheep in His absence.
+
+### Acts 27-28
+
+Paul shepherded the 276 passengers of the ship during the storm to such an extent that they all became cheerful (Acts 27:36). He did not preach anything, but magnified the Lord. By enjoying the Lord, and maintaining his own joy, he shepherded the crew greatly. Both the Gospels and Acts ended not with doctrine, but shepherding in low situations. 
 
 ## How to
 
