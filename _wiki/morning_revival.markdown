@@ -4,7 +4,7 @@ title: Morning Revival
 permalink: /morning_revival/
 ---
 - [Background](#background)
-- [Pictures of Morning Revival](#pictures-of-morning-revival)
+- [Biblical Examples](#biblical-examples)
   - [Manna](#manna)
   - [Bread of the Presence](#bread-of-the-presence)
   - [Mary](#mary)
@@ -19,10 +19,9 @@ permalink: /morning_revival/
 - [How to Practice](#how-to-practice)
   - [Confession](#confession)
   - [In the Face](#in-the-face)
-  - [Tips](#tips)
-    - [Rise up early and go to bed early](#rise-up-early-and-go-to-bed-early)
-    - [Love the Lord more than the bed](#love-the-lord-more-than-the-bed)
-    - [Use Your Voice](#use-your-voice)
+  - [Rise up early and go to bed early](#rise-up-early-and-go-to-bed-early)
+  - [Love the Lord more than the bed](#love-the-lord-more-than-the-bed)
+  - [Use Your Voice](#use-your-voice)
     - [Less Doing](#less-doing)
     - [Don't Set High Standards](#dont-set-high-standards)
     - [Diligent Habit](#diligent-habit)
@@ -35,13 +34,11 @@ permalink: /morning_revival/
 
 ## Background
 
-**Morning revival** (or **morning watch) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived.
-
-We have a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). We can have a new beginning with the Lord each day. The Lord's compassions and mercy are new every morning (Lam. 3:23).
+**Morning revival** (or **morning watch) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
 Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
-## Pictures of Morning Revival
+## Biblical Examples
 
 Many individuals recorded in the Bible contacted the Lord early in the morning.
 
@@ -51,7 +48,7 @@ Many individuals recorded in the Bible contacted the Lord early in the morning.
 
 \- Exodus 16:21
 
-Manna can only be found in the mornings. Past the morning, it will melt.
+Manna was a kind of heavenly which could only be found in the mornings. Past the morning, it will melt. This is a type of the ascended Christ which comes a daily supply for one's daily living. Every morning one should have the sensation that Christ in the heavens is raining down on them to be eaten as food.
 
 ### Bread of the Presence
 
@@ -81,7 +78,7 @@ Exodus 32:2,4 Moses rose up early in th morning to go up to Mt. Sinai to receive
 
 ### Various Psalmists
 
-David set forth his words to Jehovah in the morning, that He would hear his voice (Psa. 5:3). Other psalmists also watched for the Lord in the morning (Psa. 119:147; 130:6).
+David set forth his words to Jehovah in the morning, that He would hear his voice (Psa. 5:3). Other psalmists also watched for the Lord in the morning (Psa. 119:147; 130:6). 
 
 ### Jesus
 
@@ -115,17 +112,15 @@ Each morning, we should confess every sin which the Lord shines on.
 
 We need personal, intimate, and direct contact with the Lord in order to see the Lord's face. The Lord is the one who shines in our hearts to illuminate the knowledge of the glory of God in the face of Jesus Christ (2 Cor. 4:6). The Lord is shining and ready all the time, we can come and turn our hearts to the Lord that all the veils may be taken away, that we can behold the face of Jesus Christ.
 
-### Tips
-
-#### Rise up early and go to bed early
+### Rise up early and go to bed early
 
 This is very practical, it is difficult to have morning revival if we don't wake up in the morning.
 
-#### Love the Lord more than the bed
+### Love the Lord more than the bed
 
 We need to get out bed immediately - don't delay. Right after, speak to the Lord, call on His name and tell Him you love Him.
 
-#### Use Your Voice
+### Use Your Voice
 
 >"Oh Jehovah, in the morning you will hear my voice!"
 
@@ -133,23 +128,23 @@ We need to get out bed immediately - don't delay. Right after, speak to the Lord
 
 Our morning time should not just be in our thoughts; it is not a mental exercise. We need to open our mouths audibly, whether by whisper or a ringing shout. The Lord will *hear* the psalmist's voice.
 
-#### Less Doing
+### Less Doing
 
 The first step is to contact the Lord; don't start doing your morning routine, or by telling the Lord the various things you are doing to accomplish today. Begin by coming to Him and enjoy His presence.
 
-#### Don't Set High Standards
+### Don't Set High Standards
 
 Take it little by little; start with one verse, 5 minutes, build it up over time. Don't be disappointed in not meeting your self-made laws.
 
-#### Diligent Habit
+### Diligent Habit
 
 This all needs to be done consistently. We never graduate from morning revival. 
 
-#### Redeem the Time
+### Redeem the Time
 
 Although we all need to start somewhere, we also need to spend adequate time.
 
-#### Remind One Another
+### Remind One Another
 
 >"Therefore I will be ready always to remind you concerning these things, even though you know them"
 
@@ -157,11 +152,11 @@ Although we all need to start somewhere, we also need to spend adequate time.
 
 Rely on your companions to remind you each morning.
 
-#### Not Ritualistic
+### Not Ritualistic
 
 We should fellowship with the Lord, even regarding our waking up early. This should not be something which we do solely out of our natural self. We need the Lord to open our ear in the morning; we need learn to take the Lord as our full supply.
 
-#### Prepare Yourself Practically
+### Prepare Yourself Practically
 
 Change out of pajamas, stand up, sit up straight, etc. Don't remain lying down. Remember that morning revival is a meeting with God.
 
