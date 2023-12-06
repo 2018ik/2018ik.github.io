@@ -4,7 +4,7 @@ title: Morning Revival
 permalink: /morning_revival/
 ---
 - [Background](#background)
-- [Biblical Examples](#biblical-examples)
+- [Biblical Patterns](#biblical-patterns)
   - [Manna](#manna)
   - [Bread of the Presence](#bread-of-the-presence)
   - [Mary](#mary)
@@ -12,6 +12,7 @@ permalink: /morning_revival/
   - [Jacob](#jacob)
   - [Moses](#moses)
   - [Samuel's parents](#samuels-parents)
+  - [Jeremiah](#jeremiah)
   - [Various Psalmists](#various-psalmists)
   - [Jesus](#jesus)
   - [George Muller](#george-muller)
@@ -22,25 +23,23 @@ permalink: /morning_revival/
   - [Rise up early and go to bed early](#rise-up-early-and-go-to-bed-early)
   - [Love the Lord more than the bed](#love-the-lord-more-than-the-bed)
   - [Use Your Voice](#use-your-voice)
-    - [Less Doing](#less-doing)
-    - [Don't Set High Standards](#dont-set-high-standards)
-    - [Diligent Habit](#diligent-habit)
-    - [Redeem the Time](#redeem-the-time)
-    - [Remind One Another](#remind-one-another)
-    - [Not Ritualistic](#not-ritualistic)
-    - [Prepare Yourself Practically](#prepare-yourself-practically)
+  - [Less Doing](#less-doing)
+  - [Don't Set High Standards](#dont-set-high-standards)
+  - [Diligent Habit](#diligent-habit)
+  - [Redeem the Time](#redeem-the-time)
+  - [Remind One Another](#remind-one-another)
+  - [Not Ritualistic](#not-ritualistic)
+  - [Prepare Yourself Practically](#prepare-yourself-practically)
 - [Benefits](#benefits)
 - [Sweetness](#sweetness)
 
 ## Background
 
-**Morning revival** (or **morning watch) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new  beginnings (new week, month, year, day, etc.). The Lord's compassions and mercy are new every morning (Lam. 3:23).
+**Morning revival** (or **morning watch) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.). The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
 Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
-## Biblical Examples
-
-Many individuals recorded in the Bible contacted the Lord early in the morning.
+## Biblical Patterns
 
 ### Manna
 
@@ -75,6 +74,10 @@ Exodus 32:2,4 Moses rose up early in th morning to go up to Mt. Sinai to receive
 ### Samuel's parents
 
 1 Sam 1:19
+
+### Jeremiah
+
+Jeremiah saw God's lovingkindness and compassions anew every morning (Lam. 3:22-23).
 
 ### Various Psalmists
 

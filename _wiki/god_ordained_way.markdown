@@ -4,7 +4,6 @@ title: God-ordained Way
 permalink: /god_ordained_way/
 ---
 - [Background](#background)
-- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
 - [Practice](#practice)
   - [Steps](#steps)
@@ -19,19 +18,15 @@ permalink: /god_ordained_way/
 
 ## Background
 
-The God-ordained way refers to the scriptural way ordained by God to carry out His New Testament economy by releasing the organic functions of the members of the Body of Christ. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying. This is how to church life can be practiced according to the New Testament ministry, in which all believers are priests (1 Pet 2:9).
-
-## Significance
-
-The God-ordained way is a recovery of the proper way to practice the New Testament priesthood which was revealed to the apostles by the Holy Spirit. This is revealed in Acts to be a matter of cherishing, nourishing and perfecting the believers in the homes. 
+The God-ordained way (also known as the "new way") refers to the scriptural way ordained by God for His people to meet and serve to carry out His New Testament economy by releasing the organic functions of each member of the Body of Christ for the building up of the Body. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying especially in the homes. Practicing the God-ordained way issues in the proper church life in which all believers are priests (1 Pet 2:9).
 
 ## Biblical Basis
 
-The goal of the God-ordained way is to build up the Body of Christ (Eph 4:8-16). In order to do so, the way early church developed in Acts can be examined, and the way the early apostles preached can be followed as an example. Actually, the whole New Testament is about cherishing and nourishing. 
+The goal of the God-ordained way is to build up the Body of Christ (Eph 4:8-16). In order to do so, the way early church developed in Acts can be examined, and the way the early apostles preached can be followed as an example. The apostles did not meet and serve according to Jewish or Greek tradition, but an altogether new way revealed to them no doubt by the Holy Spirit.
 
 ## Practice
 
-Practicing the God-ordained way is not a purely outward matter, the below steps should be executed with a view of God's economy, otherwise it is a mere facsimile. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer.
+Practicing the God-ordained way is not an outward matter, actually it is a living which requires a personal and affectionate relationship with God. The below steps should be executed with a view of God's economy and in newness of life, otherwise it is a mere facsimile and a movement. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer.
 
 Generally speaking however, for each step one must first see the vision, so their work is backed by a divine commission. Then, they must pray, followed by labor. This is a patient, persistent and faithful work to preach the gospel and to bear lasting fruit. Much like a farmer, one must appreciate the fruits of their labor and care for their fields to yield a consistent harvest. Lastly, one must study their results, and study the truth. 
 
