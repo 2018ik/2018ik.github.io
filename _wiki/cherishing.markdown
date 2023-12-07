@@ -8,6 +8,6 @@ permalink: /cherishing/
 
 ## Background
 
-**Cherishing** 
+**Cherishing** is to make someone happy. 
 
 ## Significance

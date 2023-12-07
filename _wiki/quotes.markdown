@@ -8,6 +8,8 @@ permalink: /quotes/
 - [Fellowship](#fellowship)
 - [Young People](#young-people)
 - [Migration](#migration)
+- [Decisions](#decisions)
+- [The Body](#the-body)
 
 # Marriage
 
@@ -34,3 +36,13 @@ permalink: /quotes/
 >Ask the Lord wherever you go to give you a saving companion.
 
 >Don't go, be sent.
+
+# Decisions
+
+>We should ask two questions. Is this the Spirit? Is this for the Body?
+
+# The Body
+
+>If we truly see our position in the Body, it will be as though we were saved a second time.
+
+>What I do not know, another member of the Body will know; what I cannot see, another member of the Body will see; what I cannot do, another member of the Body will do.

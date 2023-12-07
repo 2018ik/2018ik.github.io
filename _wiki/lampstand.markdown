@@ -9,6 +9,8 @@ permalink: /lampstand/
 
 ## Background
 
+The **lampstand** first seen in Exodus 25 was a piece of golden furniture in the Holy Place which had seven lamps, one proceeding from the middle and three branches on either side. 
+
 ## Significance
 
 ## Trimming

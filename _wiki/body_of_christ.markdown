@@ -19,6 +19,8 @@ Paul is the only writer in the new Testament to use the term "Body of Christ." T
 
 Saved ones are actually added to the Lord (Acts 11:24). This is to be added to the Body of Christ. This is then followed by the local church, where the believers are brought into Antioch (Acts 11:26). This shows that the local churches follows, and is the manifestation of the Body of Christ. Likewise, we are also baptized into one Body (1 Cor. 12:13).
 
+A person's physical body is actually a picture of the body of Christ. Each member with its own function, such as a person's foot, ear and eye are part of the same Body, and is part of the same corporate Christ (1 Cor. 12:14-18).
+
 ## Reality Today
 
 The reality of the Body of Christ refers to the experience of the consummated Body of Christ (the New Jerusalem) in the present day. That is, the present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
