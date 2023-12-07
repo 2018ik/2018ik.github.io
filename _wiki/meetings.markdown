@@ -14,6 +14,8 @@ The **meetings** are where God's economy can be carried out, or where He can obt
 
 ## Significance
 
+Christians not only need a personal, vertical fellowship with God, but also horizontal fellowship with other fellow believers. The Lord is not looking for spiritual giants, but the church, the gathering of the called out ones. 
+
 When believers are gathered, the Lord is in their midst (Matt 18:20). When the believers pray, the Lord is praying. When the believers speak, the Lord is speaking in their speaking. This speaking issues in the hearing of faith that all can receive more life and be encouraged (Rom. 1:11-12; Gal. 3:2). In the meetings, Jesus the Son of God is doing in each one's doing; all are One in Christ. In a sense, a meeting of 50 technically has 51 in their midst, as the Lord Jesus is ever-present.
 
 ### Instrinsic Significance
