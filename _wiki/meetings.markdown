@@ -14,7 +14,7 @@ The **meetings** are where God's economy can be carried out, or where He can obt
 
 ## Significance
 
-When believers are gathered, the Lord is in their midst (Matt 18:20). When the believers pray, the Lord is praying. When the believers speak, the Lord is speaking in their speaking. In the meetings, Jesus the Son of God is doing in each one's doing; all are One in Christ. In a sense, a meeting of 50 technically has 51 in their midst, as the Lord Jesus is ever-present.
+When believers are gathered, the Lord is in their midst (Matt 18:20). When the believers pray, the Lord is praying. When the believers speak, the Lord is speaking in their speaking. This speaking issues in the hearing of faith that all can receive more life and be encouraged (Rom. 1:11-12; Gal. 3:2). In the meetings, Jesus the Son of God is doing in each one's doing; all are One in Christ. In a sense, a meeting of 50 technically has 51 in their midst, as the Lord Jesus is ever-present.
 
 ### Instrinsic Significance
 
