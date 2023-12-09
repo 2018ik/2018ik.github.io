@@ -5,8 +5,6 @@ permalink: /gods_economy/
 ---
 - [Background](#background)
 - [Etymology](#etymology)
-  - [Stewardship](#stewardship)
-  - [Household](#household)
 - [Mystery](#mystery)
 - [Steps](#steps)
   - [Becoming Man](#becoming-man)
@@ -37,17 +35,11 @@ The Greek word for economy is composed of two words which when combined mean "ho
 This is commonly translated as "stewardship" or "dispensation" (Eph. 1:10, 3:9; 1 Tim. 1:4).
 Just like how a household administration comprises of a plan to distribute resources throughout the household, God's economy consists of a plan to dispense Himself into His chosen people so that He might have a household to express Himself.
 
-### Stewardship
-
-To God, His plan is His economy. To us, His plan is our stewardship. Our burden to carry out His will is our stewardship.
-
-### Household
-
-God's economy is for His household, His family, consisting of many sons.
+The Recovery Version renders *oikonomos* as economy with respect to God, and stewardship with respect to man. God's has the plan, which when commissioned for His people to carry out is their stewardship. 
 
 ## Mystery
 
-God's economy is a mystery, which needs to be made known to us (Eph. 1:9). Seeing God's economy requires a spirit of wisdom and revelation, and cannot be comprehended solely with human logic It's actually the glory of God to hide His economy (Proverbs 25:2). 
+God's economy is a mystery, which needs to be made known to us (Eph. 1:9). Seeing God's economy requires a spirit of wisdom and revelation, and cannot be comprehended solely with human logic. It's actually the glory of God to hide His economy (Proverbs 25:2). 
 
 ## Steps
 
