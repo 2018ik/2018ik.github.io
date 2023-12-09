@@ -12,7 +12,7 @@ permalink: /shepherding/
 
 ## Background
 
-**Shepherding** is to render all-inclusive tender care to the flock. The goal of shepherding is to lead people to the flock that they may be presented full-grown in Christ.
+**Shepherding** is to render all-inclusive tender care to the flock. For regenerated believers, shepherding is the nourishment of God’s life in order that the flock may grow and have their existence in the divine life, thus manifesting the function of the divine life in them. For unbelievers,shepherding is to lead people to the into the the flock that they may be saved (Luke 15:3-7).
 
 In order to not shepherd out of the self, we need to see the high peak of the divine revelation and shepherd through the life of God in us.
 
