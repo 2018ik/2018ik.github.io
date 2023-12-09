@@ -4,6 +4,7 @@ title: Mind
 permalink: /mind/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
   - [The Soul](#the-soul)
 
@@ -13,7 +14,7 @@ The mind is the part of the soul that can know, consider, and remember. It often
 
 ## Significance
 
-The mind understands the intuition's sense. The mind set of the spirit is critical for spiritual experience (Rom. 8:6). Eventually, the mingled spirit spreads into the mind, where the mind possesses the spirit and the spirit posseses the mind, issuing in the spirit of the mind (Eph. 4:23).
+The mind understands the intuition's sense. The mind set of the spirit is critical for spiritual experience (Rom. 8:6). Eventually, the mingled spirit spreads into the mind, where the mind possesses the spirit and the spirit possesses the mind, issuing in the spirit of the mind (Eph. 4:23).
 
 ## Biblical Basis
 
