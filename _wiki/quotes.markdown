@@ -10,6 +10,7 @@ permalink: /quotes/
 - [Migration](#migration)
 - [Decisions](#decisions)
 - [The Body](#the-body)
+- [Conduct](#conduct)
 
 # Marriage
 
@@ -29,8 +30,6 @@ permalink: /quotes/
 
 >Arrange your schedule in this way: 7.5 hours for sleep, 1.5 hours for eating, 1 hour for exercise, 8 hours for study and 6 hours for spiritual things. If you expend your energy in this way, by the time you are thirty you will be able to begin your ministry like the Lord Jesus did.
 
->The first responsibility for shepherding the young people is with parents, not the church.
-
 # Migration
 
 >Ask the Lord wherever you go to give you a saving companion.
@@ -46,3 +45,9 @@ permalink: /quotes/
 >If we truly see our position in the Body, it will be as though we were saved a second time.
 
 >What I do not know, another member of the Body will know; what I cannot see, another member of the Body will see; what I cannot do, another member of the Body will do.
+
+# Conduct
+
+>Sometimes brothers are like locusts [in the home meetings], you hear buzzing and then all the food disappears.
+
+>Don't correct, don't impose, don't suggest, just live Christ!

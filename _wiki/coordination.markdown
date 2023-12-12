@@ -13,9 +13,9 @@ permalink: /coordination/
 
 ## Background
 
-Coordination is the greatest need in the Lord's move on the Earth. Without coordination there is no move. 
+**Coordination** is the ability for members of the Body to work together effectively. A well-coordinated team of believers can being out each others' function and release of spirit in an organic way. 
 
-The Body of Christ is not an organization. In an organization there is hierarchy to ensure things are carried out in a good way. In the Body it is not like this; it is in the way of life. We are all joined to the Lord as the head (Eph 4:12). The Lord is not only the corporate head, but also the individual head (Eph 4:15). Therefore, coordination is not a matter of organizational logistics, or really of anything of the natural man, it is altogether in the spirit.
+The Body of Christ is not an organization. In an organization there is hierarchy to ensure things are carried out in a good way. In the Body it is not like this; it is in the way of life. All are all joined to the Lord as the head (Eph 4:12). The Lord is not only the corporate head, but also the individual head (Eph 4:15). Therefore, coordination is not a matter of organizational logistics, or really of anything of the natural man, it is altogether in the spirit. This is the greatest need in the Lord's move on the Earth. Without coordination there is no move. 
 
 We are not only joined to the Lord, but we are also joined to each other (Rom. 7:5). We are organically joined to the Lord and to one another - this is an organism where life is flowing.
 
