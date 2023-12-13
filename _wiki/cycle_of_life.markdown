@@ -1,14 +1,14 @@
 ---
 layout: pagev2
-title: The Life Cycle
-permalink: /life_cycle/
+title: The Cycle of Life
+permalink: /cycle_of_life/
 ---
 - [Background](#background)
 - [The Source: Eternal Life](#the-source-eternal-life)
 
 ## Background
 
-1 John 1 reveals a cycle of life, in which **fellowship** brings in **light** which brings in **blood** which brings in **anointing**. This cycle can only be apprehended by our experience. 
+1 John 1 reveals a **cycle of life**, in which *fellowship* brings in *light* which brings in *blood* which brings in *anointing*. This cycle can only be apprehended by our experience. 
 
 As a cycle, these four aspects repeat, giving us a deeper fellowship, a deeper light, a deeper experience of the blood, and a deeper annointing with each repetition. This issues in the building up of the Church, the Body of Christ (Eph. 4:16), which consummates in the New Jerusalem.
 

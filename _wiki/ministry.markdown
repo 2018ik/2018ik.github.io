@@ -11,7 +11,7 @@ permalink: /ministry/
 
 The ministry is composed of apostles, prophets, evangelists, shepherds and teachers (Acts 13:1, Eph. 4:11). It is the Body in function. The ministry is not created by a human or organization process, these ones were gradually manifested by the Lord through their growth in life (Eph. 4:13). Ministry is produced by revelation being burned into us through suffering. This is a Christ-ministering service; that is, the objective is to minister Christ.
 
-Ministry is quite different from gifts and knowledge. The ministry is not an individual matter; it is carried out in a corporate way. 
+Ministry is quite different from gifts and knowledge. The ministry is not an individual matter; it is carried out in a corporate way. Furthermore, there is no ministry without prayer.
 
 ## Cycle
 

@@ -6,12 +6,11 @@ permalink: /prayer/
 - [Background](#background)
 - [Significance](#significance)
 - [Biblical Examples](#biblical-examples)
+  - [Hannah](#hannah)
   - [Samuel](#samuel)
+  - [David](#david)
   - [Daniel](#daniel)
   - [Jesus](#jesus)
-- [Genuine Prayer](#genuine-prayer)
-  - [God's Will](#gods-will)
-  - [Not of the soul](#not-of-the-soul)
 - [Principle of Prayer](#principle-of-prayer)
 - [Dispensing](#dispensing)
   - [Passport application](#passport-application)
@@ -26,9 +25,17 @@ permalink: /prayer/
 
 ## Background
 
-**Prayer** is to contact God in the spirit to absorb God. It is the believers' response to God's flowing in, and their flowing back to God. 
+**Prayer** is to contact God in the spirit to absorb God, which is to have fellowship with God. Prayer should be the believers' response to God's flowing in, and their flowing back to God. Prayer should be a living, unceasingly talking to God throughout the day (Eph. 6:18), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16).
 
-Praying in spirit builds up the church (Jude 20).
+Prayer may start in the self, but with the proper yearning and turning, one can contact God which brings them into a bilaterally active touch with Him where they enter into Him as the Spirit in their spirit. As a result, this prayer is also truly what is on God's heart, and all such prayers will be answered (John 15:7).
+
+First, one must recognize that God has a will. If God reveals His will to someone, they should pray this will back to Him and He has a way to move through that. God's ways and thoughts are higher than man's (Isa. 55:8-9).
+
+Through our prayer God passes through our being, and we pass through His being. Our words pass though Him and His words pass through Us and two pray together one prayer. Often the first word of our prayer is of the mind, but by the end, it is altogether of the spirit.
+
+Prayers should be divine facts, for example what the Lord prayed in John 17. Praying for one's need is okay, but it should be prayed in a divine way. 
+
+The reason why we have little experience of this is we haven't paid specific attention to our contact with Him, and through our fellowship with Him fail to bring him into our present frame with us and to hold him there. It it through such a fellowship that we are brought into his being and we can pray in Him and he can pray in us; two are praying together. The simplest way do do this is to call.
 
 ## Significance
 
@@ -36,31 +43,21 @@ To pray is to realize that the self is nothing and can do nothing; prayer is the
 
 ## Biblical Examples
 
+### Hannah
+
+For years Hannah prayed to have a son, but it was not until she touched the Lord's burden that she became pregnant (1 Sam. 1:11).  
+
 ### Samuel
+
+### David
+
+David many times inquired of God for what to do (1 Sam. 23:2, 4). 
 
 ### Daniel
 
+Daniel had particular times throughout the day to pray.
+
 ### Jesus
-
-## Genuine Prayer
-
-Prayer may start in our self, but with the proper yearning and turning, we contact Him which brings us into a bilaterally active touch with Him where we enter into Him as the Spirit in our spirit. This is genuine prayer. As a result, this prayer is also truly what is on God's heart, and all of our prayers will be answered (John 15:7).
-
-Optimally, we should only offer genuine prayers to God. 
-
-### God's Will
-
-First, one must recognize that God has a will. If God reveals His will to someone, they should pray this will back to Him and He has a way to move through that. God's ways and thoughts are higher than man's (Isa. 55:8-9).
-
-### Not of the soul
-
-Prayer is not something which we do out of our mind, or even something that is performed solely through our human spirit. Furthermore, it is not that there are merely two parties involved - us and God. But God wants to be praying with us and in us. 
-
-Through our prayer God passes through our being, and we pass through His being. Our words pass though Him and His words pass through Us and two pray together one prayer. Often the first word of our prayer is of the mind, but by the end, it is altogether of the spirit.
-
-Prayers should be divine facts, for example what the Lord prayed in John 17. Praying for one's need is okay, but it should be prayed in a divine way. 
-
-The reason why we have little experience of this is we haven't paid specific attention to our contact with Him, and through our fellowship with Him fail to bring him into our present frame with us and to hold him there. It it through such a fellowship that we are brought into his being and we can pray in Him and he can pray in us; two are praying together. The simplest way do do this is to call.
 
 ## Principle of Prayer
 
