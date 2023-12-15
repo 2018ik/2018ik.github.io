@@ -131,7 +131,7 @@ The Spirit of reality worked through the apostles to reveal to them truths neces
 
 ### Spirit of Life
 
-The Spirit of Life in Romans 8:2 shows that Spirit contains the element of the divine life. If we have the Spirit, we have life.
+The Spirit of Life in Romans 8:2 shows that Spirit contains the element of the divine life. In Revelation 22:1 there is a river of water of life, which river is the Spirit. God in Christ as the Spirit flows into believers to be their life. This Spirit even gives life to the mortal body (Rom. 8:11). Many times the body is worn out and weakened, and it is difficult to attend the meetings. However, if the spirit is exercised to pray and contact the Lord, the divine life dispensed into the weakened body can revitalize it and provide strength to go to the meetings.
 
 ### Life-giving Spirit
 

@@ -11,7 +11,7 @@ permalink: /transformation/
 
 ## Background
 
-**Transformation** is the inward metabolic process through which God works to spread His divine life and nature into every part of a human being - spirit, soul and body (particularly the soul). Transformation is the issue of renewing, and is for the building up of the Body of Christ.
+**Transformation** is the inward metabolic process through which God works to spread His divine life and nature into every part of a human being - spirit, soul and body (particularly the soul). In the metabolic process, a new element is brought in to replace the old element which is discharged. Transformation is the issue of renewing, and is for the building up of the Body of Christ.
 
 Transformation is not a perceptible outward change in behavior, but an inward change in essence. Someone who is sickly can change their outward appearance with makeup, but actually by eating healthy food, gradually over time there will be the outward expression. As someone is transformed, there is the gradual change in the way they dress and act *as a spontaneous result* of their inward change in disposition.
 
@@ -23,8 +23,8 @@ The building up of the church requires the proper material, that is gold, silver
 
 ## Biblical Basis
 
-Romans 12:2
-2 Cor. 3:18
+In Romans 12:2, transformation is through the renewing of the mind. 
+In 2 Corinthians 3:18, believers are transformed into the image of the Son of God. This is the transformation of the soul, the inner being. Philippians 3:21 refers to the transformation or transfiguration of the body. 
 
 ## Steps
 

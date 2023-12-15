@@ -8,7 +8,9 @@ permalink: /healthy_teaching/
 
 ## Background
 
-Paul charges Timothy to teach the healthy teaching (1 Tim. 6:3). These are teachings which are according to the apostles' teaching, and are healthy because they impart the Triune God into man. This implies growth, and also causes us to love the Lord more. Different teachings are unhealthy, and afford men no life supply and lead some to become shipwrecked regarding the faith (1 Tim. 1:19)
+Paul charges Timothy to teach the healthy teaching (1 Tim. 6:3). These are teachings which are according to the apostles' teaching, and are healthy because they impart the Triune God as life into man. This implies growth, and also causes us to love the Lord more. Different teachings and teachings which are dead letter are unhealthy, and afford men no life supply and lead some to become shipwrecked regarding the faith (1 Tim. 1:19). Many Christians today have received many teachings, yet are still poor because they have not received the healthy teaching.
+
+
 
 ## History
 
