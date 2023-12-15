@@ -9,8 +9,9 @@ permalink: /quotes/
 - [Young People](#young-people)
 - [Migration](#migration)
 - [Decisions](#decisions)
-- [The Body](#the-body)
+- [The Body of Christ](#the-body-of-christ)
 - [Conduct](#conduct)
+- [Miscellaneous](#miscellaneous)
 
 # Marriage
 
@@ -40,7 +41,7 @@ permalink: /quotes/
 
 >We should ask two questions. Is this the Spirit? Is this for the Body?
 
-# The Body
+# The Body of Christ
 
 >If we truly see our position in the Body, it will be as though we were saved a second time.
 
@@ -51,3 +52,7 @@ permalink: /quotes/
 >Sometimes brothers are like locusts [in the home meetings], you hear buzzing and then all the food disappears.
 
 >Don't correct, don't impose, don't suggest, just live Christ!
+
+# Miscellaneous
+
+"For the Lord to forgive us, and to cleanse us of our sins is not difficult. But for Him to break through the self to dispense Himself into that part of our heart is the greatest mountain."
