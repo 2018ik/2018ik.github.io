@@ -16,6 +16,8 @@ permalink: /love/
   - [Occupation](#occupation)
   - [Response](#response)
   - [Not Jealous](#not-jealous)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -71,3 +73,9 @@ When we Love Hod, we are occupied by Him as He enters into our being.
 ### Not Jealous
 
 When we love the brothers and sisters, their joy is our joy; we are not jealous of each other.
+
+## Testimonies
+
+### Testimony #1
+
+> One time in the Church in Anaheim we had the Lord's table and after the Lord's table saints can share whatever they like. So one of the brothers stood up, and said "Sitting beside me, this young brother is actually my son who I didn't know existed until a few days ago." And so he said he [the son] named himself Melchizedek since he doesn't know where his father comes from. And as he was sharing this the whole congregation was so quiet. Nobody knew what to say because he said this is his illegitimate son who he didn't know existed. And then he went and described how it happened. I was wondering if I should stop him or not. But after he finished his story, you know what brother Lee did? Brother Lee said welcome Melchizedek! The whole congregation was enlivened because brother Lee said he may have committed something wrong but we still need to love him as the father loved. Don't you think this is something? 
