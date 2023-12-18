@@ -13,7 +13,7 @@ permalink: /quotes/
 - [Conduct](#conduct)
 - [Miscellaneous](#miscellaneous)
 
-# Marriage
+## Marriage
 
 >Every brother wants to marry Miss America, but it's better to marry Betty Crocker. In the end, gravity will be the equalizer.
 
@@ -21,23 +21,23 @@ permalink: /quotes/
 
 >Pray for a brother/sister who loves the Lord more than you
 
-# Career
+## Career
 
 >I see many young adults who have a one foot church life: one foot in the church and one foot in the world (especially their career)
 
-# Fellowship
+## Fellowship
 
-# Young People
+## Young People
 
 >Arrange your schedule in this way: 7.5 hours for sleep, 1.5 hours for eating, 1 hour for exercise, 8 hours for study and 6 hours for spiritual things. If you expend your energy in this way, by the time you are thirty you will be able to begin your ministry like the Lord Jesus did.
 
-# Migration
+## Migration
 
 >Ask the Lord wherever you go to give you a saving companion.
 
 >Don't go, be sent.
 
-# Decisions
+## Decisions
 
 >We should ask two questions. Is this the Spirit? Is this for the Body?
 
@@ -47,7 +47,7 @@ permalink: /quotes/
 
 >What I do not know, another member of the Body will know; what I cannot see, another member of the Body will see; what I cannot do, another member of the Body will do.
 
-# Conduct
+## Conduct
 
 >Sometimes brothers are like locusts [in the home meetings], you hear buzzing and then all the food disappears.
 

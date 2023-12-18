@@ -10,6 +10,8 @@ permalink: /john_book/
 
 ## Background
 
+The Gospel of **John** is a gospel of the divine life. John reveals a wonderful picture of how God became a man in order to dispense Himself as life into man. This is according to His desire to be one with man. John wrote this gospel after he saw all the visions in His epistles and Revelation, which is why this gospel has a much more profound perspective of the life of Jesus than the other gospels.
+
 ## Summary
 
 ## Topics

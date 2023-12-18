@@ -14,7 +14,7 @@ permalink: /opinions/
 
 ## Background
 
-In the church life opinions are much more than oldness. Oldness is terrible, but opinions are much more prevalent among humans. All humans are a constitution of opinions. The best way to show you are not opinionated is to follow the brothers. Even if our opinion is right, we should not speak it, as the church life is not in the business of right and wrong.
+**Opinions** are thoughts regarding things which originate from the self. Opinions are closely related to oldness, as they are typically formed over years and eventually become engrained into one's mind and living. All humans are a constitution of opinions. The only way for opinions to be crossed out is to take the cross of Christ that the opinions may be killed. This doesn't mean holding back one's opinions and still having them inwardly, but to literally destroy the opinions. The best way to show you are not opinionated is to follow the brothers. Even if our opinion is right, we should not speak it, as the church life is not in the business of right and wrong.
 
 ## Early Church
 
