@@ -14,6 +14,7 @@ permalink: /gospel/
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
+  - [Testimony #3](#testimony-3)
 
 ## Background
 
@@ -100,3 +101,9 @@ The Lord cannot move unless we cooperate with Him. Prayer was involved, fasting 
 >Then he walked in from the other room, and we began to testify to him. Eventually, we talked, and I noticed that there was a TV on, and there was a football game. And anytime there was any conviction at all, he looked at that thing, and everything was lost. At one point when Doc was sharing, I saw his eyes go to the TV, and I bowed my head and said, "Lord, what are you gonna do about that TV?" And right then, the TV just got lines on it and made a huge noise, and the wife from the other end of the house came in and turned it off.
 >
 >Within not too long a period of time after that, he prayed with us and received the Lord. We tasted the distributing, and Doc was so happy driving his '55 Chevy back, because we touched the joy of the Lord: Christ coming into us through us and out of us.
+
+### Testimony #3
+
+>One day in college, I woke up and decided to join a fraternity. I still don't know why I did that, but I was pretty popular in the fraternity. So I became the vice president, and I would become the president next term. I was all prepared to be the top dog in that fraternity. But something bothered me, so one day I talked to the president. I said, "Do you want to go to my house to swim and have some barbecue?" He said, "Of course, I will." So I brought him and a few other classmates, and we went to my house and swam and had a meal. After that meal, I said, "Oh, I need to go to a gospel meeting. Do you want to come with me?" Out of all the presidents, he said yes. I was very surprised; I thought the other classmates would, but none of the other classmates wanted to come except the president. Okay, so I said, "Alright, let's go," and in that gospel meeting, he got saved in a very dynamic way.
+
+>So that's over. After he got saved before the term ends, I resigned from the fraternity. I think my job was done; I got the president saved. So I left, and they were all surprised. Some years later, this brother, this president who was saved, would love the ministry. He would read Brother Nee and Lee so much, so dynamic. But a few years later, one time when I was visiting him, I asked him, "Why did you believe in the Lord? Because I was so surprised you believed in the Lord and came to the gospel meeting, and that you would be so dynamically saved." He said, "We have been observing you for a long time, and you are so mysterious. We just don't understand you. We know that you, in our eyes, are a killjoy. When they want to do something that is not so appropriate, they make sure not to invite you because you'll make sure they don't do it, so you kill their joy. That's why I was so surprised when you asked me to go to that gospel meeting. I felt there must be something that allowed you to live in such a way." It was years later that I noticed, but I was so surprised that actually the Lord lived out through me. I still don't know what it was, but he was saved. Praise the Lord.

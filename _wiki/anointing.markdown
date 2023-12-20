@@ -9,7 +9,7 @@ permalink: /anointing/
 
 ## Background
 
-The **anointing** refers to God as the Holy Spirit applying the very element of God Himself to the believers, beginning from the spirit. This is an inward sensation similar to when a soothing skin ointment is applied, except this ointment is the all-inclusive Spirit that teaches concerning all things (1 John 2:27). The teaching of the anointing is based on the spirit's function of intuition, which is a knowing that is beyond human understanding. In the Bible, the anointing always follows the blood (Lev. 14:14-18). Therefore, to receive the anointing, one must be regenerated and have a clean conscience. 
+The **anointing** refers to God as the indwelling compound Spirit typified by the holy anointing oil moving and working in the believers to apply the very element of God Himself, beginning from the spirit. This is an inward sensation similar to when a soothing skin ointment is applied, except this ointment is the all-inclusive Spirit that teaches concerning all things (1 John 2:27). The issue of the anointing is the teaching of the anointing which is based on the spirit's function of intuition, a knowing that is beyond human understanding. In the Bible, the anointing always follows the blood (Lev. 14:14-18). Therefore, to receive the anointing, one must be regenerated and have a clean conscience. 
 
 ## Biblical Basis
 

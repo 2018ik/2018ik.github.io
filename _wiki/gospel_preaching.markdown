@@ -1,8 +1,9 @@
----
+--
 layout: pagev2
 title: Gospel Preaching
 permalink: /gospel_preaching/
 ---
+- [permalink: /gospel\_preaching/](#permalink-gospel_preaching)
 - [Background](#background)
 - [Significance](#significance)
 - [Practice](#practice)
@@ -30,3 +31,4 @@ Listen to what they have to say, especially their struggles, anger and disappoin
 ### Dedicated Time
 
 Most people work 8 hours a day, and have weekends off. This provides plenty of time to go out in gospel teams to practice preaching the gospel.
+
