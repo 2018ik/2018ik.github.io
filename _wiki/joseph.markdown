@@ -12,13 +12,14 @@ permalink: /joseph/
   - [Ruler over Egypt](#ruler-over-egypt)
 
 ## Background
+ 
+**Joseph** was the last of the four patriarchs following Abraham, Isaac and Jacob. 
 
 ## Significance
 
 Joseph is a type of Christ. As a fruitful bough (Gen. 49:22) he typifies Christ as the  branch (Isa. 11:1-2) for the branching out of God through His believers as His branches (John 15:1-5). His receiving glory and gifts in enthronement parallels Christ's receiving of flory (Heb. 2:9) and gifts (Psa. 68:18; Acts 2:33) in His ascension. Joseph was one who resurrected from the prison of death and ushered into the position of ascension, where he married Asenath, an Egyptian, who portrays the church taken out of the Gentle world during Chris's rejection by the children of Israel.
 
-
-Joseph represents the reigning aspect of the mature Israel (Jacob). 
+Joseph represents the reigning aspect of the mature Israel. Joseph was portrayed in a perfect way, to show that the regenerated believer is perfect when they are reigning in life.
 
 ## History
 
@@ -28,11 +29,15 @@ Joseph had two dreams, which shows that in God's perspective, His people are she
 
 In the first dream, the sheaf which was Joseph stood while the others representing his brothers bowed down (Gen. 37:7). In the second dream, the sun and moon and eleven stars were once again bowing to Joseph (Gen. 37:9). The sheaves full of life and stars full of light represents the believers, the church, bowing down to Christ.
 
+Although in God's eyes, Joseph's brothers were perfect, he still told on them. This could be the only imperfection in the record of Joseph. 
+
 When Joseph told these dreams to his family, the brothers were angry and vented their anger, while Jacob kept his thoughts to himself. These dreams reveal God's divine view concerning the nature, position, function and goal of God's people on earth, and controlled Joseph's life and directed his behavior. His life under this heavenly vision was a life of the kingdom of the heavens described in Matthew 5 through 7. 
 
 ### Sold to Egypt
 
-Joseph's brothers sold him to the Ishmaelites, who brought him to Egypt to Potiphar the captain of the guard of Pharaoh. As Jehovah was with Joseph, he was made overseer of the house and the house prospered. Eventually Potiphar's wife falsely accused Joseph of assault which led to him being thrown into prison. Significantly, Joseph did not argue against this condition i.e. attempt to hire any lawyers or justify himself. He simply continued to reign in life, and was put in charge of the entire prison. 
+Joseph's brothers then betrayed him and sold him to the Ishmaelites, who brought him to Egypt to Potiphar the captain of the guard of Pharaoh. This betrayal signifies that God's vision will be rejected by others, as further seen in the persecution of Christians in the New Testament.
+
+As Jehovah was with Joseph, he was made overseer of the house and the house prospered. Eventually Potiphar's wife falsely accused Joseph of assault which led to him being thrown into prison. Significantly, Joseph did not argue against this condition i.e. attempt to hire any lawyers or justify himself. He simply continued to reign in life, and was put in charge of the entire prison. 
  
 ### Interpreting Dreams
 
