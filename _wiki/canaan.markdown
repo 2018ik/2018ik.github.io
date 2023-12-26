@@ -22,5 +22,5 @@ Canaan typifies the all-inclusive Christ with His unsearchable riches as well as
 
 Upon reaching the good land, the inhabitants of the land were demon possessed people, idol worshipers and Nephilim (Num. 13:33). According to the divine thought, these people had to be exterminated because they ere mingled with demons. 
 
-12 spies were sent in to survey the land. Ten of them brought back an evil report, stating the land was inhabited by Nephilim whom they could not overcome. This caused all of the Israelites to become afraid of entering the goodnd, except two. This is Satan's strategy to keep the people of God from taking possession of and enjoying Christ as the good land. However, Joshua and Caleb thought otherwise and declared that the enemy was just food.
+Ten of the twelve spies sent by Moses brought an evil report which caused the Israelites to revel against the Lord’s command. This is Satan's strategy to keep the people of God from taking possession of and enjoying Christ as the good land. However Caleb and Joshua disagreed, saying “you should not feat the people of the land for they are our bread.”  The anakim (num 14:9) represent the seemingly impossible situations in the pursuit of Christ.
 
