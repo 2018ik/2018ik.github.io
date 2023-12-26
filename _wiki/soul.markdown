@@ -46,4 +46,4 @@ The soul can choose (Job 7:15), refuse (Job 6:7), and seek after things (1 Chron
 
 One must deal with the soul in order to manifest its true function (to express God). Without this dealing, the soul expresses the self. In fact, despite having a spirit, man can live by means of only the soul, as seen in Genesis 2:7 where Adam was a living soul. 
 
-The dealing of the soul begins with the [dealing of the heart](../dealing_with_heart.markdown), and is initiated by the spreading of the spirit into the soul. This entire process can be referred to as dispositional sanctification, 
+The dealing of the soul begins with the [dealing of the heart](../dealing_with_heart), and is initiated by the spreading of the spirit into the soul. This entire process can be referred to as dispositional sanctification, 

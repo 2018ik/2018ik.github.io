@@ -18,9 +18,7 @@ In the New Testament, faith replaces the law as God's principle in dealing with 
 
 For example, if we go into a jewelry store, the salesman can only sell something to you if he makes you appreciate its beauty. The salesman is able to infuse into you some level of appreciation of the jewelry by talking about its beauty, its preciousness. This is to have faith in the jewelry. Having faith spontaneously results in a sense of appreciation.
 
-On one hand there is an objective faith, and that is the believing onto judicial salvation. Believing in is to believe that God is real, that Jesus was raised from the dead, and that He is Lord. 
-
-On the other hand, there is a subjective faith, which is a faith that progresses (Phil. 1:25). 
+On one hand there is an objective faith, and that is the believing onto judicial salvation. Believing in is to believe that God is real, that Jesus was raised from the dead, and that He is Lord. On the other hand, there is a subjective faith, which is a faith that progresses (Phil. 1:25). 
 
 ## Application
 
