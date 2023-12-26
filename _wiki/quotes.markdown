@@ -5,7 +5,7 @@ permalink: /quotes/
 ---
 - [The Body of Christ](#the-body-of-christ)
   - [Conduct](#conduct)
-- [Miscellaneous](#miscellaneous)
+  - [Miscellaneous](#miscellaneous)
 
 ## Marriage
 
@@ -47,6 +47,8 @@ permalink: /quotes/
 
 >Don't correct, don't impose, don't suggest, just live Christ!
 
-# Miscellaneous
+## Miscellaneous
 
->For the Lord to forgive us, and to cleanse us of our sins is not difficult. But for Him to break through the self to dispense Himself into that part of our heart is the greatest mountain.
+> For the Lord to forgive us, and to cleanse us of our sins is not difficult. But for Him to break through the self to dispense Himself into that part of our heart is the greatest mountain.
+
+> There's a big oven in the Lord's recovery and there's room in the oven for all of us.

@@ -8,6 +8,8 @@ permalink: /body_of_christ/
 - [Reality Today](#reality-today)
   - [Characteristics](#characteristics)
   - [Christ](#christ)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -37,3 +39,9 @@ S.S. 1:6-8 -> S.S. 7:12
 ### Christ
 
 God only cares for Christ, and we must be in Christ to be in the reality of the Body of Christ. This involves denying our self, picking up the cross, and following Him.
+
+## Testimonies
+
+### Testimony #1
+
+> In about 1993 or so, Brother Lee was giving a conference on blending for the building up of the church. And he testified he was with the Lord considering the situation of all the churches and he was so encouraged just hundreds and hundreds of churches all over the earth. Then the Lord showed him - "I just considered the whole situation and I found no reality of the Body Christ." That was thirty years ago, and he brought that forth. We should not be content with the local church. There can be hundreds, thousands of local churches, but the Body must be built. When the Body is organically built, then the new man is grown unto maturity. And when the new man is developing surely then the Lord has the bride making herself ready. 

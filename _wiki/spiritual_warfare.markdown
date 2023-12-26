@@ -4,6 +4,7 @@ title: Spiritual Warfare
 permalink: /spiritual_warfare/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [God's Kingdom](#gods-kingdom)
   - [The Church](#the-church)
 - [Satan's Kingdom](#satans-kingdom)
@@ -12,6 +13,10 @@ permalink: /spiritual_warfare/
   - [Testimony #1](#testimony-1)
 
 ## Background
+
+**Spiritual warfare** is the warfare between the kingdom of Satan and the kingdom of God, and is the spiritual struggle that is taking place behind the scenes. The most powerful weapon in spiritual warfare is praise which stands on the victory of Christ. 
+
+## Biblical Basis
 
 In Ephesians 6:12 we see our war is not against flesh and blood, but against the spiritual forces of evil in the heavenlies. In Matthew 12:26, we see that Satan has a kingdom. Likewise, God also has a kingdom (Rom 14:17). The war between these two forces is currently going on in our daily lives. 
 
