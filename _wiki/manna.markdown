@@ -5,11 +5,10 @@ permalink: /manna/
 ---
 - [Background](#background)
 - [Significance](#significance)
-- [](#)
 
 ## Background
 
-Manna was given to the children of Israel as bread out of heaven after their exodus from Egypt (Exo. 16:4)
+Manna was given to the children of Israel as bread out of heaven after their exodus from Egypt (Exo. 16:4). This is a precursor to the all-inclusive Christ as the good land.
 
 ## Significance
 

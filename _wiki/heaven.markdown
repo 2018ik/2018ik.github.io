@@ -4,10 +4,7 @@ title: Heaven
 permalink: /heaven/
 ---
 - [Background](#background)
-- [Common Interpretation](#common-interpretation)
 
 ## Background
 
-## Common Interpretation
-
-The gospel does not speak of a place, but a person.
+Heaven has multiple layers. Christ is the highest layer, the third heaven. The lower layer which is the air has Satan as the ruler who frustrates the people on earth from contacting God.
