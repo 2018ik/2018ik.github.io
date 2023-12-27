@@ -4,7 +4,6 @@ title: Veil
 permalink: /veil/
 ---
 - [Background](#background)
-- [Significance](#significance)
 - [Types](#types)
   - [Natural Concepts](#natural-concepts)
   - [Human Philosophies](#human-philosophies)
@@ -18,11 +17,7 @@ permalink: /veil/
 
 ## Background
 
-The majority of Christians today have a veiled understanding of the Bible. These veils can be removed by having a heart turned to the Lord (2 Cor. 3:16). This implies that veils are actually just a turned away, darkened heart. When a person has a heart turned to the Lord, this is a single heart, a pure heart, and a simplified heart.
-
-## Significance
-
-One must learn to drop all veils in order to see the instrinsic significance of the Bible.
+The majority of Christians today have a veiled understanding of the Bible. These veils can be removed by having a heart turned to the Lord (2 Cor. 3:16). This implies that veils are actually just a turned away, darkened heart. When a person has a heart turned to the Lord, this is a single heart, a pure heart, and a simplified heart. One must learn to drop all veils in order to see the intrinsic significance of the Bible.
 
 ## Types
 

@@ -1,6 +1,6 @@
 ---
 layout: pagev2
-title: All Inclusive Christ
+title: All-Inclusive Christ
 permalink: /all_inclusive_christ/
 ---
 - [Background](#background)
@@ -37,6 +37,7 @@ The **all-inclusive Christ** refers to the fact that Christ should be everything
 | Olive Tree | Olive oil typifies the Holy Spirit, and the olive tree therefore typifies Christ as one who is full of the Holy Spirit (Gal. 5:16, 25; 2 Cor. 3:6, 8; Judg. 9:9). |
 | One Sitting at the Right Hand of God | Col. 3:1 |
 | Pomegranates | The fullness, abundance, beauty and expression of the riches of Christ as life (Exo. 28:33-34; 1 Kings 7:18-20; S.S. 4:3b, 13) |
+| Produce of Canaan | All of the produce of Canaan typify the riches of Christ. Unlike manna, this produce requires laboring on the land, which is a step further in organic salvation. |
 | Reality of every positive thing in the universe | (Col. 2:16-17) |
 | Springs | The flowing Spirit of Christ |
 | Stones | Christ as the building material for God's dwelling place (Isa. 28:16; Zech. 4:7; 1 Pet. 2:4) |

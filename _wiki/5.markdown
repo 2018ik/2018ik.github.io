@@ -1,0 +1,15 @@
+---
+layout: pagev2
+title: 5 (Number)
+permalink: /5/
+---
+- [Background](#background)
+- [Examples](#examples)
+
+## Background
+
+The number **five** in the Bible signifies responsibility.
+
+## Examples
+
+1. Five barley loaves (John 6:48)
