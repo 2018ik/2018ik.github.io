@@ -25,7 +25,9 @@ permalink: /prayer/
 
 ## Background
 
-**Prayer** is to contact God in the spirit to absorb God, which is to have fellowship with God. Prayer should be the believers' response to God's flowing in, and their flowing back to God. Prayer should be a living, unceasingly talking to God throughout the day (Eph. 6:18), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16).
+**Prayer** is to contact God in the spirit to absorb God, which is to have fellowship with God. Prayer is the believers' response to God's flowing in, and their flowing back to God. To pray is to come to the Lord regardless of one's spiritual or physical condition. Even if someone is weak, confused, sad and speechless, they still must come to God and bring it to God. Entering into God's presence to contact Him by looking to Him, beholding Him, praising Him, giving thanks to Hi,, worshipping Him and absorbing Him will allow one to enjoy God's riches.
+
+Prayer should also be a living, unceasingly talking to God throughout the day (Eph. 6:18), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16).
 
 Prayer may start in the self, but with the proper yearning and turning, one can contact God which brings them into a bilaterally active touch with Him where they enter into Him as the Spirit in their spirit. As a result, this prayer is also truly what is on God's heart, and all such prayers will be answered (John 15:7).
 

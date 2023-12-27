@@ -19,7 +19,7 @@ In a believer's spiritual experience, they may find themselves to be lacking the
 
 ## Biblical Basis
 
-In Numbers 21:16-18, Jehovah instructed the children of Israel to dig a well and sing to it. This well typifies Christ who indwells us, which springs up with water unto eternal life (John 4:14). 
+In Numbers 21:16-18, Jehovah instructed the children of Israel to dig a well and sing to it. This well typifies Christ who indwells us, which springs up with water unto eternal life (John 4:14).
 
 
 
