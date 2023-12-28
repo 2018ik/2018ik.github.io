@@ -10,6 +10,9 @@ permalink: /hebrews_book/
 
 ## Background
 
+Hebrews was written because many were saved but they were wandering in their soul and would not press on from the wilderness to the good land, which is the Christ indwelling their Spirit. All regenerated believers must press on from their soul to their spirit which is true rest.
+
+The Hebrew believers require the word of God to operate in their being to divide their soul from their spirit to deliver them from their wander soul into Christ as te Sabbat rest in their spirit.
 ## Summary
 
 ## Topics

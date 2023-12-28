@@ -13,13 +13,13 @@ permalink: /soul/
 
 ## Background
 
-The soul refers to one's mind, emotion and will. Through the soul, one can interact with the psychological realm. 
+The soul refers to one's mind, emotion and will. Through the soul, one can interact with the psychological realm. However, many regenerated believers remain in their soul as soulish Christians and fail to touch their innermost part: the spirit. This is the denying of the soul-life which is repeatedly emphasized by the Lord Jesus.
 
 ![diagram of soul](../img/WL64-03-20EconomyGod06_2_chart.png)
 
 ## Significance
 
-The divine attributes of God are manifest through the soul. God cannot be expressed with just the spirit. Through the soul we can reflect the Lord (2 Cor. 3:18).
+The divine attributes of God are manifest through the soul. God cannot be expressed with just the spirit. Through the soul one can reflect the Lord (2 Cor. 3:18).
 
 ## Biblical Basis
 

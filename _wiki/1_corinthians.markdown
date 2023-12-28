@@ -25,6 +25,8 @@ However for all the problems, especially divisiveness, the only solution is the 
 
 ## Summary
 
+The goal of 1 Corinthians was to motivate the Corinthian believers to aspire to the growth in life that they might become spiritual men.
+
 ## Topics
 
 ## Christ

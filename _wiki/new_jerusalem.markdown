@@ -5,9 +5,7 @@ permalink: /new_jerusalem/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
-- [History](#history)
-  - [Description](#description)
-- [Glorification](#glorification)
+- [Description](#description)
 - [Central Line](#central-line)
 - [Application](#application)
 
@@ -23,6 +21,8 @@ It is often believed that we will go to heaven, and there will be some kind of m
 
 Our living out of the New Jerusalem is for us to become the New Jerusalem, and our working out the New Jerusalem is for us to build the New Jerusalem by the flowing Triune God.
 
+The New Jerusalem is for the glorification of the Triune God as the oneness of the believers built into the Triune God (John 17). John 17 reveals the divine incorporation of God and man, and that the firstborn Son and the Sons of God might be glorified. John likely wrote his gospel after he had seen the vision. The fulfillment of this prayer is consummated in the New Jerusalem.
+
 ## Biblical Basis
 
 The clearest picture of the New Jerusalem in the Pentateuch is found in Numbers: there was a tabernacle in the center of the encampment, and the children of Israel were divided into four groups of three and positioned around the tabernacle. These three tribes on each side is parallel to the twelve gates of the New Jerusalem with three gates on four sides.
@@ -35,21 +35,15 @@ In Revelation 1:1 we see that Christ made His revelation known by signs. As the 
 
 This is not a physical and lifeless city made of literal, physical stones - we are **becoming** the New Jerusalem, the bride of Christ, through which we will be joined to God in oneness
 
-## History
-
 Genesis 1-2 is the organic blueprint, the architectural plan of the Triune God, and Revelation 21-22 reveals the finished product, the organic masterpiece of the Triune God.
 
-### Description
+## Description
 
 The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. 
 
 The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration.  
 
 The river of water of life proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
-
-## Glorification
-
-The New Jerusalem is for the glorification of the Triune God as the oneness of the believers built into the Triune God (John 17). John 17 reveals the divine incorporation of God and man, and that the firstborn Son and the Sons of God might be glorified. John likely wrote his gospel after he had seen the vision. The fulfillment of this prayer is consummated in the New Jerusalem.
 
 ## Central Line
 

@@ -22,11 +22,9 @@ permalink: /spirit_man/
 
 ## Background
 
-The spirit is the innermost part of the man, and consists of the functions of the conscience, intuition and fellowship. In a more general sense, the spirit is the only way through which man can contact and receive God.
+The spirit is the innermost part of the man, and consists of the functions of the conscience, intuition and fellowship. In a more general sense, the spirit is the only way through which man can contact and receive God. The regenerated human spirit is the key to everything in the Christian life, as that is where God is (Rom. 8:16). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven toe earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
 
-The basic understanding that man has a human spirit is required for understanding the New Testament. The same word "spirit" is used to describe both the human and divine spirits, where it is up to the translator whether to use the capital Spirit or lowercase spirit respectively.
-
-Our regenerated human spirit is the key to everything in the Christian life, as that is where God is.
+The basic understanding that man has a human spirit is required for interpreting the New Testament. The same word "spirit" is used to describe both the human and divine spirits, where it is up to the translator whether to use the capital Spirit or lowercase spirit respectively.
 
 ![Diagram of spirit](../img/WL64-03-20EconomyGod06_3_chart.png)
 
