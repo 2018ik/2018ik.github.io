@@ -11,7 +11,7 @@ permalink: /song_of_songs_book/
 
 ## Background
 
-**Song of Songs** is a poem of the progressive experience of an individual believer's loving fellowship with Christ. 
+**Song of Songs** is a poem of the progressive experience of an individual believer's loving fellowship with Christ. The Lord wants a bride that matches Him.
 
 ## Summary
 
