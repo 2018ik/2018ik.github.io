@@ -7,7 +7,6 @@ permalink: /the_lords_recovery/
 - [Recovered Items](#recovered-items)
   - [Functioning of Each Member](#functioning-of-each-member)
   - [The life-giving Spirit](#the-life-giving-spirit)
-  - [Prophesying](#prophesying)
 
 ## Background
 
@@ -32,4 +31,4 @@ The greatest recovery by the Lord today is the entire Body serving as priests. A
 
 \- 1 Cor 15:45b
 
-### Prophesying
+Christ becoming the Spirit is no doubt one of the most significant, if not the most significant, truth which was recovered in the 20th century. Without experiencing Christ as the life-giving Spirit, everything of Christ's person remains objective doctrine.

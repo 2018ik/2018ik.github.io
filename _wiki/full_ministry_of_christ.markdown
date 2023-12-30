@@ -14,7 +14,7 @@ permalink: /full_ministry_of_christ/
 
 ## Background
 
-The **full ministry of Christ** is His ministry which spans from His incarnation to the New Jerusalem. This can be divided in various ways (TODO: how?).
+The **full ministry of Christ** is His ministry which spans from His incarnation to the New Jerusalem. This can be divided in various ways (TODO: how?), however the significance is that the eternal God entered into time to carry out His economical operation.
 
 ## In Three Stages
 
