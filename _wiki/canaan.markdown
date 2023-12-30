@@ -16,7 +16,7 @@ permalink: /canaan/
 
 ## Background
 
-**Canaan** (also known as the good land or promised land) is the land promised by God to the children of Israel, beginning with a promise to Abraham. 
+**Canaan** (also known as the good land or promised land) is the land promised by God to the children of Israel, beginning with a promise to Abraham. This is a land full of life and diversity in its topography, each typifying an aspect of the all-inclusive Christ. Although Abraham was promised this land in the Old Testament, the New Testament experience of this land hinges on the Spirit, as revealed by Paul in Galatians 3: the blessing of Abraham to the gentiles is actually the promise that all can receive the Spirit by faith. This Spirit is the consummated, all-inclusive, compound, life-giving Spirit which the Lord Jesus became through death and resurrection (1 Cor. 15:45). 
 
 There is always a battle for the good land; all the battles in the Old Testament were concerned with the good land (Josh. 1:2-6; 5:11-6:27).
 
@@ -44,6 +44,8 @@ It's one thing to know about the significance of Christ as the good land. It's o
 
 1. Wheat
 2. Barley
+3. Vines
+4. Pomegranates
 
 ### Geography
 

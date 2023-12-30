@@ -1,0 +1,13 @@
+---
+layout: pagev2
+title: 12 (Number)
+permalink: /12/
+---
+- [Background](#background)
+- [Significance](#significance)
+
+## Background
+
+The number 12 signifies fullness.
+
+## Significance

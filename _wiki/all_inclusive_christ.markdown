@@ -25,6 +25,7 @@ The **all-inclusive Christ** refers to the fact that Christ should be everything
 | Fullness of the Godhead | Col. 2:9-10 |
 | Good Land | Deut. 8:7 |
 | Head of the Body, the church | Col. 1:18 in both the old creation and new creation, Christ is the first and occupies the first place. |
+| High Priest | Heb. 4:15 |
 | Honey |  Honey (paired with milk when referring to the good land) signifies the good and sweet riches of Christ. |
 | Hope of Glory | (Col. 1:27) When Christ comes, the believers will be glorified in Him. This indicates that the indwelling Christ will saturate our entire being. |
 | Image of the Invisible God | (Col. 1:15-23) |
