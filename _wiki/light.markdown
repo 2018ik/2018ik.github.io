@@ -16,11 +16,16 @@ permalink: /light/
 
 ## Background
 
-**Light** is that which makes manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself. This light gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. 
+**Light** is that which makes manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself (1 John 1:5). This light gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. 
+
+
+The first thing which God did after the rebellion of Satan in Genesis 1:2 is to restore the light. 
 
 ## Biblical Definition
 
-Ephesians 5 is the only place in the Bible which is "everything that makes manifest" (Eph 5:13). The word revelation in Greek is apokalupsis. Apo is to open, and kalupsis is a veil. Therefore, revelation simply means the removal of a veil. Light is related to revelation. To be enlightened means to receive a revelation. Once light comes, revelation comes. Revelation is determined by the amount of light received. God’s revelation is what we receive through His light; it is the effect of this light in us. When light comes from God and reaches us, we have revelation. The end result of light is revelation. 
+Clearly God is light (1 John 1:5). Likewise the word of God which is also God Himself in reality is likewise light (Psa. 119:105). Christ is also light (John 8:12; 9:5). The life of Christ is the light of men (John 1:4). The believers become light (Matt. 5:14; Phil. 2:15). The church is a lampstand which shines with light (Rev. 1:20).
+
+Ephesians 5 is the only place in the Bible which strictly defines light as "everything that makes manifest" (Eph 5:13). Light is related to revelation. To be enlightened means to receive a revelation. Once light comes, revelation comes. Revelation is determined by the amount of light received. God’s revelation is what we receive through His light; it is the effect of this light in us. When light comes from God and reaches us, we have revelation. The end result of light is revelation. 
 
 ## Contrast to Darkness
 
@@ -36,14 +41,13 @@ We must agree with what is exposed by the light. By confessing, we agree with an
 
 ## Blindness
 
-The absent of light means we are blind.
+The absent of light is blindness.
 
 ### Elisha
 
 Elisha struck the Syrians with blindness. The New Testament ministry to deal with the enemy is to make them blind, open their eyes, and give them a feast.
 
 ### Saul of Tarsus
-
 
 ## Testimonies
 

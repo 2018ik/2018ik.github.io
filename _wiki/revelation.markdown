@@ -25,7 +25,7 @@ Receiving revelation requires the operation of the Holy Spirit.
 
 ## Etymology
 
-
+The word revelation in Greek is apokalupsis. Apo is to open, and kalupsis is a veil. Therefore, revelation simply means the removal of a veil. 
 
 ## Examples in the Bible
 
