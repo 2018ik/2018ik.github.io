@@ -49,6 +49,8 @@ permalink: /quotes/
 
 ## Miscellaneous
 
-> For the Lord to forgive us, and to cleanse us of our sins is not difficult. But for Him to break through the self to dispense Himself into that part of our heart is the greatest mountain.
+>For the Lord to forgive us, and to cleanse us of our sins is not difficult. But for Him to break through the self to dispense Himself into that part of our heart is the greatest mountain.
 
-> There's a big oven in the Lord's recovery and there's room in the oven for all of us.
+>There's a big oven in the Lord's recovery and there's room in the oven for all of us.
+
+>God doesn't want to do something for you, He wants to be something in you

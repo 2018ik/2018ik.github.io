@@ -8,7 +8,7 @@ permalink: /surplus/
 
 ## Background
 
-The **surplus** is a portion of the produce from the Israelite's labor which they set aside for the purpose of worshipping God (Deut. 12:5-15). Each family had to labor in order to produce a portion to feed themselves for the purpose of sustaining life. However, they also produced a surplus not to feed themselves, but to come together in order to worship God in a corporate way. 
+The **surplus** is a portion of the produce from the Israelite's labor which they set aside for the purpose of worshipping God (Deut. 12:5-15). Each family had to labor in order to produce a portion to feed themselves for the purpose of sustaining life. However, they also produced a surplus not to feed themselves, but to come together in order to worship God in a corporate way. This includes a tenth of all the produce which the people eat before their God, indicating it is for God's satisfaction (Deut. 14:22-23).
 
 ## Significance
 
