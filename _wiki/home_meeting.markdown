@@ -10,7 +10,7 @@ permalink: /home_meeting/
 
 ## Background
 
-**Home meetings** in the context of the God-ordained way are meetings which are held in new believers' homes, usually after they are baptized (though it can also more generally refer to any meeting hosted in someone's home). The emphasis here is on raising up the new ones. These meetings are not necessarily for teaching and edification, but for nourishing and cherishing the attendees. These meetings also provide a testimony for the neighbors, and provide an opportunity for witness and gospel preaching. After the new ones have met in the homes and are sufficiently mature in life, they can be brought to the small group and Lord's day meetings.
+**Home meetings** in the context of the God-ordained way are meetings which are held in new believers' homes, usually after they are baptized (though it can also more generally refer to any meeting hosted in someone's home). The emphasis here is on raising up the new ones. These meetings are not necessarily for teaching and edification, but for nourishing and cherishing the attendees. These meetings also provide a testimony for the neighbors, and provide an opportunity for witness and gospel preaching. After the new ones have met in the homes and are sufficiently mature in life, they can be brought to the small group and Lord's day meetings. While the big meetings bring people in, the small meetings keep them in and build up the Body.
 
 ## Scriptural Basis
 
