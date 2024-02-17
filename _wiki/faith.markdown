@@ -18,8 +18,19 @@ In the New Testament, faith replaces the law as God's principle in dealing with 
 
 For example, if we go into a jewelry store, the salesman can only sell something to you if he makes you appreciate its beauty. The salesman is able to infuse into you some level of appreciation of the jewelry by talking about its beauty, its preciousness. This is to have faith in the jewelry. Having faith spontaneously results in a sense of appreciation.
 
-On one hand there is an objective faith, and that is the believing onto judicial salvation. Believing in is to believe that God is real, that Jesus was raised from the dead, and that He is Lord. On the other hand, there is a subjective faith, which is a faith that progresses (Phil. 1:25). 
+There are two types of faith in the New Testament: objective and subjective. The former refers to the things which Christians believe in, and the latter refers to the action of believing.
 
+| Objective Faith | Subjective Faith |
+| --- | --- |
+| To have objective faith is to ??? | To have subjective faith is to believe in the Lord |
+| Only items related to judicial salvation, that is items related to Christ's person and work |  |
+| Objective faith i.e. the facts regarding common salvation is contended for (Jude 3) |  |
+|  |  |
+|  |  |
+|  |  |
+| Eph. 4:14; 1 Tim. 3:9; 4:1; 6:12; 2 Tim. 4:7; Jude 3; **1 Thes. 3:2,5,6,10**; |  |
+
+\*Bolded verses refer to both objective and subjective faith
 ## Application
 
 Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16), and is in the mingled spirit (1 Cor. 4:13). One should really thank God for His faithfulness, since they themselves do not have faith. 
