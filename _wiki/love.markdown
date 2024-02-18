@@ -10,18 +10,13 @@ permalink: /love/
   - [Human Love](#human-love)
   - [Divine Love](#divine-love)
 - [Practice](#practice)
-  - [Look](#look)
-  - [Calling](#calling)
 - [Issues](#issues)
-  - [Occupation](#occupation)
-  - [Response](#response)
-  - [Not Jealous](#not-jealous)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-**Loving** the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared. This is not a love originating from one's natural self, but a divine life which comes from the Spirit of love (Col. 1:8). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
+**Loving** the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared. This is not a love originating from one's natural self, but a divine life which comes from God Himself as the Spirit of love (Col. 1:8). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
 
 Between faith, hope and love, the greatest is love (1 Cor. 13:13).
 
@@ -51,28 +46,15 @@ An example of this is the Psalmist in Psalms 73:25 who desires nothing on Earth 
 
 ## Practice
 
-### Look
+One's love toward God is an active, yet passive love. There must be an active turn to God (S.S. 1:2), yet, God Himself is the originator of genuine, divine love. Following one's turn to God is the passive receiving of His love. 
 
 The best way to love the Lord is to continually look at Him. This is to love Him and to contact Him. 
 
 To look away unto Him as per Hebrews 12:2 implies a distance or rift, having been distracted by other things.
 
-### Calling
-
-
 ## Issues
 
-Loving God issues in many things.
-
-### Occupation
-
-When we Love Hod, we are occupied by Him as He enters into our being.
-
-### Response
-
-### Not Jealous
-
-When we love the brothers and sisters, their joy is our joy; we are not jealous of each other.
+Loving God issues in many things. When we Love Hod, we are occupied by Him as He enters into our being. When we love the brothers and sisters, their joy is our joy; we are not jealous of each other.
 
 ## Testimonies
 
