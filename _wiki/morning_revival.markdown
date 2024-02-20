@@ -30,12 +30,13 @@ permalink: /morning_revival/
   - [Remind One Another](#remind-one-another)
   - [Not Ritualistic](#not-ritualistic)
   - [Prepare Yourself Practically](#prepare-yourself-practically)
+  - [Enjoy the Word](#enjoy-the-word)
 - [Benefits](#benefits)
 - [Sweetness](#sweetness)
 
 ## Background
 
-**Morning revival** (or **morning watch) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.). The Lord's compassions and mercy are new every morning (Lam. 3:23).
+**Morning revival** (or **morning watch**) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.), the greatest of all which is the new day (). The Lord's compassions and mercy are new every morning (Lam. 3:23).
 
 Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
@@ -47,7 +48,7 @@ Our experience also shows us that the best time to touch the Lord is the morning
 
 \- Exodus 16:21
 
-Manna was a kind of heavenly which could only be found in the mornings. Past the morning, it will melt. This is a type of the ascended Christ which comes a daily supply for one's daily living. Every morning one should have the sensation that Christ in the heavens is raining down on them to be eaten as food.
+Manna was a kind of heavenly food which could only be found in the mornings. Past the morning, it will melt. This is a type of the ascended Christ which comes a daily supply for one's daily living. Every morning one should have the sensation that Christ in the heavens is raining down on them to be eaten as food. Having morning revival is to be filled with Lord as food every morning (Exo. 16:12).
 
 ### Bread of the Presence
 
@@ -81,7 +82,7 @@ Jeremiah saw God's lovingkindness and compassions anew every morning (Lam. 3:22-
 
 ### Various Psalmists
 
-David set forth his words to Jehovah in the morning, that He would hear his voice (Psa. 5:3). Other psalmists also watched for the Lord in the morning (Psa. 119:147; 130:6). 
+David set forth his words to Jehovah in the morning, that He would hear his voice (Psa. 5:3). Other psalmists also watched for the Lord in the morning (Psa. 119:147; 130:6). Particularly, God is sought out *early* in the day (Psa. 63:1).
 
 ### Jesus
 
@@ -129,7 +130,7 @@ We need to get out bed immediately - don't delay. Right after, speak to the Lord
 
 \- Psa. 5:3
 
-Our morning time should not just be in our thoughts; it is not a mental exercise. We need to open our mouths audibly, whether by whisper or a ringing shout. The Lord will *hear* the psalmist's voice.
+Our morning time should not just be in our thoughts; it is not a mental exercise. We need to open our mouths audibly, whether by whisper or a ringing shout. The Lord will *hear* the psalmist's voice. Futhermore, the Lord is rich to all who call upon His name (Rom. 8:10); to enjoy the Lord's riches subjectively, one simply needs to call His name. 
 
 ### Less Doing
 
@@ -162,6 +163,10 @@ We should fellowship with the Lord, even regarding our waking up early. This sho
 ### Prepare Yourself Practically
 
 Change out of pajamas, stand up, sit up straight, etc. Don't remain lying down. Remember that morning revival is a meeting with God.
+
+### Enjoy the Word
+
+Exercising one's spirit to pray-read and to enjoy the Word is an easy way to get out of the mind and turn to God. It is difficult 
 
 ## Benefits
 
