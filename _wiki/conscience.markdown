@@ -4,14 +4,17 @@ title: Conscience
 permalink: /conscience/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
   - [The Spirit](#the-spirit)
+- [Function](#function)
+- [Descriptors of the Conscience](#descriptors-of-the-conscience)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The conscience enables one to discern right from wrong, and is a function of the human spirit. It can either justify us or condemn us, and functions as the window of the spirit. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul.
+The **conscience** enables one to discern right from wrong, and is one of the three parts of the human spirit. It can either justify us or condemn us, and functions as the window of the spirit. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul.
 
 The conscience serves to direct the soul, and confirms whether or not a particular intention is right with God.
 
@@ -35,7 +38,29 @@ Deuteronomy 2:30 shows that man can harden his spirit, which means that the cons
 
 ## Function
 
-The conscience touches any offense one may have towards God and man (Acts 24:16). This includes situations where one may not necessarily be fully in the wrong. Just because someone else is also in the wrong, this does **not** justify oneself being in the wrong. For example, if Bob steals a $10 pen from Mike, who stole a $20000 car from Bob, Bob nonetheless still must confess fault to Mike.
+The conscience touches any offense one may have towards God and man (Acts 24:16). The function of the conscience was not manifested until the fall of man, which caused their eyes to be opened (Gen. 3:7). The most obvious feeling of the conscience is the one toward sin - for example if a believer steals something, their conscience will convict them. Then, there is a feeling towards worldly occupation. To love the world more than God, such as money or fashion, will cause the conscience to condemn. There are also feelings that don't fit in any category; for example, the conscience may convict someone to clean up their disorganized closet.  
+
+The conscience touches situations where one may not necessarily be fully in the wrong. Just because someone else is also in the wrong, this does **not** justify oneself being in the wrong. For example, if Bob steals a $10 pen from Mike, who stole a $20000 car from Bob, Bob nonetheless still must confess fault to Mike.
+
+## Descriptors of the Conscience
+
+There are 15 descriptors attached to the conscience in the New Testament:
+
+1. Good (Acts 23:1)
+2. Pure (1 Tim. 3:9; 2 Tim. 1:3)
+3. Purified (Heb 9:14)
+4. Sprinkled (Heb. 10:22)
+5. Evil (Heb. 10:22)
+6. Testifying (2 Cor 1:12)
+7. without offense (Acts 24:16)
+8. Accusing (Rom. 2:15)
+9. Excusing (Rom. 2:15)
+10. Witnessing (Rom. 9:1; Rom. 8:16)
+11. Branded (1 Tim. 4:2)
+12. Without feeling (Eph. 4:19)
+13. Defiled  (Titus 1:15)
+14. Weak (1 Cor. 8:7,10,12)
+15. Other people's (2 Cor. 4:2; 2 Cor. 5:11-12)
 
 ## Testimonies
 
