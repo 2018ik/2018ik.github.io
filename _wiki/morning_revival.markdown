@@ -32,11 +32,10 @@ permalink: /morning_revival/
   - [Prepare Yourself Practically](#prepare-yourself-practically)
   - [Enjoy the Word](#enjoy-the-word)
 - [Benefits](#benefits)
-- [Sweetness](#sweetness)
 
 ## Background
 
-**Morning revival** (or **morning watch**) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.), the greatest of all which is the new day (). The Lord's compassions and mercy are new every morning (Lam. 3:23).
+**Morning revival** (or **morning watch**) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.), the greatest of all which is the new day. No matter how good or bad the previous day was, we can come back to the Lord every morning; His compassions and mercy are new every morning (Lam. 3:23).
 
 Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
@@ -173,7 +172,3 @@ Exercising one's spirit to pray-read and to enjoy the Word is an easy way to get
 As we come to the Lord morning by morning, something fills us to the brim. We also have a surplus (Exo. 16:??), and this surplus is bread to God. This supplies us throughout the day.
 
 As we behold the Lord each morning, we receive the shining in our hearts, and the glory of God in the face of Jesus Christ (2 Cor. 4:6). As a result, we are being transformed (2 Cor. 3:18).
-
-## Sweetness
-
-When we come to the Lord in the morning, we should experience his sweetness.
