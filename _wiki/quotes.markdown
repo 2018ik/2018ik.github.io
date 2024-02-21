@@ -13,6 +13,7 @@ permalink: /quotes/
 - [Conduct](#conduct)
 - [Miscellaneous](#miscellaneous)
 - [Love](#love)
+- [Consecration](#consecration)
 
 ## Marriage
 
