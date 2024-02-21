@@ -17,7 +17,9 @@ permalink: /revelation/
 
 ## Background
 
-Revelation is God shining on the facts of the Bible. There is a veil over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or intrinsic significance of the facts of the Bible.
+**Revelation** is God shining on the facts of the Bible. There is a veil over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or intrinsic significance of the facts of the Bible.
+
+The Bible really has two parts: a box, and a diamond in it. A tragedy of immense proportion is that a great majority of believers treasure the box and pay attention to the box without loving and holding in high esteem the treasure in the box. The diamond in the box is nothing less than the high peak of the divine revelation concerning God's eternal economy: God becoming man to make man God in life and nature but not in the Godhead, for the building up of the Body of Christ which consummates the New Jerusalem. 
 
 ## Significance
 

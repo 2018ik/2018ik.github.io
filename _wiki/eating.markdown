@@ -20,6 +20,8 @@ Actually, Christ is the reality of all eating. Eating without realizing that Chr
 
 Just like in real life, one lives spiritually by eating (John 6:57).
 
+In chapter 2 of Song of Songs, the Lord Jesus is likened to apples. Then, later in the book, the lover of Christ is said to a noise with the fragrance of apples (S.S. 7:8). As the lover of Christ was constituted with apples by eating apples, believers today are constituted with Christ by eating Christ.
+
 ## Practice
 
 

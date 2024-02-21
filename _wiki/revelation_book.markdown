@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Revelation (Book)
-permalink: /revelation/
+permalink: /revelation_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

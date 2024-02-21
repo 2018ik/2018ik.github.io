@@ -37,7 +37,7 @@ In the third stage, the lover of Christ is called to live in ascension as the ne
 
 ### Stage Four
 
-In 6:13 she is called "Shulammite" the feminine form of Solomon, signifying the exact duplication of Christ Himself, having been made a match for Him.
+In 6:13 she is called "Shulammite" the feminine form of Solomon, signifying the exact duplication of Christ Himself, having been made a match for Him. Interestingly, this name of the female lead is not mentioned until chapter 6. This is because sufficient transformation was required for the lover to match Solomon, and for today's believers to match Christ.
 
 ### Stage Five
 
