@@ -4,19 +4,26 @@ title: Pray-reading
 permalink: /pray_reading/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [How To](#how-to)
   - [Level 1](#level-1)
   - [Level 2](#level-2)
   - [Level 3](#level-3)
 - [Useful Reading Material](#useful-reading-material)
 
->"Your words were found and I ate them"
+>"Your words were found and I ate them,"
 
-\- Jer. 15:16
+\- Jer. 15:16a
 
 ## Background
 
-In pray-reading, we take the Lord's word and repeat it back to Him.
+**Pray-reading** is to take the Lord's word and repeat it back to Him, that is to receive the word by means of all prayer (Eph. 6:17-18). The term "pray-reading" originated from Los Angeles around 1966 in the Lord's recovery, but has been practiced by believers for centuries.
+
+Calling on the name of the Lord and pray-reading are similar in that they all require breathing, drinking, eating and the Bible actually ends with pray-reading and calling in Revelation 22:20.
+
+## Biblical Basis
+
+The Word of God is food: it is milk (1 Pet. 2:2-3), it is bread (John 6:35), it is for us to eat (Matt. 4:4; Jer. 15:16). The practical way through which believers can eat the Word of God is not through studying it with the mind - as it is the Spirit who gives life; the flesh profits nothing (John 6:63). The easiest way to eat the Word with the Spirit is by receiving it by means of prayer, intermixing reading with prayer.
 
 In Ephesians 6:17-18 we receive the sword of the Spirit, which Spirit is the word of God. Receiving this sword is through prayer and petition, which indicates the importance of praying to receive the word of God, i.e. pray-reading.
 
@@ -39,5 +46,5 @@ Your spirit will be full of feeling, pray according to this feeling and pray wit
 We don't even need to know the exact context of each verse, and what all the names mean. We simply enjoy, and converse with the Lord.
 
 ## Useful Reading Material
-"Enjoying Christ as the Word and the Spirit Through Prayer" - CWWL
 
+"Enjoying Christ as the Word and the Spirit Through Prayer" - CWWL
