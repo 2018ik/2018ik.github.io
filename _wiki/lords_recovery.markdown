@@ -4,6 +4,7 @@ title: The Lord's Recovery
 permalink: /the_lords_recovery/
 ---
 - [Background](#background)
+- ["Recovery"](#recovery)
 - [Recovered Items](#recovered-items)
   - [Functioning of Each Member](#functioning-of-each-member)
   - [The life-giving Spirit](#the-life-giving-spirit)
@@ -13,10 +14,14 @@ permalink: /the_lords_recovery/
 The **Lord's Recovery** is a recovery of the following three items in God's New Testament economy:
 
 1. Christ as everything to the believers
-2. The function of all the members of the Body
-3. The oneness of the Body
+2. The oneness of the Body of Christ
+3. The function of all the members of the Body
 
-This is to recover the subjective experience of Christ as life in a practical way, that the Body of Christ may be built up so the Lord can return. Satan wants to bring in replacements for Christ, rob each member of their function, and divide the members of the Body.
+This is to recover the subjective experience of Christ as life in a practical way, that the Body of Christ may be built up so the Lord can return. Satan wants to bring in replacements for Christ, rob each member of their function, and divide the members of the Body. Over time, Satan has accomplished exactly this in the church by bringing forth the clergy-laity system and many "Christian" traditions.
+
+## "Recovery"
+
+*Recovery* means to restore or return something to a normal condition after damage or loss has been incurred. In a sense, this is to go back to the beginning before the damage was done. The church has been degraded through many centuries of its history, and needs to be restored to God's original intention. This includes the introduction of human philosophy, as in the Colossians (Col. 2:8; 1:12), Judaism as in the Galatians and Hebrews (Heb. 8:6; Gal. 3:1-3), and gifts, signs and wisdoms as in Corinth (1 Cor. 1:22-23). Satan is also working to divide the Body of Christ with sects and denominations (1 Cor. 1:10-13; Gal. 5:19-20) as well as the clergy-laity system which kills the function of each member (Rev. 2:6; 1:5-6; 1 Pet. 2:5,9).
 
 
 ## Recovered Items

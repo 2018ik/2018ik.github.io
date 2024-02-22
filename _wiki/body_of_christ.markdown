@@ -25,7 +25,7 @@ A person's physical body is actually a picture of the body of Christ. Each membe
 
 ## Reality Today
 
-The reality of the Body of Christ refers to the experience of the consummated Body of Christ (the New Jerusalem) in the present day. That is, the present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
+The reality of the Body of Christ refers to the experience of the consummated Body of Christ (the New Jerusalem) in the present day. The present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
 
 S.S. 1:6-8 -> S.S. 7:12
 

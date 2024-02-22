@@ -4,13 +4,13 @@ title: 1 Corinthians Chapters
 permalink: /first_corinthians_chapters/
 ---
 - [Background](#background)
-- [Chapter 7](#chapter-7)
+- [7](#7)
 
 ## Background
 
 The first Epistle to the Corinthians has 16 chapters.
 
-## Chapter 7
+## 7
 
 While books such as Ephesians, John and Revelation may reveal the high peak truths, this chapter of 1 Corinthians reveals someone who lives out these truths, someone who is in every respect obedient, submissive and satisfied with God. Paul was absolutely one with God, and wanted the Corinthian believers to be one with Him and not to initiate anything (1 Cor. 7:1-24).
 

@@ -14,7 +14,9 @@ permalink: /job_book/
 
 The book of Job reveals that man's concept regarding the perfection of human virtues and doing good for God is altogether against His intention, that is, for God to be dispensed into man to become his everything.
 
-Many use the book of Job to teach philosophy, but God plainly says multiple times that Job's words were without knowledge (Job 34:35, 35:16). God's counsel concerning man is simple: he wants us to receive Him into us to be our everything, even to transform us into His image so that we can become His expression. The Christina perfection is for the expression of the Triune God not for the expression of our integrity of uprightness.
+Many use the book of Job to teach philosophy, but God plainly says multiple times that Job's words were without knowledge (Job 34:35, 35:16). God's counsel concerning man is simple: he wants us to receive Him into us to be our everything, even to transform us into His image so that we can become His expression. The Christian perfection is for the expression of the Triune God not for the expression of our integrity of uprightness.
+
+In short, God wanted to tear Job down to rebuild him with Himself to make Job a new man in God's new creation that he might gain God more. It is actually a great mercy that we can be torn down and rebuilt as a new man.
 
 ## Topics
 
