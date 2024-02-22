@@ -18,7 +18,11 @@ permalink: /god_ordained_way/
 
 ## Background
 
-The God-ordained way (also known as the "new way") refers to the scriptural way ordained by God for His people to meet and serve to carry out His New Testament economy by releasing the organic functions of each member of the Body of Christ for the building up of the Body. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and prophesying especially in the homes. Practicing the God-ordained way issues in the proper church life in which all believers are priests (1 Pet 2:9).
+The **God-ordained way** (also known as the "new way") refers to the scriptural way ordained by God for His people to meet and serve to carry out His New Testament economy by releasing the organic functions of each member of the Body of Christ for the building up of the Body. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and building especially in the homes. It is not enough to meet once a week in a church building; according to the revelation in Acts, believers [must meet in the homes](../home_meeting) to build up the church.
+
+If all the church does is beget new believers, these new ones will have no way to go on. Therefore, there has to be nourishing in order to feed them. Then, they can be taught and perfected regarding the truth. Lastly, the perfecting of the new ones will allow them to build up the church through prophesying. This issues in the proper church life in which all believers are priests (1 Pet 2:9).
+
+The God-ordained way is carried out by vital groups: groups of living and active believers who mutually fellowship and gather together to bear remaining fruit.
 
 ## Biblical Basis
 

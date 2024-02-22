@@ -11,7 +11,6 @@ permalink: /prophesying/
 - [PSRP](#psrp)
   - [Prayer](#prayer)
 - [Prophesying Meeting](#prophesying-meeting)
-  - [Ministers to the Need](#ministers-to-the-need)
 
 >"...but he who prophesies builds up the church."
 
@@ -25,11 +24,13 @@ Prophesying is the peak of our speaking God's word. Prophesying fulfills the gre
 
 God desires a speaking people who can correspond with Him. The masses listening to a few is not the way to build up the church. The way to build up the church is for each member of body to function, and one of the ways to function is to speak for God, that is to prophesy.
 
+When we speak, we impart life into the saints. Some saints may be going through a difficult time, and prayed over their situation, telling nobody. Yet, if we get into the word, and prophesy according to the inspiration of the spirit, we can speak exactly what they need to hear, since the Lord knows each one's situation.
+
 ## History
 
-Meetings where one person speaks and everyone else listens is rooted in tradition, and is what is expected from a church meeting. However, Watchman Nee has noted since 1937 in *The Normal Christian Church Life* that this type of meeting has no place in the church. In his 1948 *Church Affairs* he said that this type of message meeting was according to the "customers of the nations and charged all to push back on this unscriptural tradition.
+Meetings where one person speaks and everyone else listens is rooted in tradition, and is what is expected from a church meeting. However, Watchman Nee has noted since 1937 in *The Normal Christian Church Life* that this type of meeting has no place in the church. In his 1948 *Church Affairs* he said that this type of message meeting was according to the "customs of the nations" and charged all to push back on this unscriptural tradition.
 
-This tradition continued in the Lord's recovery until 1984, when Witness Lee began working with the church in Taipei to transition from message meetings to ones where each person speaks. After being trained for three years, the church in Taipei began practicing prophesying meetings as they are done today in November of 1987.
+This tradition continued in the Lord's recovery until 1984, when Witness Lee began working with the church in Taipei to transition from message meetings to meetings where each person speaks. After being trained for three years, the church in Taipei began practicing prophesying meetings as they are done today in November of 1987.
 
 ## Three Elements
 
@@ -58,7 +59,3 @@ The point of this meeting is not about just sharing what we've enjoyed, but beca
 We must write down daily the spiritual enlightenment, inspiration, and enjoyment received from the Lord in His Word and put these points together to compose a prophecy of no longer than 3 minutes to speak in this meeting.
 
 The spirits of the prophets are subject to the prophets means our own spirit is subject to ourself. Therefore, once there is any inclination or sense, and we would like to speak, we should get up and speak forth Christ.
-
-### Ministers to the Need
-
-When we speak, we impart life into the saints. Some saints may be going through a difficult time, and prayed over their situation, telling nobody. Yet, if we get into the word, and prophesy according to the inspiration of the spirit, we can speak exactly what they need to hear, since the Lord knows each one's situation.
