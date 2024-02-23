@@ -4,11 +4,10 @@ title: Coworker
 permalink: /coworker/
 ---
 - [Background](#background)
-- [Knowing](#knowing)
 
 ## Background
 
-## Knowing
+A **coworker** or **fellow worker** is someone who works as an equal to another worker.
 
 In order to be coworker of God, we need to know Christ in four points:
 1. He is both God and man

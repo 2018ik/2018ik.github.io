@@ -8,18 +8,16 @@ permalink: /one_accord/
 - [Oneness vs One Accord](#oneness-vs-one-accord)
 - [Dealing with others](#dealing-with-others)
 - [Tabernacle](#tabernacle)
-- [Harmony](#harmony)
 
 ## Background
 
-The **one accord** (homothumadon) implies the inward parts (mind, emotion, will) are all the same. This is not an outward oneness, i.e. every is physically doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
+The **one accord** (Greek: *homothumadon*) implies the inward parts (mind, emotion, will) are all the same, and is the practice of such a oneness. This practice is not an outward oneness, i.e. everyone is physically doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
 
 Today's Christianity has a severe lacking of the one accord. There are so many denominations - why is it so difficult for there to be oneness? It is because there is no holding line, no single teaching which holds everyone together. Everyone's preferred practices becomes a dividing factor; it is very easy to find a church that agrees with one's viewpoint or leave a church which disagrees. Therefore it is necessary to see the vision of the [one teaching of the apostles](../apostles_teaching), which is God's economy.
 
 In the book of Acts, the 120 were of one accord - thinking the same thing, same purposes, same will. When there is this kind of one accord, the blessing comes. They prayed for 10 days, and the Spirit poured out upon the Body of Christ, which brought forth the churches. Furthermore, the 3000 which were saved then continued steadfastly in the apostle's teaching.
 
 The one accord is what brings us into the proper coordination. We will have an invincible morale, and we will march over all obstacles (Rom. 15:5). If we don't have the one accord, we can have all the good services and group meetings, but it is empty and without reality. 
-
 
 ## Vision
 
@@ -38,9 +36,3 @@ It is easy to offend others. Apparently sisters are easily offended when the wro
 ## Tabernacle
 
 The entire tribe served the tabernacle, and it was honor to serve. This was not just to get things done, but to participate in God's work. To serve in any capacity is a mercy.
-
-## Harmony
-
-In a symphony there are many instruments, and all must tune to the correct temperament so that when they play, everything will be in harmony. Likewise, we all must be attuned to the same mind and to the same opinion (1 Cor 1).
-
-The matter of the one accord is not a one-time thing, we all must constantly be re-tuned. We must allow the Lord to adjust and calibrate us.
