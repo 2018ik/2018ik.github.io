@@ -11,13 +11,13 @@ permalink: /dealing_with_the_heart/
 
 ## Background
 
-As the heart is the gateway to one's being, it is necessary to deal with the heart in order to have fellowship with God and to have an "undefiled" spirit (2 Cor. 7:1). The heart is like flypaper, it is very easy for stuff to stick to it. 
+As the heart is the gateway to one's being, it is necessary to deal with the heart in order to have fellowship with God and to have an "undefiled" spirit (2 Cor. 7:1) and a pure heart (Matt. 5:8). The heart is like flypaper, it is very easy for stuff to stick to it. 
 
 ## Steps
 
 ### Purification
 
-One needs not only a clean heart, but a pure heart. Pure implies there is only one element, one goal. On the other hand, a clean heart without obvious sin can still have mixture. Even a good career, good children, a good wife, etc. are goals which can cause one's heart to be impure.
+One needs not only a clean heart, but a pure heart in order to see God (Matt. 5:8). Pure implies there is only one element, one goal. On the other hand, a clean heart without obvious sin can still have mixture. Even a good career, good children, a good wife, etc. are goals which can cause one's heart to be impure.
 
 Even anatomically, when one attempts to look at two distinct objects (say, more than 90 degrees apart in one's field of view), it is difficult to focus on either one properly. The same applies when one attempts to "multitask."
 

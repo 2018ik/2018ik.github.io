@@ -61,7 +61,7 @@ Mark 16:9 - after He had risen early on the first day of the week He appeared fi
 
 ### Abraham
 
-Gen 19:27 He rose up early it the morning and went to the place where he had stood before Jehovah. This is where he was interceding for Lot - rising up early in the morning to see what happened to Lot.
+Gen 19:27 He rose up early it the morning and went to the place where he had stood before Jehovah. This is where he was interceding for Lot - rising up early in the morning to see what happened to Lot. Later, his offering of Isaac was also early in the morning (Gen. 22:3).
 
 ### Jacob
 
@@ -69,7 +69,7 @@ Gen 28:18-19. After he had the dream of the heavenly ladder, where the Lord spok
 
 ### Moses
 
-Exodus 32:2,4 Moses rose up early in th morning to go up to Mt. Sinai to receive the 10 commandments.
+Moses dealt with Pharaoh early (Exo. 9:13). Exodus 34:2,4 Moses rose up early in the morning to go up to Mt. Sinai to receive the 10 commandments.
 
 ### Samuel's parents
 
