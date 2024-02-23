@@ -21,7 +21,7 @@ permalink: /gods_economy/
 
 ## Background
 
-**God's economy**, or His plan to carry out His purpose, is His becoming man to make man God in life and nature but not in the Godhead for the producing of the Body of Christ which consummates the new Jerusalem. Man is made God, or "deified" by the dispensing of the Triune God into them to be their life and everything that they might be regenerated and transformed into the proper material for the building up of the Body of Christ that God may have a corporate expression on earth in many localities with a view to the building up of the coming New Jerusalem for His eternal expression.
+**God's economy**, or His plan to carry out His purpose, is His becoming man to make man God in life and nature but not in the Godhead. Man is made God, or "deified" by the dispensing of the Triune God into them to be their life and everything that they might be regenerated and transformed into the proper material for the building up of the Body of Christ that God may have a corporate expression on earth in many localities in this age with a view to the building up of the coming New Jerusalem for His eternal expression.
 
 If we truly see God's economy, we become burdened by it. It changes, governs, limits and controls the way we think and act, both in matters of the church and our daily life.
 

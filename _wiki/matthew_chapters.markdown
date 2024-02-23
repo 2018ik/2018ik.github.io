@@ -4,9 +4,14 @@ title: Matthew (Chapters)
 permalink: /matthew_chapters/
 ---
 - [Background](#background)
+- [13](#13)
 - [16](#16)
 
 ## Background
+
+## 13 
+
+Parables concerning the kingdom of the heavens
 
 ## 16
 

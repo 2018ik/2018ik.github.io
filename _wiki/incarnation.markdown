@@ -8,6 +8,7 @@ permalink: /Incarnation/
 - [Limitations](#limitations)
   - [Knowledge](#knowledge)
   - [Glory](#glory)
+- [Principle](#principle)
 
 ## Background
 
@@ -29,4 +30,8 @@ He was limited in knowledge (Matt. 24:36; Luke 2:40), as He had to grow in physi
 
 ### Glory
 
-The human shell of Jesus concealed the glory of the Father. 
+The human shell of Jesus concealed the glory of the Father.
+
+## Principle
+
+The principle of incarnation is that God expresses Himself solely through the Son as His embodiment, in contrast to do the many prophets in the Old Testament age  (Heb. 1:1-2). God first spoke in the Son as a man in the four Gospels (John 14:10). Then, He spoke in the Son as the Spirit through the apostles in Acts and the epistles (Heb. 2:3-4; 2 Pet. 3:15-16). Then, He spoke in the Son as the seven Spirits through John in Revelation (Rev. 1:2). Today, He speaks in the Son corporately, speaking in the enlarged corporate Christ, the divine incorporation of God and man (1 Cor. 12:12).

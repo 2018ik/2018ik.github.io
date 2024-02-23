@@ -12,9 +12,11 @@ permalink: /one_accord/
 
 ## Background
 
-The one accord (homothumadon) implies the inward parts (mind, emotion, will) are all the same. This is not an outward oneness, i.e. we are all doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
+The **one accord** (homothumadon) implies the inward parts (mind, emotion, will) are all the same. This is not an outward oneness, i.e. every is physically doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
 
-In the book of Acts, the 120 were of one accord - thinking the same thing, same purposes, same will. When there is this kind of one accord, the blessing comes. They prayed for 10 days, and the Spirit poured out upon the Body of Christ, which brought forth the churches.
+Today's Christianity has a severe lacking of the one accord. There are so many denominations - why is it so difficult for there to be oneness? It is because there is no holding line, no single teaching which holds everyone together. Everyone's preferred practices becomes a dividing factor; it is very easy to find a church that agrees with one's viewpoint or leave a church which disagrees. Therefore it is necessary to see the vision of the [one teaching of the apostles](../apostles_teaching), which is God's economy.
+
+In the book of Acts, the 120 were of one accord - thinking the same thing, same purposes, same will. When there is this kind of one accord, the blessing comes. They prayed for 10 days, and the Spirit poured out upon the Body of Christ, which brought forth the churches. Furthermore, the 3000 which were saved then continued steadfastly in the apostle's teaching.
 
 The one accord is what brings us into the proper coordination. We will have an invincible morale, and we will march over all obstacles (Rom. 15:5). If we don't have the one accord, we can have all the good services and group meetings, but it is empty and without reality. 
 
