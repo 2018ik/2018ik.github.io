@@ -6,6 +6,7 @@ permalink: /prayer/
 - [Background](#background)
 - [Significance](#significance)
 - [Biblical Examples](#biblical-examples)
+  - [Abraham](#abraham)
   - [Hannah](#hannah)
   - [Samuel](#samuel)
   - [David](#david)
@@ -18,6 +19,7 @@ permalink: /prayer/
 - [Types](#types)
   - [Individual](#individual)
   - [Corporate](#corporate)
+- [Tips](#tips)
 
 >"But you, beloved, building up yourselves upon your most holy faith, praying in the Holy Spirit"
 
@@ -25,9 +27,9 @@ permalink: /prayer/
 
 ## Background
 
-**Prayer** is to contact God in the spirit (Eph. 6:18) to absorb God, which is to have fellowship with God. Prayer is the believers' response to God's flowing in, and their flowing back to God. To pray is to come to the Lord regardless of one's spiritual or physical condition. Even if someone is weak, confused, sad and speechless, they still must come to God and bring it to God. Entering into God's presence to contact Him by looking to Him, beholding Him, praising Him, giving thanks to Hi,, worshipping Him and absorbing Him will allow one to enjoy God's riches.
+**Prayer** is to contact God in the spirit (Eph. 6:18) to absorb God, which is to have fellowship with God. Prayer is the believers' response to God's flowing in, and their flowing back to God. Entering into God's presence to contact Him by looking to Him, beholding Him, praising Him, giving thanks to Him, worshipping Him and absorbing Him will allow one to enjoy God's riches.
 
-Prayer should also be a living, unceasingly talking to God throughout the day (1 Thes. 5:17), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16).
+Prayer should also be a living, unceasingly talking to God throughout the day (1 Thes. 5:17), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16). This means coming to the Lord regardless of one's spiritual or physical condition. Even if someone is weak, confused, sad and speechless, they still must come to God and bring it to God. 
 
 Prayer may start in the self, but with the proper yearning and turning, one can contact God which brings them into a bilaterally active touch with Him where they enter into Him as the Spirit in their spirit. As a result, this prayer is also truly what is on God's heart, and all such prayers will be answered (John 15:7).
 
@@ -45,6 +47,10 @@ To pray is to realize that the self is nothing and can do nothing; prayer is the
 
 ## Biblical Examples
 
+### Abraham
+
+The intercession which Abraham made before God for Lot was an intimate conversation between two friends, even with Abraham's bargaining before God (Gen. 18). God appeared to Abraham in the form of a man and communed with Him on a human level (Gen. 13:18; 18:1-2). Notably, God Himself ended the conversation, not Abraham (Gen. 18:33).
+
 ### Hannah
 
 For years Hannah prayed to have a son, but it was not until she touched the Lord's burden that she became pregnant (1 Sam. 1:11).  
@@ -60,6 +66,8 @@ David many times inquired of God for what to do (1 Sam. 23:2, 4).
 Daniel had particular times throughout the day to pray.
 
 ### Jesus
+
+Jesus was the only true "man of prayer" revealed in the Bible. This is because He was truly one with God (John 10:30), God was always with Him (John 8:29), and He committed all things to God (1 Pet. 2:23). As a result, Satan had no ground in the Lord Jesus (John 14:30). 
 
 ## Principle of Prayer
 
@@ -92,3 +100,10 @@ Personal prayer is to absorb God. According to the Scripture, one should unceasi
 ### Corporate
 
 Corporate prayer is to bind and to loose what has been bound and loosed in the heavens. That is, to fight the spiritual warfare.
+
+## Tips
+
+1. If you are praying, and what you are praying is distracted from the Lord, then stop and change your way of praying. When we come to pray we have many concepts and end us missing God Himself. We should not be doing anything by ourselves, but everything in God with God and through God.
+2. Don't pray for any person or thing without God in view. For example, it is one thing to pray for someone's health, it is another thing to pray that they be restored to their particular function in serving God. This is to seek God and God's will (Matt. 26:39; John 4:34; 5:30).
+3. Prayer requires having continued fellowship with God. One must abide in the Lord and for His *rhema* words to abide in them for their prayers to be answered (John 15:7). This means living and walking in God each day, so that God will speak to you and so you can reciprocate this speaking. One's prayer is only at the level of their living. 
+
