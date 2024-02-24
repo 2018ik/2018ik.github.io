@@ -15,6 +15,13 @@ permalink: /truth/
 
 **Truth** is the underlying reality in the Bible which can only be seen when the divine light is shone on the facts, which televise a revelation of these facts into one's being. Both facts and life are the content of the truth. For someone to speak forth the truth means that the facts of the Bible has been made real to them through the divine life.
 
+| Term | Meaning |
+| --- | --- |
+| Facts | Biblical facts refer to anything that is written in the Bible. |
+| Truth | Truth is a subset of facts, as the intrinsic significance behind biblical facts like the parables told by the Lord are still technically facts, they are just real facts, the reality behind the facts which comes through Christ (John 1:17). Unlike revelation, truth is objective, and will exist regardless of whether or not there are people to appreciate the truth. |
+| Revelation | Revelation is God shining on the facts of the Bible so that a person can see the truth. Truth and revelation are the same thing, it's just that truth is always there, while truth subjectively experienced by a person through God shining on what they know about the Bible is revelation. |
+| Experience | Revelation is a subset of spiritual experience, which includes everything that believers go through in their spirit. |
+
 Truth comes first, and experience follows. For example, we must be clear regarding Christ's redemption to properly apply the blood. We enter into a deeper experience of life by means of the truth. 
 The truth is also required to bring the saints into their organic function. We need to eat the solid food in order to bring others to this stage. 
 
