@@ -15,9 +15,9 @@ permalink: /new_jerusalem/
 
 ## Background
 
-The New Jerusalem is not a physical city; it is the greatest and ultimate sign in the scriptures - not only in Revelation but throughout the entire Bible. 
+The **New Jerusalem** is the complete expression and enlargement of the processed Triune God mingled with the believers, not a physical city. As the final vision given to John, the New Jerusalem is the greatest and ultimate sign in the scriptures (Rev. 1:1).
 
-It is often believed that we will go to heaven, and there will be some kind of mansion, golden streets, etc. Similarly, we may have certain concepts regarding the New Jerusalem. But the Bible tells us that the New Jerusalem is a lot more than just a city. If we miss this, then we are missing a rich gospel that the Lord is showing us.
+Christians often believe that they will end up in heaven, and there will be some kind of mansion, golden streets, etc. Similarly, we may have certain concepts regarding the New Jerusalem. But the Bible tells us that the New Jerusalem is a lot more than just a city. If we miss this, then we are missing a rich gospel that the Lord is showing us.
 
 Our living out of the New Jerusalem is for us to become the New Jerusalem, and our working out the New Jerusalem is for us to build the New Jerusalem by the flowing Triune God.
 
@@ -25,7 +25,11 @@ The New Jerusalem is for the glorification of the Triune God as the oneness of t
 
 ## Biblical Basis
 
+The blueprint for the New Jerusalem can be seen in the very beginning in Genesis 1-2. 
+
 The clearest picture of the New Jerusalem in the Pentateuch is found in Numbers: there was a tabernacle in the center of the encampment, and the children of Israel were divided into four groups of three and positioned around the tabernacle. These three tribes on each side is parallel to the twelve gates of the New Jerusalem with three gates on four sides.
+
+In John 17, the Lord Jesus prayed that the Son would be glorified, and that the believers would be one as the Father and the Son are one (John 17:21-23). The fulfillment of this prayer can only be the New Jerusalem: the organic composition of God with man.
 
 In Revelation 1:1 we see that Christ made His revelation known by signs. As the Lamb is a sign for Christ, so are the lampstands signs for the local churches, so is the New Jerusalem a sign for the bridge of Christ, which is the consummation of the Body of Christ, which is the totality of the believers.
 
@@ -41,9 +45,9 @@ Genesis 1-2 is the organic blueprint, the architectural plan of the Triune God, 
 
 The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. 
 
-The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration.  
+The river of water of life flowing out of the throne proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
 
-The river of water of life proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
+The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration.  
 
 ## Central Line
 
