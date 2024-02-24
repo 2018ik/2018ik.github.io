@@ -13,7 +13,7 @@ permalink: /truth/
 
 ## Background
 
-**Truth** is the underlying reality in the Bible which can only be seen when the divine light is shone on the facts, which televise a revelation of these facts into one's being. Both facts and life are the content of the truth. For someone to speak forth the truth means that the facts of the Bible has been made real to them through the divine life.
+**Truth** is the underlying reality in the Bible which can only be seen when the divine light is shone on the facts, which televise a revelation of these facts into one's being (2 Cor. 4:2-6). Both facts and life are the content of the truth. The experience of Christ as life requires knowing the truth, and is contained in the truth (John 8:32, 36). For someone to speak forth the truth means that the facts of the Bible has been made real to them through the divine life. 
 
 | Term | Meaning |
 | --- | --- |
@@ -23,7 +23,7 @@ permalink: /truth/
 | Experience | Revelation is a subset of spiritual experience, which includes everything that believers go through in their spirit. |
 
 Truth comes first, and experience follows. For example, we must be clear regarding Christ's redemption to properly apply the blood. We enter into a deeper experience of life by means of the truth. 
-The truth is also required to bring the saints into their organic function. We need to eat the solid food in order to bring others to this stage. 
+The truth is also required to bring the saints into their organic function. We need to eat the solid food in order to bring others to this stage. God desires all men to come to the full knowledge of the truth (1 Tim. 2:4).
 
 ## Corporate Aspect
 
