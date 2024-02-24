@@ -31,13 +31,12 @@ permalink: /morning_revival/
   - [Not Ritualistic](#not-ritualistic)
   - [Prepare Yourself Practically](#prepare-yourself-practically)
   - [Enjoy the Word](#enjoy-the-word)
-- [Benefits](#benefits)
 
 ## Background
 
 **Morning revival** (or **morning watch**) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.), the greatest of all which is the new day. No matter how good or bad the previous day was, we can come back to the Lord every morning; His compassions and mercy are new every morning (Lam. 3:23).
 
-Our experience also shows us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
+Many patterns show us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 
 ## Biblical Patterns
 
@@ -93,11 +92,7 @@ He then learned a secret: after 10 years, he learned to use the Word. He would c
 
 "And that my inner man is most invariably, and even most sensibly, nourished and strengthened"
 
-He would always be in a peaceful and happy state of heart after this morning revival, which he practiced prior to even breakfast.
-
-The first thing he worried about was how he might get his soul into a happy state, and how his inner man might be nourished.
-
-He found the Lord is often pleased to nourish him, and this spiritual food could also be used to feed others.
+He would always be in a peaceful and happy state of heart after this morning revival, which he practiced prior to even breakfast. The first thing he worried about was how he might get his soul into a happy state, and how his inner man might be nourished. He found the Lord is often pleased to nourish him, and this spiritual food could also be used to feed others.
 
 ### All those who are of any use in God's hands
 
@@ -166,9 +161,3 @@ Change out of pajamas, stand up, sit up straight, etc. Don't remain lying down. 
 ### Enjoy the Word
 
 Exercising one's spirit to pray-read and to enjoy the Word is an easy way to get out of the mind and turn to God. It is difficult 
-
-## Benefits
-
-As we come to the Lord morning by morning, something fills us to the brim. We also have a surplus (Exo. 16:??), and this surplus is bread to God. This supplies us throughout the day.
-
-As we behold the Lord each morning, we receive the shining in our hearts, and the glory of God in the face of Jesus Christ (2 Cor. 4:6). As a result, we are being transformed (2 Cor. 3:18).

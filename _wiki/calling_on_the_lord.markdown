@@ -44,7 +44,7 @@ Abraham and Isaac both built an altar to Jehovah and called on the name of Jehov
 
 ### People of Israel
 
-Moses and the children of Israel all enjoyed the Lord by calling upon His name; calling brings the Lord near to all people (Deut. 4:7). They also enjoyed the Lord's forgiveness and mercy by calling on the Lord (Psa. 86:5).
+Moses and the children of Israel all enjoyed the Lord by calling upon His name; calling brings the Lord near to all people (Deut. 4:7). They also enjoyed the Lord's forgiveness and mercy by calling on the Lord (Psa. 86:5; Psa. 116:4).
 
 ### David
 
