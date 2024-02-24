@@ -8,6 +8,7 @@ permalink: /john_chapters/
 - [14](#14)
 - [15](#15)
 - [17](#17)
+- [20](#20)
 
 ## Background
 
@@ -24,3 +25,7 @@ According to this chapter, the Father is the husbandman, and has an economy whic
 ## 17
 
 Everyone know's the Lord's kingdom prayer in Matthew 6, but few know about the much bigger prayer in John 17. In this prayer, the Lord asks the father to glorify the Son. This was fulfilled first in the Lord's resurrection, and then in the church as the Body of Christ. The ultimate fulfillment of this prayer will be the New Jerusalem, where God will be fully glorified in a divine incorporation for eternity.
+
+## 20
+
+In John 20, Mary and the disciples come to the tomb of Jesus. Significantly, they saw and believed after seeing the handkerchief folded alongside the linens (John 20:7-8). Jesus as a man of perfect character must've consistently folded his handkerchief in the same way, and the disciples who lived with Him picked up on this pattern. Thus, seeing the folded cloth confirmed to the them that it was in fact Jesus Himself folded the handkerchief in the fashion they were familiar with prior to leaving the tomb. 
