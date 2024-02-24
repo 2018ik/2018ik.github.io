@@ -4,11 +4,16 @@ title: 1 Corinthians Chapters
 permalink: /first_corinthians_chapters/
 ---
 - [Background](#background)
+- [3](#3)
 - [7](#7)
 
 ## Background
 
 The first Epistle to the Corinthians has 16 chapters.
+
+## 3
+
+Paul says that he has laid a foundation, and this foundation is Christ (1 Cor. 3:10-11). This is in line with what Jesus said to Peter in Matthew 16:18, that upon this rock He would build His church. The first "rock" for Peter meaning "petros" is a piece of rock, a fragment of the whole.The rock upon which He would build the church is "petra" or a large mass of rock. This rock is Christ, and this rock is the foundation of the church.
 
 ## 7
 
