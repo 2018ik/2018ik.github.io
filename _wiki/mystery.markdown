@@ -20,7 +20,7 @@ The Bible contains many **mysteries** which cannot be comprehended by one's mind
 
 ## Application
 
-These mysteries can be understood through God's revelation. Peter's affirmation that Jesus is the "Son of the living God" was through revelation. 
+These mysteries can be understood through God's revelation. For example, Peter's affirmation that Jesus is the "Son of the living God" was through revelation. 
 
 ## Examples
 
@@ -30,7 +30,7 @@ Christ is the mystery of God (Col. 2:2).
 
 ### The Church
 
-The church is the mystery of Christ. We can't understand the church fully because the church is Christ, and 
+The church is the mystery of Christ. We can't understand the church fully because the church is Christ (Eph. 3:4). 
 
 ### The Trinity
 

@@ -8,7 +8,7 @@ permalink: /pneumatic_christ/
 
 ## Background
 
-The **pneumatic Christ** relates to Christ in His post-resurrection spiritual body in which He could enter the disciples as breath (John 20:22). The non-pneumatic, pre-resurrection Christ could not enter into anyone as breath. The Greek word *pneuma* means spirit, breath or air. 
+The **pneumatic Christ** relates to Christ in His post-resurrection spiritual body in which He could enter the disciples as breath (John 20:22), and indicates that Christ is the Spirit. The non-pneumatic, pre-resurrection Christ could not enter into anyone as breath. The Greek word *pneuma* means spirit, breath or air. 
 
 To say Christ is pneumatic is to say that He is both full of and *is* the life-giving Spirit (1 Cor. 15:45; 2 Cor. 3:17), which implies the pneumatic Christ in motion as breath.
 

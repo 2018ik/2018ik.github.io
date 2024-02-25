@@ -30,5 +30,4 @@ Lord show me the surpassing worth and preciousness of you as the divine and myst
 
 ### Testimony #1
 
-
 >I know a sister who lived in a really bad neighborhood in a country of a low human development index. She would see bullets fly in neighborhood. One day, she saw another kind of lifestyle: the lifestyle of north american countries like Canada and the USA. She may have seen either a documentary or movie about what its like to live in this kind of country. It generated a never-to-be-forgotten desire to migrate to those countries and live there. By the Lords's sovereign mercy it happened, she migrated to Canada received an excellent education, and now lives with her three daughters in the U.S. Once the Lord opens our eyes to see the preciousness of the divine and mystical realm we will give ourselves to dwell in Him every moment of the days of our life. You will find it so previous, marvelous and wonderful.

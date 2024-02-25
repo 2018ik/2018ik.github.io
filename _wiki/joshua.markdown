@@ -8,4 +8,6 @@ permalink: /joshua/
 
 ## Background
 
+**Joshua** (meaning Jehovah my salvation)
+
 ## Significance

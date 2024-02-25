@@ -20,9 +20,9 @@ permalink: /calling_on_the_lord/
 
 ## Background
 
-**Calling on the Lord** means to call towards the Lord to invoke His person. Men began to call upon the name of Jehovah in the time of Enosh (Gen 4:26).  Calling on the name of the Lord is one of the items recovered in the Lord's recovery. Thousands of saints have been released and enriched through calling on the name of the Lord.
+**Calling on the Lord** means to call towards the Lord to invoke His person. Men began to call upon the name of Jehovah in the time of Enosh (Gen 4:26), and this practice spread to many in the Old Testament, eventually spilling over to the New Testament. Yet, today there are few who call on the name of the Lord. This is one of the items recovered in the Lord's recovery. Thousands of saints have been released and enriched through calling on the name of the Lord.
 
-Even from the lowest pit, we can call upon the name of the Lord (Lam. 3:55-56). In the same utterance from Jeremiah, we see that calling is closely related to breathing in the Lord, since crying out breathing in for air. We can also cry out with a ringing shout (Isa. 12:3-6). 
+Even from the lowest pit, we can call upon the name of the Lord (Lam. 3:55-56). In the same utterance from Jeremiah, we see that calling is closely related to breathing in the Lord, since crying out breathing in for air. We can also cry out with a ringing shout (Isa. 12:3-6). When we simply turn out being to God and call on His name, we are saved (Rom. 10:13), not only judicially, but also from Satan, sin, the world, death, depression, anxiety, hopelessness, etc. 
 
 ## Significance
 

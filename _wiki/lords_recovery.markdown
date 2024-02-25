@@ -17,7 +17,9 @@ The **Lord's Recovery** is a recovery of the following three items in God's New 
 2. The oneness of the Body of Christ
 3. The function of all the members of the Body
 
-This is to recover the subjective experience of Christ as life in a practical way, that the Body of Christ may be built up so the Lord can return. Satan wants to bring in replacements for Christ, rob each member of their function, and divide the members of the Body. Over time, Satan has accomplished exactly this in the church by bringing forth the clergy-laity system and many "Christian" traditions.
+Satan wants to bring in replacements for Christ, rob each member of their function, and divide the members of the Body. Over time, Satan has accomplished exactly this in the church by bringing forth the clergy-laity system and many "Christian" traditions. The Lord's recovery is for recovering the subjective experience of Christ as life in a practical way, that the Body of Christ may be built up so the Lord can return.
+
+The Lord's Recovery is not about following a person, but to follow the all-inclusive, all-inheriting vision of the age.
 
 ## "Recovery"
 

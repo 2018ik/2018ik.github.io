@@ -9,7 +9,7 @@ permalink: /john_the_baptist/
 
 ## Background
 
-**John the Baptist** prepared the way for Jesus Christ, baptizing in the wilderness for the repentance of forgiveness of sins (Mark 1:3-4).
+**John the Baptist** prepared the way for Jesus Christ, baptizing in the wilderness for the repentance of forgiveness of sins (Mark 1:3-4). For a short period of time, he was the forerunner of Jesus and held the vision of that age. However, after the Lord Jesus began His ministry, John's time was fulfilled and his ministry was finished.
 
 ## Significance
 
