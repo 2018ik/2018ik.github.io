@@ -20,9 +20,9 @@ permalink: /lords_table/
 
 ## Background
 
-The **Lord's table** is the Lord giving Himself to His believers as the bread and cup that they may partake of Him and enjoy Him. This table actually implies the entire New Testament economy, which involves the processed consummated Triune God dispensing Himself into us as the Spirit to be our life supply to produce the church as the organic Body of Christ.
+The **Lord's table** is the Lord giving Himself to His believers as the bread and cup that they may partake of Him and enjoy Him (Mark 14:22-24). This table actually implies the entire New Testament economy, which involves the processed consummated Triune God dispensing Himself into us as the Spirit to be our life supply to produce the church as the organic Body of Christ (1 Cor.10:16-17; Eph. 4:16).
 
-To remember the Lord by the table is not to meditate on his processes merely in our mind, it's to exercise the mingled spirit to eat and drink the Lord. This requires body consciousness, that is to enter into the reality of the Body of Christ. If we ever feel that our love for the Lord is waning, we need to feel the undying love of the Lord for us displayed on the table.
+To remember the Lord by the table is not to meditate on His processes in our mind, neither it is for some miracle to transubstantiate the elements into some physical representation of God. The reality of the table is not outward things, but Christ coming into the believers to be their spiritual food (John 6:35, 53-57; 63).  We have to exercise the mingled spirit to eat and drink the Lord. If we ever feel that our love for the Lord is waning, we need to feel the undying love of the Lord for us displayed on the table.
 
 ## The Two Elements
 
@@ -36,15 +36,15 @@ Intrinsically, flesh and blood are both human elements, which represents his inc
 
 ### Bread
 
-The bread refers to the Lord's body composed of the many believers. The members of the Body are one because we they all partake of the one bread, which constitutes each member with the same Christ (1 Cor 10:17).
+The bread refers to the Lord's body composed of the many believers, or the church. The members of the Body are one because we they all partake of the one bread, which constitutes each member with the same Christ (1 Cor 10:17).
 
 In order for the Lord Jesus to be eaten, He needed to die on the cross. The breaking of the bread signifies the physical body of the Lord being broken. When hearing the sound of the bread breaking, one's hearts should move and realize the suffering the Lord went through because of His love for all mankind.
 
-A superficial description of a believer in Christ may simply go to church every week. However, to be a genuine member, we need to eat, digest and assimilate Christ. This is symbolized by the bread of life.
+A superficial description of a believer in Christ may simply go to church every week. However, to be a genuine member, we need to eat, digest and assimilate the crucified Christ. This is symbolized by the breaking and eating of the bread.
 
 ### Cup
 
-To drink the cup is to review te redemption of the new covenant (Matt. 26:28), and to have fellowship in the blood of Christ (1 Cor. 10:16a).
+To drink the cup is to review the redemption of the new covenant (Matt. 26:28), and to have fellowship in the blood of Christ (1 Cor. 10:16a). The blood here is the blood of the covenant (Mark 14:24), which gave God's people a new heart, a new spirit, and the inner law of life (Luke 22:20; Heb. 8:10-12).
 
 ## To Partake
 
@@ -52,7 +52,7 @@ To drink the cup is to review te redemption of the new covenant (Matt. 26:28), a
 
 \- 1 Cor 11:26
 
-By partaking of the cup as the fellowship of the blood of Christ and the bread as the fellowship of the body of Christ we remember
+By partaking of the cup as the fellowship of the blood of Christ and the bread as the fellowship of the body of Christ we remember 
 
 We need to be saved from idols, which are signified by the demons' table (1 Cor. 10:21). 
 
@@ -68,7 +68,7 @@ The table meeting is the most important meeting of the church, as it is the meet
 
 ### Lord's Supper
 
-The Lord's supper is actually different from the Lord's table (1 Cor. 11:20). The table is for our enjoyment of Him while the Lord's supper is for His satisfaction.
+The Lord's supper is an aspect of the Lord's table for the remembrance of the Lord (1 Cor. 11:20). The table is for our enjoyment of Him while the Lord's supper is for His satisfaction.
 
 ## Testimonies
 
