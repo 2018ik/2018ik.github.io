@@ -8,7 +8,7 @@ permalink: /incorporation/
 
 ## Background
 
-**Incorporation** is a synonym for coinherence which refers to the co-inhabitation of Christ and the believers as one unit (John 14:20; 1 Cor. 12:12). The divine incorporation between God and man can be called the Body-Christ, the incorporated God, and the corporate Christ. To receive and walk in Christ equals receiving and walking in the divine incorporation because Christ today is a corporate Body generated from Christ being wrought into all His members.
+**Incorporation** is a synonym for coinherence which refers to the co-inhabitation of Christ and the believers as one unit (John 14:20; 17:21; 1 Cor. 12:12). The divine incorporation between God and man can be called the Body-Christ, the incorporated God, and the corporate Christ. To receive and walk in Christ equals receiving and walking in the divine incorporation because Christ today is a corporate Body generated from Christ being wrought into all His members.
 
 ## Biblical Basis
 
