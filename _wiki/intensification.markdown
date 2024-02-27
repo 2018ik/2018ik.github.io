@@ -7,4 +7,4 @@ permalink: /Intensification/
 
 ## Background
 
-All the Christ has experienced in His human living, death and resurrection has been compounded in the life-giving Spirit, and now has been intensified sevenfold as the sevenfold intensified Spirit. Then our experience of Christ will be elevated into another plane.
+**Intensification** is the last stage of the full ministry of Christ in three stages and is the sevenfold intensification of the all-inclusive compound life-giving Spirit.

@@ -34,7 +34,7 @@ permalink: /morning_revival/
 
 ## Background
 
-**Morning revival** (or **morning watch**) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.), the greatest of all which is the new day. No matter how good or bad the previous day was, we can come back to the Lord every morning; His compassions and mercy are new every morning (Lam. 3:23).
+**Morning revival** (or **morning watch**) is a time in the morning to be with the Lord and contact the Lord in order to be filled with the life of God i.e. revived. The Christian life is a day by day life (2 Cor. 4:16) with a new start every morning. According to God's principle of creation, there are many opportunities for new beginnings (new week, month, year, day, etc.), the greatest of all which is the new day. The Lord will be with us all the *days* until the consummation of the age (Matt. 28:20). No matter how good or bad the previous day was, we can come back to the Lord every morning; His compassions and mercy are new every morning (Lam. 3:23).
 
 Many patterns show us that the best time to touch the Lord is the morning. While we can continue to contact the Lord later on in the day, many can confirm in their experience that the best fellowship and opening to the Lord is during the morning. This is because it is easy to be swept away by other things throughout the day. There is the most supply and light in the morning.
 

@@ -14,7 +14,9 @@ permalink: /full_ministry_of_christ/
 
 ## Background
 
-The **full ministry of Christ** is His ministry which spans from His incarnation to the New Jerusalem. This can be divided in various ways (TODO: how?), however the significance is that the eternal God entered into time to carry out His economical operation.
+The **full ministry of Christ** is His ministry which spans from His incarnation to the New Jerusalem. This can be divided in various ways, most significantly in the three divine and mystical stages of incarnation, inclusion and intensification. These stages reflect God entering into time to carry out His economical operation.
+
+What the Lord's Recovery is, and what it will be, depends on how we handle the teaching concerning the full ministry of Christ in three divine and mystical stages.
 
 ## In Three Stages
 

@@ -10,7 +10,7 @@ permalink: /revelation_book/
 
 ## Background
 
-The revelation of Jesus Christ is the focal point of this entire book (Rev. 1:1). 
+The revelation of Jesus Christ is the focal point of this entire book (Rev. 1:1). Revelation opens with the "revelation of Jesus Christ," indicating that this entire book reveals Christ. As the conclusion of the Bible, this is the ultimate, complete and consummate revelation of Christ and of the entire Bible. 
 
 ## Summary
 

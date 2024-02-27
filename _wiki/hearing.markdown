@@ -8,6 +8,6 @@ permalink: /hearing/
 
 ## Background
 
-**Hearing** is the basic way in which believers receive faith (Rom. 10:17), and through faith the Spirit (Gal. 3:2).
+**Hearing** is the basic way in which believers receive faith (Rom. 10:17), and through faith the Spirit (Gal. 3:2). 
 
 ## Significance

@@ -11,7 +11,7 @@ permalink: /christ_death/
 
 ## Background
 
-**Christ's death** accomplished an all-inclusive death. This includes terminating the old creation (Rom. 6:6) as well as releasing the divine life as the basic factor of God's new creation. This is signified by the piercing of His side, where blood and water flowed out (John 19:34). When Christ was being crucified, His physical body was dying, but His spirit was being made alive. 
+**Christ's death** accomplished an all-inclusive death which includes His redemptive death and His life-releasing death. Not only did His death accomplish redemption and terminated the old creation (Rom. 6:6), but also release the divine life as the basic factor of God's new creation. This is signified by the piercing of His side, where blood and water flowed out (John 19:34). When Christ was being crucified, His physical body was dying, but His spirit was being made alive. 
 
 ## Significance
 
