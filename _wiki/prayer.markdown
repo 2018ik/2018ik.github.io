@@ -27,6 +27,8 @@ permalink: /prayer/
 
 ## Background
 
+TODO: clean up background
+
 **Prayer** is to contact God in the spirit (Eph. 6:18) to absorb God, which is to have fellowship with God. Prayer is the believers' response to God's flowing in, and their flowing back to God. Entering into God's presence to contact Him by looking to Him, beholding Him, praising Him, giving thanks to Him, worshipping Him and absorbing Him will allow one to enjoy God's riches.
 
 Prayer should also be a living, unceasingly talking to God throughout the day (1 Thes. 5:17), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16). This means coming to the Lord regardless of one's spiritual or physical condition. Even if someone is weak, confused, sad and speechless, they still must come to God and bring it to God. 
@@ -44,6 +46,8 @@ The reason why we have little experience of this is we haven't paid specific att
 ## Significance
 
 To pray is to realize that the self is nothing and can do nothing; prayer is the real denial and repudiating of one's self so that one may enjoy Christ as their everything (Col. 4:2; Gal. 2:20).
+
+In prayer, the earth controls the heavens.
 
 ## Biblical Examples
 
@@ -73,7 +77,7 @@ Jesus was the only true "man of prayer" revealed in the Bible. This is because H
 
 Firstly, we must pray before God will rise up to work (Matt 18:18-20). God will not act independently, we must pray and agree with Him - His goal is to accomplish His will through our prayer.
 
-This brings us to the second point: prayer is our working together with God to accomplish His will. If we do not work together with God in prayer for His will, He will not work and cannot work. This is why He won't give you infinite Lamborghinis, even if you pray and ask for it.
+Therefore, prayer is man's working together with God to accomplish His will. If man does not work together with God in prayer for His will, He will not work and cannot work.
 
 We must see this principle: while God cannot do what he wants to do unless man wants it, he likewise will only carry out His will when our prayers are in harmony with His will.
 
@@ -106,4 +110,4 @@ Corporate prayer is to bind and to loose what has been bound and loosed in the h
 1. If you are praying, and what you are praying is distracted from the Lord, then stop and change your way of praying. When we come to pray we have many concepts and end us missing God Himself. We should not be doing anything by ourselves, but everything in God with God and through God.
 2. Don't pray for any person or thing without God in view. For example, it is one thing to pray for someone's health, it is another thing to pray that they be restored to their particular function in serving God. This is to seek God and God's will (Matt. 26:39; John 4:34; 5:30).
 3. Prayer requires having continued fellowship with God. One must abide in the Lord and for His *rhema* words to abide in them for their prayers to be answered (John 15:7). This means living and walking in God each day, so that God will speak to you and so you can reciprocate this speaking. One's prayer is only at the level of their living. 
-
+4. Rule over your mind; Satan hates prayer and will cause doubts, accusations and temptations during prayer. One's spirit will become strong in this way.

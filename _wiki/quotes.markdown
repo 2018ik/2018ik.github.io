@@ -13,7 +13,7 @@ permalink: /quotes/
 - [Conduct](#conduct)
 - [Miscellaneous](#miscellaneous)
 - [Love](#love)
-- [Consecration](#consecration)
+- [Prayer](#prayer)
 
 ## Marriage
 
@@ -61,8 +61,12 @@ permalink: /quotes/
 
 >There's a big oven in the Lord's recovery and there's room in the oven for all of us.
 
->God doesn't want to do something for you, He wants to be something in you
+>God doesn't want to do something for you, He wants to be something in you.
 
 ## Love
 
 >If you say that you love the Lord, yet year by year you remain the same, I do not believe you.
+
+## Prayer
+
+>If you enter fully into a prayer meeting, it will be exhilarating, even if all you do is say "amen."

@@ -1,13 +1,18 @@
 ---
 layout: pagev2
-title: Luke Chapters
+title: Luke (Chapters)
 permalink: /luke_chapters/
 ---
 - [Background](#background)
+- [18](#18)
 - [19](#19)
 - [24](#24)
 
 ## Background
+
+## 18
+
+The Lord tells a parable regarding persistent prayer. On the earth, it is hard to find faith that comes through continual exercise of prayer. Nevertheless, for the Son of Man to come, He will need to find this kind of faith (Luke 18:8).
 
 ## 19
 
