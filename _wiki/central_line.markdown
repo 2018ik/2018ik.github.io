@@ -15,7 +15,7 @@ permalink: /central_line/
 
 ## Background
 
-The central line is the main focus of the Bible, and all our speaking should be according to this central line. Unlike the supplemental line and the leaves and branches, the shepherding of others should be to cause them to arrive at the central line.
+The **central line** is the main focus of the Bible, and are crucial truths which all believers agree on. This is different from the supplemental line and the leaves and branches, which are not elements of the faith and are a means to shepherd others to the central line. 
 
 ## Items
 

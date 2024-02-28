@@ -26,5 +26,6 @@ Meeting in the homes allows each person to open up and share experiences with ea
 
 ## Related Terms
 
-1. Small Group Meeting
-2. [Children's Meeting](./childrens_work#meetings)
+1. Small group meeting
+2. [Children's meeting](./childrens_work#meetings)
+3. House church
