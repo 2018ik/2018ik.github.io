@@ -5,6 +5,7 @@ permalink: /paul/
 ---
 - [Background](#background)
 - [History](#history)
+  - [Saul](#saul)
   - [Conversion](#conversion)
     - [Acts 9](#acts-9)
     - [Acts 22](#acts-22)
@@ -16,11 +17,15 @@ permalink: /paul/
 
 ## Background
 
-Paul was uniquely prepared by the Lord through his background and experiences to reveal the church in a full way.
+**Paul** was uniquely prepared by the Lord through his background and experiences to reveal the church in a full way.
 
 In the 14 epistles of Paul we see the three words: ME, JESUS, VESSEL.
 
 ## History
+
+### Saul
+
+Prior to receiving the vision on the way to Damascus, Saul operated entirely based on the law, i.e. what was right and wrong according to what he knew.
 
 ### Conversion
 
