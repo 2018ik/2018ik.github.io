@@ -18,7 +18,7 @@ permalink: /peter/
 ## History
 
 
-Peter rebuked the Lord after He said He was to die (Matt. 16:21-22). This was because he loved the Lord and did not want Him to die. This however was a natural love, which was actually satanic (Matt. 16:23). 
+Peter rebuked the Lord after He said He was to die (Matt. 16:21-22). This was because he loved the Lord and did not want Him to die. This however was a natural love, which was actually satanic (Matt. 16:23). Peter was essentially telling the Lord not to redeem His people, enact the new covenant, and resurrect as the life-giving Spirit to make all of His riches known to mankind.
 
 ### Post-crucifixion
 

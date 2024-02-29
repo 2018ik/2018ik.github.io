@@ -5,6 +5,7 @@ permalink: /acts_chapters/
 ---
 - [Background](#background)
 - [2](#2)
+- [5](#5)
 
 ## Background
 
@@ -17,3 +18,7 @@ Acts 2:46-47 presents the normal standard of the Christian life. To produce vita
 4. "they partook of their food with exultation and simplicity of heart..."
 5. "praising God and having grace with all the people..."
 6. "the Lord added together those who were being saved..."
+
+## 5
+
+An angel of the Lord appeared to Peter and opened the doors of the prison, telling him to speak tot he people all the "words of this life." This indicates that Peter's life and work made the divine life so real and present in his situation, that the angel saw that life and pointed it out.

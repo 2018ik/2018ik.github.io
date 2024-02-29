@@ -13,6 +13,8 @@ The ministry is composed of apostles, prophets, evangelists, shepherds and teach
 
 Ministry is quite different from gifts and knowledge. The ministry is not an individual matter; it is carried out in a corporate way. Furthermore, there is no ministry without prayer.
 
+When Paul told Timothy to "fully accomplish your ministry" (2 Tim. 4:5) it means to fill up the full measure of your function in the Body. This is to do what has been measured out to him.
+
 ## Cycle
 
 The ministry is part of a cycle. Ministers are manifested, who work to preach the gospel and build up more local churches, which eventually manifests in more ministers in these new churches. Notice that these three things (ministry, churches, work) do not necessarily function as a cycle in all situations, as there are existing churches in which minsters can be sent to for the carrying out of the work.

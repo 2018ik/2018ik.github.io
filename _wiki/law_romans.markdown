@@ -13,7 +13,7 @@ permalink: /law_romans/
 
 ## Background
 
-Romans chapters 7 to 8 reveals four laws which operate within man, as well as the law of God, which is just the written Mosaic law that expresses God. 
+Romans chapters 7 to 8 reveals four **laws** which operate within man, as well as the law of God.
 
 ## Law of God
 
@@ -21,7 +21,7 @@ The law of God in Romans 7:2, 7:7, 7:12, 7:21, and many previous chapters portra
 
 ## Laws in man
 
-These are not legalistic or written laws, but "scientific laws" i.e. principles which operate automatically and are fundamental truths. For example, the law of gravity is always working at all times.
+These are not legalistic or written laws, but "scientific laws" i.e. principles which operate automatically and are fundamental truths. For example, the law of gravity is always working at all times. Likewise, when a circuit is created, electricity will spontaneously flow through it. There is a divine "switch" in the human spirit, which when switched on (i.e. Roman 8:6 - the mind is *set* on the spirit), the law of the Spirit of life will spontaneously activate to impart life and peace.
 
 ### Law of good (Rom. 7:23)
 
