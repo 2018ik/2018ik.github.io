@@ -28,7 +28,7 @@ In Job, Satan is seen conversing with God and the angels.
 
 ## Tactics
 
-Satan is the father of lies (John 8:44). His tactics sow seeds of doubt to draw mankind away from faith in God's word.
+Satan is the father of lies (John 8:44). His tactics sow seeds of doubt to draw mankind away from faith in God's word. He is a crouching lion, and comes in through subtle, deceptive ways. As long as one gives ground in the smallest way, Satan can take advantage of that weakness to attack.
 
 ### Substitutes
 

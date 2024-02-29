@@ -5,6 +5,8 @@ permalink: /culture/
 ---
 - [Background](#background)
 - [History](#history)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -15,3 +17,9 @@ On the other hand, people must be governed by the standards of culture before th
 ## History
 
 Culture began in Genesis 4, after Cain murdered Abel and had to leave the Garden of Eden to go build a city. There, he had an occupation, entertainment, and all he had to survive. Culture came in to replace God and the tree of life.
+
+## Testimonies
+
+### Testimony #1
+
+>Chinese people when they eat they slurp, especially soup and noodles. You may think it's disgusting, or uncivilized, but that is due to your culture. Likewise, the Chinese may use chopsticks. And they might think, people who use knives and forks are uncivilized. Those are weapons, not eating utensils. This is also culture. These cultural differences are because we have a problem with our heart, and are a ground for Satan to enter in.

@@ -25,4 +25,4 @@ We see that lying to the apostles is also lying to God and likewise the Holy Spi
 
 We also see the matter of intent, that is the source of one's actions. Although the donating a portion of the proceeds was good, the intent was hypocritical, as they were trying to appear more generous than they actually were. In God's New Testament economy, the ends never justify the means.
 
-
+Furthermore, this account shows that even one who is saved can succumb to the deception of Satan, and even allow Satan to fill the heart (Acts 5:3).

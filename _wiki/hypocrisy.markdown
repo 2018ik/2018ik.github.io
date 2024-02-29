@@ -4,15 +4,15 @@ title: Hypocrisy
 permalink: /hypocrisy/
 ---
 - [Background](#background)
-- [Biblical Exampels](#biblical-exampels)
+- [Biblical Examples](#biblical-examples)
   - [Achan](#achan)
   - [Ananias](#ananias)
   
 ## Background
 
-Hypocrisy is to be contradictory in one's inward nature and outward appearance, for example in appearing outwardly righteous while remaining corrupt inwardly (Matt. 23:25-28). As a corollary, one's natural goodness and ability is false spirituality and is a great hindrance to the expression of the life of God.
+Hypocrisy is to be contradictory in one's inward nature and outward appearance, for example in appearing outwardly righteous while remaining corrupt inwardly (Matt. 23:25-28). As a corollary, one's natural goodness and ability is false spirituality and is a great hindrance to the expression of the life of God. Hypocrisy is usually rooted in ambition, where a person may want to appear to be spiritual or godly to gain the favor of men.
 
-## Biblical Exampels
+## Biblical Examples
 
 ### Achan
 

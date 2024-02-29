@@ -8,7 +8,7 @@ permalink: /ambition/
 
 ## Background
 
-Ambition is a natural human characteristic which is also the cause of Satan's rebellion. 
+**Ambition** is a natural human characteristic which is also the cause of Satan's rebellion. 
 
 ## Biblical Examples
 
