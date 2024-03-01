@@ -13,7 +13,11 @@ Salvation in the Bible is twofold: on one hand, there is an instant, one-time, j
 
 ## Judicially
 
-Christ died a substitutionary death for all mankind, as the wages of sin is death. However, the main purpose of this death is that it would be followed by resurrection. This can be seen in John 12:24 where Christ as the one grain died to release His life to produce many grains. Furthermore in John 19:34 not only blood but also water came out of the pierced side of Christ. 
+Christ died a substitutionary death for all mankind, as the wages of sin is death. However, the main purpose of this death is that it would be followed by resurrection i.e. for life to be imparted. This can be seen in John 12:24 where Christ as the one grain died to release His life to produce many grains. Furthermore in John 19:34 not only blood but also water came out of the pierced side of Christ. 
+
+The recognition of a judicial salvation is important, but it fails to take into consideration that the Triune God is an organic being. Human fathers with human sons possessing the same human breath or spirit is a shadow of the Father, Son and Holy Spirit. If God simply wanted a justifying work to render mankind righteous, then the labels given to the Trinity would just be labels of distinction with little real significance.
+
+However, the Bible recognizes that God is living and organic: in Christ was life (John 1:4) and Christ came that we may have life (John 10:10). God intends man to not only be righteous, but to have life (Rom. 1:17). This is a matter of God dispensing Himself as life into man in the process of organic salvation. 
 
 ## Organically
 

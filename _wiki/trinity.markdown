@@ -4,25 +4,29 @@ title: Trinity
 permalink: /trinity/
 ---
 - [Background](#background)
-- [Biblical  Basis](#biblical--basis)
-  - [Plurality](#plurality)
-  - [Coexistence](#coexistence)
+- [Coexistence](#coexistence)
+- [Coinherence](#coinherence)
+- [Cooperation](#cooperation)
 - [Function](#function)
 - [Related Terms](#related-terms)
 
 ## Background
 
-The **Divine Trinity** or Triune God is God Himself: the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understand with by man. Only the Father fully knows the Son and vice versa (Matt. 11:27). But actually, God is triune not for human understanding, but for the dispensing of Himself into man as life that the Body of Christ may be built up as His expression and enlargement.
+The **Divine Trinity** or Triune God is God Himself: the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man. Only the Father fully knows the Son and vice versa (Matt. 11:27). But actually, God is triune not for human understanding, but for the dispensing of Himself into man as life that the Body of Christ may be built up as His expression and enlargement.
 
-## Biblical  Basis
+## Coexistence
 
-In the beginning in Genesis, God's intention is revealed in His creation of man, as well as His person. In the New Testament, it is clear that God is triune, and the purpose behind the Trinity is revealed. Every significant operation of God's economy includes the three of the Trinity.
+The three of the Trinity all coexist simultaneously from eternity to eternity.
 
-### Plurality
+## Coinherence
 
-Even in the first verse of the Bible ("In the beginning, God created..."), we see a Triune God. The Hebrew word used for God *elohim* is grammatically plural, while the verb for created is singular. The fact that God is love also implies a plurality. Love requires both a subject and an object; the object of God the Father's love is the Son.
+The three of the Trinity coexist by coinhering, that is to mutually indwell one another and to exist as One. 
 
-### Coexistence
+## Cooperation
+
+Every significant operation of God's economy includes the three of the Trinity.
+
+In the beginning in Genesis, God's intention is revealed in His creation of man, as well as His person. In the New Testament, it is clear that God is triune, and the purpose behind the Trinity is revealed. Even in the first verse of the Bible ("In the beginning, God created..."), we see a Triune God. The Hebrew word used for God *elohim* is grammatically plural, while the verb for created is singular. The fact that God is love also implies a plurality. Love requires both a subject and an object; the object of God the Father's love is the Son.
 
 Genesis 1:2-3 following the first verse which reveals the Father then reveals the rest of the Triune God. The Spirit of God was explicitly stated to be brooding on the waters (Gen. 1:2). In verse three, God *said*, "Let there be light." God's word here implies the Son, who is the Word (John 1:1). Every operation of God is Triune - why did God need to say anything to create light? He had to create by the Son as the active instrument for everything to come into being.
 
@@ -40,7 +44,7 @@ John 14:16-17 says:
 
 This proves that the Father, Son, and Spirit all exist simultaneously, as the Son is able to ask the Father to send the Spirit.
 
-2 Corinthians 13:14 speaks of the grace of Christ the Son, the love of God the Father, and the fellowship of the Holy Spirit.
+2 Corinthians 13:14 speaks of the grace of Christ the Son, the love of God the Father, and the fellowship of the Holy Spirit. Love, grace, and fellowship are three items of one things; fellowship is the transmission of grace, and grace is the expression of love. 
 
 In Ephesians 1:3, God the Father blessed us *in Christ*. 
 
