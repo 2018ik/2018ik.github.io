@@ -12,7 +12,7 @@ permalink: /organic_union/
 
 ## Background
 
-The **organic union** refers to the life which God's regenerated people live in God's New Testament economy where they are joined to Christ in life, versus a judicial or legal joining. When one is organically joined to Christ, they are dead to the law, and are able to live Christ (Gal. 2:19). The only way to live to God is to be in an organic union with Christ. The only way for the organic union to be real in experience is through faith. This is not a natural faith which originates from man, but a faith that is of the Son of God (Gal. 2:20).
+The **organic union** refers to the life which God's regenerated people are joined to Christ in life through which they are one with the Triune God. This is versus a judicial or legal joining. When one is organically joined to Christ, they are dead to the law, and are able to live Christ (Gal. 2:19). The only way to live to God is to be in an organic union with Christ. The only way for the organic union to be real in experience is through faith. This is not a natural faith which originates from man, but a faith that is of the Son of God (Gal. 2:20).
 
 ## Biblical Basis
 

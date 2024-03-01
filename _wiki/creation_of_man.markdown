@@ -8,6 +8,7 @@ permalink: /creation_of_man/
   - [Genesis 1:26](#genesis-126)
   - [Genesis 2:7](#genesis-27)
   - [Genesis 2:9](#genesis-29)
+  - [Zechariah 12:1](#zechariah-121)
 
 ## Background
 
@@ -38,3 +39,7 @@ Then, the body is seen in the formation from the dust, and the soul is seen in m
 ### Genesis 2:9
 
 Man was placed in a garden with "every tree that is pleasant to the sight and good for food" as well as the tree of life and tree of the knowledge of good and evil. This shows that God created man with a free will, and His intention is for man to eat and enjoy, but more specifically to eat the tree of life. Man is actually just a vessel made in the image and likeness of God to contain God as food.
+
+### Zechariah 12:1
+
+God stretched forth the heavens, laid the foundations of the earth, and formed the spirit of man within him. This ordering shows that the heavens are for the earth, and the earth is for man. Without the heavens to give sunshine, air, and rain, the earth could not function, and humans cannot live. Likewise, without planet earth and the living things on earth, man could not live. Therefore, the purpose of creating all other things was actually for man, and especially for the center of man that is his spirit. 

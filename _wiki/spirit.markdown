@@ -4,6 +4,7 @@ title: Spirit (of God)
 permalink: /spirit/
 ---
 - [Background](#background)
+- [Etymology](#etymology)
 - [History](#history)
   - [Nicene Creed](#nicene-creed)
   - [Further Development](#further-development)
@@ -33,11 +34,13 @@ permalink: /spirit/
 
 ## Background
 
-The Spirit of God or Holy Spirit, is part of the Divine Trinity, along with the Father and Son. 
-
-Believers receive the Spirit when they are saved (Gal. 3:2) and every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7).
+The **Spirit** of God or Holy Spirit, is part of the Divine Trinity, along with the Father and Son. The Spirit is God Himself, as well as the essence and substance of God (John 4:24). Believers receive the Spirit when they are saved (Gal. 3:2) and every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7). The part of man in which the Spirit dwells is the human spirit (Rom. 8:16). 
 
 The revelation of the Spirit in the Bible is progressive. It begins with the Spirit of God in Genesis which only had the divinity of God, and ends with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
+
+## Etymology
+
+The words in the Bible for the Spirit of God and spirit of man are *ruach* and *pneuma* respectively in Hebrew and Greek. Besides Spirit (Ezek. 37:1; John 3:5-6), this word can also mean breath (Ezek. 37:5; Rev. 11:11) and wind (Ezek. 37:9; John 3:8).
 
 ## History 
 
