@@ -15,7 +15,9 @@ permalink: /morning_revival/
   - [Jeremiah](#jeremiah)
   - [Various Psalmists](#various-psalmists)
   - [Jesus](#jesus)
+- [Other Patterns](#other-patterns)
   - [George Muller](#george-muller)
+  - [Andrey Murray](#andrey-murray)
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
 - [How to Practice](#how-to-practice)
   - [Confession](#confession)
@@ -84,15 +86,21 @@ David set forth his words to Jehovah in the morning, that He would hear his voic
 
 ### Jesus
 
+## Other Patterns
+
 ### George Muller
 
-When he first started to contact the Lord in the morning, for the first 10 years he would just pray. This was not as profitable as his later experience. For the first 10 mins it would be hard for him to focus, after kneeling down and praying. 
+Muller once stayed a brother's home. He rose at six o'clock, but the other brother rose earlier than he did. He asked the brother why he rose so early, and he said "The book of Leviticus says that one cannot offer the dung of the sacrifices on the altar. I cannot offer my dung-hour to God." Dung-hours here refer to hours later in the day where it is easy to be occupied by other things. From that day, Muller prayed to have the strength to do the same, and agreed that if a young Christian does not rise early in the morning, he cannot grow.
 
-He then learned a secret: after 10 years, he learned to use the Word. He would come to the Lord in the Word, and every morning he would just come to the Word. When he would come he would first offer up a little prayer, then meditate on the Word. He took every verse, and his goal was to get the blessing and supply out of each verse. The result of this is that there is always a good deal of confession, thanksgiving, supplication or intercession mingled with his meditation.
+When he first started to contact the Lord in the morning, for the first 10 years he would just pray. This was not as profitable as his later experience. For the first 10 mins it would be hard for him to focus, after kneeling down and praying. He then learned a secret: after 10 years, he learned to use the Word. He would come to the Lord in the Word, and every morning he would just come to the Word. When he would come he would first offer up a little prayer, then meditate on the Word. He took every verse, and his goal was to get the blessing and supply out of each verse. The result of this is that there is always a good deal of confession, thanksgiving, supplication or intercession mingled with his meditation.
 
 "And that my inner man is most invariably, and even most sensibly, nourished and strengthened"
 
 He would always be in a peaceful and happy state of heart after this morning revival, which he practiced prior to even breakfast. The first thing he worried about was how he might get his soul into a happy state, and how his inner man might be nourished. He found the Lord is often pleased to nourish him, and this spiritual food could also be used to feed others.
+
+### Andrey Murray
+
+Murray recounts that he once read that a person must first receive the Lord, then be filled with the Holy Spirit, and finally he must rise up early every morning. He later realized that all of these points were related: in order to have a sustained experience of the first and second points, he must rise up early.
 
 ### All those who are of any use in God's hands
 

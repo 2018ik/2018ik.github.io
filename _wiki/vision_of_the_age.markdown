@@ -5,7 +5,8 @@ permalink: /vision_of_the_age/
 ---
 - [Background](#background)
   - [Visions in the Bible](#visions-in-the-bible)
-    - [Noah's Ark](#noahs-ark)
+    - [Abel](#abel)
+    - [Noah](#noah)
     - [Moses](#moses)
     - [David](#david)
     - [Solomon](#solomon)
@@ -27,7 +28,7 @@ permalink: /vision_of_the_age/
 
 ## Background
 
-In every age there is the **vision of that age**, and believers must serve God according to this vision, to accomplish the things He wants to get done in that age. This vision refers to the overall vision and direction in that particular time. As God's work progresses through time, each vision inherits from the prior vision, consummating in the all-inheriting vision of the New Jerusalem.
+In every age there is the **vision of that age**, and believers must serve God according to this vision, to accomplish the things He wants to get done in that age. This vision refers to the overall vision and direction in that particular time. As God's work progresses through time, each vision inherits from the prior vision, consummating in the all-inheriting vision of the New Jerusalem. To serve God requires not only exercising oneself unto godliness, but also to see and follow the vision of the age (Acts 26:19).
 
 The Bible reveals that in every age He gives only one vision to man, and that God is not democratic in whom He chooses to receive divine revelation (Acts 26:19, Eph 1:17). In the Old Testament the vision flowed from Adam through Abel, Enosh, Enoch, Noah, Abraham, Jacob, Joseph, Moses, Joshua, Samuel, David, and the prophets. In the gospels, there was John the Baptist, then Jesus. In the beginning of the book of Acts, Peter was the only one who spoke for God. By Acts 13, God raised up Paul who saw the Body of Christ. Lastly, in Revelation, John saw the vision of the New Jerusalem. 
  
@@ -37,9 +38,13 @@ As in Noah's ark, in God's building there is only "one window" - one revelation 
 
 ### Visions in the Bible
 
-#### Noah's Ark
+#### Abel
 
-Noah received a vision from God concerning what God wanted to at that particular time. He wanted a new beginning with mankind through Noah, so He gave him the vision of the ark. The commission here is to do the building work.  
+Cain and Abel both served God according to a vision. However, God only favored Abel's offering since it was according to the vision of the age. Both siblings had similarly good intentions in their offerings, but nonetheless, God only favored Abel. Therefore, when serving God today, it is important to be serving under the proper vision of today. Having a good heart is not enough, one must not only have a good heart, but be open to God's speaking and the vision of the age.
+
+#### Noah
+
+Noah received a vision from God concerning what God wanted to at that particular time. He wanted a new beginning with mankind through Noah, so He gave him the vision of the ark. The commission here is to do the building work. In Noah's age, is it possible that there are no one besides the eight who entered into the ark worshipped or feared God? There were likely other worshippers, but none of them were serving under the proper vision of the age, which was to build the ark, and as a result, they faced the consequences. 
 
 #### Moses
 
@@ -69,7 +74,7 @@ Paul saw a vision, and he was not disobedient to it (Acts 26:19). He saw a physi
 
 #### John
 
-John saw the vision of the New Jerusalem in his 90s, as he wrote in the Book of Revelation.
+John saw the vision of the New Jerusalem in his 90s, as he wrote in the Book of Revelation. This is the consummation of God's economy, and the final scene in the Bible. This is why at the end of Revelation John says that nothing can be added to or deleted from this book (Rev. 2:18-19)
 
 ### Further Visions
 
