@@ -55,6 +55,8 @@ permalink: /quotes/
 
 >Don't correct, don't impose, don't suggest, just live Christ!
 
+>When I entered the church life, many saints shepherded me. But I'm sorry to say, I don't remember anything that they taught; I only remember who they are and how they lived.
+
 ## Miscellaneous
 
 >For the Lord to forgive us, and to cleanse us of our sins is not difficult. But for Him to break through the self to dispense Himself into that part of our heart is the greatest mountain.

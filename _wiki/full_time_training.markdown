@@ -15,7 +15,7 @@ permalink: /ftta/
   - [Team-only Fellowship](#team-only-fellowship)
 - [Meetings](#meetings)
 - [Testimonies](#testimonies)
-  - [Testimony #2](#testimony-2)
+  - [Testimony #1](#testimony-1)
 
 >"Buy truth and do not sell it"
 
@@ -86,7 +86,7 @@ There are some young people who are left with a positive impression by the train
 
 ## Testimonies
 
-### Testimony #2
+### Testimony #1
 
 > When I was in graduate school, a brother I knew was driving through the city, and he called me to go to the park to eat hamburgers. He said, "I heard you were going to the FTTA." I said, "yes." He warned me about two temptations that would come up in my last semester in college to try and derail my intentions to go the training. And he was right, both of those things came up. But the Lord used his word and his prayer to keep me on track to come to the training. I'm sure many of you can testify the same thing. We made it here because of the shepherding of the saints. We are here not as individuals, but as members of the Body who have received the care of the Body. Of course we also need to thank the Lord for all the persons, matters and things that he has sovereignly arranged in our environment that caused us to realize we need to be trained. You may call them failures, I call them God's sovereign arrangement.
 >

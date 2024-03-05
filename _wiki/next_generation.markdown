@@ -36,6 +36,8 @@ In Daniel, even Nebuchadnezzar saw the importance of young people, which is why 
 
 The key requirement as with anything in God's economy is to have a vision for one's service. The minimum capital required to work is to have a heart (2 Cor. 6:11). This does not mean personal preference, but to see a genuine importance and value of the young people work. If someone see this, then spontaneously they will have a heart for it.
 
+Practically, everyday one must have a private and personal contact with the Lord. One's history of love, as in Song of Songs, comes from opening to the Lord every single day that He could expose us and deal with us. Then, one should get into the word, build a proper character, and flee from youthful lusts.
+
 ## Categories
 
 ### Children

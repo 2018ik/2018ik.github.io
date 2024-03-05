@@ -9,6 +9,8 @@ permalink: /creation_of_man/
   - [Genesis 2:7](#genesis-27)
   - [Genesis 2:9](#genesis-29)
   - [Zechariah 12:1](#zechariah-121)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -43,3 +45,9 @@ Man was placed in a garden with "every tree that is pleasant to the sight and go
 ### Zechariah 12:1
 
 God stretched forth the heavens, laid the foundations of the earth, and formed the spirit of man within him. This ordering shows that the heavens are for the earth, and the earth is for man. Without the heavens to give sunshine, air, and rain, the earth could not function, and humans cannot live. Likewise, without planet earth and the living things on earth, man could not live. Therefore, the purpose of creating all other things was actually for man, and especially for the center of man that is his spirit. 
+
+## Testimonies
+
+### Testimony #1
+
+>My children recently got me one of these things [holds up air pods]. These can be used for many things, for example as a bookmark, if you have a really thick book or something. If you open it up, and then take out one of them you can even use it to stir. But the creator's intention behind this is actually to stick the earbuds into the ear to listen to things. Likewise, so many people don't see God's intention for man. If there is a God, there must be a way for Him to reveal His intention. Well, the Bible is the complete written divine revelation from God to man. The Bible is the basis for all our fellowship and classes in the training, we don't use anything else, we take the Bible as our basis. The Bible speaks directly about the eternal purpose of our God. If I was you, I would ask "what is the eternal purpose of God?" I know my purpose; everyone lives according to their purpose. But what is God's purpose in the creation of man and in the creation of the universe? God is not a purposeless God, He does not create things at random. Man does not do that either, and because man is made in the image of God, surely it follows that God creates with a purpose and intention. Sometimes we are focused on our own purpose, we want to see what is the eternal purpose of God. Ephesians 3:11 says that God has an eternal purpose throughout the ages. 
