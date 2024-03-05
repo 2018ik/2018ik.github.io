@@ -4,9 +4,12 @@ title: Trinity
 permalink: /trinity/
 ---
 - [Background](#background)
-- [Coexistence](#coexistence)
-- [Coinherence](#coinherence)
-- [Cooperation](#cooperation)
+- [Importance](#importance)
+- [Characteristics](#characteristics)
+  - [Coexistence](#coexistence)
+  - [Coinherence](#coinherence)
+  - [Oneness](#oneness)
+  - [Cooperation](#cooperation)
 - [Function](#function)
 - [Related Terms](#related-terms)
 
@@ -14,15 +17,36 @@ permalink: /trinity/
 
 The **Divine Trinity** or Triune God is God Himself: the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man. Only the Father fully knows the Son and vice versa (Matt. 11:27). But actually, God is triune not for human understanding, but for the dispensing of Himself into man as life that the Body of Christ may be built up as His expression and enlargement.
 
-## Coexistence
+## Importance
 
-The three of the Trinity coexist simultaneously from eternity to eternity.
+The Trinity is the framework of the Bible and is indispensible for its understanding. Many genuine Christians as well as theologians are subconsciously tritheistic in their understanding of the Trinity.  One's experience and gaining of Christ cannot surpass their knowledge and revelation of Christ (Phil. 3:8). 
 
-## Coinherence
+## Characteristics
 
-The three of the Trinity coexist by coinhering, that is to mutually indwell one another and to exist as One. 
+### Coexistence
 
-## Cooperation
+The three of the Trinity coexist simultaneously from eternity to eternity. This means that the Father, the Son and the Spirit are God and exist eternally.
+
+| Hypostasis | Being God | Being Eternal |
+| --- | --- | --- |
+| Father |  | Isaiah 9:6 says "eternal Father." |
+| Son | John 1:1 says that the Word, the Son was God. Acts 20:28 says that God obtained the church through His own blood showing that the Son possessing flesh and blood is God Himself. | John 1:1-2 says that the Word was in the beginning with God. Hebrews 7:3 shows that the Son of God is without father and mother, having neither beginning of days nor end of life. Furthermore, the very existence of an eternal Father implies an eternal Son, since a father is only so because he has a son. |
+| Spirit | | Hebrews 9:14 says "eternal Spirit." |
+
+
+
+### Coinherence
+
+The three of the Trinity coexist by coinhering, that is to mutually indwell one another and to exist as One. This is the divine incorporation of God and man.
+
+### Oneness
+
+The three of the Trinity are actually just plainly One and the same in their nature and being, inseparable yet distinct. Verses in the Old Testament explicitly indicate that there is one God (Isa. 45:5; Psa. 86:10).  
+
+Furthermore, the hypostases of the Trinity are identified with each other. Isaiah 9:6 identifies the Son with the Father, and John 10:30 says the Son and Father are One. 2 Corinthians 3:17 identifies the Son with the Spirit. Acts 8:16 identifies the Lord Jesus with the entire Triune God when cross referenced with Matthew 28:19.
+
+
+### Cooperation
 
 Every significant operation of God's economy includes the three of the Trinity.
 
@@ -30,9 +54,11 @@ In the beginning in Genesis, God's intention is revealed in His creation of man,
 
 Genesis 1:2-3 following the first verse which reveals the Father then reveals the rest of the Triune God. The Spirit of God was explicitly stated to be brooding on the waters (Gen. 1:2). In verse three, God *said*, "Let there be light." God's word here implies the Son, who is the Word (John 1:1). Every operation of God is Triune - why did God need to say anything to create light? He had to create by the Son as the active instrument for everything to come into being.
 
+In Genesis 1:26 when creating man, God says let *Us* make man in our image. This is also not the only time that the plural pronoun *Us* is used to refer to God (Isa. 6:8; Gen. 3:22; 11:7).
+
 God as the God of Abraham, Isaac and Jacob also implies the Trinity as the Father, Son and Spirit. God called Abraham as the Father. Isaac as the son of Abraham inherited all that his father had and accomplished the will of his father. Jacob experienced a great work of transformation which corresponds to the transformative work of the Spirit.
 
-In Matthew 12:18, the Lord Jesus casts out demons by the Spirit of God. Then, the kingdom that comes is not the kingdom of the son, but the kingdom of God.
+In Matthew 12:18, the Lord Jesus casts out demons by the Spirit of God. Then, the kingdom that comes is not the kingdom of the son, but the kingdom of God. Then, in 28:19, baptism is in the name of the Father, Son and Holy Spirit.
 
 Luke 15 TODO
 
