@@ -8,6 +8,6 @@ permalink: /vine/
 
 ## Background
 
-The **vine** represents God and along with the branches shows an organic union between God and man (John 15). The branches live by the life of the vine and the vine flows out its life through the branches and bears fruit through the branches. 
+The **vine** in John 15 represents the Son and along with the branches shows an organic union between God and man. The branches live by the life of the vine and the vine flows its life through the branches and bears fruit through the branches. 
 
 ## Significance

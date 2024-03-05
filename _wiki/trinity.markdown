@@ -16,7 +16,7 @@ The **Divine Trinity** or Triune God is God Himself: the three hypostases of the
 
 ## Coexistence
 
-The three of the Trinity all coexist simultaneously from eternity to eternity.
+The three of the Trinity coexist simultaneously from eternity to eternity.
 
 ## Coinherence
 

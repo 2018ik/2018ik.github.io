@@ -15,7 +15,7 @@ permalink: /new_jerusalem/
 
 ## Background
 
-The **New Jerusalem** is the complete expression and enlargement of the processed Triune God mingled with the believers, not a physical city. As the final vision given to John, the New Jerusalem is the greatest and ultimate sign in the scriptures (Rev. 1:1).
+The **New Jerusalem** is the complete expression and enlargement of the processed Triune God mingled with the believers. It is not a physical city or place, but the bride of God in eternity (Rev. 21:2). As the final vision given to John, the New Jerusalem is the greatest and ultimate sign in the scriptures (Rev. 1:1).
 
 Christians often believe that they will end up in heaven, and there will be some kind of mansion, golden streets, etc. Similarly, we may have certain concepts regarding the New Jerusalem. But the Bible tells us that the New Jerusalem is a lot more than just a city. If we miss this, then we are missing a rich gospel that the Lord is showing us.
 
