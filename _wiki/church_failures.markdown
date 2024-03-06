@@ -8,7 +8,7 @@ permalink: /church_failures/
 
 ## Background
 
-There are many **failures** of the early church recorded in the New Testament such as hypocrisy and bringing back the law/Jewish practices. 
+There are many **failures** of the early church recorded in the New Testament such as hypocrisy and bringing back the law/Jewish practices. Eventually, these failures would result in the degradation of the church, not only in singular events of failure but the cutting off of the life, living and growth of the church. Such degradation can be seen in the six of the seven churches in Revelation chapters 2 and 3.
 
 ## Significance
 
