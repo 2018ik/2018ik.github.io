@@ -33,7 +33,7 @@ John 15 has a picture of the vine and fruit-bearing. The Lord not only charged t
 
 ## Practice
 
-Practicing the God-ordained way is not an outward matter, actually it is a living which requires a personal and affectionate relationship with God. The below steps should be executed with a view of God's economy and in newness of life, otherwise it is a mere facsimile and a movement. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer.
+Practicing the God-ordained way is not an outward matter, actually it is a living which requires a personal and affectionate relationship with God. The below steps should be executed with a view of God's economy and in newness of life, otherwise it is a mere facsimile and a movement. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer to have a personal relationship with the Lord.
 
 Generally speaking however, for each step one must first see the vision, so their work is backed by a divine commission. Then, they must pray, followed by labor. This is a patient, persistent and faithful work to preach the gospel and to bear lasting fruit. Much like a farmer, one must appreciate the fruits of their labor and care for their fields to yield a consistent harvest. Lastly, one must study their results, and study the truth. 
 
@@ -41,7 +41,9 @@ Generally speaking however, for each step one must first see the vision, so thei
 
 #### Begetting
 
-The first step is to preach the gospel as New Testament priests (Rom. 15:16) to obtain the material for the building. This is to have sinners saved and regenerated to become members of the Body of Christ. 
+The first step is to preach the gospel as New Testament priests (Rom. 15:16) to obtain material for the building. This is to have sinners saved and regenerated to become members of the Body of Christ. 
+
+This is the easiest step in the God-ordained way. Simply to save someone, and then to leave them to die in the wilderness is not difficult. The true difficulty lies in raising this newborn child to adulthood through nourishing and perfecting. Some  good at preaching the gospel, but are unwilling to take care of the ones whom they save 
 
 #### Nourishing
 
@@ -49,7 +51,7 @@ After being saved, the believers need to grow in the divine life. After a new ch
 
 #### Perfecting
 
-Perfecting is to allow the new believers to build up the Body of Christ. The primary role of the gifted ones is to perfect the saints for the building (Eph. 4:11-12).
+Perfecting is to allow the new believers to build up the Body of Christ. The primary role of the gifted ones is to perfect the saints for the building (Eph. 4:11-12). 
 
 #### Building
 

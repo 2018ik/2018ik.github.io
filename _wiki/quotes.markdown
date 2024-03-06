@@ -65,6 +65,8 @@ permalink: /quotes/
 
 >God doesn't want to do something for you, He wants to be something in you.
 
+>If you have never wept before the Lord, that is not normal.
+
 ## Love
 
 >If you say that you love the Lord, yet year by year you remain the same, I do not believe you.
