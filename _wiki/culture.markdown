@@ -12,6 +12,8 @@ permalink: /culture/
 
 **Culture** is closely related to law and can be a veil that easily distracts from Christ (Col. 2:8). These are national characteristics and ways of thinking which people live by without any realization. Paul repeatedly warns in his epistles that culture, the tradition of men, distracts from Christ.
 
+Even "church culture" can distract from Christ. For example, singing hymns and praying before a meeting can be an outward form, rather than an issue of following the spirit. Only if one's spirit leads them to sing, call on the Lord or testify should they do so.
+
 On the other hand, people must be governed by the standards of culture before they receive Christ. Honoring parents, loving their family, being good students, behaving respectfully etc., are all elements of American culture, and serve as a child-conductor onto Christ (Gal. 3:24). This especially applies to children.
 
 ## History

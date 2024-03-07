@@ -10,12 +10,13 @@ permalink: /church_degradation/
   - [Greed](#greed)
   - [Heresies](#heresies)
   - [Hypocrisy](#hypocrisy)
+  - [Ambition](#ambition)
   - [Judaism](#judaism)
   - [Losing the First Love](#losing-the-first-love)
 
 ## Background
 
-The **degradation** of the early church seeped in quickly due to the traditions of men, and the nature of man to do what is right in their own eyes. The reason why all of Paul's epistles were written were not only to edify the believers, but to admonish them to counteract the degradation of the church. 
+The **degradation** of the early church seeped in quickly due to the traditions of men, and the nature of man to do what is right in their own eyes. Unlike disparate failures, the degradation of the church cuts off the life source of the church. When the church cares so much about other things, such as non-biblical philosophies and rituals, they lose their appreciation and gaining of Christ, thus cutting off the source of life and becoming degraded. The reason why all of Paul's epistles were written were not only to edify the believers, but to admonish them to counteract the degradation of the church. 
 
 ## Causes
 
@@ -37,7 +38,11 @@ On one hand, there were different teachings which emphasized things beyond the c
 
 ### Hypocrisy
 
-Having only the outward form of Godliness (2 Tim. 3:1-7)
+Having only the outward form of Godliness (2 Tim. 3:1-7).
+
+### Ambition
+
+Many in the early church wanted to be first, and elevated themselves above others (e.g. the Nicolaitans).
 
 ### Judaism
 
