@@ -64,7 +64,9 @@ People from the world drink away their problems - with alcohol, with various oth
 
 \- Acts 20:7
 
-The table meeting is the most important meeting of the church, as it is the meeting which the Lord Jesus Himself instituted. This is the New Testament replacement of the feast of the passover, as the first day of the feast of the unleavened bread was the same as the feast of the passover. The Lord Jesus is the reality of the passover (1 Cor 5:??).
+The table meeting is the most important meeting of the church, as it is the meeting which the Lord Jesus Himself instituted. This is the New Testament replacement of the Feast of the Passover, as historically, the Feast of the Unleavened Bread and Passover began on the same day. The Lord Jesus is the reality of the passover (1 Cor 5:??).
+
+The table meeting is one hour out of a 168 hour week where one can be fully locked-in and concentrated on remembering God.
 
 ### Lord's Supper
 
@@ -85,3 +87,9 @@ The Lord's supper is an aspect of the Lord's table for the remembrance of the Lo
 >A number of years ago a well meaning saint purchased two tickets for my family to see the play "Christmas Carol" one saturday afternoon. I was trying not to be late since I didn't want a significant price paid by this dear saint to go to waste and I was getting a little nervous because there was considerable traffic that I didn't forsee. But the Lord seemed to be saying in a very living way: "Don't you see there's a feast that I've prepared by paying the highest price that is My precious blood?"
 >
 >It is by the precious blood of Christ that the new covenant was established so that we may drink of the cup of blessing the cup of salvation in which God in Christ is our eternal portion and our inheritance. I was so convicted - oh Lord save me from my indifference to the table meeting. I would like to honor your table, honor your supper. What is this clay to the feast of love divine?
+
+>I cry almost every week singing hymns at the Lord's table. Song 12, what is that - it says continually breathe can you come to me. So sing - don't sing with the hymnal. You know you call number 7, and they sing "Glory, glory to the Father..." and they are just staring at the hymnal. Including all the people who have been here for 45 years. You know once I went around during the singing and just closed everyone's hymnals. Also don't just move your jaw, move your spirit. 
+>
+>Another pet peeve I have is that in 50 minutes of the Lord's table we call like 8 or 9 hymns. We just sing the hymn like 203 or 501, pray a little bit and someone calls another hymn. You gotta be kidding me, you know how many suffering and revelation and experience went into that hymn, and you just call another hymn? Don't just read the hymn - the Bible says *speak* to one another in psalms and hymns. I just have feeling for this, I hate formality. Formality reminds me of formaldehyde: it preserves dead things. You know why you like formality? Because you're comfortable with it. There's no escape from formality except the exercise of the spirit. Don't be formal, come to the table - don't be different purposely - exercise your spirit.
+>
+>Obviously exhorting this is not going to do much. I practice the things I say, and the others will hopefully receive the pattern osmotically. One of the things I do is I don't stand up and repeat a hymn. I stand up and share a point see there's a big difference. Have a breakthrough. We're so formal! Why don't we shout? Don't pray so much - praise! Prayer is based on one's subjective personal experience at a particular moment, praise is based on God's objective position in victory.
