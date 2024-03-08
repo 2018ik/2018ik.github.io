@@ -136,7 +136,7 @@ Our morning time should not just be in our thoughts; it is not a mental exercise
 
 ### Less Doing
 
-The first step is to contact the Lord; don't start doing your morning routine, or by telling the Lord the various things you are doing to accomplish today. Begin by coming to Him and enjoy His presence.
+The first step is to contact the Lord; don't start doing your morning routine, or by telling the Lord the various things you are doing to accomplish today. Begin by coming to Him and enjoy His presence. It is easy to be distracted and stuck in one's wandering mind; therefore, one exercise to stop and to turn back to God. 
 
 ### Don't Set High Standards
 

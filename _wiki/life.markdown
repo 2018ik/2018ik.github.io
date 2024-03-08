@@ -4,11 +4,20 @@ title: Life
 permalink: /life/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Divine Life](#divine-life)
 
 ## Background
 
-**Life** in the Bible most significantly refers to the divine life (Greek: *zoe*), though there is also the biological life (Greek: *bios*) and psychological life (Greek: *psuche*). The entire Bible is a book of life; to understand God, one must understand and appreciate the matter of life. 
+**Life** in the Bible most significantly refers to the divine life (Greek: *zoe*), though there is also the biological life (Greek: *bios*) and psychological life (Greek: *psuche*). The entire Bible is a book of life; to understand God, one must understand and appreciate the matter of life. Many people talk about "spiritual experiences" but very few consider experiencing life. 
+
+The New Testament reveals Christ as "the life" and the Spirit of God is now called the "Spirit of life" and the "life-giving Spirit" (Rom. 8:2; 1 Cor. 15:45). For a person to receive life is therefore to receive the Christ as the Spirit of the Triune God. 
+
+## Significance
+
+A person can say that have had Christian experiences such as repenting. But the difference between the repentance of a worldly person and one of a true Christian is that true repentance touches God. It is not a mere change in direction and a dropping of one's old way of living. It is an experience where we meet God, and something of God Himself is mingled with us, and thus experience the divine life of God.
+
+Paul experienced the resurrection life of Christ in Galatians 2:20. The principle here is not that Paul is dropping his old way of living, but that his life and God's life become one, such that it is no longer *I* (the old man) who lives but the life which *I* (the new man) lives I live in faith.
 
 ## Divine Life
 
