@@ -13,6 +13,7 @@ permalink: /spirit/
 - [Essence vs Economy](#essence-vs-economy)
 - [Titles](#titles)
   - [Holy Spirit](#holy-spirit)
+  - [Spirit of Holiness](#spirit-of-holiness)
   - [Spirit of God](#spirit-of-god)
   - [Spirit of Jehovah](#spirit-of-jehovah)
   - [Lord Spirit](#lord-spirit)
@@ -34,9 +35,15 @@ permalink: /spirit/
 
 ## Background
 
-The **Spirit** of God or Holy Spirit, is part of the Divine Trinity, along with the Father and Son. The Spirit is God Himself, as well as the essence and substance of God (John 4:24). Believers receive the Spirit when they are saved (Gal. 3:2) and every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7). The part of man in which the Spirit dwells is the human spirit (Rom. 8:16). 
+The **Spirit** of God or Holy Spirit, is part of the Divine Trinity, along with the Father and Son (Matt. 28:19). The Spirit is God Himself, as well as the essence and substance of God (John 4:24). Believers receive the Spirit when they are saved (Gal. 3:2) and every aspect of the  Spirit is for man to enjoy Christ. In fact, the Spirit of God dwells in man (Rom. 8:9), gives life to man (Rom. 8:11; 1 Cor. 15:45) and speaks to man (Heb. 3:7). The part of man in which the Spirit of God dwells is the human spirit (Rom. 8:16). 
 
-The revelation of the Spirit in the Bible is progressive. It begins with the Spirit of God in Genesis which only had the divinity of God, and ends with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit.
+The revelation of the Spirit in the Bible is progressive. The Old Testament opens with the Spirit of God in God's creation of the universe (Gen. 1:2), and the New Testament ends with the sevenfold-intensified Spirit in Revelation, which is an all-inclusive Spirit. Five critical points concerning the Spirit of God that are not sufficiently understood in today's theology are:
+
+1. The Spirit that gives life that was "not yet" (John 7:39)
+2. The last Adam became a life-giving Spirit (1 Cor. 15:45)
+3. The compound Spirit typified by the holy anointing oil in Exodus 30
+4. The Spirit of life in Romans 8
+5. The seven Spirits in Revelation
 
 ## Etymology
 
@@ -46,19 +53,11 @@ The words in the Bible for the Spirit of God and spirit of man are *ruach* and *
 
 ### Nicene Creed
 
-The creeds in the early church were composed to describe what Christians believe because the believers were facing much persecution and needed to defend the faith. Thus, they composed creeds, short statements of faith, that were not intended to be prescriptive, but to describe what Christians to believe.
-
-Though they became prescriptive, that is they define the Christian. However, they were rather brief, and did not fully cover the matters of the Divine Trinity and the son of God Jesus Christ, bringing about much contention.
-
-The question of how God could be three yet one, and how each included the other became a major focus of the early church.
-
-Because these creeds were written in the earlier church where the Trinity was the main matter of focus, not much was spoken regarding the Spirit. For example, the Nicene Creed only speaks regarding the Spirit superficially, stating merely that they believed in the Holy Spirit without anything else said of the Spirit. Later, the council of Constantinople further confirmed the deity of the Spirit.
+The Apostle's creed and the Nicene creed in the early third century affirms the existence and belief of the Holy Spirit, but does not elaborate on the purpose of the Spirit. Because these creeds were written in the earlier church where the Trinity was the main matter of focus, not much was spoken regarding the Spirit. Later, the council of Constantinople further confirmed the deity of the Spirit.
 
 ### Further Development
 
-The early church continued to affirm that the Spirit is distinct and has a particular function, but also that the Trinity is inseparable and mutually indwelled one another.
-
-In general, the five agreed upon creeds regarding the Spirit's place in the Trinity were:
+The early church continued to affirm that the Spirit is distinct and has a particular function, but was very unclear regarding the truth. Gregory Nazianzus, a early church father in the fourth century, said the some called the Spirit an Activity, some a Creature, some a form, others God. In general, the five agreed upon creeds regarding the Spirit's place in the Trinity were:
 
 1. The deity of the Spirit
 2. Oneness with Son and Father
@@ -66,9 +65,9 @@ In general, the five agreed upon creeds regarding the Spirit's place in the Trin
 4. Eternal inseparability
 5. Working together as one
 
-However, there was not much understanding of the Spirit; some believed that the Spirit was separate from the Son and represents the Son. This is tritheism - an emphasis of the three as separate gods. For example, some viewed the Spirit as the "Cinderella" of the story, which went out on its own, leaving the Father and Son behind. 
+However, this is a very inorganic understanding of the Trinity; some believed that the Spirit was separate from the Son and represents the Son. This is tritheism - an emphasis of the three as separate gods. For example, some viewed the Spirit as the "Cinderella" of the story, which went out on its own, leaving the Father and Son behind. 
 
-In the 1800s, it became generally accepted and widely considered that in resurrection the Son *became* the life-giving Spirit. It was also revealed the the Spirit makes Christ present to the believers, and that the Trinity operates as one.
+In the 1800s, it became generally acceptable and considered that in resurrection the Son *became* the life-giving Spirit. It was also revealed the the Spirit makes Christ present to the believers, and that the Trinity operates as one.
 
 ### The Spirit of Christ
 
@@ -76,7 +75,7 @@ Finally, it was recovered in the 1950s that humanity is now in the Spirit, and t
 
 Chapter 5 of *The Spirit of Christ* by Andrew Murray, a dutch reformer who lived in South Africa in the 1800s, reveals that the Spirit now as the Spirit of the glorified Jesus had the glorified humanity of Jesus added to it. So when the Spirit comes to humanity it contains the person of Christ in His humanity. The truth that Christ is the Spirit is arguably the greatest truth recovered in the nineteenth century.
 
-In verse 39, we see the "Spirit was not yet, because Jesus had not yet been glorified." This is not that Christ as glorified, which became the requirement to *send* the Spirit, but the Spirit was *not yet*. The Spirit is eternal, and clearly operating in the Old Testament as a person of the Trinity. So in what sense was the Spirit "not yet" before Jesus was glorified?
+In verse 39, we see the "Spirit was not yet, because Jesus had not yet been glorified." This is not that Christ as glorified, which became the requirement to *send* the Spirit, but the Spirit was *not yet*. The Spirit is eternal, and clearly operating in the Old Testament as a person of the Trinity. So in what sense was the Spirit "not yet" before Jesus was glorified? It had not yet entered the believers to flow out as rivers of living water (John 7:38).
 
 When Jesus was incarnated, he lived a sinless life as the God man; he was anointed by the Spirit in baptism; he lived a human life, died, resurrected, and all of these things were processed into Him; all of these human experiences were constituted and compounded into Him. 
 
@@ -102,11 +101,21 @@ The Holy Spirit is referred to by many titles, each denoting a specific aspect o
 
 ### Holy Spirit
 
+The Holy Spirit in the Greek is written as "the Spirit the Holy" or "the Holy Spirit." This means that the very God who is the Spirit is "the Holy." In the Old Testament, God could make people holy outwardly, separated unto Him, but could not make them one with Him. In the New Testament, God can go further to make man one with Him. 
+
+This is the Spirit which filled John the Baptist from his mother's womb (Luke 1:15) and of which Jesus was begotten (Matt. 1:20). 
+
+### Spirit of Holiness
+
+The Spirit of Holiness in the Old Testament is for making His people holy (Psa. 51:11; Isa. 63:10-11).
+
 ### Spirit of God
 
 This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding above the waters. This is also the Spirit of the creator, and was at that point located outside of man. This Spirit was "not yet" (John 7:39). However, this one is now in us as the Spirit of Christ.
 
 ### Spirit of Jehovah
+
+The Spirit of Jehovah in the Old Testament is Gods reaching and caring for His people (Judg. 3:10; 6:34). The title *Jehovah* means "He who is who He is" i.e. the eternal "I Am." God appearing to Moses as "I Am who I Am" is to indicate that if Moses had a need for anything, God would supply. He is everything and takes care of man's every need.
 
 ### Lord Spirit
 
@@ -146,7 +155,7 @@ The Spirit has power without economically. This spirit of power in Acts 1:8 allo
 
 ### Compound Spirit
 
-This can be illustrated by the hin of olive oil and the four spices. When the ingredients were separated, the Spirit was not yet. After the spices are compounded into the oil, it is now the compound oil, able to anoint and signifies the compound Spirit.
+This can be illustrated by the hin of olive oil and the four spices in Exodus 30. The olive oil typifies the Spirit of God in essence; the four spices typify the processes which Christ went through in incarnation, human living, crucifixion etc. When the ingredients were separated, the Spirit was not yet. After the spices are compounded into the oil through His resurrection, it is now a compound oil, capable of anointing and signifies the compound Spirit.
 
 ### Seven Spirits
 

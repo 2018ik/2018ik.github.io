@@ -16,7 +16,7 @@ permalink: /full_ministry_of_christ/
 
 The **full ministry of Christ** is His ministry which spans from His incarnation to the New Jerusalem. This can be divided in various ways, most significantly in the three divine and mystical stages of incarnation, inclusion and intensification. These stages reflect God entering into time to carry out His economical operation.
 
-What the Lord's Recovery is, and what it will be, depends on how we handle the teaching concerning the full ministry of Christ in three divine and mystical stages.
+What the Lord's Recovery is, and what it will be, depends on how we handle the teaching concerning the full ministry of Christ in three divine and mystical stages. This is because all that Christ has gone through is now compounded into the life-giving Spirit which is made real to us. If we do not know the full ministry of Christ, this ministry cannot be made real to us an expressed in our living through the Spirit of reality.
 
 ## In Three Stages
 
