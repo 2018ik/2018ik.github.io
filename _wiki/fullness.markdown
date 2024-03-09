@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: Fullness of the Godhead
-permalink: /fullness_of_godhead/
+title: Fullness
+permalink: /fullness/
 ---
 - [Background](#background)
 - [Significance](#significance)
@@ -10,9 +10,9 @@ permalink: /fullness_of_godhead/
 
 ## Background
 
-The fullness of the Godhead refers to the expression of the riches of the Godhead, that is the complete God of the Father, Son and Spirit.
+**Fullness** is the expression which comes from the completeness of riches. One one hand, Christ is unsearchably rich (Eph. 3:8), on the other hand, these riches must be made manifest by man. Within the first God-man, Christ Jesus, dwelt the fullness of the Godhead bodily (Col. 2:9); thus, He expressed the riches of the Godhead, the complete God, the Father, Son and Spirit. Likewise, for the Body of Christ to be the  fullness of the One who fills indicates that the Body is the expression of Christ.
 
-Christ is the intrinsic constituent of the Body of Christ, and is also the embodiment of the processed Triune God (Col. 2:9) with His unsearchable riches (Eph. 3:8). The fullness in Colossians 2:9 refers not to the riches of God but to the expression of the riches of God. Expressing the riches implies the content, therefore Christ contains both the riches of the Godhead as well as its expression.
+Likewise, the riches of Christ are like the food produced in America; they are not for exhibition but for eating. When Americans eat the food, they riches are digested and assimilated, and become part of their being. Thus, the riches are expressed as the fullness through the American people.
 
 ## Significance
 

@@ -14,7 +14,19 @@ permalink: /ephesians/
 
 ## Subject
 
-The main subject of the book of Ephesians is the Body of Christ. 
+The main subject of the book of Ephesians is the church in seven aspects:
+
+| Aspect | Description |
+| --- | --- |
+| The Body of Christ | The expression of Christ with a measurable stature |
+| The new man | The life and person of Christ |
+| The kingdom of God | Having rights and responsibilities |
+| The household of God | A family with life and enjoyment |
+| The dwelling place of God | For God to live in |
+| The bride and wife of Christ | For Christ's rest and satisfaction |
+| The warrior | To defeat the enemy to accomplish God's purpose | 
+
+*\*For all 11 aspects, see church*
 
 ## Topics
 

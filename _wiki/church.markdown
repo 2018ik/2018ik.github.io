@@ -8,6 +8,7 @@ permalink: /church/
 - [History](#history)
 - [Universal](#universal)
 - [Local](#local)
+- [Aspects](#aspects)
 
 ## Background
 
@@ -36,3 +37,19 @@ The universal church is formed, which is to produce something. When the Lord bre
 A local church is the universal church expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; this is the practical way in which the Body of Christ can be expressed.
 
 While the universal church was formed by God, local churches are established by His workers. Each one of the Lord's believers have the right to got to the uttermost parts of the earth to establish churches.
+
+## Aspects
+
+
+| Aspect | Description |
+| --- | --- |
+| The Body of Christ | The expression of Christ with a measurable stature |
+| The new man | The life and person of Christ |
+| The kingdom of God | Having rights and responsibilities |
+| The household of God | A family with life and enjoyment |
+| The dwelling place of God | For God to live in |
+| The bride and wife of Christ | For Christ's rest and satisfaction |
+| The warrior | To defeat the enemy to accomplish God's purpose | 
+| The man-child | |
+| The firstfruit | |
+| the holy city | |

@@ -23,6 +23,8 @@ Saved ones are actually added to the Lord (Acts 11:24). This is to be added to t
 
 A person's physical body is actually a picture of the body of Christ. Each member with its own function, such as a person's foot, ear and eye are part of the same Body, and is part of the same corporate Christ (1 Cor. 12:14-18).
 
+In Ephesians, the Body of Christ is described to be the fullness of Christ (Eph. 1:23). A person's body is his expression, and the expression also has a measurable stature (Eph. 4:13). The riches of Christ have no stature, but the Body of Christ as the expression is the fullness of the riches.
+
 ## Reality Today
 
 The reality of the Body of Christ refers to the experience of the consummated Body of Christ (the New Jerusalem) in the present day. The present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
