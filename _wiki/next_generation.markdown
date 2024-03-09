@@ -17,10 +17,9 @@ permalink: /next_generation/
 
 ## Background
 
-The **next generation** refers to the young ones in the church. Just like in real world economies, the next generation being properly raised and educated is crucial for sustaining the future of God's economy. 
-If the church doesn't care about the next generation, and only serve the adults, it will have no future. It may nonetheless gain many through the "front door" but will be leaking the young ones through the "back door." Furthermore, one will be more useful to the Lord if they are constituted with the truth since a young age. When caring for the young people, one must have faith that they will become useful; there is no point in judging which ones will be good and which ones will be bad. They all must be cared for.
+The **next generation** refers to the young ones in the church. Just like in real world economies, the next generation being properly raised and educated is crucial for sustaining the future of God's economy. If the church doesn't care about the next generation, and only serve the adults, it will have no future. It may nonetheless gain many through the "front door" but will be leaking the young ones through the "back door." Furthermore, one will be more useful to the Lord if they are constituted with the truth since a young age. When caring for the young people, one must have faith that they will become useful; there is no point in judging which ones will be good and which ones will be bad. They all must be cared for.
 
-Although [parents](../parenting) actually play the primary role in raising up the next generation, many homes don't know how to deal with their children, so the church has to come in and help. The church service of the next generation can be subdivided into three general age groups: the children, young people, and college students. Although this creates a distinction between these age groups, these are not disparate pipelines; there is only one Spirit, one work, and one flow (see: one piece work). The connection between these three works generates automatic role models where each age group can see and learn from the next.
+Although [parents](../parenting) actually play the primary role in raising up the next generation, many homes don't know how to deal with their children, so the church has to come in and help. The church service of the next generation can be subdivided into three general age groups: the children, young people, and college students. Children should be *prepared* to receive the truth, the young people should be *perfected* to speak the truth, and the college students should be able to *propagate* the truth by participating in the work. Although this creates a distinction between these age groups, these are not disparate pipelines; there is only one Spirit, one work, and one flow (see: one piece work). The connection between these three works generates automatic role models where each age group can see and learn from the next.
 
 ## History
 
@@ -34,9 +33,9 @@ In Daniel, even Nebuchadnezzar saw the importance of young people, which is why 
 
 ## Service
 
-The key requirement as with anything in God's economy is to have a vision for one's service. The minimum capital required to work is to have a heart (2 Cor. 6:11). This does not mean personal preference, but to see a genuine importance and value of the young people work. If someone see this, then spontaneously they will have a heart for it.
+The key requirement as with anything in God's economy is to have a vision for one's service. The minimum capital required to work is to have a heart (2 Cor. 6:11). This does not mean personal preference, but to see a genuine importance and value of the young people work. If someone see this, then spontaneously they will have a heart for it. In order to have such a heart, everyday one must have a private and personal contact with the Lord. One's history of love, as in Song of Songs, comes from opening to the Lord every single day that He could expose us and deal with us. Then, one should get into the word, build a proper character, and flee from youthful lusts.
 
-Practically, everyday one must have a private and personal contact with the Lord. One's history of love, as in Song of Songs, comes from opening to the Lord every single day that He could expose us and deal with us. Then, one should get into the word, build a proper character, and flee from youthful lusts.
+When shepherding the young ones, regulation is no doubt important, but regulation should be done through "feeding."  
 
 ## Categories
 
