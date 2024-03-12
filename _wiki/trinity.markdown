@@ -41,7 +41,7 @@ The mutual indwelling as outlined above is the divine incorporation of God and m
 
 ### Oneness
 
-The three of the Trinity are plainly One and the same in their nature and being, inseparable yet distinct. Verses in the Old Testament explicitly indicate that there is one God (Isa. 45:5; Psa. 86:10).  
+The three of the Trinity are plainly One and the same in their nature and being, inseparable yet distinct. This is based on the oneness of the divine essence (Greek: *ousia*) in the Godhead. Verses in the Old Testament explicitly indicate that there is one God (Isa. 45:5; Psa. 86:10).
 
 Furthermore, the hypostases of the Trinity are identified with each other. Isaiah 9:6 identifies the Son with the Father, and John 10:30 says the Son and Father are One. 2 Corinthians 3:17 identifies the Son with the Spirit. Acts 8:16 identifies the Lord Jesus with the entire Triune God when cross referenced with Matthew 28:19.
 

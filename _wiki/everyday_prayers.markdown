@@ -19,3 +19,5 @@ Lord, for the benefit of the ministry of Christ, give me the necessary experienc
 Make us ministers of the new covenant
 
 Make me a blessing to [insert locality here]
+
+Triune God reveal Yourself to me that I may behold your beauty as a member of the organic Body of Christ
