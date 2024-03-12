@@ -9,7 +9,9 @@ permalink: /idol/
 
 ## Background
 
-Idols are anything that one loves more than the Lord, and anything that replaces the Lord in their life. These are not just pictures on the wall or statues, as Ezekiel 14:3 says "these people have set up idols in their hearts." There can be many inherently unsinful and common things in the heart which replace the Lord. Idolatry is Satan's usurping of what God has given His chosen people in order to make it a waste. 
+**Idols** are anything that one loves more than the Lord, and anything that replaces the Lord in their life. These are not just pictures on the wall or statues, as Ezekiel 14:3 says "these people have set up idols in their hearts." There can be many inherently unsinful and common things in the heart which replace the Lord. Idolatry is Satan's usurping of what God has given His chosen people in order to make it a waste. 
+
+Seemingly un-idolatrous things can become idols: personal comfort, convenience, well-being, etc. When such things are taken away from faithful Christians, it is not God punishing them, but blessing them by taking away their idols. Many situations which God puts us into seem illogical and unreasonable, but they are God's provision to lead us away from the idols in our hearts to drink Him as the fountain of living waters (Jer. 2:13). This is a sign of His love.
 
 ## Five Principles
 
