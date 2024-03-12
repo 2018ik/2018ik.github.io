@@ -25,7 +25,7 @@ The Trinity is the framework of the Bible and is indispensible for its understan
 
 ### Coexistence
 
-The three of the Trinity coexist simultaneously from eternity to eternity. This means that the Father, the Son and the Spirit are God and exist eternally.
+The three of the Trinity coexist simultaneously from eternity to eternity. This means that the Father, the Son and the Spirit are God and exist eternally. There are many passages where the Father, Son and Spirit obviously all exist at the same point in time (Matt. 3:16-17; 2 Cor. 13:14; Eph. 3:14-17), but to prove the eternal coexistence of the Trinity we can simply show that all three hypostases are both God and both eternal.
 
 | Hypostasis | Being God | Being Eternal |
 | --- | --- | --- |
@@ -33,18 +33,17 @@ The three of the Trinity coexist simultaneously from eternity to eternity. This 
 | Son | John 1:1 says that the Word, the Son was God. Acts 20:28 says that God obtained the church through His own blood showing that the Son possessing flesh and blood is God Himself. | John 1:1-2 says that the Word was in the beginning with God. Hebrews 7:3 shows that the Son of God is without father and mother, having neither beginning of days nor end of life. Furthermore, the very existence of an eternal Father implies an eternal Son, since a father is only so because he has a son. |
 | Spirit | | Hebrews 9:14 says "eternal Spirit." |
 
-
-
 ### Coinherence
 
-The three of the Trinity coexist by coinhering, that is to mutually indwell one another and to exist as One. This is the divine incorporation of God and man.
+The three of the Trinity coexist by coinhering, that is to mutually indwell one another and to exist as One. Explicitly, the Bible only states that the Father is in the Son, and that Son is in the Father (John 14:10) and that the Son is the Spirit (1 Cor. 15:45; 2 Cor. 3:17). It can also be extrapolated that the Spirit is in the Son, as the Son coming as a tripartite God-man possessed the spirit of man in which the Spirit indwelled. However, it is not scriptural to state that the Son is "in" the Spirit, though such a statement can be argued as valid based on the oneness of the Three. 
+
+The mutual indwelling as outlined above is the divine incorporation of God and man.
 
 ### Oneness
 
-The three of the Trinity are actually just plainly One and the same in their nature and being, inseparable yet distinct. Verses in the Old Testament explicitly indicate that there is one God (Isa. 45:5; Psa. 86:10).  
+The three of the Trinity are plainly One and the same in their nature and being, inseparable yet distinct. Verses in the Old Testament explicitly indicate that there is one God (Isa. 45:5; Psa. 86:10).  
 
 Furthermore, the hypostases of the Trinity are identified with each other. Isaiah 9:6 identifies the Son with the Father, and John 10:30 says the Son and Father are One. 2 Corinthians 3:17 identifies the Son with the Spirit. Acts 8:16 identifies the Lord Jesus with the entire Triune God when cross referenced with Matthew 28:19.
-
 
 ### Cooperation
 

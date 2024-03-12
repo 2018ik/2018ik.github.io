@@ -7,7 +7,7 @@ permalink: /fellowship/
 - [Analogies](#analogies)
   - [Blood](#blood)
   - [Electricity](#electricity)
-  - [River](#river)
+  - [Water](#water)
 - [Vertical Fellowship](#vertical-fellowship)
 - [Horizontal Fellowship](#horizontal-fellowship)
 - [Benefits](#benefits)
