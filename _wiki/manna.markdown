@@ -10,7 +10,7 @@ permalink: /manna/
 
 ## Background
 
-Manna was given to the children of Israel as bread out of heaven after their exodus from Egypt (Exo. 16:4). The Israelites were constituted with the Egyptian diet after eating that way for centuries, and therefore had to be reconstituted with God's element.
+**Manna** was a heavenly food given to the children of Israel described as "bread out of heaven" after their exodus from Egypt (Exo. 16:4). The Israelites were constituted with the Egyptian diet after eating that way for centuries, and therefore had to be reconstituted with God's element.
 
 ## Significance
 
