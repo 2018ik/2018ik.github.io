@@ -16,7 +16,7 @@ permalink: /love/
 
 ## Background
 
-**Loving** the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from one's natural self, but a divine life which comes from God Himself as the Spirit of love (Col. 1:8). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
+**Loving** the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from one's natural  self, but a divine life which comes from God Himself as the Spirit of love who puts real love into the heart (Col. 1:8; Rom. 5:5). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
 
 Between faith, hope and love, the greatest is love (1 Cor. 13:13).
 
