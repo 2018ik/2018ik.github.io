@@ -19,13 +19,13 @@ Christ replaces the law and there is no reason to keep the law (Gal 2:16). Justi
 
 ## Chapter 3
 
-Chapter 3 verse 2 is the first time the Spirit is mentioned in Galatians. Whereas prior Christ is revealed, now it is the Spirit; while the first two chapters deal with God's economy, chapter 3 unfolds the experience of life.
+In the first few verses, Paul may have been righteously angry ("foolish Galatians" in verse 1) as he argues with rhetorical questions asking whether the Spirit is received by works of law or faith. Given that the Galatians were saved and received the Spirit, it was absurd that they would still attempt to perfect themselves by the flesh (Gal. 3:3).
 
-In the first few verses, Paul may have been righteously angry as he argues with rhetorical questions that the Spirit is received by faith. Given that the Galatians were saved and received the Spirit, it was absurd that they would still attempt to perfect themselves by the flesh (Gal. 3:3).
+Verse 2 is the first time the Spirit is mentioned in Galatians. Whereas prior Christ is revealed, now it is the Spirit; while the first 2 chapters deal with God's economy, chapter 3 unfolds the experience of life.
 
-Paul tells the Galatians that it is foolish to take the way of the law, and attempting to perfect themselves by the flesh (Gal. 3:3), when they have already received the Spirit out of the hearing of faith (Gal. 3:2). Then, it is revealed that the promise given to Abraham "In you shall all the nations be blessed" (Gal. 3:8) prophesies concerning Christ as the unique seed of Abraham who brings the blessing to the nations (Gal. 3:16) by means of regeneration.
+Paul tells the Galatians that it is foolish to take the way of the law, when they have already received the Spirit out of the hearing of faith (Gal. 3:2). He gives the picture of Abraham, who came before the law, who was justified by faith (Gal. 3:6). Abraham is important here, as not only was he justified b faith, but he also received a promise: "In you shall all the nations be blessed" (Gal. 3:8). This prophesies concerning Christ as the unique seed of Abraham who brings the blessing to the nations (Gal. 3:16) by means of regeneration. This blessing is actually the promise to give the Spirit to the believers (Gal. 3:14), a far superior reward to any promise of going to heaven.
 
-This blessing is actually the promise to give the Spirit to the believers (Gal. 3:14), a far superior reward to any promise of going to heaven.
+Verse 27 reveals the significance of baptism: to transfer from one's old life to another in Christ. As the blessing of the Spirit (typified by the good land) was promised to Abraham and his seed, the only way for Gentile believers to receive this promise is by being included into Abraham's inheritance as his seed. The way to become Abraham's seed is to be baptized into Christ who Himself was Abraham's seed (Gal. 3:29).
 
 ## Chapter 4
 
