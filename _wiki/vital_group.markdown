@@ -47,7 +47,6 @@ In these two verses, we see six things which vital groups do:
 
 Unbelievers observe these six things and innately desire them; people want to have the kind of community that is only possible in the Body of Christ, out of the divine life and divine love (John 15:7). As a result, they are drawn to God, who is added to them. This is the increase gained by the vital groups. 
 
-
 ## Two Descriptors
 
 It's easy to get into teaching, into doctrine, but without the divine life, that is merely dead works. Therefore, to be a vital person is to be contrary to these dead works: to be living and active. We have to look to the Lord's mercy and grace desperately to vitalize ourselves and others.
@@ -55,6 +54,8 @@ It's easy to get into teaching, into doctrine, but without the divine life, that
 ### Living
 
 ### Active
+
+Daniel took action.
 
 ## Application
 

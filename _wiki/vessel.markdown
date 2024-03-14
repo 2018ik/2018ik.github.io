@@ -15,7 +15,7 @@ To be a vessel opposes man's "doing." A vessel doesn't "do" anything, it just co
 
 ## Biblical Basis
 
-Romans 9:21 and 23 reveals that God's created man to be vessels to make known the riches of His glory. 2 Corinthians 4:7 conveys the same thought. These directly indicate that man is vessel, but even in the creation of man, God breathed into the outward receptacle of dust with the breath of life, giving life to man (Gen 2:7). Then, God placed man in the garden so that he may eat, to take in what God has prepared (Gen. 2:8-9).
+Romans 9:21 and 23 reveals that God's created man to be vessels to make known the riches of His glory. 2 Corinthians 4:7 conveys the same thought, except it describes these vessels as earthen, or clay, referring to the fleshly body. These directly indicate that man is vessel. But even in the creation of man, God breathed into the outward receptacle of dust with the breath of life, giving life to man (Gen 2:7). Then, God placed man in the garden so that he may eat, to take in what God has prepared (Gen. 2:8-9).
 
 A temple or dwelling place is technically speaking a vessel made for a person to occupy, and it is clear that man is actually a temple for God to occupy (1 Cor. 6:19). Ephesians 3:16-17 also says that God wants Christ to make His home in man's heart. When God occupies man, He is filling and dwelling within the vessel of man. This all begins in the human spirit.
 

@@ -12,6 +12,11 @@ permalink: /outer_man/
 
 The **outer man** needs to be broken in order for the spirit to be released. This allows the believers to bear fruit (John 12:24), and for Christ to be expressed in a corporate way. When a believer is attacked, persecuted or in much suffering, it only gives them the opportunity to die i.e. break their outer man and to release the divine life in their spirit. In this respect those who see this fact are invincible. 
 
+There are two main reasons for the outer man to not be broken:
+
+1. Living in darkness: people can go through many situations which God has arranged for their breaking, but they instead blame others and the environment rather than recognize that their old man needs to be dealt with. 
+2. Self-love: all misunderstandings, complaints and dissatisfactions arise from a subconscious love of the self. 
+
 ## Biblical Basis
 
 Like the grain of wheat falling in the ground to die, we likewise need to die and have our outer man broken in order to bear fruit.

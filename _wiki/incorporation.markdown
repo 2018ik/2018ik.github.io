@@ -18,6 +18,10 @@ We are united, mingled and incorporated with God. Uniting is a matter of life, m
 
 John 14:20 reveals that in that day, referring to the day of His resurrection, the Son will be in the Father, and the believers will be in the Son and the Son will be in the believers. This is the incorporation of the consummated God with the regenerated believers. The verse prior says that the Spirit of reality, referring to the Holy Spirit will also abide in the believers. This demonstrates the full incorporation of Father, Son, Spirit and the believers.
 
+John 15 reveals that the Lord abides in the believers and the believers abide in the Lord. These are persons indwelling one another.
+
 1 Corinthians 12:12 says that the members of the body despite being many are one, and that so also is the Christ. "The Christ" here refers to a corporate Christ of both Christ as the Head and His Body. This is the corporate "Me" which spoke to the apostle Paul in Acts 9:3-5. 
+
+2 Corinthians 2:17 says that those led by Christ speak in Christ. In chapter 13 verse 3, christ speaks in Paul. Not only do believers speak in Christ, but Christ speaks in the believers. This is the mutual functioning of God and man.
 
 

@@ -21,3 +21,5 @@ Make us ministers of the new covenant
 Make me a blessing to [insert locality here]
 
 Triune God reveal Yourself to me that I may behold your beauty as a member of the organic Body of Christ
+
+Lord, conquer me. Make me your captive. Never let me win. Defeat me all the time.

@@ -6,6 +6,8 @@ permalink: /captive/
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
 - [Significance](#significance)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -24,3 +26,9 @@ In 2 Corinthians 2:14, Paul uses a metaphor of a procession held in honor of a R
 The epistles to the Philippians and Romans describes Paul was a slave of Christ, and 2 Peter likewise describes Peter as such. Revelation is also written to His slaves (Rev. 1:1).
 
 ## Significance
+
+## Testimonies
+
+### Testimony #1
+
+>I was going down the southwest freeway. I was there, it was a parking lot, way back many years ago. I was just stalled there, listening to a cassette tape. Brother Lee said this, we need to pray this prayer, when I heard him pray this prayer, I stopped the cassette tape and prayed it on the southwest freeway I could never forget it. It was "Lord, conquer me. Make me your captive. Never let me win. Defeat me all the time." I hope we would pray that prayer. You pray it one time the Lord will remember that. This is experiential, this is where the rubber meets the road so to speak. Yes we are His captives factually, but are we His captives experientially? We conquer Him and defeat Him all the time. We need to ask Him to defeat us all the time. If we win, and defeat the Lord, we are defeated. Our only true triumphs are Christ's triumphs over us, and that His defeats of us are our only true victories.
