@@ -43,4 +43,3 @@ The **divine life** is the uncreated life of God. The reality of this life is a 
 
 \- John 1:4 
 
-This life is implanted into the spirit as a seed of life, which is Christ. Then, the life spreads to the soul and the body, indeed giving life even to the mortal body (Rom. 8:11). This grants to all things which relate to life and godliness for the building up of the church as the rich surplus of life and the expression of life through the growth and development of life (1 Pet. 1:3-4).

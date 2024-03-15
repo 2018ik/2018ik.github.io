@@ -5,14 +5,13 @@ permalink: /experience/
 ---
 - [Background](#background)
 - [Foundation](#foundation)
-- [Stages](#stages)
+- [Experience of Life](#experience-of-life)
+  - [Stages](#stages)
 - [Tips](#tips)
 
 ## Background
 
 **Experience** follows knowledge, and is closely related to revelation. Experience begins with Christ being revealed in a genuine way. This is beyond following Christian practices or learning Christian teachings, which are objective. Real experiences are revealed subjectively by the Holy Spirit. 
-
-When a person experiences Christ, he simply senses Christ Himself and is not aware of anything else. Others may realize how happy, loving, humble or patient he is, but he does not sense these things, only the presence of Christ. 
 
 ## Foundation
 
@@ -22,7 +21,13 @@ Throughout history, there are many who participate in strange practices, some of
 
 The magi were then corrected by the priests and scribes through the Scriptures that the birth place would be in Bethlehem. When we have both the leading of the spirit as well the word, we are kept in lane.
 
-## Stages
+## Experience of Life
+
+Since Christ is life, experiencing life requires experiencing Christ as the life-giving Spirit. Not all experiences of God are life-giving. For example, Samson in the Old Testament had the Spirit of God fall upon him to empower him, but he did not experience life. There was no change in his person, he was only outwardly clad in strength.
+
+When a person experiences Christ, he simply senses Christ Himself and is not aware of anything else. Others may realize how happy, loving, humble or patient he is, but he does not sense these things, only the presence of Christ. 
+
+### Stages
 
 In Paul's epistles, there is a progression of Christ being revealed in us (Gal. 1:15:16), Christ living in the us (Gal. 2:20), Christ being formed in us (Gal. 4:19) and Christ being magnified in us (Phil 1:20). Eventually, we arrive at the measure of the stature of the fullness of Christ (Eph. 4:13). Based on the context, this is a Body matter, as the fullness of Christ is His Body.
 

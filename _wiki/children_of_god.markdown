@@ -8,7 +8,7 @@ permalink: /children_of_god/
 
 ## Background
 
-All believers are **children of God**, having been reborn or regenerated with the divine life of God.
+**Children of God** are believers having been reborn or regenerated with the divine life of God.
 
 ## Significance
 

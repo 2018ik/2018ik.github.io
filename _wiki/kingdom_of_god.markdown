@@ -8,8 +8,10 @@ permalink: /kingdom_of_god/
 - [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
   - [Matthew](#matthew)
+- [Aspects](#aspects)
   - [Kingdom of God](#kingdom-of-god)
   - [Kingdom of the Heavens](#kingdom-of-the-heavens)
+  - [Millennial Kingdom](#millennial-kingdom)
   
 >"Seek first His Kingdom and His righteousness, and all these things will be added to you"
 
@@ -17,7 +19,7 @@ permalink: /kingdom_of_god/
 
 ## Background
 
-The kingdom of God is a realm in which God can exercise his authority. The kingdom life is not just something in the future. One can enter into the kingdom life today, and the prerequisite is regeneration followed by growth in life.
+The **kingdom of God** is a realm in which God can exercise his authority. This is not a legal realm, where papers and documents need to be signed in order to enter as in a sovereign nation, but an organic realm. The way to enter into the kingdom of God is to be born anew of the Spirit (John 3:3-5). The kingdom is not just something in the future; One can enter into the kingdom life today, and the prerequisite is regeneration.
 
 ## Significance
 
@@ -40,6 +42,6 @@ The kingdom of God encompasses God's rule from eternity past to eternity future.
 
 Kingdom of the heavens is a term used exclusively by Matthew, indicating that it differs from the kingdom of God. The kingdom of God is God's general reign from eternity past to eternity future, and already existed in the Old Testament age (Matt. 21:34). However, the kingdom of the heavens is a subset of the kingdom of God which began with the dispensation of grace.
 
-### Millenial Kingdom
+### Millennial Kingdom
 
 This is the manifestation of the kingdom composed of believers whom Christ judges as overcomers at His second coming and is central to His kingdom ministry.
