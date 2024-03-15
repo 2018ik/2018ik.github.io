@@ -14,10 +14,10 @@ In fact, Romans 12:4-8 reveals that showing mercy, giving hospitality and presen
 
 Ephesians 4 and Romans 12 are about the church and the Body, as such, the context shows that gifts are not given to individuals for their own sake but for the building up of the Body. Each member of the Body must function, and each member of the Body has a gift (Eph. 4:7). Furthermore, the gifts of apostleship, shepherding, etc. are not mutually exclusive, as Paul, an apostle (1 Cor. 9:1) clearly is gifted in and functions as all of the aforementioned roles.
 
-It is worth noting that gifts can also more generally apply to inward gifts received by all believers by faith, such as eternal life (Rom. 6:23) and the Holy Spirit (Acts 2:38).
+It is worth noting that gifts also more generally refer to inward gifts received by all believers by faith, such as eternal life (Rom. 6:23) and the Holy Spirit (Acts 2:38).
 
 ## Significance
 
-Gifts are useful, but over-emphasis on gifts is terrible. The pursuit of gifts does not help to build up the Body of Christ. 
+Gifts are useful, but over-emphasis on gifts is terrible. The pursuit of gifts does not help to build up the Body of Christ. In 1 Corinthians 1:7, Paul tells the Corinthians that they do not lack in any gift. Yet, in chapter 3 verse 1, he says that they were not spiritual men, but fleshly, as to infant in Christ. While the Corinthians preached gifts, Paul preached Christ crucified (1 Cor 1:23; 2:2).
 
 Furthermore, gifts are given not for the individual. The situation in Christianity today is that gifted people use their gifts for their own ministry rather than to perfect the saints for the Body. 

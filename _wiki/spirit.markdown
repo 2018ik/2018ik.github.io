@@ -16,10 +16,11 @@ permalink: /spirit/
   - [Spirit of Holiness](#spirit-of-holiness)
   - [Spirit of God](#spirit-of-god)
   - [Spirit of Jehovah](#spirit-of-jehovah)
-  - [Lord Spirit](#lord-spirit)
   - [Spirit of Christ](#spirit-of-christ)
   - [Spirit of Jesus](#spirit-of-jesus)
   - [Spirit of Jesus Christ](#spirit-of-jesus-christ)
+  - [Lord Spirit](#lord-spirit)
+  - [Comforter](#comforter)
   - [Spirit of Reality](#spirit-of-reality)
   - [Spirit of Life](#spirit-of-life)
   - [Life-giving Spirit](#life-giving-spirit)
@@ -117,10 +118,6 @@ This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding 
 
 The Spirit of Jehovah in the Old Testament is Gods reaching and caring for His people (Judg. 3:10; 6:34). The title *Jehovah* means "He who is who He is" i.e. the eternal "I Am." God appearing to Moses as "I Am who I Am" is to indicate that if Moses had a need for anything, God would supply. He is everything and takes care of man's every need.
 
-### Lord Spirit
-
-2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit. Turning to the mingled spirit is to turn to God who is in the heavens. 
-
 ### Spirit of Christ
 
 The Spirit of Christ mentioned in Romans 8:9 is related to the Lord's resurrection. This Christ is an all-inclusive Christ, and this Christ is God and the man Jesus Christ, the redeemer. This title touches the all-inclusiveness of this Spirit and is used interchangeably with Spirit of God in Romans 8:9, as they are one Spirit. 
@@ -134,6 +131,14 @@ The Spirit of Jesus is mentioned only in Acts 16:7 and is related to the Lord's 
 ### Spirit of Jesus Christ
 
 The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His humanity and human living and in His divinity and resurrection. This is the all-inclusive compound life-giving Spirit. The Spirit of Jesus Christ bountifully supplies the believers to live Christ (Phil. 1:19). It is only by the operation of this Spirit that one can work out their full salvation (Phil. 2:12-16).
+
+### Lord Spirit
+
+2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit as the pneumatic Christ.
+
+### Comforter
+
+John 14:16 names the Spirit as a Comforter/Helper/Advocate/Counselor/Paraclete to the believers. This is someone who takes care of our needs. Similar to the Lord Spirit, this title also implies the Lord is the Spirit was compared with Isaiah 9:6, which identifies the Son as "wonderful Counselor."
 
 ### Spirit of Reality
 
