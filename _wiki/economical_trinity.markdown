@@ -19,3 +19,4 @@ Economically, God the Father forsook God the Son of the cross. But essentially, 
 
 ## Consummated God
 
+Prior to the Son's ministry on earth, the economical trinity was not yet consummated (John 7:39). The consummated God refers to the fully processed Triune God.

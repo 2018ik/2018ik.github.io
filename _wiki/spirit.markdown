@@ -134,17 +134,17 @@ The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His huma
 
 ### Lord Spirit
 
-2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit as the pneumatic Christ.
+2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit as the pneumatic Christ. In order to behold the Lord as the Spirit, one needs an [unveiled face](../veil). 
 
 ### Comforter
 
-John 14:16 names the Spirit as a Comforter/Helper/Advocate/Counselor/Paraclete to the believers. This is someone who takes care of our needs. Similar to the Lord Spirit, this title also implies the Lord is the Spirit was compared with Isaiah 9:6, which identifies the Son as "wonderful Counselor."
+John 14:16 names the Spirit as a Comforter/Helper/Advocate/Counselor/Paraclete to the believers. This is someone who takes care of our needs. Similar to the Lord Spirit, this title also implies the Lord is the Spirit when compared with Isaiah 9:6, which identifies the Son as "wonderful Counselor."
 
 ### Spirit of Reality
 
-The Spirit of reality such as in John 14:17 shows that in the whole universe, only One is real, and reveals to man the things of God. Being in the Spirit is required for anything we experience to be real. For example, the Spirit is the reality of resurrection, and the reality of Christ's all-inclusive death.
+The Spirit of reality such as in John 14:17 shows that in the whole universe, only One is real, and reveals to man the things of God. Being in the Spirit is required for anything we experience to be real. For example, the Spirit is the reality of peace. In Ephesians 2:17, peace was announced as the gospel, but sometimes we are not at peace. The Spirit of reality guides us into real peace, which is God as peace. Furthermore, the Spirit is the reality of resurrection, and of Christ's all-inclusive death. To experience Christ as death and resurrection, as the wheat and barley, we need to Spirit of reality.
 
-The Spirit of reality worked through the apostles to reveal to them truths necessary for the building up of the church. For example, the gospel of John was written around A.D. 90, after the consummation of the Spirit of reality. John occasionally adds commentary which states that though they did not understand what Jesus spoke at the time, they did now (John 2:20-22; 12:15-16).
+This Spirit can be seen working through the apostles to reveal to them truths necessary for the building up of the church. For example, the gospel of John was written around A.D. 90, after the consummation of the Spirit of reality. During the time of the gospels, the disciples did not understand many of the things that Jesus said to them. Now in retrospect, John adds commentary which states that though they did not understand what Jesus spoke at the time, they did now (John 2:20-22; 12:15-16).
 
 ### Spirit of Life
 
