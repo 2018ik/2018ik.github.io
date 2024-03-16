@@ -27,6 +27,8 @@ The epistles to the Philippians and Romans describes Paul was a slave of Christ,
 
 ## Significance
 
+The Lord doesn't need spiritual giants, he needs little captives. We need to pray for the Lord to conquer us and to never let us win, and to defeat us all the time. Ironically in God's eternal economy, our defeat means we are winning.
+
 ## Testimonies
 
 ### Testimony #1
