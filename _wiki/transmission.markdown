@@ -6,7 +6,13 @@ permalink: /transmission/
 - [Background](#background)
 - [Electricity](#electricity)
 
+>And He subjected all things under His feet and gave Him [to be] Head over all things to the church,
+
+\- Eph. 1:22
+
 ## Background
+
+**Transmitted** is all that God is in Christ transmitted to the church. The word *to* in Ephesians 1:22 implies a transmission, indicating that whatever Christ has attained and obtained is transmitted to the church.
 
 ## Electricity
 

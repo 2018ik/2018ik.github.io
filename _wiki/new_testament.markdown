@@ -12,11 +12,14 @@ permalink: /new_testament/
 
 ## Background
 
-The **New Testament** consists of the four gospels, Acts, Paul's epistles, the epistles of James, Peter, John and Jude, and Revelation. 
+The **New Testament** consists of the four gospels, Acts, Paul's epistles, Hebrews, the epistles of James, Peter, John and Jude, and Revelation. 
 
 First are the gospels depict the life of Jesus in various ways: in Matthew He's the king-savior, in Mark He's the slave-savior, in Luke He's them man-savior, and in John he's the God-savior. In Acts after resurrection and ascension He now indwells the disciples and propagates Himself through His living witnesses. This book is called Acts because there is a group of people who are not God in the Godhead but are God in function i.e. they are the *acting* God.
 
 In Romans Paul expounds on justification by faith, organic salvation, and how to live the proper church life. Then 1 Corinthians provides a more realistic depiction of the church life where there is much strife, but the solution to all these problems is actually just Christ Himself.
+
+The four books of Galatians, Ephesians, Philippians and Colossians can be considered the heart of the divine revelation. The ordering of these books is very special.
+Galatians reveals Christ versus religion, followed by the revelation of the church in Ephesians. Then, Philippians reveals the practical experience of Christ, and lastly, Colossians reveals Christ as the Head. We must first see Christ, who will lead us to the church, which leads to the daily experience of Christ, which all brings us to the Head.
 
 ## Significance
 
