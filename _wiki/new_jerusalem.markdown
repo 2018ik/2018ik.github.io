@@ -41,6 +41,8 @@ This is not a physical and lifeless city made of literal, physical stones - we a
 
 Genesis 1-2 is the organic blueprint, the architectural plan of the Triune God, and Revelation 21-22 reveals the finished product, the organic masterpiece of the Triune God.
 
+The New Jerusalem promised to the overcomers in Revelation 3:12 is a prize only to the overcomers during the millennium, whereas the New Jerusalem in the new heaven and new earth is the common portion of all the redeemed for eternity.
+
 ## Description
 
 The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. 

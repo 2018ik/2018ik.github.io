@@ -15,7 +15,9 @@ permalink: /trinity/
 
 ## Background
 
-The **Divine Trinity** or Triune God is God Himself: the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man. Only the Father fully knows the Son and vice versa (Matt. 11:27). But actually, God is triune not for human understanding, but for the dispensing of Himself into man as life that the Body of Christ may be built up as His expression and enlargement.
+The **Divine Trinity** or Triune God is God Himself: the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man. Only the Father fully knows the Son and vice versa (Matt. 11:27). 
+
+The term "Trinity" is not directly mentioned in the Bible but was established by the early church fathers such as Tertullian, Origen, Athanasius, Basil and Augustine. Trinitarian theology served as a framework in which to study the Bible and to basic tenet of the Christian faith. Today, we see that God is triune not for human understanding, but for the dispensing of Himself into man as life that the Body of Christ may be built up as His expression and enlargement.
 
 ## Importance
 
@@ -30,7 +32,7 @@ The three of the Trinity coexist simultaneously from eternity to eternity. This 
 | Hypostasis | Being God | Being Eternal |
 | --- | --- | --- |
 | Father |  | Isaiah 9:6 says "eternal Father." |
-| Son | John 1:1 says that the Word, the Son was God. Acts 20:28 says that God obtained the church through His own blood showing that the Son possessing flesh and blood is God Himself. | John 1:1-2 says that the Word was in the beginning with God. Hebrews 7:3 shows that the Son of God is without father and mother, having neither beginning of days nor end of life. Furthermore, the very existence of an eternal Father implies an eternal Son, since a father is only so because he has a son. |
+| Son | John 1:1 says that the Word, the Son was God. Acts 20:28 says that God obtained the church through His own blood showing that the Son possessing flesh and blood is God Himself. | John 1:1-2 says that the Word was in the beginning with God. Hebrews 7:3 shows that the Son of God is without father and mother, having neither beginning of days nor end of life. Romans 9:5 says Christ is God over all and blessed forever. Furthermore, the very existence of an eternal Father implies an eternal Son, since a father is only so because he has a son. |
 | Spirit | | Hebrews 9:14 says "eternal Spirit." |
 
 ### Coinherence
@@ -44,6 +46,16 @@ The mutual indwelling as outlined above is the divine incorporation of God and m
 The three of the Trinity are plainly One and the same in their nature and being, inseparable yet distinct. This is based on the oneness of the divine essence (Greek: *ousia*) in the Godhead. Verses in the Old Testament explicitly indicate that there is one God (Isa. 45:5; Psa. 86:10).
 
 Furthermore, the hypostases of the Trinity are identified with each other. Isaiah 9:6 identifies the Son with the Father, and John 10:30 says the Son and Father are One. 2 Corinthians 3:17 identifies the Son with the Spirit. Acts 8:16 identifies the Lord Jesus with the entire Triune God when cross referenced with Matthew 28:19.
+
+### Threeness
+
+Matthew 28:19 is the only verse which plainly lists the three of the divine Trinity. In John 14:16, the Father, Son and Spirit all have pronouns:
+
+>I will ask the Father, and He will give you another Comforter, that He may be with you forever.
+
+In Genesis 1:26, the plural pronouns "us" and "our" are used for God.
+
+
 
 ### Cooperation
 
