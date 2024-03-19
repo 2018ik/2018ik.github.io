@@ -4,6 +4,7 @@ title: Tripartite
 permalink: /tripartite/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [Three Lives](#three-lives)
   - [Spiritual Man](#spiritual-man)
   - [Soulish Man](#soulish-man)
@@ -11,27 +12,23 @@ permalink: /tripartite/
 
 ## Background
 
-The Bible reveals that man has three parts.
+The Bible reveals that man has three parts. As the body gives consciousness to the physical realm and the soul gives consciousness to the psychological realm, the spirit gives conscious to the spiritual realm.  
  
 ![diagram of spirit](../img/WL64-03-20EconomyGod06_1_chart.png)
 
-## Three Parts
-
 The Lord works in someone first by touching them in their heart, so that they may love Him. Then, this love allows them to exercise their spirit to receive God. Finally, God is able to spread through their being into their soul and body so that they can express God. This is the correct order. We do not exercise our soul and body to do good things so that God will bless us; we allow God to dispense Himself into us first which will spontaneously issue in the outward expression in our actions after He spreads from our spirit into our whole being.
 
-### Body
-
-### Soul
 
 The soul is a reflecting organ (2 Cor. 3:18)
 
-### Spirit
 
 The spirit is a receiving organ (John 4:24).
 
-### (Heart)
-
 The heart, which includes the soul and the conscience places its emphasis on love (Mark 12:30).
+
+## Biblical Basis
+
+When creating Adam, God formed him from the dust of the ground, indicating the Body. Then, He breathed into Him the breath of life, indicating the Spirit. Then, man became a living soul, indicating the soul (Gen 2:7). In Genesis 2:17, God says that in the **day** that they eat of the tree of knowledge they will **surely** die. Adam and Eve ate of the fruit, but they continued to both physically live for hundreds of more years afterwards, as well as mentally function. This means that something other than their body and soul died, which could only be the spirit, which became deadened.
 
 ## Three Lives
 

@@ -42,7 +42,7 @@ Romans 8:16 says that the Spirit witnesses with our spirit, indicating that ther
 
 1 Corinthians 2:11 mentions the spirit of man, except this verse also personifies the spirit with the pronoun "who," indicating a mingling of the Spirit of God with our spirit, in which there is a person present in man's spirit.
 
-In the Old Testament, there are types which illustrate the three parts of man. For example, the temple as the dwelling place of God contains three sections, and is also directly indicated by Jesus who referred to Himself as a temple (John 2:19-21).
+In the Old Testament, there are types which illustrate the three parts of man. For example, the temple as the dwelling place of God contains three sections, and is also directly indicated by Jesus who referred to Himself as a temple (John 2:19-21). In the creation record of Adam, God formed him from the dust of the ground, indicating the Body. Then, He breathed into Him the breath of life, indicating the Spirit. Then, man became a living soul, indicating the soul.
 
 When the Spirit of God dwells in man (2 Tim. 4:22), the dwelling place is the human spirit. This is typified by the Holy of Holies; when one enters the Holy of Holies today, they are entering into their spirit (Heb. 10:19).
 
