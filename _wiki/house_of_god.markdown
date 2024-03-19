@@ -4,12 +4,30 @@ title: House of God
 permalink: /house_of_god/
 ---
 - [Background](#background)
+- [Tabernacle](#tabernacle)
+- [Temple](#temple)
+- [Spirit of man](#spirit-of-man)
+- [Church](#church)
+- [Incorporation](#incorporation)
+- [New Jerusalem](#new-jerusalem)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The house of God refers to God's habitation, i.e. wherever He happens to be dwelling at a particular point in time. This could refer to the tabernacle or the Temple in the Old Testament, or the church in the New Testament.
+The **house of God** (or Father's house) in the Old Testament refers to God's physical dwelling place in the tabernacle and temple, and in the New Testament refers to both individual believers as well as the corporate assembly of believers. 
+
+## Tabernacle
+
+## Temple
+
+## Spirit of man
+
+## Church
+
+## Incorporation
+
+## New Jerusalem
 
 ## Testimonies
 

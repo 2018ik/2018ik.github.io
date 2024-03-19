@@ -8,7 +8,7 @@ permalink: /abiding/
 
 ## Background
 
-**Abiding** is intended, experiential contact by the spirit with the Lord as illustrated in John 15 where the Lord is the true vine and the believers are branches who abide in the vine. 
+**Abiding** is intended, experiential contact by the spirit with the Lord as illustrated in John 15 where the Father is the husbandman, the Son is the true vine, and the believers are branches who abide in the vine. 
 
 John 15:2 says that there are branches in the vine which do not bear fruit, while John 15:5-6 show that abiding results in much fruit. Therefore, to simply be attached to the vine in an objective manner is different than abiding, which is subjective.
 
