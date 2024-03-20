@@ -47,7 +47,7 @@ This is the easiest step in the God-ordained way. Simply to save someone, and th
 
 #### Nourishing
 
-After being saved, the believers need to grow in the divine life. After a new child is born, they must be nourished; this is to feed the lambs (John 21:15). This could be through the home meetings and group meetings, where we lead to to function in the meetings and to care for one another.
+After being saved, the believers need to grow in the divine life. After a new child is born, they must be nourished; this is to feed the lambs (John 21:15). This is through consistent contact in home meetings and group meetings, where we lead them to function in the meetings and to care for one another.
 
 #### Perfecting
 
