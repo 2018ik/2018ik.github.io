@@ -33,7 +33,7 @@ permalink: /spirit/
   - [Eternal Spirit](#eternal-spirit)
   - [Spirit of Grace](#spirit-of-grace)
   - [Spirit of Glory](#spirit-of-glory)
-  - [Spirit of His Son](#spirit-of-his-son)
+  - [Spirit of Sonship](#spirit-of-sonship)
 
 ## Background
 
@@ -187,6 +187,6 @@ The Spirit is of grace (Heb. 10:29) which is God dispensed into man to be his en
 
 1 Peter 4:13-14 mentions the Spirit of glory and of God which rests upon suffering believers. This is the Spirit which operated on Stephen which caused his face to be like that of an angel (Acts 6:15).
 
-### Spirit of His Son
+### Spirit of Sonship
 
-The Spirit of is Son in Galatians 4:6 is not separate from the Son but another form of the Son who is sent into our hearts. The One who was crucified on the cross was Christ, but the One who enters into the believers is the Spirit. He came as the Son under the law to qualify all of us for sonship and to share in His sonship. To be redeemed is to be qualified for sonship, to receive the Spirit of the Son is for this sonship to be made real to us in our experience. When we see that we are actually sons of God we can cry out "Abba, Father!"
+The Spirit of His Son in Galatians 4:6 or the Spirit of Sonship in Romans 8:15 is not separate from the Son but another form of the Son who is sent into our hearts. The One who was crucified on the cross was Christ, but the One who enters into the believers is the Spirit. He came as the Son under the law to qualify all of us for sonship and to share in His sonship. To be redeemed is to be qualified for sonship, to receive the Spirit of the Son is for this sonship to be made real to us in our experience. When we see that we are actually sons of God we can cry out "Abba, Father!"
