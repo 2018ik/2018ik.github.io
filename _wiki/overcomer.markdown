@@ -11,9 +11,9 @@ permalink: /overcomer/
 
 ## Background
 
-**Overcomers** refer to a small part of the believers who are qualified for the kingdom reward through running the race to lay hold of the prize (1 Cor. 9:24; Matt. 22:14). In the millennium, the overcomers will be with Christ in the wedding feast while the defeated believers will suffer discipline in outer darkness.
+**Overcomers** refer to a small part of the believers who are qualified for the kingdom reward through running the race to lay hold of the prize (1 Cor. 9:24; Matt. 22:14). In the millennium, the overcomers will be with Christ in the wedding feast while the defeated believers will suffer discipline in outer darkness to be perfected.
 
-In the seven churches in Revelation, the overcomers were those who could overcome the degraded situation of their church (Rev. 2:7). As the condition of these churches are an admonishment to believers today, one must likewise overcome such degradations today e.g. losing the first love (Rev. 2:4). 
+In the seven churches in Revelation, the overcomers were those who could overcome the degraded situation of their church, and each received a reward (Rev. 2:7). These rewards are on top of one's initial salvation and are awarded based on works. As the condition of these churches are an admonishment to believers today, one must likewise overcome such degradations today e.g. losing the first love (Rev. 2:4). 
 
 Generally speaking, believers today must overcome all the situations mentioned in the seven churches, as well as the world (1 John 5:4-5), the evil one, Satan (1 John 2:13-14), and the spirit of the antichrist (1 John 4:3-4). These are believers who have fought the good fight against Satan for God's kingdom, finished their course and kept the faith to the end (2 Tim. 4:7-8; Eph. 6:10-19). These are they who love the Lord with the first love, are empowered by the Lord, and enjoy the Lord who set them as a seal on His heart and His arm (S.S. 8:6).
 

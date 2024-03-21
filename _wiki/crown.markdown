@@ -5,10 +5,13 @@ permalink: /crown/
 ---
 - [Background](#background)
 - [Righteousness](#righteousness)
+- [Glory](#glory)
+- [Life](#life)
+- [Incorruptible](#incorruptible)
 
 ## Background
 
-A **crown** in the New Testament signifies a prize given in addition to salvation, something reserved for the overcoming believers.
+A **crown** in the New Testament signifies a prize given in addition to salvation, something reserved for the overcoming believers. Paul's analogy is that all believers are set on a race course, and only some will receive the crown (1 Cor. 9:24-25).
 
 ## Righteousness
 
@@ -16,7 +19,7 @@ The crown of righteousness is a reward for those who have finished their course 
 
 ## Glory
 
-This is also a crown given to the overcomers (1 Pet. 5:4). 
+An unfading crown of glory is given to the overcomers (1 Pet. 5:4). 
 
 ## Life
 
