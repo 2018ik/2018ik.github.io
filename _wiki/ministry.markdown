@@ -9,11 +9,11 @@ permalink: /ministry/
 
 ## Background
 
-The ministry is composed of apostles, prophets, evangelists, shepherds and teachers (Acts 13:1, Eph. 4:11). It is the Body in function. The ministry is not created by a human or organization process, these ones were gradually manifested by the Lord through their growth in life (Eph. 4:13). Ministry is produced by revelation being burned into us through suffering. This is a Christ-ministering service; that is, the objective is to minister Christ.
+The **ministry** is composed of apostles, prophets, evangelists, and shepherds/teachers (Acts 13:1, Eph. 4:11) and is the Body in function. The ministry is not created by a human or organization process; ministers are gradually manifested by the Lord through their growth in life (Eph. 4:13). 
 
-Ministry is quite different from gifts and knowledge. The ministry is not an individual matter; it is carried out in a corporate way. Furthermore, there is no ministry without prayer.
+A person's ministry is their specific function in the Body which should correspond to the one ministry of God. Ministry is produced by revelation being burned into us through suffering. This is a Christ-ministering service; that is, the objective is to minister Christ.
 
-When Paul told Timothy to "fully accomplish your ministry" (2 Tim. 4:5) it means to fill up the full measure of your function in the Body. This is to do what has been measured out to him.
+The ministry is not an individual matter; it is carried out in a corporate way. Furthermore, there is no ministry without prayer. When Paul told Timothy to "fully accomplish your ministry" (2 Tim. 4:5) it means to fill up the full measure of your function in the Body. This is to do what has been measured out to him.
 
 ## Cycle
 

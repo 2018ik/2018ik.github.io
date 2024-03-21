@@ -14,4 +14,6 @@ Verse 12 says that the gifts given to the saints in verse 8 would be used to per
 
 Ephesians 4:15-16 is the hardest passage in the Bible for believers to fulfill today. For *all* the Body to be joined together and knit together through the operation in the measure of *each* one part requires the rising up of the **entire church**. This is the only way the Body can grow and build itself up in love. It's not about the five-talented members like famous preachers and theologians who have recovered important truths, but that each one-talented member would operate according to their measure. 
 
+Verse 15 tells the believers to grow up into the Head, and verse 16 says "out from [the Head]". To grow into the Head is a believer's growth in life, and what issues out from the Head is the believer's function.
+
 Verse 22 mentions the lust of *the* deceit. This indicates that deceit is a person, who is Satan himself.

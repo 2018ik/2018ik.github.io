@@ -15,7 +15,7 @@ permalink: /fragrance/
 
 ## Biblical Basis
 
-2 Corinthians 2:15 describes believers as a fragrance of Christ to God in those who are being saved as well as perishing. Verses 14 and 16 further state that this is also a *savor*, indicating that the expression is not only smelled but tasted. 
+2 Corinthians 2:15 describes believers as a fragrance of Christ to God in those who are being saved as well as perishing. The context of this verse is that Christ is leading the captured believers in a procession (see: captive), and during such a procession, there would be incense bearers who scatter incense. Verses 14 and 16 further state that this is also a *savor*, indicating that the fragrance is not only smelled but tasted. 
 
 In Jeremiah 48:11, Moab has been at ease, and as a result, his scent is not changed. The Lord uses many situations, including suffering ones, to change the attributes of His people that they may have the fragrance of Christ.
 

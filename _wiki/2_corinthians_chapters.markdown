@@ -4,9 +4,14 @@ title: 2 Corinthians Chapters
 permalink: /2_corinthians_chapters/
 ---
 - [Background](#background)
+- [2](#2)
 - [11](#11)
 
 ## Background
+
+## 2
+
+The Greek word for *person* here is literally *face* as in 4:6, which refers to the part around the eyes. This is the part of the face which manifests the whole person.
 
 ## 11
 

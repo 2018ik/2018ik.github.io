@@ -14,6 +14,7 @@ permalink: /quotes/
 - [Miscellaneous](#miscellaneous)
 - [Love](#love)
 - [Prayer](#prayer)
+- [Suffering](#suffering)
 
 ## Marriage
 
@@ -74,3 +75,7 @@ permalink: /quotes/
 ## Prayer
 
 >If you enter fully into a prayer meeting, it will be exhilarating, even if all you do is say "amen."
+
+## Suffering
+
+>Everyone goes through suffering, but we don't want our suffering to be in vain.

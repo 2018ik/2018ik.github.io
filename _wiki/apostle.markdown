@@ -8,7 +8,7 @@ permalink: /apostle/
 
 ## Background
 
-An **apostle** is someone sent by God with His authority to preach the gospel, teach the divine truth, and to establish churches, and is the anglicized Greek word that means “one who is sent.” This is a gift given by God, and cannot be attained by man's self-effort (Eph. 4:11). Every proper believer is a sent one. 
+An **apostle** is someone sent by God with His authority to preach the gospel, teach the divine truth, and to establish churches. *Apostle* is the anglicized Greek word that means “one who is sent.” This is a gift given by God, and cannot be attained by man's self-effort (Eph. 4:11). Every proper believer is a sent one. 
 
 ## History
 

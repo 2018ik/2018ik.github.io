@@ -22,7 +22,7 @@ permalink: /lords_table/
 
 The **Lord's table** is the Lord giving Himself to His believers as the bread and cup that they may partake of Him and enjoy Him (Mark 14:22-24). This table actually implies the entire New Testament economy, which involves the processed consummated Triune God dispensing Himself into us as the Spirit to be our life supply to produce the church as the organic Body of Christ (1 Cor.10:16-17; Eph. 4:16).
 
-To remember the Lord by the table is not to meditate on His processes in our mind, neither it is for some miracle to transubstantiate the elements into some physical representation of God. The reality of the table is not outward things, but Christ coming into the believers to be their spiritual food (John 6:35, 53-57; 63).  We have to exercise the mingled spirit to eat and drink the Lord. If we ever feel that our love for the Lord is waning, we need to feel the undying love of the Lord for us displayed on the table.
+To remember the Lord by the table is not to meditate on His processes in our mind, neither it is for some miracle to transubstantiate the elements into some physical substance of God. The reality of the table is not outward things, but Christ coming into the believers to be their spiritual food (John 6:35, 53-57; 63).  We have to exercise the mingled spirit to eat and drink the Lord. If we ever feel that our love for the Lord is waning, we need to feel the undying love of the Lord for us displayed on the table. Our love for the Lord must constantly be renewed that we may come to His table in newness (Matt. 26:29). 
 
 ## The Two Elements
 
