@@ -19,6 +19,8 @@ Christ replaces the law and there is no reason to keep the law (Gal 2:16). Justi
 
 ## Chapter 3
 
+Two main points are covered: the Spirit is the blessing of the gospel, and the law is the custodian that keeps God's children. After this chapter, one should ask themselves if they prefer the blessing or the custodian. Anyone who is properly enlightened will certainly choose the Spirit, who is the processed Triune God.
+
 In the first few verses, Paul may have been righteously angry ("foolish Galatians" in verse 1) as he argues with rhetorical questions asking whether the Spirit is received by works of law or faith. Given that the Galatians were saved and received the Spirit, it was absurd that they would still attempt to perfect themselves by the flesh (Gal. 3:3).
 
 Verse 2 is the first time the Spirit is mentioned in Galatians. Whereas prior Christ is revealed, now it is the Spirit; while the first 2 chapters deal with God's economy, chapter 3 unfolds the experience of life.

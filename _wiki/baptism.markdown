@@ -9,7 +9,7 @@ permalink: /baptism/
 
 ## Background
 
-**Baptism** is to bring a repentant person into the Triune God by terminating their old life and bringing them into eternal life as members of the Body of Christ with a spiritual and mystical union with the Head (Matt. 28:19; Rom. 6:3-4; 1 Cor. 12:13; Gal. 3:27). Entering into the water signifies terminating the old life by putting away the filth of the flesh while exiting signifies germinating the new life in the resurrection of Jesus Christ (1 Pet. 3:21). The reality of baptism is to be immersed in four invisible aspects: 
+**Baptism** is to bring a repentant person into the Triune God by terminating their old life and bringing them into eternal life as members of the Body of Christ with a spiritual and mystical union with the Head (Matt. 28:19; Rom. 6:3-4; 1 Cor. 12:13; Gal. 3:27). This is an outward practice which follows the inward action of believing (Mark. 16:6). Entering into the water signifies terminating the old life by putting away the filth of the flesh while exiting signifies germinating the new life in the resurrection of Jesus Christ (1 Pet. 3:21). The reality of baptism is to be immersed in four invisible aspects: 
 
 1. The name of the Triune God (Matt. 28:19)
 2. Christ as the life-giving Spirit (Gal. 3:27)
