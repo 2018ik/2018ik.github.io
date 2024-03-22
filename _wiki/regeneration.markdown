@@ -22,7 +22,7 @@ Titus 3:5 further says, "Not out of works in righteousness which we did but acco
 
 ## Purpose 
 
-Neither the fallen human life, nor the Adamic life is can match God for [His purpose](../gods_economy). 
+Neither the fallen human life, nor the Adamic life is can match God for [His purpose](../gods_economy). Regeneration adds an entirely new life to a person's spirit, after which they must turn their heart to the spirit in order for this life to spread through their soul in further steps of organic salvation.
 
 Jeremiah 13:23 says that as a Cushite's skin and leopard's spots cannot be changed, so is the sinful nature of the Israelites. Jeremiah 17:9 says that their deceitful heart is incurable. As a result of the fall, man's nature was utterly incompatible with God. However, even prior to the fall, God placed Adam in front of the tree of life, giving man the free will to choose the divine life. This indicates that Adam did not yet have the eternal life of God, only a neutral human life (further proven by Genesis 3:22). Mankind not only needs to be redeemed from sin, but regenerated - joined to Christ - in order to fulfill God's purpose in creating man in the first place.
 
@@ -35,8 +35,8 @@ Here is a non-exhaustive list of things one received when they are regenerated:
 | Item | Description |
 | --- | --- |
 | New Heart | Our old heart is stone is changed to a soft heart of flesh (Ezek. 36:26) |
-| New spirit | Our old spirit was a dead spirit. The new spirit is living (Ezek. 36:26; Eph 2:5) |
-| God | The entire Triune God makes His abode starting with the spirit (Phil. 2:13; Gal. 2:20; Rom. 8:16). |
+| New spirit | Our old spirit was a dead spirit. The new spirit is living (Ezek. 36:26; Eph 2:5). This is because the new spirit contains God Himself (see next item). |
+| God | The entire Triune God makes His abode starting with the spirit (Phil. 2:13; Gal. 2:20; Rom. 8:16). From the time of one's regeneration, their mingled spirit *is* God (1 Cor. 6:17). As a corollary, a regenerated human spirit also becomes part of God. |
 | Life | Christ is life and by living Christ we live a new life (Gal. 2:20) |
 | Light | When one is in light, they are not in darkness. |
 | Liberty/Freedom | Thee is no condemnation for those in Christ Jesus, and there is freedom where the Spirit of the Lord is (Rom. 8:1; 2 Cor. 3:17). |

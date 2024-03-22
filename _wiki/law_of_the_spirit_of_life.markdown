@@ -11,4 +11,6 @@ permalink: /law_of_the_spirit_of_life/
 
 ## Background
 
-In Romans 8, we see a law which Paul calls the "law of the Spirit of life" which frees us from the law of sin and of death. Law here is used in a scientific manner, and denotes a working principle which operates spontaneously. 
+In Romans 8, we see a law which Paul calls the **law of the Spirit of life** which frees us from the law of sin and of death. This verse speaks of four matters: a law, the Spirit, life and Christ Jesus. Christ Jesus is the Spirit, and the Spirit is life, and this life has a law.
+
+Law here is used in a scientific manner, and denotes a working principle which operates spontaneously. 
