@@ -22,19 +22,19 @@ The Son who had from eternity been with the Father began a new stage of existenc
 
 ## Olive Oil
 
-Olive oil in the Bible signifies the Spirit of God. As the base of the ointment, the Spirit is the unique God in eternity which contained only the divine element. Now, the Spirit of God is no longer merely oil, but the oil compounded the Christ's humanity. 
+Olive oil in the Bible signifies the Spirit of God. As the base of the ointment, the Spirit is the unique God in eternity which contained only the divine element. Now, the Spirit of God is no longer merely oil, but the oil compounded the Christ's humanity. The compounding the spices into the oil was through pressing or cutting, signifying the death of Christ, the procedure by which the Spirit was consummated.
 
 ## Spices
 
 The spices were split into three units of 500 shekels (Exo. 30:23:24), signifying the Trinity. The middle unit of cinnamon and calamus is split into 250 shekels each, indicating the second of the Trinity had been split on the cross. 
 
-Five hundred shekels signifies full responsibility. the number five symbolizes responsibility. Five is composed of four plus one, that is, four creatures and one God. Therefore, the number five is God added to man to give us the ability to bear responsibility. 
+Five hundred shekels signifies full responsibility. the number five symbolizes responsibility. Five is composed of four plus one, that is, four creatures and one God. Therefore, the number five is God (one) added to man (four) to give us the ability to bear responsibility. 
 
-There being four spices signify humanity in God's creation, as four signifies God's creation. On the other hand, there was only one oil, signifying God Himself. The addition of four into one signifies humanity compounded with divinity. This mingling together can be compared to the mingling of flour and oil in the meal offering. Both of these pictures signify divinity intermixed with humanity.
+There being four spices signify humanity in God's creation, as four signifies God's creation. On the other hand, there was only one oil, signifying God Himself. The addition of four into one signifies humanity compounded with divinity. This mingling together can be compared to the mingling of flour and oil in the meal offering. Both of these pictures signify divinity intermixed with humanity. 
 
 ### Myrrh
 
-Myrrh which was used when burying the Lord Jesus, typifies Christ's death. This is a sweet smelling and bitter yellow sap-like resin which comes from an aromatic tree. Myrrh contains chemicals that reduce pain and kill bacteria and was used to reduce the suffering of the death (the Lord Jesus was given wine mixed with myrrh). The bacteria-killing power of myrrh is seen in its ability to kill the natural self which is basically a germ and disease.
+Myrrh which was used when burying the Lord Jesus, typifies Christ's flowing death. This is a sweet smelling and bitter yellow sap-like resin which comes from an aromatic tree with the appearance like tears coming out from the bark. Myrrh contains chemicals that reduce pain and kill bacteria and was used to reduce the suffering of the death (the Lord Jesus was given wine mixed with myrrh). The bacteria-killing power of myrrh is seen in its ability to kill the natural self which is basically a germ and disease.
 
 ### Cinnamon
 

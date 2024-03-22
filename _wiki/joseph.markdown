@@ -37,7 +37,7 @@ When Joseph told these dreams to his family, the brothers were angry and vented 
 
 Joseph's brothers then betrayed him and sold him to the Ishmaelites, who brought him to Egypt to Potiphar the captain of the guard of Pharaoh. This betrayal signifies that God's vision will be rejected by others, as further seen in the persecution of Christians in the New Testament.
 
-As Jehovah was with Joseph, he was made overseer of the house and the house prospered. Eventually Potiphar's wife falsely accused Joseph of assault which led to him being thrown into prison. Significantly, Joseph did not argue against this condition i.e. attempt to hire any lawyers or justify himself. He simply continued to reign in life, and was put in charge of the entire prison. 
+As Jehovah was with Joseph, he was made overseer of the house and the house prospered. Eventually Potiphar's wife falsely accused Joseph of assault which led to him being thrown into prison. This was surely a death situation. However, Joseph did not argue against this condition i.e. attempt to hire any lawyers or justify himself. He simply continued to reign in life, and was eventually put in charge of the entire prison.
  
 ### Interpreting Dreams
 

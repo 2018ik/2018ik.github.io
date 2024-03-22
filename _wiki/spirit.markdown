@@ -6,7 +6,7 @@ permalink: /spirit/
 - [Background](#background)
 - [Etymology](#etymology)
 - [History](#history)
-  - [Nicene Creed](#nicene-creed)
+  - [Early Church](#early-church)
   - [Further Development](#further-development)
   - [The Spirit of Christ](#the-spirit-of-christ)
   - [Seven Spirits](#seven-spirits)
@@ -53,11 +53,9 @@ The words in the Bible for the Spirit of God and spirit of man are *ruach* and *
 
 ## History 
 
-### Nicene Creed
+### Early Church
 
 The Apostle's creed and the Nicene creed in the early third century affirms the existence and belief of the Holy Spirit, but does not elaborate on the purpose of the Spirit. Because these creeds were written in the earlier church where the Trinity was the main matter of focus, not much was spoken regarding the Spirit. Later, the council of Constantinople further confirmed the deity of the Spirit.
-
-### Further Development
 
 The early church continued to affirm that the Spirit is distinct and has a particular function, but was very unclear regarding the truth. Gregory Nazianzus, a early church father in the fourth century, said the some called the Spirit an Activity, some a Creature, some a form, others God. In general, the five agreed upon creeds regarding the Spirit's place in the Trinity were:
 
@@ -67,7 +65,11 @@ The early church continued to affirm that the Spirit is distinct and has a parti
 4. Eternal inseparability
 5. Working together as one
 
-However, this is a very inorganic understanding of the Trinity; some believed that the Spirit was separate from the Son and represents the Son. This is tritheism - an emphasis of the three as separate gods. For example, some viewed the Spirit as the "Cinderella" of the story, which went out on its own, leaving the Father and Son behind. 
+However, this is a very inorganic understanding of the Trinity; some believed that the Spirit was separate from the Son and represents the Son. This is tritheism - an emphasis of the three as separate gods. For example, some viewed the Spirit as the "Cinderella" of the story, which went out on its own, leaving the Father and Son behind.
+
+### Further Development
+
+The inner-life movement began with Madame Guyon and Father Fenelon of the Catholic Church, as well as others in the seventeenth century. These were ones who emphasized the inner life of the Spirit and were known as mystics.
 
 In the 1800s, it became generally acceptable and considered that in resurrection the Son *became* the life-giving Spirit. It was also revealed the the Spirit makes Christ present to the believers, and that the Trinity operates as one.
 
