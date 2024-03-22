@@ -161,7 +161,7 @@ The Spirit has power without economically. This spirit of power in Acts 1:8 allo
 
 ### Compound Spirit
 
-This can be illustrated by the hin of olive oil and the four spices in Exodus 30. The olive oil typifies the Spirit of God in essence; the four spices typify the processes which Christ went through in incarnation, human living, crucifixion etc. When the ingredients were separated, the Spirit was not yet. After the spices are compounded into the oil through His resurrection, it is now a compound oil, capable of anointing and signifies the compound Spirit.
+This can be illustrated by the [hin of olive oil and the four spices in Exodus 30](../compound_ointment). The olive oil typifies the Spirit of God in essence; the four spices typify the processes which Christ went through in incarnation, human living, crucifixion etc. When the ingredients were separated, the Spirit was not yet. After the spices are compounded into the oil through His resurrection, it is now a compound oil, capable of anointing and signifies the compound Spirit.
 
 ### Seven Spirits
 

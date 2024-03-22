@@ -6,6 +6,7 @@ permalink: /regeneration/
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
 - [Purpose](#purpose)
+- [Items Gained](#items-gained)
 
 ## Background
 
@@ -26,3 +27,20 @@ Neither the fallen human life, nor the Adamic life is can match God for [His pur
 Jeremiah 13:23 says that as a Cushite's skin and leopard's spots cannot be changed, so is the sinful nature of the Israelites. Jeremiah 17:9 says that their deceitful heart is incurable. As a result of the fall, man's nature was utterly incompatible with God. However, even prior to the fall, God placed Adam in front of the tree of life, giving man the free will to choose the divine life. This indicates that Adam did not yet have the eternal life of God, only a neutral human life (further proven by Genesis 3:22). Mankind not only needs to be redeemed from sin, but regenerated - joined to Christ - in order to fulfill God's purpose in creating man in the first place.
 
 Romans 7 paints a picture of a woman married to a husband representing the old man, the flesh, the fallen human life. The only way for us to be freed from such a life is for that life to be terminated, that is, for that first husband to die so that she may be married to the new husband, Christ. Verse 18 in the same chapter says that "in my flesh, nothing good dwells." The termination of the old man to be joined to the new man is a picture of regeneration.
+
+## Items Gained
+
+Here is a non-exhaustive list of things one received when they are regenerated:
+
+| Item | Description |
+| --- | --- |
+| New Heart | Our old heart is stone is changed to a soft heart of flesh (Ezek. 36:26) |
+| New spirit | Our old spirit was a dead spirit. The new spirit is living (Ezek. 36:26; Eph 2:5) |
+| God | The entire Triune God makes His abode starting with the spirit (Phil. 2:13; Gal. 2:20; Rom. 8:16). |
+| Life | Christ is life and by living Christ we live a new life (Gal. 2:20) |
+| Light | When one is in light, they are not in darkness. |
+| Liberty/Freedom | Thee is no condemnation for those in Christ Jesus, and there is freedom where the Spirit of the Lord is (Rom. 8:1; 2 Cor. 3:17). |
+| Anointing | The Holy Spirit of God begins to anoint us (1 John 2:27) |
+| Law of Spirit of life | In contrast with the law of sin and of death, the law of the Spirit of life is the automatic principle that one will overcome all death when they exercise their spirit. |
+| Sense of Life | The sense of life is a sense within one's intuition, also known as the teaching of the anointing. |
+| | | 

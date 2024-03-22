@@ -9,7 +9,7 @@ permalink: /economical_trinity/
 
 ## Background
 
-The **economical Trinity** is the Trinity in operation. While in essence, the Trinity of the Father, Son and Holy Spirit revealed in Matthew 28:19 has co-existed from eternity to eternity and is One, this Trinity entered into time for a move.
+The **economical Trinity** is the Trinity in operation. While in essence, the Trinity of the Father, Son and Holy Spirit revealed in Matthew 28:19 has co-existed from eternity to eternity and is One, this Trinity entered into time for a move. Prior to entering into time as man, God was eternally perfect, complete but yet perfected, completed. He was yet to be processed, and did not have the human element.
 
 ## Biblical Basis
 

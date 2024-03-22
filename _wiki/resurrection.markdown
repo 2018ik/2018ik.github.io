@@ -11,6 +11,7 @@ permalink: /resurrection/
 - [God of Resurrection](#god-of-resurrection)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
+  - [Testimony #2](#testimony-2)
 
 ## Background
 
@@ -58,3 +59,11 @@ The principle of resurrection is that our end is the Lord's beginning. The Lord 
 >The same brother who suffered from the illness was now suffering from an even more severe illness, say terminal cancer. Then he must know the Lord as not only the living God, but the God of resurrection. As he loses all of his hope in himself and medical science - although he may be treated in a hospital by skillful doctors - his trust is no longer based on physical things but on God who raised the dead. He would pray these words recorded in 2 Corinthians 1: "Oh God, deliver me from so great a death. Through this experience, work yourself into me, constitute your very being into the fiber of my being. I'd like to know you as the God of resurrection. Use this opportunity to impart gold, silver, and precious stones into me so that as I am healed, I'll be constituted with the God of resurrection."
 >
 >Well, brothers and sisters, this is what the apostles experienced in 2 Corinthians chapter 1. Paul and his apostles were excessively burdened beyond their power to cope with their sufferings. These types of circumstances cause our dear brothers to base their confidence not on themselves but on the God who raised them from the dead.
+
+### Testimony #2
+
+>In 1942, Watchman Nee was excommunicated from the church in Shanghai, and he told others that he felt that his ministry would never resume again. But through the resurrection power he was brought back, and hundreds of churches were revived and raised up.
+>
+>In the late 1950s and early 1960s there were ambitious coworkers who raised up dissension and rebellion among the churches in Taiwan. Brother Lee was led by the Lord to migrate to the U.S. to carry out the Lord's work, and the coworkers in Taiwan implored Lee to come back to deal with the rebellion. However Brother Lee said not to worry, as if the work he carried out is of men, it should be destroyed and must be destroyed. But if this work is of God, no one can destroy it. Eventually, the churches in Taiwan were brought into resurrection. Death cannot hold the resurrection life. If we hear of certain churches that are passing through a turmoil, we need to pray to bring those churches into resurrection. Bring them into the third day. 
+>
+>In Christ's resurrection, He became a life-giving Spirit, which is the highest significance of resurrection. Did you realize that becoming a life-giving Spirit is also a work of Christ? We will realize one day that it is a work to become a husband, it is a marvelous work to become a Father, likewise to become a life-giving Spirit was indeed a glorious work.

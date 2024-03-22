@@ -13,7 +13,7 @@ permalink: /body_of_christ/
 
 ## Background
 
-The **Body of Christ** is the **universal church**, consisting of His chosen and redeemed people who are constituted into one organic entity. This life flow of this Body is the Spirit; as there is one Spirit, so is there one Body (Eph. 4:4).
+The **Body of Christ** is the **universal church**, consisting of His chosen and redeemed people who are constituted into one organic entity. This life flow of this Body is the Spirit; as there is one Spirit, so is there one Body (Eph. 4:4). In fact, the Body of Christ is one with God to the extent that it *is* Christ. In 1 Corinthians 12:12, Christ is used in apposition with "body," indicating that the Body of Christ is Christ.
 
 Paul is the only writer in the new Testament to use the term "Body of Christ." Those who see that they are members of the Body treasure the Body and honor the other members. The Body of Christ must be governing principle for the church, the ministry, and the work. These three things are distinct manifestations of the Body - for the expression, function in service and increase respectively. The Body of Christ is obtained through a cycle involving minsters working to build up churches (see: ministry).
 

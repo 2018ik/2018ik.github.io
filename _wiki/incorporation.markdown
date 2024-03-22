@@ -17,8 +17,7 @@ permalink: /incorporation/
 
 ## Divine Incorporation
 
-Divine incorporation refers firstly to the incorporation of the Three of the Trinity in themselves, 
-God in His Divine Trinity is an incorporation through mutual coinherence and operation. John 14:10 says that the Son and the Father coinhere. However, verse 11 goes on to say that the Son's words are from the Father who abides in Him and does His works. The Father works in the Son, and the Son speaks, but the two workings here cannot be separate.
+Divine incorporation refers firstly to the incorporation of the Three of the Trinity in themselves, which means they must coinhere and co-operate. The former can be proved with the same proof used for the Trinity being a divine and mystical realm: John 14:10 says that the Son and the Father are in each other. However, verse 11 goes on to say that the Son's words are from the Father who abides in Him and does His works. The Father works in the Son, and the Son speaks, but the two workings here cannot be separate.
 
 Then, through the resurrection of Christ, the regenerated believers were also brought into this divine incorporation. John 14:20 reveals that in that day, referring to the day of His resurrection, the Son will be in the Father, and the believers will be in the Son and the Son will be in the believers. This is the incorporation of the consummated God with the regenerated believers. The verse prior says that the Spirit of reality will also abide in the believers. This demonstrates the full incorporation of Father, Son, Spirit and the believers.
 
