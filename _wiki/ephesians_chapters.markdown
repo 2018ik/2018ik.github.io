@@ -4,9 +4,14 @@ title: Ephesians (Chapters)
 permalink: /ephesians_chapters/
 ---
 - [Background](#background)
+- [1](#1)
 - [4](#4)
 
 ## Background
+
+## 1
+
+God has blessed His people with every spiritual blessing in the heavenlies in Christ.
 
 ## 4
 
