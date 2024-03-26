@@ -4,6 +4,7 @@ title: Grace
 permalink: /grace/
 ---
 - [Background](#background)
+- [Etymology](#etymology)
 - [Biblical Basis](#biblical-basis)
 - [Types](#types)
   - [Sarah](#sarah)
@@ -20,6 +21,10 @@ permalink: /grace/
 **Grace** is God in His Trinity (God the Father in the Son as the Spirit) processed through incarnation, human living, crucifixion, resurrection and ascension to enter into His believers through the regenerated human spirit to be their everything, especially in the matter of enjoyment. Contrary to the popular, shallow notion of grace being mere unmerited favor or material gifts from God, grace is actually God Himself becoming one's everything in a subjective way. As grace is subjective, it is only as real as one chooses to cooperate with God; attempting to follow the law to justify oneself out of natural effort actually nullifies grace (Gal. 2:21).
 
 Technically speaking, the entire Bible can be summarized as God in the beginning, the New Jerusalem at the end, and grace in its operation to bring mankind to that ending (Rev. 22:21).
+
+## Etymology
+
+The Greek word for grace refers to that which bestows joy or delight.
 
 ## Biblical Basis
 

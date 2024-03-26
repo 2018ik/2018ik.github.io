@@ -49,7 +49,11 @@ The New Jerusalem has one throne with one flow of life, one tree of life, and on
 
 The river of water of life flowing out of the throne proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
 
-The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration.  
+The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration. 
+
+| Item | Description |
+| --- | --- |
+| Jasper | Holy Spirit |
 
 ## Central Line
 

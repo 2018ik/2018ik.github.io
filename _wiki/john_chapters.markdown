@@ -4,7 +4,7 @@ title: John (Chapters)
 permalink: /john_chapters/
 ---
 - [Background](#background)
-- [Significance](#significance)
+- [3](#3)
 - [14](#14)
 - [15](#15)
 - [17](#17)
@@ -12,7 +12,13 @@ permalink: /john_chapters/
 
 ## Background
 
-## Significance
+## 3
+
+Verse 16 is one of the most famous verses in the Bible: 
+
+>For God so loved the world that He gave His only begotten Son, that everyone who believes into Him would not perish, but would have eternal life.
+
+The Trinity can be seen in the verse - as the Father who is love, the Son who is grace, and the Spirit who is life. 
 
 ## 14
 

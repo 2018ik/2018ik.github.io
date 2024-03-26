@@ -24,7 +24,13 @@ The term "Trinity" is not directly mentioned in the Bible but was established by
 
 ## Importance
 
-The Trinity is the framework of the Bible and is indispensible for its understanding. Many genuine Christians as well as theologians are subconsciously tritheistic in their understanding of the Trinity.  One's experience and gaining of Christ cannot surpass their knowledge and revelation of Christ (Phil. 3:8). 
+> The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
+
+\-2 Cor. 13:14
+
+God is triune in order to be experienced and enjoyed by man. The terms grace, love and fellowship are all related to God's reaching of man. The Father sends the Son in His name who is now the Spirit to make the entire Triune God real to us.
+
+The Trinity is the framework of the Bible and is indispensible for its understanding. Many genuine Christians as well as theologians are subconsciously tritheistic in their understanding of the Trinity. One's experience and gaining of Christ cannot surpass their knowledge and revelation of Christ (Phil. 3:8). 
 
 ## Characteristics
 
