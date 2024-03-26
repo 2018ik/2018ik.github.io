@@ -17,7 +17,7 @@ permalink: /song_of_songs_book/
 
 ## Background
 
-**Song of Songs** is a poem of the progressive experience of an individual believer's loving fellowship with Christ, illustrated by the history of love in an excellent marriage. Although the poem literally depicts the relationship between King Solomon and the Shulammite, a country girl (S.S. 6:13), this is a parallel to the relationship of God to His believers in the New Testament. The Lord wants a bride that matches Him, and the preparation of this bride is seen in six major stages. 
+**Song of Songs** is a poem of the progressive experience of an individual believer's loving fellowship with Christ, illustrated by the history of love in an excellent marriage. The poem's depiction of a relationship between King Solomon and the Shulammite, a country girl (S.S. 6:13), is a parallel to the relationship of God to His believers in the New Testament. The Lord wants a bride that matches Him in maturity, and the preparation of this bride is seen in six major stages. 
 
 ## Summary
 

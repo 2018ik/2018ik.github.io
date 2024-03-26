@@ -40,6 +40,8 @@ The finite love of one's human virtues is not universal, and is limited. It is d
 
 ### Divine Love
 
+The divine love does not issue form oneself, but from God who is love. The basis of this love is on God first loving us (1 John 4:19).
+
 To love the Lord with the first love is to give the Lord the preeminence, the first place in all things. He who loves his parents of children above God is not worthy of Him. The highest place should be given to the Lord.
 
 An example of this is the Psalmist in Psalms 73:25 who desires nothing on Earth besides God.
