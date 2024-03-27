@@ -13,12 +13,13 @@ permalink: /love/
 - [Issues](#issues)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
+  - [Testimony #2](#testimony-2)
 
 ## Background
 
-**Loving** the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from one's natural  self, but a divine life which comes from God Himself as the Spirit of love who puts real love into the heart (Col. 1:8; Rom. 5:5). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
+**Love** for the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from oneself, but a divine life which comes from God as the Spirit of love who puts real love into the heart (Col. 1:8; Rom. 5:5). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
 
-Between faith, hope and love, the greatest is love (1 Cor. 13:13).
+To perform a work without love amounts to nothing (1 Cor. 13:2-3). Between faith, hope and love, the greatest is love (1 Cor. 13:13).
 
 ## Significance
 
@@ -61,5 +62,12 @@ Loving God issues in many things. When we Love Hod, we are occupied by Him as He
 ## Testimonies
 
 ### Testimony #1
+
+>When I was a yong brother I was very zealous for the gospel but several times i was offended by people's response. I really appreciated the brothers woh can speak very well the points very clearly but myself I thought that I should learn how to speak like that. I loved to pursue signs, knowledge. One day I read these three verses which changed my life: "[1] If I speak in the tongues of men and of angels but do not have love, I have become sounding brass or a clanging cymbal. [2] And if I have [the gift of] prophecy and know all mysteries and all knowledge, and if I have all faith so as to remove mountains, but do not have love, I am nothing (1 Cor. 13:1-2)." I thought that was the highest thing I could achieve - to know all mysteries, all knowledge. That a Christian could achieve, to know all the truths, with faith and power even to remove mountains. What else can you have? What else can you pursue?
+
+"And if I dole out all my possessions to feed [others,] and if I deliver up my body that I may boast, but do not have love, I profit nothing (1 Cor 13:3)." You can change the word *love* with Christ, or to life. In Christianity there are many powerful speakers but if they don't have love or the life of God then it is nothing. This verse truly changed the game. Love is the only way for us to be someone, to do something, we really need to receive the light from the Lord. If we do not have love, we're nothing. But if we have love, nothing is too small. Even to give a person a cup of water, if it's out of love it's not a small thing.
+
+
+### Testimony #2
 
 > One time in the Church in Anaheim we had the Lord's table and after the Lord's table saints can share whatever they like. So one of the brothers stood up, and said "Sitting beside me, this young brother is actually my son who I didn't know existed until a few days ago." And so he said he [the son] named himself Melchizedek since he doesn't know where his father comes from. And as he was sharing this the whole congregation was so quiet. Nobody knew what to say because he said this is his illegitimate son who he didn't know existed. And then he went and described how it happened. I was wondering if I should stop him or not. But after he finished his story, you know what brother Lee did? Brother Lee said welcome Melchizedek! The whole congregation was enlivened because brother Lee said he may have committed something wrong but we still need to love him as the father loved. Don't you think this is something? 
