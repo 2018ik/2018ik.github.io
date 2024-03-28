@@ -14,6 +14,8 @@ permalink: /veil/
   - [Disposition](#disposition)
 - [Biblical Examples](#biblical-examples)
   - [Mary](#mary)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -50,3 +52,9 @@ Lazy people will interpret the Bible based on their lazy character and dispositi
 ### Mary
 
 The apostles Peter and John were satisfied with the facts when they arrived at the Lord's tomb. They saw the tomb was in good order, the Lord must've resurrected, and they went home. On the other hand, Mary stood outside weeping and wanted to find exactly where the Lord was. Because she loved the Lord to the uttermost, she sought the Lord, and therefore she was the first to recieve the revelation that Christ was the firstborn among many brothers.
+
+## Testimonies
+
+### Testimony #1
+
+>2 Corinthians 3:15-16 says that a "veil lies on their hear; but whenever their heart turns to the Lord, the veil is taken away." There are so many persons, matters and things that our hearts are turned to besides the Lord. But thank God we don't need to exercise our mind to introspect regarding what these things are or how to deal with them, but we simply need to exercise our will to turn our heart to the Lord, and the Lord is faithful to take the veil away. He is faithful to take away our idols and broken cisterns. In the next verse we see that in this way we experience true freedom. We experience true joy - beholding and reflecting the glory of the Lord!
