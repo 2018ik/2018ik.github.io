@@ -43,6 +43,7 @@ The revelation of the Spirit in the Bible is progressive. The Old Testament open
 
 1. The Spirit that gives life that was "not yet" (John 7:39)
 2. The last Adam became a life-giving Spirit (1 Cor. 15:45)
+   1. The life-giving Spirit being the consummation of the Triune God; it was not until post-resurrection that the Trinity was revealed in full (Matt. 28:19).
 3. The compound Spirit typified by the holy anointing oil in Exodus 30
 4. The Spirit of life in Romans 8
 5. The seven Spirits in Revelation

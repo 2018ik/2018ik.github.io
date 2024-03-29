@@ -51,7 +51,7 @@ Lazy people will interpret the Bible based on their lazy character and dispositi
 
 ### Mary
 
-The apostles Peter and John were satisfied with the facts when they arrived at the Lord's tomb. They saw the tomb was in good order, the Lord must've resurrected, and they went home. On the other hand, Mary stood outside weeping and wanted to find exactly where the Lord was. Because she loved the Lord to the uttermost, she sought the Lord, and therefore she was the first to recieve the revelation that Christ was the firstborn among many brothers.
+The apostles Peter and John were satisfied with the facts when they arrived at the Lord's tomb. They saw the tomb was in good order, the Lord must've resurrected, and they went home. On the other hand, Mary stood outside weeping and wanted to find exactly where the Lord was. Because she loved the Lord to the uttermost, she sought the Lord, and therefore she was the first to receive the revelation that Christ was the firstborn among many brothers.
 
 ## Testimonies
 

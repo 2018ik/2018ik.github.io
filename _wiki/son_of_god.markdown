@@ -4,10 +4,17 @@ title: Son of God
 permalink: /son_of_god/
 ---
 - [Background](#background)
+- [Only-begotten](#only-begotten)
 - [Designated](#designated)
   - [Firstborn](#firstborn)
 
 ## Background
+
+The **Son of God** is a title given to Christ Jesus with an emphasis on His divinity (as opposed to son of man which places the emphasis on His humanity).
+
+## Only-begotten
+
+Even before His incarnation, Jesus was the only-begotten Son of God. 
 
 ## Designated
 
