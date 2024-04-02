@@ -54,7 +54,7 @@ permalink: /quotes/
 
 >Sometimes brothers are like locusts [in the home meetings], you hear buzzing and then all the food disappears.
 
->Don't correct, don't impose, don't suggest, just live Christ!
+>Don't feel that you need to finish every sentence you begin.
 
 >When I entered the church life, many saints shepherded me. But I'm sorry to say, I don't remember anything that they taught; I only remember who they are and how they lived.
 

@@ -9,7 +9,7 @@ permalink: /salvation/
 
 ## Background
 
-Salvation in the Bible is twofold: on one hand, there is an instant, one-time, judicial salvation from eternal perdition through faith in Christ, accomplished through His redemption on the cross. One the other hand, there is a *much more*, daily, eventual salvation through the life of Christ (Rom. 5:10) and a greater reward (1 Cor. 3:14; 9:24) which depends on [how one runs the race](../running_the_race) (Matt. 25:30).
+**Salvation** in the Bible is twofold: on one hand, there is an outward, immediate, judicial salvation from eternal perdition through faith in Christ, accomplished through His redemption on the cross. One the other hand, there is an inward, continual, organic salvation through the life of Christ (Rom. 5:10) and a greater reward (1 Cor. 3:14; 9:24) which depends on [how one runs the race](../running_the_race) (Matt. 25:30).
 
 ## Judicially
 
