@@ -1,15 +1,13 @@
 ---
 layout: pagev2
-title: Walking
-permalink: /walking/
+title: Walking By the Spirit
+permalink: /walking_by_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)
 
 ## Background
 
-**Walking** in Christ is to live, act, behave and have one's being in Christ.  
-
-Walking by the spirit, as opposed to living by the spirit, has the sense of carrying things out. One should learn to walk by the spirit in small matters first, say, how one talks or dresses. Then, the large matters will be settled organically. 
+**Walking by the Spirit**, as opposed to living by the Spirit, has the sense of carrying things out. One should learn to walk by the Spirit in small matters first, say, how one talks or dresses. Then, the large matters will be settled organically. 
 
 ## Significance
