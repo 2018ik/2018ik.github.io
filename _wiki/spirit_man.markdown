@@ -22,7 +22,7 @@ permalink: /spirit_man/
 
 ## Background
 
-The **spirit** is the innermost part of the man, and consists of the functions of the conscience, intuition and fellowship. Man's spirit is distinct from the soul (Heb. 4:12; 1 Thes. 5:23), and the spirit is the only way through which man can contact God and to accomplish His purpose. The regenerated human spirit is the key to everything in the Christian life, as that is where God is (Rom. 8:16). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven toe earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
+The **spirit** is the innermost part of the man, and consists of the conscience, intuition and fellowship. Man's spirit is distinct from the soul (Heb. 4:12; 1 Thes. 5:23), and the spirit is the only way through which man can contact God and to accomplish His purpose. The regenerated human spirit is the key to everything in the Christian life, as that is where God is (Rom. 8:16). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven toe earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
 
 Having been uniquely created with a spirit, man is separated from animal. Satan throughout church history has strategically veiled the human spirit (despite its clear existence in the Bible) so that man is separated from God and Christianity becomes a religion form. 
 
@@ -38,15 +38,13 @@ To not use the spirit to contact God is akin to using the entirely wrong organ t
 
 Many verses in the Bible indicate that there is the Spirit of God as well as a spirit of man, sometimes even in the same verse. 
 
-Romans 8:16 says that the Spirit witnesses with our spirit, indicating that there is both a Spirit of God and a spirit of man. Hebrews 4:12 draws a distinction between the soul and spirit, and 1 Thessalonians shows that man has a spirit, soul and body.
+Romans 8:16 says that the Spirit witnesses with our spirit, indicating that there is both a Spirit of God and a spirit of man. Hebrews 4:12 draws a distinction between the soul and spirit, and 1 Thessalonians 5:23 shows that man has a spirit, soul and body.
 
 1 Corinthians 2:11 mentions the spirit of man, except this verse also personifies the spirit with the pronoun "who," indicating a mingling of the Spirit of God with our spirit, in which there is a person present in man's spirit.
 
-In the Old Testament, there are types which illustrate the three parts of man. For example, the temple as the dwelling place of God contains three sections, and is also directly indicated by Jesus who referred to Himself as a temple (John 2:19-21). In the creation record of Adam, God formed him from the dust of the ground, indicating the Body. Then, He breathed into Him the breath of life, indicating the Spirit. Then, man became a living soul, indicating the soul.
+In the Old Testament, there are types which illustrate the three parts of man. For example, the temple or tabernacle as the dwelling place of God has three sections, and is also directly indicated by Jesus who referred to Himself as a temple (John 2:19-21). In the creation record of Adam, God formed him from the dust of the ground, indicating the Body. Then, He breathed into Him the breath of life, indicating the Spirit. Then, man became a living soul, indicating the soul.
 
 When the Spirit of God dwells in man (2 Tim. 4:22), the dwelling place is the human spirit. This is typified by the Holy of Holies; when one enters the Holy of Holies today, they are entering into their spirit (Heb. 10:19).
-
-Similarly, the Israelites were saved out of Egypt, wandered in the wilderness, and was brought into Canaan, a type of the all-inclusive Christ.
 
 ![temple](../img/WL64-03-20EconomyGod03_3_chart.png)
 

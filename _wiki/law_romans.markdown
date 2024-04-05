@@ -15,7 +15,7 @@ permalink: /law_romans/
 
 ## Background
 
-Romans chapters 7 to 8 reveals four **laws** which operate within man, as well as the law of God.
+Romans chapters 7 to 8 reveals four **laws** which operate within man, as well as the law of God. The four laws which operate in man are not legalistic or written laws, but scientific laws i.e. principles which operate automatically based on certain conditions.
 
 ## Law of God
 
@@ -27,7 +27,7 @@ The law of God in Romans 7:2, 7:7, 7:12, 7:21, and many previous chapters portra
 
 ## Laws in man
 
-These are not legalistic or written laws, but "scientific laws" i.e. principles which operate automatically in response to the law of God. The relationship between these four laws is as follows: when one sees the requirements of the law of God, the law of good in their mind will desire to serve to fulfill the law of God. However, this triggers the law of sin and of death which causes them to fail; to do good in the mind always leads to sin and death (Rom. 7:25). However, there is a divine "switch" in the human spirit, which when switched on (i.e. Roman 8:6 - the mind is *set* on the spirit), the law of the Spirit of life will spontaneously activate to impart life, peace and fulfill the law of God.
+The relationship between these four laws is as follows: when one sees the requirements of the law of God, the law of good in their mind will desire to serve to fulfill the law of God. However, this triggers the law of sin and of death which causes them to fail; to do good in the mind always leads to sin and death (Rom. 7:25). However, there is a divine "switch" in the human spirit, which when switched on (i.e. Roman 8:6 - the mind is *set* on the spirit), the law of the Spirit of life will spontaneously activate to impart life, peace and fulfill the law of God.
 
 In other words, the law of sin and of death can be likened to gravity, always bringing everything to the ground. The law of good in the mind can be likened to one's vain effort to hold an object up, suppose to lift a 20lb dumbbell. A person may be able to carry this for hours or days, but inevitably, gravity will win. On the other hand, the law of the Spirit of life is like being placed on a jumbo jet in the air. There is no self-effort involved, the jet simply flies against gravity. However, one can constantly transition between these three laws all the time. The goal is to continually live Christ according to the law of the Spirit of life.
 

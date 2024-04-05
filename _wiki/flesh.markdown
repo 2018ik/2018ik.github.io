@@ -10,7 +10,7 @@ permalink: /flesh/
 
 ## Background
 
-The **flesh** in the Bible is almost always in a negative way, and usually refers to the corrupted, sinful body produced by the fall of man. For example, the flesh is weak (Matt. 24:41; Rom. 6:19), and nothing good dwells in the flesh (Rom. 7:18). When someone is in the flesh, they work out sins (Rom. 7:5; Gal. 5:19-21) and cannot fulfill the righteous requirements of the law (Rom. 8:4) or please God (Rom. 8:8). This is the body of sin mentioned in Romans 6:6 and the body of death mentioned in Romans 7:24. This sinful body is also called the old man, however the old man is objective while the flesh is subjective. 
+The **flesh** in the Bible is almost always negative, and usually refers to the corrupted, sinful body produced by the fall of man. For example, the flesh is weak (Matt. 24:41; Rom. 6:19), and nothing good dwells in the flesh (Rom. 7:18). When someone is in the flesh, they work out sins (Rom. 7:5; Gal. 5:19-21) and cannot fulfill the righteous requirements of the law (Rom. 8:4) or please God (Rom. 8:8). This is the body of sin mentioned in Romans 6:6 and the body of death mentioned in Romans 7:24 is only good for sin and death. This sinful body is also called the old man, however the old man is objective while the flesh is subjective. 
 
 The prior and more common definition of flesh refers to an intangible aspect of man; that flesh must even be crucified in the spiritual sense (Gal. 5:24), and obviously when that happens, no one is physically dying. On the other hand, flesh sometimes refers to the entire fallen man. In Genesis 6:3, God says that man is flesh. Paul’s flesh that was afflicted in 2 Corinthians 7:5 was his physical, fallen body. 
 
