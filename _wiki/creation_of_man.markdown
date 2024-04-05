@@ -14,7 +14,7 @@ permalink: /creation_of_man/
 
 ## Background
 
-The **creation of man** was for the fulfillment of [God's eternal purpose](../economy), which is to dispense Himself into man that man may express Him. This is recorded in Genesis chapters 1 and 2, where man is created out of dust in the image and likeness of God.
+The **creation of man** was for the fulfillment of [God's eternal purpose](../economy), which is to dispense Himself into man that man may express Him and become His duplication. This is recorded in Genesis chapters 1 and 2, where man is created out of dust in the image and likeness of God. 
 
 ## Biblical Record
 

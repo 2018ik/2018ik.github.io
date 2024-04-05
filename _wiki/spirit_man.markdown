@@ -32,7 +32,8 @@ The same word "spirit" (Greek: *pneuma*) is used to describe both the human and 
 
 ## Significance 
 
-To not use the spirit to contact God is akin to using the entirely wrong organ to accomplish certain things (e.g. eating with one's ear). One cannot contact God through their body or their soul. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when one is saved, their spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, one must turn to their spirit.
+God's purpose cannot be fulfilled without the human spirit. This is why it is ranked with the heavens and the earth (Zech. 12:1; Isa. 42:5). 
+To not use the spirit to contact God is akin to using the entirely wrong organ to accomplish certain things (e.g. trying to see with the ears). One cannot contact God through their body or their soul. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when one is saved, their spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, one must turn to their spirit.
 
 ## Biblical Basis
 
