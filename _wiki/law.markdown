@@ -11,6 +11,7 @@ permalink: /law/
   - [To Govern Man](#to-govern-man)
   - [To Expose Sin](#to-expose-sin)
   - [To Conduct Man To Christ](#to-conduct-man-to-christ)
+- [New Covenant](#new-covenant)
 - [Related Terms](#related-terms)
 
 ## Background
@@ -56,6 +57,12 @@ In the New Testament, man attempts to fulfill the law, but the evil will be pres
 Through the exposing of sin, a person realizes by the law that they are good for nothing but death and burial. This conducts man to Christ as their only hope.
 
 This can be seen in the best practice for saving a drowning person. The lifeguard should wait until the drowning person has exhausted all effort and stops struggling before saving them. When a person loses all hope in their natural effort and stops their own doing, it is easy for them to believe and receive Christ.
+
+## New Covenant
+
+Although God's New Testament economy is centered on grace and faith rather than the law and works, as seen very clearly in the first two chapters of Galatians, there is still a "law" which applies as the "law of the Spirit of life" (Rom. 8:2). The law given to Moses was external, but Jeremiah prophesied of a new law that will be put in "their inward parts" and written on their hearts (Jer. 31:33). This verse is quoted in Hebrews 8:10 and 10:16 when speaking regarding the new covenant. 
+
+This new law is not a law of letters, but a law of life (Rom. 7:6).
 
 ## Related Terms
 
