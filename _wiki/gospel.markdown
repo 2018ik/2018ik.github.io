@@ -6,6 +6,7 @@ permalink: /gospel/
 - [Background](#background)
 - [Focus](#focus)
 - [Biblical Basis](#biblical-basis)
+- [Acts 26:18](#acts-2618)
   - [Romans 1:3-4](#romans-13-4)
   - [Philippians](#philippians)
 - [Principles](#principles)
@@ -28,6 +29,8 @@ The focus of the gospel is God received by man as the Spirit (Gal. 3).
 
 ## Biblical Basis
 
+## Acts 26:18
+
 ### Romans 1:3-4
 
 The entire gospel of God is revealed in these two verses. The gospel is related to a *person*, that is His son, who was the seed of David according to the flesh.
@@ -38,7 +41,7 @@ Everything outside there is no blessing, without surely there is the lake of fir
 
 We also see this in Luke 15. The Son shepherding, to find the lost one. The woman sweeping to find the lost coin, which is the sweeping Spirit. And then we have the receiving Father full of compassion. Man is not only sinful, but became dead and lost. 
 
-Salvation does not start with us, it started with the Trine God, who predestinated us. Before sin, before anything happened, you and I were chosen. Why did he choose us in particular? He just chose us. I myself feel that if He hadn't chose me, I myself would never have been saved. God had marked us out, and only because we have this mark, were we saved, do we live, do we breathe. If we appreciate this salvation, we will automatically preach. If we are not excited that we are sons of God, how will we inspire others?
+Salvation does not start with us, it started with the Triune God, who predestinated us. Before sin, before anything happened, you and I were chosen. Why did he choose us in particular? He just chose us. I myself feel that if He hadn't chose me, I myself would never have been saved. God had marked us out, and only because we have this mark, were we saved, do we live, do we breathe. If we appreciate this salvation, we will automatically preach. If we are not excited that we are sons of God, how will we inspire others?
 
 Romans 10:20 - if you are looking for seekers, you will never find them. How can you have a seeking heart without being saved? God was found by those who did not seek; He became manifest to those who did not ask. Those who are not seeking and did not ask for the Lord are most qualified to be saved.
 

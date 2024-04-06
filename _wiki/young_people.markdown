@@ -11,7 +11,7 @@ permalink: /young_people/
 
 Throughout the Bible and church history, **Young people** are the demographic who are most frequently called by God to change the age.
 
-Generally speaking, young people are just those who are considered young in the current era, probably up to 25 years old or so. In the Lord's Recovery may refer specifically to those who are middle and highschool-aged.
+Generally speaking, young people are those who are considered young in the current era, probably up to 25 years old or so. "Young person" may also refer specifically to someone who is middle and highschool-aged.
 
 ## Significance
 

@@ -8,6 +8,6 @@ permalink: /one_piece_work/
 
 ## Background
 
-The **one piece work** refers to the children's, young people and campus work all being part of a single work.
+The **one piece work** refers to the children's, young people and campus work all being part of a single work. There should be no artificial division of labor based on age; the work for the next generation should be part of the one work of building up the church.
 
 ## Significance
