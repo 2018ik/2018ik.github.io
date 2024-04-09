@@ -38,6 +38,8 @@ God formed man from the dust of the ground, and breathed into his nostrils the b
 
 Then, the body is seen in the formation from the dust, and the soul is seen in man becoming a "living soul." When the spiritual breath and bodily dust came together, the soul was produced. That man was created tripartite with body, soul and spirit was very purposeful, so that man can receive and express God.
 
+This verse also reveals the Trinity: God can be understood here as the Father, the source. The Son can be understood as both the words spoken by God (John 1:1) as well as the image and likeness by which man was created. Lastly, the Spirit is seen as the breath of life which was breathed into man's nostrils.
+
 ### Genesis 2:9
 
 Man was placed in a garden with "every tree that is pleasant to the sight and good for food" as well as the tree of life and tree of the knowledge of good and evil. This shows that God created man with a free will, and His intention is for man to eat and enjoy, but more specifically to eat the tree of life. Man is actually just a vessel made in the image and likeness of God to contain God as food.
