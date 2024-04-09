@@ -43,4 +43,4 @@ Here is a non-exhaustive list of things one received when they are regenerated:
 | Anointing | The Holy Spirit of God begins to anoint us (1 John 2:27) |
 | Law of Spirit of life | In contrast with the law of sin and of death, the law of the Spirit of life is the automatic principle that one will overcome all death when they exercise their spirit. |
 | Sense of Life | The sense of life is a sense within one's intuition, also known as the teaching of the anointing. |
-| | | 
+| The Spirit of Sonship | A saved one receives a spirit of sonship which makes them sons of God (Rom. 8:15; Gal. 4:5-6) | 

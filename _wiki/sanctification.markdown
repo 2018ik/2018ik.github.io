@@ -4,8 +4,8 @@ title: Sanctification
 permalink: /sanctification/
 ---
 - [Background](#background)
-- [Three Steps](#three-steps)
-  - [Initial Sanctification](#initial-sanctification)
+- [Three Aspects](#three-aspects)
+  - [Seeking Sanctification](#seeking-sanctification)
   - [Positional Sanctification](#positional-sanctification)
   - [Dispositional Sanctification](#dispositional-sanctification)
 
@@ -13,15 +13,15 @@ permalink: /sanctification/
 
 **Sanctification** is to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem. 
 
-## Three Steps
+## Three Aspects
 
-### Initial Sanctification
+### Seeking Sanctification
 
-1 Peter 1:2 says that all believers were chosen by the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus christ. This means that the Spirit's sanctification is what causes sinners to be obedient and repent. The second parable in Luke 15 portrays the Spirit seeking out sinners that they may repent (Luke 15:8-10).
+1 Peter 1:2 says that all believers were chosen by the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus christ. This means that the Spirit's sanctification is what causes sinners to be obedient and repent. We call this seeking sanctification because the second parable in Luke 15 portrays the Spirit seeking out sinners that they may repent (Luke 15:8-10). Even before being saved, all believers were swept out by the seeking Spirit.
 
 ### Positional Sanctification
 
-Positional sanctification (PS) is to sanctify one's outward standing before God by the redeeming blood of Christ (Heb. 9:14; Heb. 13:12), the Holy Spirit and the name of the Lord Jesus (1 Cor. 6:11). The common people may say certain things, go to certain places or buy certain things, but God's people cannot because they are separated and under the blood of Christ and the name of Jesus.
+Positional sanctification (PS) is to sanctify one's outward standing before God by the redeeming blood of Christ (Heb. 9:14; Heb. 13:12), the Holy Spirit and the name of the Lord Jesus (1 Cor. 6:11). The common people may say certain things, go to certain places or buy certain things, but God's people cannot because they are separated and under the blood of Christ and the name of Jesus. An example of gold being positionally sanctified is seen in Matthew 23:17; when the gold is put into the offering box, it is positionally sanctified. 
 
 According to 1 Corinthians 6:11, PS occurs after washing and before justification. These steps are all included in judicial redemption.
 

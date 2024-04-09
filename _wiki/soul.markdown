@@ -25,9 +25,9 @@ The divine attributes of God are manifest through the soul. God cannot be expres
 
 ### Mind
 
-Proverbs 2:10 says that knowledge will be pleasant to the soul, and Psalm 139:14 says that the soul knows. Knowing is a function of the mind.
+Proverbs 2:10 says that knowledge will be pleasant to the soul, and Psalm 139:14 says that the soul knows. Knowing is a function of the mind. Furthermore, Psalm 13:2 shows that one can take counsel in their soul. Analyzing or considering the best decision is a function of the mind. Lamentations 3:20 shows that the soul can remember things, and remembrance is also a function of the mind.
 
-Furthermore, Psalm 13:2 shows that one can take counsel in their soul. Analyzing or considering the best decision is a function of the mind. Lamentations 3:20 shows that the soul can remember things, and remembrance is also a function of the mind.
+The mind is the principal part of the soul. In the New Testament, the mind and the soul sometimes mean the same thing. The renewing work of the Spirit begins in the mind, which then transforms the entire soul; Romans 12:2 clearly says that transformation is by the renewing of the mind.
 
 ### Emotion
 
