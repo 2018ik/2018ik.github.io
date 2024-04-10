@@ -11,7 +11,7 @@ permalink: /firstfruit/
 
 ## Background
 
-In the Old Testament, the **firstfruits** each harvest were offered to God for His satisfaction. They were to be taken into the house of God and waved to God. This is what took place on the day of the Lord's resurrection; the Lord Jesus resurrected as the firstfruits of resurrection (1 Cor. 15:20, 23). This is why He did not allow Mary to touch Him - because He had to offer himself to God the Father first in the freshness of His resurrection for the Father's satisfaction.
+In the Old Testament, the **firstfruits** each harvest were offered to God for His satisfaction. They were to be taken into the house of God and waved to God. The reality of the offering of the firstfruits is what took place on the day of the Lord's resurrection; in other words, the Lord Jesus Himself was the firstfruits to the Father in His resurrection (1 Cor. 15:20, 23). This is why He did not allow Mary to touch Him - because He had to offer himself to God the Father first in the freshness of His resurrection for the Father's satisfaction.
 
 ## History
 

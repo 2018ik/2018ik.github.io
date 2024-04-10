@@ -13,7 +13,7 @@ permalink: /vital_group/
 
 ## Background
 
-A **vital group** is a group of living and active Christians who meet together to perfect and build up the church according to [the way that God has ordained](../god_ordained_way) in Acts. 
+A **vital group** is a group of living and active Christians who meet together to perfect and build up the church according to [the way that God has ordained](../god_ordained_way) in Acts. These are believers who despite persecution are gathered together to continue steadfastly and desperately in prayer and praise.
 
 The church is degraded, and has become abnormal, even since the early church throughout Paul's epistles. Satan's strategy is to bring in many replacements for Christ; instead of Christ himself, believers are often more interested in Bible knowledge, carrying out good works, and trying to do good things.
 
@@ -23,7 +23,7 @@ All of these aforementioned things are *not* normal - therefore to be an overcom
 
 ## Why "Vital" Groups?
 
-To be "vital" means to be living and active. There are many groups - believers who meet together - but there is a need for groups who can steadfastly meet with the purpose to increase, perfect, and build up the Body of Christ (Acts 2:46-47). These are groups of two or three which gather into the Lord's name (Matt. 18:20).
+To be "vital" means to be living and active. There are many groups - believers who meet together - but there is a need for groups who can steadfastly meet with the purpose to increase, perfect, and build up the Body of Christ (Acts 2:46-47). These are groups of two or three which are gathered into the Lord's name (Matt. 18:20). Notice that "gathered" here is passive voice; the subject which is performing the gathering is the Lord Himself.
 
 The nature of the vital groups is spiritual, to be filled with the Holy Spirit. The condition of the vital groups is loving one another (John 13:35) in oneness and with one accord. In order to express the divine life and to bear fruit, the branches (that is, the believers) must love one other (John 15:12-17). If there is no spirit and no love, it is only possible to gather in a natural way - socializing rather than blending.
 
@@ -59,6 +59,6 @@ Daniel took action.
 
 ## Application
 
-We must drop our opinions and be open, in order to enter into the practice of the vital groups. We have to come together, pray, open to one another and seek the Lord that we can be blended as a group. Otherwise it's going to be difficult to have much impact with anyone.
+In order to be vital, we have to take care of fellowship, intercession, mutual care and shepherding. These four things should be done in a very spontaneous way, and begins with fellowship, which begins with contacting the Lord. Then, we can fellowship with others to get to know their situation. Then, we can pray i.e. intercede for one another. This prayer will lead to a mutual care for one another, which is expressed through shepherding - the physical rendering of help. 
 
-We have to take care of fellowship, intercession, mutual care and shepherding. These four things should be done in a very spontaneous way, and begins with fellowshipping and getting to know one another's situation. Then, we can pray i.e. intercede for one another. This prayer will lead to a mutual care for one another, which is expressed through shepherding - the physical rendering of help. 
+We must drop our opinions and be open, in order to enter into the practice of the vital groups. We have to come together, pray, open to one another and seek the Lord that we can be blended as a group. Otherwise it's going to be difficult to have much impact with anyone.

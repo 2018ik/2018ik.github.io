@@ -48,11 +48,9 @@ Recall: the source of fellowship is the eternal life, and the Spirit in our spir
 
 ## Benefits
 
-Fellowship supplies us with all the riches of the divine life. The divine flow in Revelation 22:1-2 is the tree of life, the supply. On the negative side, fellowship carries away and discharges "germs" in our inner being. 
+Fellowship supplies us with all the riches of the divine life. The divine flow in Revelation 22:1-2 is the tree of life, the supply. On the negative side, fellowship carries away and discharges "germs" in our inner being. Fellowship also brings us into function; the divine life urges us to pray more, live for the Lord, and to speak for the Lord. 
 
-There is a positive feedback loop here - getting into fellowship actually gets us further into the proper function; the divine life urges us to pray more, live for the Lord, and to speak in gatherings for the carrying out of God's Economy.
-
-Fellowship is also the first step in the life cycle mentioned in John 1 and brings in God as light. Alternatively, you can say that we are brought into God who is light.
+As one of the steps in the life cycle mentioned in John 1, fellowship forms a positive feedback loop. When we fellowships with God, we receive God as light which exposes how sinful we are. Then, through confession and dealing with the conscience, our fellowship deepens.
 
 
 
