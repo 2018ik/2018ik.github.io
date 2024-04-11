@@ -7,7 +7,6 @@ permalink: /lords_table/
 - [The Two Elements](#the-two-elements)
   - [Bread](#bread)
   - [Cup](#cup)
-- [To Partake](#to-partake)
 - [Table Meeting](#table-meeting)
   - [Lord's Supper](#lords-supper)
 - [Testimonies](#testimonies)
@@ -30,13 +29,17 @@ To remember the Lord by the table is not to meditate on His processes in our min
 
 \- John 6:56
 
-The Lord's table consists of two elements: the bread and the cup (of wine), which represents the Lord's flesh and blood respectively. The bread signifies the Lord's body which was broken for us to release te divine life to us so that we may partake of Him as life and life supply. The cup is the new covenant established in the Lord's own blood, which is related to redemption.
+The Lord's table consists of two elements: the bread and the cup (of wine), which represents the Lord's flesh and blood respectively. Flesh and blood are both human elements, which represents his incarnation.
 
-Intrinsically, flesh and blood are both human elements, which represents his incarnation. Furthermore, the breaking of the bread, as well as the separation of bread and wine represents the death of Christ and the shedding of blood.
+>"For as often as you eat and drink the cup, you declare the Lord's death until He comes."
+
+\- 1 Cor 11:26
+
+By partaking of the cup as the fellowship of the blood of Christ and the bread as the fellowship of the body of Christ we remember Him. We need to be saved from idols, which are signified by the demons' table (1 Cor. 10:21). People from the world drink away their problems - with alcohol, with various other distractions. By partaking of the Lord at His table, he becomes our full satisfaction.
 
 ### Bread
 
-The bread refers to the Lord's body composed of the many believers, or the church. The members of the Body are one because we they all partake of the one bread, which constitutes each member with the same Christ (1 Cor 10:17).
+The bread unbroken signifies the Lord Jesus Himself as the bread of life (John 6:35). When broken and eaten by the believers, the bread is His body (1 Cor. 11:24) which constitutes each believer with the same Christ that they may be one Body, one universal church (1 Cor. 10:17).
 
 In order for the Lord Jesus to be eaten, He needed to die on the cross. The breaking of the bread signifies the physical body of the Lord being broken. When hearing the sound of the bread breaking, one's hearts should move and realize the suffering the Lord went through because of His love for all mankind.
 
@@ -44,19 +47,8 @@ A superficial description of a believer in Christ may simply go to church every 
 
 ### Cup
 
-To drink the cup is to review the redemption of the new covenant (Matt. 26:28), and to have fellowship in the blood of Christ (1 Cor. 10:16a). The blood here is the blood of the covenant (Mark 14:24), which gave God's people a new heart, a new spirit, and the inner law of life (Luke 22:20; Heb. 8:10-12).
-
-## To Partake
-
->"For as often as you eat and drink the cup, you declare the Lord's death until He comes."
-
-\- 1 Cor 11:26
-
-By partaking of the cup as the fellowship of the blood of Christ and the bread as the fellowship of the body of Christ we remember 
-
-We need to be saved from idols, which are signified by the demons' table (1 Cor. 10:21). 
-
-People from the world drink away their problems - with alcohol, with various other distractions. By partaking of the Lord at His table, he becomes our full satisfaction.
+The cup with its wine signifies the blood of Christ shed for the believers' redemption
+To drink the cup is to review the redemption of the new covenant (Matt. 26:28) and to have fellowship in the blood of Christ. While the bread denotes life, the cup is a cup of blessing (1 Cor. 10:16). This is because mankind as sinners was destined for God's wrath (Rev. 14:10), but the Lord Jesus drank that cup on our behalf (John 18:11) that we may partake of the cup of salvation (Psa. 116:13). 
 
 ## Table Meeting
 
@@ -66,7 +58,7 @@ People from the world drink away their problems - with alcohol, with various oth
 
 The table meeting is the most important meeting of the church, as it is the meeting which the Lord Jesus Himself instituted. This is the New Testament replacement of the Feast of the Passover, as historically, the Feast of the Unleavened Bread and Passover began on the same day. The Lord Jesus is the reality of the passover (1 Cor 5:??).
 
-The table meeting is one hour out of a 168 hour week where one can be fully locked-in and concentrated on remembering God.
+The table meeting is one hour out of a 168 hour week where one can be fully locked-in and concentrated on remembering the Lord and worshipping the Father.
 
 ### Lord's Supper
 
