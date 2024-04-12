@@ -50,7 +50,13 @@ The revelation of the Spirit in the Bible is progressive. The Old Testament open
 
 ## Etymology
 
-The words in the Bible for the Spirit of God and spirit of man are *ruach* and *pneuma* respectively in Hebrew and Greek. Besides Spirit (Ezek. 37:1; John 3:5-6), this word can also mean breath (Ezek. 37:5; Rev. 11:11) and wind (Ezek. 37:9; John 3:8).
+The words in the Bible for the Spirit of God and spirit of man are *ruach* and *pneuma* respectively in Hebrew and Greek. Besides Spirit (Ezek. 37:1; John 3:5-6), this word can also mean breath (Ezek. 37:5; Rev. 11:11) and wind (Ezek. 37:9; John 3:8). Another Hebrew word for spirit is *neshemah* as in Genesis 2:7 and Proverbs 20:27 which means breath of life.
+
+| Term | Meaning |
+| --- | --- |
+| Ruach |  |
+| Neshemah |  |
+| Pneuma |  |
 
 ## History 
 

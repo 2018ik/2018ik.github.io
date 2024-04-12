@@ -13,7 +13,7 @@ permalink: /soul/
 
 ## Background
 
-The soul refers to one's mind, emotion and will. Through the soul, one can interact with the psychological realm. However, many regenerated believers remain in their soul as soulish Christians and fail to touch their innermost part: the spirit. This is the denying of the soul-life which is repeatedly emphasized by the Lord Jesus.
+The **soul** refers to one's mind, emotion and will. Through the soul, one can interact with the psychological realm. However, many regenerated believers remain in their soul as soulish Christians and fail to touch their innermost part: the spirit. This is the denying of the soul-life which is repeatedly emphasized by the Lord Jesus.
 
 ![diagram of soul](../img/WL64-03-20EconomyGod06_2_chart.png)
 

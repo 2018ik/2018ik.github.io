@@ -22,9 +22,9 @@ permalink: /spirit_man/
 
 ## Background
 
-The **spirit** is the innermost part of the man, and consists of the conscience, intuition and fellowship. Man's spirit is distinct from the soul (Heb. 4:12; 1 Thes. 5:23), and the spirit is the only way through which man can contact God and to accomplish His purpose. The regenerated human spirit is the key to everything in the Christian life, as that is where God is (Rom. 8:16). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven toe earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
+The **spirit** is the innermost part of the man, and consists of the conscience, intuition and fellowship. Man's spirit is distinct from the soul (Heb. 4:12; 1 Thes. 5:23), and the spirit is the only way through which man can contact God. The [regenerated human spirit](../regeneration) is the key to everything in the Christian life, as it is the single point of connection between God and man (1 Cor. 6:17). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven to earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
 
-Having been uniquely created with a spirit, man is separated from animal. Satan throughout church history has strategically veiled the human spirit (despite its clear existence in the Bible) so that man is separated from God and Christianity becomes a religion form. 
+Having been uniquely created with a spirit, man is separated from animal. Satan throughout church history has strategically veiled the existence of the human spirit (despite its clear record in the Bible) so that man is separated from God and Christianity becomes a religion form. 
 
 The same word "spirit" (Greek: *pneuma*) is used to describe both the human and divine spirits, where it is up to the translator whether to use the capital Spirit or lowercase spirit respectively.
 
@@ -32,7 +32,17 @@ The same word "spirit" (Greek: *pneuma*) is used to describe both the human and 
 
 ## Significance 
 
-God's purpose cannot be fulfilled without the human spirit. This is why it is ranked with the heavens and the earth (Zech. 12:1; Isa. 42:5). 
+Below is a non-exhaustive list of items which show the importance of the human spirit:
+
+1. It is ranked with the heavens and the earth (Zech. 12:1; Isa. 42:5). Actually, the heavens and the earth are *for* the spirit. Given the earth is subservient to man (Gen. 1:26; Heb. 2:5) and angels are inferior to the seed of Abraham which includes the believers (Heb. 2:16; Gal. 3:29), it is by virtue of the human spirit that we are second place in the universe besides God.
+2. The spirit is needed for worshipping God (John 4:24).
+3. Christ as the Spirit indwells man's spirit (2 Tim. 4:22a; Rom. 8:11; Eph. 2:22) and is one with man's spirit (1 Cor. 6:17).
+4. The Christian walk, that is the daily Christian living, is a walk that is in spirit (Rom. 8:4).
+5. Service to God must be in spirit (Rom. 1:9; Rom. 12:11).
+6. It is only by the spirit of man that he can discern himself and even all things (1 Cor. 2:11, 15).
+
+Evidently, God's purpose in creation which is His economy cannot be fulfilled without the human spirit. The heavens were created for the earth, which was created for man's spirit (Zech. 12:1).
+
 To not use the spirit to contact God is akin to using the entirely wrong organ to accomplish certain things (e.g. trying to see with the ears). One cannot contact God through their body or their soul. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when one is saved, their spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, one must turn to their spirit.
 
 ## Biblical Basis
