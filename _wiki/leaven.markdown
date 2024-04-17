@@ -18,7 +18,7 @@ permalink: /leaven/
 
 ## Background
 
-Leaven in the Bible signifies sin, evil, different and strange teachings, and other negative things (Matt. 16:6; 23:25; Luke 12:1) which mix with the genuine church (Matt. 13:33). This is Satan's subtle operation in which he introduces confusion and substitutions in certain teachings to hide the truth from man and hinder man's relationship with God.
+**Leaven** in the Bible signifies sin, evil, different and strange teachings, and other negative things (Matt. 16:6; 23:25; Luke 12:1) which mix with the genuine church in order to produce a seemingly bigger and better product (Matt. 13:33). This is Satan's subtle operation in which he introduces confusion and substitutions in certain teachings to hide the truth from man and hinder man's relationship with God.
 
 ## Types
 

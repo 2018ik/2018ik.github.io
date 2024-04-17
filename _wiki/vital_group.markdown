@@ -6,14 +6,12 @@ permalink: /vital_group/
 - [Background](#background)
 - [Why "Vital" Groups?](#why-vital-groups)
 - [Acts 2:46-47](#acts-246-47)
-- [Two Descriptors](#two-descriptors)
-  - [Living](#living)
-  - [Active](#active)
 - [Application](#application)
+- [TODO](#todo)
 
 ## Background
 
-A **vital group** is a group of living and active Christians who meet together to perfect and build up the church according to [the way that God has ordained](../god_ordained_way) in Acts. These are believers who despite persecution are gathered together to continue steadfastly and desperately in prayer and praise.
+A **vital group** is a group of living and active Christians who meet together to perfect and build up the church according to [the way that God has ordained](../god_ordained_way) in Acts. There are many groups of Christians to meet together, but these groups are rarely vital. Believers who are vital are gathered together despite persecution to continue steadfastly and desperately in prayer and praise.
 
 The church is degraded, and has become abnormal, even since the early church throughout Paul's epistles. Satan's strategy is to bring in many replacements for Christ; instead of Christ himself, believers are often more interested in Bible knowledge, carrying out good works, and trying to do good things.
 
@@ -23,42 +21,38 @@ All of these aforementioned things are *not* normal - therefore to be an overcom
 
 ## Why "Vital" Groups?
 
-To be "vital" means to be living and active. There are many groups - believers who meet together - but there is a need for groups who can steadfastly meet with the purpose to increase, perfect, and build up the Body of Christ (Acts 2:46-47). These are groups of two or three which are gathered into the Lord's name (Matt. 18:20). Notice that "gathered" here is passive voice; the subject which is performing the gathering is the Lord Himself.
+To be "vital" means to be living and active. It's easy to get into teaching, into doctrine, but without the divine life, such things are dead works. Therefore, to be vital is to be contrary to these dead works: to be living and active. We have to look to the Lord's mercy and grace desperately to vitalize ourselves and others.
 
-The nature of the vital groups is spiritual, to be filled with the Holy Spirit. The condition of the vital groups is loving one another (John 13:35) in oneness and with one accord. In order to express the divine life and to bear fruit, the branches (that is, the believers) must love one other (John 15:12-17). If there is no spirit and no love, it is only possible to gather in a natural way - socializing rather than blending.
+The purpose of vital groups is to increase, perfect, and build up the Body of Christ. These are groups of two or three which are gathered into the Lord's name (Matt. 18:20). Notice that "gathered" here is passive voice; the subject which is performing the gathering is the Lord Himself.
+
+The source of the vital groups is life, not human organization and management. Similarly, the nature of the vital groups is spiritual, to be filled with the Holy Spirit. There are many means by which people can be gained, but if the source is not life and the nature of the work is not of the Holy Spirit then the work will not last. If people are brought in based on natural, [leavened](../leaven) means, then the integrity of the Lord's Recovery will be impacted.
+
+The condition of the vital groups is loving one another (John 13:35) in oneness and with one accord. In order to express the divine life and to bear fruit, the branches (that is, the believers) must love one other (John 15:12-17). If there is no spirit and no love, it is only possible to gather in a natural way - socializing rather than blending.
 
 Without love, everything we do related to the vital groups is in vain. Love builds up (1 Cor. 8:1), is not jealous, is not provoked, does not take account of evil, covers all things, endures all things, never falls away, and is the greatest (1 Cor. 13:4-8, 13). This is foundational for the aforementioned purpose and nature of the vital groups.
 
 ## Acts 2:46-47
 
-In these two verses, we see six things which vital groups do:
+In these two verses, we see six descriptions of what vital groups do:
 
->"day by day"
-
->"continuing steadfastly with one accord"
-
->"breaking bread from house to house"
-
->"partook of their food with exultation and simplicity of heart"
-
->"praising God and having grace with all"
-
->"the Lord added together those who were being saved"
+| Item | Description |
+| --- | --- |
+| Day by day | Not once a week, or once a month. Every day, we need to look for opportunities to preach the gospel. |
+| Continuing steadfastly with one accord | |
+| Breaking bread from house to house | Breaking bread was a day by day matter. Although it would be best for a new one to attend the Lord's day meeting, if it does not fit in their schedule, we can be flexible to break bread with them on other days to meet their need. |
+| Partook of their food with exultation and simplicity of heart | |
+| Praising God and having grace with all | |
+| The Lord added together those who were being saved | This is the building up of the Body. |
 
 Unbelievers observe these six things and innately desire them; people want to have the kind of community that is only possible in the Body of Christ, out of the divine life and divine love (John 15:7). As a result, they are drawn to God, who is added to them. This is the increase gained by the vital groups. 
-
-## Two Descriptors
-
-It's easy to get into teaching, into doctrine, but without the divine life, that is merely dead works. Therefore, to be a vital person is to be contrary to these dead works: to be living and active. We have to look to the Lord's mercy and grace desperately to vitalize ourselves and others.
-
-### Living
-
-### Active
-
-Daniel took action.
 
 ## Application
 
 In order to be vital, we have to take care of fellowship, intercession, mutual care and shepherding. These four things should be done in a very spontaneous way, and begins with fellowship, which begins with contacting the Lord. Then, we can fellowship with others to get to know their situation. Then, we can pray i.e. intercede for one another. This prayer will lead to a mutual care for one another, which is expressed through shepherding - the physical rendering of help. 
 
 We must drop our opinions and be open, in order to enter into the practice of the vital groups. We have to come together, pray, open to one another and seek the Lord that we can be blended as a group. Otherwise it's going to be difficult to have much impact with anyone.
+
+## TODO
+
+This fellowship is not talkin about the things thaht you enjoyed in your morning revival iot's to talk about your condition. Your condition especially during gtghat week this is how we are able to shepherd one another. you fellowship you should be open to be willing to fellowship. Let's say for example you lost your job in that week. You should we willing to share thsi with the grou[ so that you can be shepherded acording to what you eed. Lets say that week you are suffering from htat sickness you should also be iwlling to share about that ok so amny talk about fellowship its to fellowship about your condition. now, when he starts to visit some of the groups, he found out that some of the groups actually misunderstood him. They started fellowshipping about their offenses with others. And he said, he heard one of the brothers was telling another brother: you know when I just saw you I really don't like you. He said I really don't lik you so I had to have a lot of praer so that I can start loving you. what is this? They say open to one another you can say stuff you can tell that you don't like them one time I really hate you. I was really offended by you so brother lee said, no, no ,s top all these things. And th ereason he said you need to stop is because thsi kidn nfo fellowship should be able to for you to intercede for one another. If they lsot their job you can pray according to that. It's easy to tell someone I hate you but what do you do with that? so when you start praying for him right away, I you think this uy hates me so. You will stop yor prayer. So we need ot be careful and we open to one another is not to open your degraded soul to one another. Even before talking about anything, ask each other who you are d oing. Right away, you can intercede. After praying for on another, you can continue with mutual care, someone is telling you I just lost my job right away you should go to the Lord what can I do to care for Him. What can I do to care for Him. His job is so important that his family will have n food you cannot just sya grace to you, bye. You need to consider like when we practice quit a lot here, saints have a baby and first few weeks its very ar for the family especially how o get food and stuf. So in our group we would cook and bring food to them. many times we just need to take these oppourtnities to care for one anoter and through this mutual care it would enable us to shepherd one another in reality. It's not just those pharisees when the dude was hurt they would just ignore them. We need tobe like te samaritan who would pour oil and wine. That's why . It is sad soemtimes when we hear that people come to the churh and they feel they are never shepherded. I really feel like we have wronged them. But they just come to the big meeting its very hard for us to do it. Because how do you know all the situation. That's why we hope evryoen would be included so that twe would know their conditoin and be able to help them in a real way. OK, and then the c here is talking a bout teaching in utuality and even in this class last itero it was emphasized so much taht teaching and shepherding go together. So when we have teaching in mutuality it also means shepherding in mutuality. You teach people not to condemn but to shepherd so that they can go on in the lord. Do you think that you are so hih up that you can teach them things and they don;t know things you could hurt people in such a way that they would never come back to the meetings. A sister passed awya last thursday i went to memorial meeting. I heard testimony: another sister went with her to visit saints. And this sister testified that this sister who was one of the few female coworkers that was recognized by Brother Lee in 1954. In 1954 this sister I think she was just saved two years, and bro lee recruit her as a coworker in taiwan. my older sister had shepherding visitation with her. OVer the phone my sister told me what touched her the most is when she goes out to visit people she just full of love. she never ask eople did you come to the meeting. She never asked. She just say oh how are you doing what should we do. Becase of that so amny people just loved her so much. She's there was so much cherishing and the humanity of Christ and then throuh that people b ecame happy and she was able to nourish them with the humanity of Christ. This is what bro lee was talking about. When we teach our teaching is for our shepherding, these two things go together. Otherwise, your teaching could be a condemning teaching. Instead of being filled with spirit, instead of feeling with the holy spirit you ould be filled with judgementl spirit. and that would be terrible and they said don't think that you dont have such thing even james and john have such judgemental spirit so when these people would not answre them he was asking to send fire to burn them all up. Today we need to turn to the spirit that is in our mingled spirit so that we can actually teach and shepherd people. And you know this last thing. I don't know fi you nderstand. AFter you do this you fellowship you intercede you care fo rone another you shperd and teach. The lat thing is to carry out the church service. I am so glad that I was actually ?? in the church life because the one who shepherded me brought me into some kind of service and its this service I could serve. Don't you think this also happened to you? 
+If you statted to serve in the childrem's meeting, that makes you turn to your spirit right? To touch the Lord. So that you can have something to share with them. Soservice is actually very important in helping one another so that the can go on with the Lord. But this probably is one of the things that ????. So we can feed them an dbring them OK ? We used to have a team training team USC and we had quite a few years and now its all joined in a cluster and I was asked to care for USC during that time. When I first went there there are whole bunch of chucrch kid there. But at first we think we need to concentrate on preaching the gospel. So the trainees go there and try to rpeach the gospel. But its very dfificult because te student they know that you are not a studne there so its very difficult for them to accept them. I even went out with them to preach the gospel. I can still remember one time I was preaching te gospel. After a few seconds, one of them came up to me and said, "Sir, we are Jewish. So stop talking. We don't want to hear about Christ." So I was so shocked I didn't know that they would be so upfront to tell you we cannot accept what you're saying. So I had a feeling what can we do? So I started fellowshipping - amybe we should change our ways. Instead of going to the students directly, why don't we go to the church kid sand shepherd those church kids, enliven the church kids with much spirit so they would go preah to their fellow students. And so we did and praise the Lord it seems to work very well. Before that the students from USC that would go t othe colleg training was probably 2,3,4,5. But after that it becomes 30, 40 that would got thoe college trianing. It was quite something; the student rose up, and not only would they go, they would invite their friends to go. And then in our meeting at that time you know in the past it was a taining I don't know how they do it now. In the past it was a training te trainees take care of the meetings. Then I said, how about let the students take care of the meeting. so student planned all these things out, and the way they speak is much more relevant that what we would be speaking. Since they know exactly what situations that wer egoing through, it was quite somehing. Anyway, so we actually helped them to serve the Lord either in tkaing care of the meetings or other things, when they exercise their spirit to do all these things they became enlivened. Don't you think so? Anyway. Alright, let me stop here so you can ahve some sharing.
