@@ -23,8 +23,13 @@ The building up of the church requires the proper material, that is gold, silver
 
 ## Biblical Basis
 
-In Romans 12:2, transformation is through the renewing of the mind. 
-In 2 Corinthians 3:18, believers are transformed into the image of the Son of God. This is the transformation of the soul, the inner being. Philippians 3:21 refers to the transformation or transfiguration of the body. 
+In Romans 12:2, transformation is through the renewing of the mind. In 2 Corinthians 3:18, believers are transformed into the image of the Son of God. This is the transformation of the soul, the inner being. Philippians 3:21 refers to the transformation or transfiguration of the body. 
+
+Key verses:
+
+>But we all with unveiled face, beholding and reflecting like a mirror the glory of the Lord, are being transformed into the same image from glory to glory, even as from the Lord Spirit.
+
+\-2 Cor. 3:18
 
 ## Steps
 

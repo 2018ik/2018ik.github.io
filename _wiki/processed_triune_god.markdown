@@ -1,7 +1,7 @@
 ---
 layout: pagev2
-title: Processed Triune God
-permalink: /processed_triune_god/
+title: Processed Consummated Triune God
+permalink: /processed_consummated_triune_god/
 ---
 - [Background](#background)
 - [Processes](#processes)
@@ -13,7 +13,9 @@ permalink: /processed_triune_god/
 
 ## Background
 
-The processed Triune God refers to God's going through of many processes, namely incarnation, human living, death, resurrection, and ascension. The end result of the processed Triune God is that He can enter into man. Before, God was like an orange, but now, he has been processed into juice for us to enjoy in a practical way.
+The **processed and consummated Triune God** refers to God's going through of many processes (incarnation, human living, death, resurrection, and ascension) to be consummated as the life-giving Spirit, the consummated Spirit (1 Cor. 15:45). The end result is that God can now enter into and be substantiated by man as the Spirit. Now, man can likewise be processed (through organic salvation) and consummated as the New Jerusalem, the bride of Christ. 
+
+Before, God was like an orange, but now, he has been processed and consummated as juice for us to enjoy in a practical way. 
 
 ## Processes
 

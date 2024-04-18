@@ -18,6 +18,20 @@ To be renewed, that is to have more of the new life of God added into our being,
 
 Paul charges the believers to have the mind of the Christ (Phil. 2:5; 1 Cor. 2:16). The only way to accomplish this is by the renewing of the mind. Romans 12:2 and Ephesians 4:23 all speak particularly of a renewing in the *mind*. This is therefore to have one's way of thinking to be changed to that of God. This is an inward change which comes from God infusing Himself as the Spirit into the believers. Although renewing has an emphasis on the mind, the entire inner man is being renewed day by day (2 Cor. 4:16).
 
+Key verses:
+
+>And do not be fashioned according to this age, but be transformed by the renewing of the mind that you may prove what the will of God is, that which is good and well pleasing and perfect.
+
+\- Rom. 12:2
+
+>And *that* you be renewed in the spirit of your mind / And put on the new man, which was created according to God in righteousness and holiness of the reality.
+
+\- Eph. 4:23-24
+
+>Therefore we do not lose heart; but though our outer man is decaying, yet our inner *man* is being renewed day by day.
+
+\- 2 Cor. 4:16 
+
 ## Purpose
 
 Believers were once sinners altogether of the old creation. Upon being saved, they are brought into the new creation. However, at this point one possesses both old and new natures. Renewing is to kill the old life and bring in more of the new life, such that eventually one becomes altogether of the new creation, of Christ.

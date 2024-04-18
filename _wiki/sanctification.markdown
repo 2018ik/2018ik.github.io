@@ -30,4 +30,3 @@ According to 1 Corinthians 6:11, PS occurs after washing and before justificatio
 Dispositional sanctification (DS) is to sanctify one's inward fallen nature by the Spirit organically and is deeper and more subjective than PS. While PS can take place rather easily and in a short time, DS takes a long time. First, God separates His people in PS, then He saturates us with Himself in DS.
 
 DS is one of the eight steps of God's organic salvation, an ongoing process for a believers' perfection (2 Thes. 2:13; Heb. 2:11; 10:14).
-

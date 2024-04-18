@@ -9,7 +9,9 @@ permalink: /ministry/
 
 ## Background
 
-The **ministry** is composed of apostles, prophets, evangelists, and shepherds/teachers (Acts 13:1, Eph. 4:11) and is the Body in function. The ministry is not created by a human or organization process; ministers are gradually manifested by the Lord through their growth in life (Eph. 4:13). 
+A **ministry** is to carry out what God has covenanted with His people. The old covenant had a particular ministry according to the law, and the new covenant has a ministry of the Spirit (2 Cor. 3:6). This one ministry is also called the ministry of righteousness (2 Cor. 3:9) and the ministry of reconciliation (2 Cor. 5:18-20)
+
+The New Testament ministry is composed of apostles, prophets, evangelists, and shepherds/teachers (Acts 13:1, Eph. 4:11) and is the Body in function. This ministry is not created by a human or organization process; ministers are gradually manifested by the Lord through their growth in life (Eph. 4:13). 
 
 A person's ministry is their specific function in the Body which should correspond to the one ministry of God. Ministry is produced by revelation being burned into us through suffering. This is a Christ-ministering service; that is, the objective is to minister Christ.
 

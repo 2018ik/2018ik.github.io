@@ -27,7 +27,7 @@ In Ephesians, the Body of Christ is described to be the fullness of Christ (Eph.
 
 ## Reality Today
 
-The reality of the Body of Christ refers to the experience of the consummated Body of Christ (the New Jerusalem) in the present day. The present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
+The reality of the Body of Christ refers to intrinsic content of the Body, which does not include the physical church buildings, nor does it include each members' old man. The reality is the sum total of the inner, new man of each member. The experience this reality is to see the consummated Body of Christ (the New Jerusalem) in the present day. To be in this reality requires living in the mingled spirit. The present reality is the precursor of the irreversible mutual involvement between God and man in eternity future that is yet to come.
 
 S.S. 1:6-8 -> S.S. 7:12
 

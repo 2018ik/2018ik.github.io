@@ -18,7 +18,27 @@ Through the resurrection of Jesus Christ, all believers were regenerated unto a 
 
 In John 3, Nicodemus did not understand that regeneration is to be born anew in a spiritual sense. This regeneration is actually to be born of water, signifying death, and the Spirit, signifying life (John. 3:5). The link between being born again and the term regeneration is seen in 1 Peter 1:23, which states that believers are regenerated not of corruptible seed but of incorruptible. Corruptible seed refers to the fleshly seed of one's earthly parents, while the incorruptible seed is of God Himself. To be regenerated of incorruptible seed is therefore to be born anew into the divine race of God. 
 
-Titus 3:5 further says, "Not out of works in righteousness which we did but according to His mercy He saved us, through the washing of regeneration and the renewing of the Holy Spirit."
+Key verses:
+
+>But as many as received Him, to them He gave the authority to become children of God, to those who believe into His name, / Who were begotten not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+
+\-John 1:12-13
+
+>That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
+
+\-John 3:6
+
+>Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has regenerated us unto a living hope through the resurrection of Jesus Christ from the dead,
+
+\-1 Pet. 1:3
+
+>Having been regenerated not of corruptible seed but of incorruptible, through *the* living and abiding word of God.
+
+\-1 Pet. 1:23 
+
+>Not out of works in righteousness which we did but according to His mercy He saved us, through the washing of regeneration and the renewing of the Holy Spirit.
+
+\- Titus 3:5
 
 ## Purpose 
 
