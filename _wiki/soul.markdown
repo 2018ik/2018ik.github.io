@@ -13,7 +13,7 @@ permalink: /soul/
 
 ## Background
 
-The **soul** refers to one's mind, emotion and will. Through the soul, one can interact with the psychological realm. However, many regenerated believers remain in their soul as soulish Christians and fail to touch their innermost part: the spirit. This is the denying of the soul-life which is repeatedly emphasized by the Lord Jesus.
+The **soul** refers to one's mind, emotion and will - the totality of which represents one's very person. The Greek word translated "soul-life" is *psuche* which is the root of the word psychology; so the soul interacts with the psychological realm. While the fundamental purpose of the soul is psychological, it is also the natural, created "person" of the tripartite man (Gen. 2:7). The same word for "soul" is also often used to denote persons. The below diagram shows that the soul is between the body and the spirit, thus, the soul, being one's "person" can interface with the body and spirit as it so chooses. When a person chooses to do something, it is their soul doing the choosing through the will. However, many regenerated believers do not choose to remain soulish Christians and do not choose to [exercise their innermost part: the spirit](../exercising_the_spirit). This is the denying of the soul-life which is repeatedly emphasized by the Lord Jesus.
 
 ![diagram of soul](../img/WL64-03-20EconomyGod06_2_chart.png)
 
@@ -32,6 +32,7 @@ The mind is the principal part of the soul. In the New Testament, the mind and t
 ### Emotion
 
 The soul exhibits many emotions throughout the Bible, indicating that man's emotion is part of the soul:
+
 1. Love (1 Sam. 18:1, S.S. 1:7, Psa. 42:1)
 2. Hate (2 Sam. 5:8, Psa. 107:18, Ezek. 36:5). 
 3. Joy (Isa. 61:10, Psa. 86:4)

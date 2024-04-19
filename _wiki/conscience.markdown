@@ -14,7 +14,7 @@ permalink: /conscience/
 
 ## Background
 
-The **conscience** enables one to discern right from wrong, and is one of the three parts of the human spirit. Even unbelievers have a conscience in their spirit which has this basic function of discernment. 
+The **conscience** enables one to discern right from wrong, and is one of the three parts of the human spirit. It is the only part of the spirit that is not altogether deadened by the fall of man; unbelievers have a conscience which has the function of discernment. 
 
 For regenerated believers, the conscience likewise justifies and condemns, but functions as the window of the spirit to lead them back to God's direct heavenly ruling. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul. When this window is dirtied meaning that one's heart is not turned toward God, the conscience convicts accordingly.
 
