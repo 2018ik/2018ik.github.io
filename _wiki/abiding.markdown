@@ -5,19 +5,22 @@ permalink: /abiding/
 ---
 - [Background](#background)
 - [Etymology](#etymology)
+- [Biblical Basis](#biblical-basis)
 - [Related Terms](#related-terms)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-**Abiding** is intended, experiential contact with the Lord as illustrated in John 15 where the Father is the husbandman, the Son is the true vine, and the believers are branches who abide in the vine. 
-
-John 15:2 says that there are branches in the vine which do not bear fruit, while John 15:5-6 show that abiding results in much fruit. Therefore, to simply be attached to the vine in an objective manner is different than abiding, which is subjective. To abide in the Lord requires an organic life-union with Him, as with a vine and its branches. 
+**Abiding** is intended, experiential contact with the Lord as illustrated in John 15 where the Father is the husbandman, the Son is the true vine, and the believers are branches who abide in the vine. The branches are in the vine, and whatever the vine is, is in the branches. Not only do the believers abide in God, but God abides in the believers (John 15:5; 1 John 4:15). Therefore, a believer is a part of Christ as a member of the Body.
 
 ## Etymology
 
 The Greek word for abide is to stay, remain or dwell in a given place.
+
+## Biblical Basis
+
+John 15:2 says that there are branches in the vine which do not bear fruit, while John 15:5-6 show that abiding results in much fruit. Therefore, to simply be attached to the vine in an objective manner is different than abiding, which is subjective. To abide in the Lord requires an organic life-union with Him, as with a vine and its branches. 
 
 ## Related Terms
 

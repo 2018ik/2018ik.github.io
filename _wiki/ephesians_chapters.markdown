@@ -11,7 +11,7 @@ permalink: /ephesians_chapters/
 
 ## 1
 
-God has blessed His people with every spiritual blessing in the heavenlies in Christ.
+God has blessed His people with every spiritual blessing in the heavenlies in Christ. The phrase "to the praise of His glory" appears three times, once to conclude the blessing of the Father in verse 6, once to conclude the blessing of the Son in verse 12, and once to conclude the blessing of the Spirit in verse 14.
 
 ## 4
 
