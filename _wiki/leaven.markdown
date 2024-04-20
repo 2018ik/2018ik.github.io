@@ -15,6 +15,7 @@ permalink: /leaven/
   - [Lukewarmness](#lukewarmness)
   - [Following an Individual](#following-an-individual)
   - [Localism](#localism)
+  - [Gimmicks](#gimmicks)
 
 ## Background
 
@@ -64,3 +65,7 @@ To follow a controlling person rather than a controlling vision is leaven (Acts 
 ### Localism
 
 An independent local church is a local sect. A local church must not be independent and autonomous, but be blend together into the reality of the Body of Christ. The local churches are not the goal of God's economy, they are merely a vehicle to reach the goal of the reality of the Body of Christ.
+
+### Gimmicks
+
+Gimmicks are fun things introduced to the church or used on the gospel to attract and people entertained. Such methods gather together a group of Christians without any intrinsic reality. The Lord Jesus did not rely on gimmicks to get His disciples to follow Him; there was a divine and mystical fragrance to His living which attracted them.
