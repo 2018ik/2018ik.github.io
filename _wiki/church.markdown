@@ -12,7 +12,9 @@ permalink: /church/
 
 ## Background
 
-The church has universal and local aspects. In Revelation, we see the universal church expressed locally in seven churches. The reality is the Body of Christ, but the manifestation of the Body requires the local churches. 
+The **church** (Greek: *ekklesia*) is the assembly of those whom are called out of the world by God for the fulfillment of His eternal purpose. When God's called out ones meet together, there is the church. 
+
+The church has universal and local aspects. I In Revelation, we see the universal church expressed locally in seven churches. The reality is the Body of Christ, but the manifestation of the Body requires the local churches. 
 
 For example, a carpenter can build a chair, and design the concept with its color, material and style. If they are asked to show us the chair, they need a physical chair that is built - a practical expression of the chair. This is the local church. By seeing the physical chair, the carpenter's design is expressed. This is the expression of the universal church.
 
@@ -26,7 +28,7 @@ The universal church was formed after Jesus passed through His human living and 
 
 ## Universal
 
-The Lord Jesus mentions the church twice - once in the universal aspect and once in the local aspect.
+In Matthew, the Lord Jesus mentions the church twice - once in the universal aspect and once in the local aspect.
 
 In Matthew 16:18, when He says He will build the Church upon this rock, it refers to the universal church. On the other hand, in Matthew 18:17 when He says to bring your problems to the church, it refers to the local church, as we cannot bring problems directly to the universal church (like how we cannot practically sit on the design of a chair).
 

@@ -11,7 +11,7 @@ permalink: /sanctification/
 
 ## Background
 
-**Sanctification** is to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem. As the New Jerusalem, the holy city, is a corporate entity, being made holy is also a corporate process which requires the Body of Christ. 
+**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem. As the New Jerusalem, the holy city, is a corporate entity, being made holy is also a corporate process which requires the Body of Christ. 
 
 ## Three Aspects
 

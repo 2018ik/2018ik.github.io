@@ -4,30 +4,45 @@ title: House of God
 permalink: /house_of_god/
 ---
 - [Background](#background)
-- [Tabernacle](#tabernacle)
-- [Temple](#temple)
-- [Spirit of man](#spirit-of-man)
-- [Church](#church)
-- [Incorporation](#incorporation)
-- [New Jerusalem](#new-jerusalem)
+- [Stages](#stages)
+  - [Bethel](#bethel)
+  - [Tabernacle](#tabernacle)
+  - [Temple](#temple)
+  - [Kingdom](#kingdom)
+  - [Spirit of man](#spirit-of-man)
+  - [Church](#church)
+  - [Incorporation](#incorporation)
+  - [New Jerusalem](#new-jerusalem)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The **house of God** (or Father's house) in the Old Testament refers to God's physical dwelling place in the tabernacle and temple, and in the New Testament refers to both individual believers as well as the corporate assembly of believers. 
+The **house of God** (or Father's house) is the church, the place where God dwells. In the Old Testament, God physically dwelled in the tabernacle and temple, so that could be called His house albeit temporarily. In the New Testament, God lives, acts and moves in His many believers in an organic way, which is why the house is called the "church of the living God" (1 Tim. 3:15). In fact, not only are the believers the house of God, they are the *household* of God (Eph. 2:19), being children born of His life and nature.
 
-## Tabernacle
+## Stages
 
-## Temple
+###  Bethel
 
-## Spirit of man
+the first mention of the house of God is in Genesis 28 after Jacob had a dream of a ladder which joined earth to heaven (v. 12). Upon waking up, he described the place he was at as the "house of God" and poured oil on the stone he was using as a pillow. Pouring oil (the Holy Spirit) on the stone (man) is a picture of man becoming the house of God. 
 
-## Church
+### Tabernacle
 
-## Incorporation
+### Temple
 
-## New Jerusalem
+The temple was in Jerusalem. 
+
+### Kingdom
+
+This temple was in a city, a kingdom.
+
+### Spirit of man
+
+### Church
+
+### Incorporation
+
+### New Jerusalem
 
 ## Testimonies
 
