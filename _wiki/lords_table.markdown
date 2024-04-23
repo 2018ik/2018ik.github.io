@@ -9,6 +9,7 @@ permalink: /lords_table/
   - [Cup](#cup)
 - [Table Meeting](#table-meeting)
   - [Lord's Supper](#lords-supper)
+- [Misc. Facts](#misc-facts)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
@@ -62,7 +63,11 @@ The table meeting is one hour out of a 168 hour week where one can be fully lock
 
 ### Lord's Supper
 
-The Lord's supper is an aspect of the Lord's table for the remembrance of the Lord (1 Cor. 11:20). The table is for our enjoyment of Him while the Lord's supper is for His satisfaction.
+The Lord's supper is an aspect of the Lord's table for the remembrance of the Lord (1 Cor. 11:20). The table is  for our enjoyment of Him while the Lord's supper is for His satisfaction.
+
+## Misc. Facts
+
+1. The table is set in the presence of adversaries, so Satan is always waiting to attack (Psa. 23:5)
 
 ## Testimonies
 
