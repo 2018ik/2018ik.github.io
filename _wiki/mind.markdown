@@ -10,11 +10,11 @@ permalink: /mind/
 
 ## Background
 
-The mind is the part of the soul that can know, consider, and remember. It oftentimes is the leading part of the soul.
+The **mind** is the part of the soul that can know, consider, and remember. It oftentimes is the leading part of the soul. The mind enables a person to understand what is going on in the body and spirit; importantly, it understands the intuition's sense.
 
 ## Significance
 
-The mind understands the intuition's sense. The mind set of the spirit is critical for spiritual experience (Rom. 8:6). Eventually, the mingled spirit spreads into the mind, where the mind possesses the spirit and the spirit possesses the mind, issuing in the spirit of the mind (Eph. 4:23).
+The mind set of the spirit is critical for spiritual experience (Rom. 8:6). Eventually, the mingled spirit spreads into and saturates the mind, where the mind possesses the spirit and the spirit possesses the mind, issuing in the spirit of the mind (Eph. 4:23). The mind of Christ Jesus can actually become one with His believers (Phil. 2:5). This is a process of renewing, which results in transformation of one's entire being (Rom. 12:2).
 
 ## Biblical Basis
 

@@ -18,7 +18,7 @@ permalink: /enjoyment/
   
 ## Background
 
-**Enjoyment** is the joy of the Triune God becoming the joy of His people (Rom. 15:13), and implies an inner satisfaction, peace and contentment. To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. God does not want man just to receive Him, but to enjoy Him.
+**Enjoyment** is the joy of the Triune God becoming the joy of His people as an issue of the indwelling Christ saturating the soul (Rom. 15:13) and implies an inner satisfaction, peace and contentment. To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. God does not want man just to receive Him, but to enjoy Him.
 
 Christ is the allotted portion for the believers to be their enjoyment (Col. 1:12). This enjoyment is actually the unique solution to all problems in the church. The way to enjoy the Lord is to love Him (1 Cor. 2:9-10; 16:22).
 
