@@ -23,7 +23,7 @@ permalink: /gods_economy/
 
 **God's economy**, or His plan to carry out His purpose, is His becoming man to make man God in life and nature but not in the Godhead. Man is made God, or "deified" by the dispensing of the Triune God into them to be their life and everything that they might be regenerated and transformed into the proper material for the building up of the Body of Christ that God may have a corporate expression on earth in many localities in this age with a view to the building up of the coming New Jerusalem for His eternal expression.
 
-If we truly see God's economy, we become burdened by it. It changes, governs, limits and controls the way we think and act, both in matters of the church and our daily life.
+We must see a vision of God's economy and become burdened by it. This vision will change, govern, limit and control the way we think and act, both in matters of the church and our daily life.
 
 ## Etymology
 
@@ -39,7 +39,7 @@ The Recovery Version renders *oikonomos* as economy with respect to God, and ste
 
 ## Mystery
 
-God's economy is a mystery, which needs to be made known to us (Eph. 1:9). Seeing God's economy requires a spirit of wisdom and revelation, and cannot be comprehended solely with human logic. It's actually the glory of God to hide His economy (Proverbs 25:2). 
+God's economy is a mystery, which needs to be made known to us (Eph. 1:9). Seeing God's economy requires a spirit of wisdom and revelation, and cannot be comprehended solely with human logic. None of the Old Testament prophets and patriarchs saw God's economy. They saw glimpses of it, such as Jacob's vision, but only in the New Testament was God's purpose fully revealed. It's actually the glory of God to hide His economy (Proverbs 25:2). 
 
 ## Steps
 
