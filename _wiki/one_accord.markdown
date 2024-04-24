@@ -11,7 +11,7 @@ permalink: /one_accord/
 
 ## Background
 
-The **one accord** (Greek: *homothumadon*) implies the inward parts (mind, emotion, will) are all the same, and is the practice of such a oneness. This practice is not an outward oneness, i.e. everyone is physically doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
+The **one accord** (Greek: *homothumadon*) is the practice of oneness; for a group of people to be in one accord implies the inward parts (mind, emotion, will) are all the same. This practice is not an outward oneness, i.e. everyone is physically doing the same thing, but an inward oneness. The basis of the one accord is to see the vision of the age. As a spontaneous issuing of seeing this vision, the one accord is therefore not a method to practice it simply means we are attuned to the Lord's heart.
 
 Today's Christianity has a severe lacking of the one accord. There are so many denominations - why is it so difficult for there to be oneness? It is because there is no holding line, no single teaching which holds everyone together. Everyone's preferred practices becomes a dividing factor; it is very easy to find a church that agrees with one's viewpoint or leave a church which disagrees. Therefore everyone must be held under the one vision the age and enter into the ministry of this age. 
 

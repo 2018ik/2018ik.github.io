@@ -10,7 +10,9 @@ permalink: /oneness/
 
 ## Background
 
-**Oneness** is the state of being one, to the extent of reproducing the oneness of the Triune God. To be one with the other members of the Body of Christ requires putting off natural preference. Most problems prevailing in Christianity today are due to differing opinions regarding things which have nothing to do with the faith. However, oneness is not predicated upon having the same opinions and interpretations but by living in the Triune God, that the same Triune God can be constituted into all the members of the Body of Christ that they may be one intrinsically.
+**Oneness** is the state of being one, to the extent of reproducing the oneness of the Triune God. This oneness is very different than the oneness the world talks about; in every worldly institution, be it a school, community or army, the members want to be one. This kind of oneness is an outward movement originating from human will. However, true oneness is by virtue of the seven ones (one Body, Spirit, Lord, faith, baptism, God, Father) in Ephesians 4. We obtain this oneness by putting ourselves into Christ to become His sons in life and members of one Body in Christ (Gal. 3:27-28; Rom. 12:5). When this oneness is put into practice, it is the one accord.
+
+To be one with the other members of the Body of Christ requires putting off natural preference. Most problems prevailing in Christianity today are due to differing opinions regarding things which have nothing to do with the faith. However, oneness is not predicated upon having the same opinions and interpretations but by living in the Triune God, that the same Triune God can be constituted into all the members of the Body of Christ that they may be one intrinsically.
 
 ## Significance
 
