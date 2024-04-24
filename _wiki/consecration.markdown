@@ -19,9 +19,9 @@ permalink: /consecration/
 
 ## Background
 
-**Consecration** is for a person to consent to God's working in them, to use them and to direct their ways. This can be described as offering oneself as a living sacrifice to God (Rom. 12:1). When God is given the ground to move, He particularly works in the soul: one's thoughts, feelings and desires. Consecration must take place first before one is useful to the Lord.
+**Consecration** is for a person to consent to God's working in them, to use them and to direct their ways. This can be described as offering oneself as a living sacrifice to God (Rom. 12:1). When one puts aside their natural life, God is given the ground to move. His move takes place from the spirit to the soul, [transforming](../transformation) one's thoughts, feelings and desires. Consecration must take place first before one is useful to the Lord.
 
-Undoubtedly, consecration isn't an outward matter; it isn't merely about what we do and our works for God. We could be doing many "good" things of our natural being without a true consecration. True consecration means that we are willing to work in whatever we are assigned to by God. We should ask the Lord personally how we should go on, and not rely solely on the opinions of those around us.
+Undoubtedly, consecration isn't an outward matter; it isn't merely about what we do and our works for God. We could be doing many "good" things of our natural being without a true consecration. True consecration means that we are willing to work in whatever environment we are assigned to by God. We should ask the Lord personally how we should go on, and not rely solely on the opinions of those around us.
 
 Consecration should be a daily practice, and a habit. Losing our daily consecration is the beginning of spiritual decline. 
 

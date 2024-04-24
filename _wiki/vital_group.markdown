@@ -48,7 +48,9 @@ Unbelievers observe these six things and innately desire them; people want to ha
 
 ## Application
 
-In order to be vital, we have to take care of fellowship, intercession, mutual care and shepherding. These four things should be done in a very spontaneous way, and begins with fellowship, which begins with contacting the Lord. Then, we can fellowship with others to get to know their situation. Then, we can pray i.e. intercede for one another. This prayer will lead to a mutual care for one another, which is expressed through shepherding - the physical rendering of help. 
+Vital groups cannot be formed by organization. Although it seems like organizing the groups based on language, neighborhood, etc. would form groups a lot faster, a group will only be vital if it is formed organically through desperate prayer. 
+
+In order to be vital, we have to take care of fellowship, intercession, mutual care and shepherding. These four things should be done in a very spontaneous way, and begins with fellowship, which begins with contacting the Lord in prayer. Then, we can fellowship with others to get to know their situation. Then, we can pray to intercede for one another. This prayer will lead to a mutual care for one another, which is expressed through shepherding - the physical rendering of help. 
 
 We must drop our opinions and be open, in order to enter into the practice of the vital groups. We have to come together, pray, open to one another and seek the Lord that we can be blended as a group. Otherwise it's going to be difficult to have much impact with anyone.
 
