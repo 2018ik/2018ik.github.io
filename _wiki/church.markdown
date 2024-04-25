@@ -20,7 +20,7 @@ For example, a carpenter can build a chair, and design the concept with its colo
 
 ## Etymology
 
-The Greek word for church *ekklesia* means a called out assembly. The church is therefore a congregation of people, not a physical building. 
+The Greek word for church *ekklesia* means a called out assembly. In ancient times the major of a city can call the people together for an assembly to settle a particular matter. The church is therefore a congregation of people, not a physical building. 
 
 ## History
 
@@ -30,7 +30,7 @@ The universal church was formed after Jesus passed through His human living and 
 
 In Matthew, the Lord Jesus mentions the church twice - once in the universal aspect and once in the local aspect.
 
-In Matthew 16:18, when He says He will build the Church upon this rock, it refers to the universal church. On the other hand, in Matthew 18:17 when He says to bring your problems to the church, it refers to the local church, as we cannot bring problems directly to the universal church (like how we cannot practically sit on the design of a chair).
+In Matthew 16:18, when He says He will build the church upon this rock, *church* refers to the universal church. On the other hand, in Matthew 18:17 when He says to bring your problems to the church, it refers to the local church, as we cannot bring problems directly to the universal church (like how we cannot practically sit on the design of a chair).
 
 The universal church is formed, which is to produce something. When the Lord breathed Himself into the disciples in John 20 and poured Himself out as the economical Spirit in Acts 2, the universal church was formed. 
 
@@ -45,13 +45,16 @@ While the universal church was formed by God, local churches are established by 
 
 | Aspect | Description |
 | --- | --- |
-| The Body of Christ | The expression of Christ with a measurable stature |
-| The new man | The life and person of Christ |
-| The kingdom of God | Having rights and responsibilities |
-| The household of God | A family with life and enjoyment |
-| The dwelling place of God | For God to live in |
-| The bride and wife of Christ | For Christ's rest and satisfaction |
-| The warrior | To defeat the enemy to accomplish God's purpose | 
-| The man-child | |
-| The firstfruit | |
-| the holy city | |
+| Body of Christ | The expression of Christ with a measurable stature |
+| New man | The life and person of Christ |
+| Kingdom of God | Having rights and responsibilities |
+| House of God | The house of God implies two things: God has a dwelling place that is in our spirit, and God has a household that is his family. It is by virtue of God's indwelling of man as life that He has a household. | 
+| Dwelling place of God | For God to live in. |
+| Household of God | A family with life and enjoyment |
+| Pillar and base of the truth | The church upholds the truth, what is real. |
+| Bride and wife of Christ | For Christ's rest and satisfaction |
+| Warrior | To defeat the enemy to accomplish God's purpose | 
+| Man-child |  |
+| Firstfruit | |
+| Holy city | |
+| Assembly | This is the literal translation of *ekklesia*, the word translated church. This is not only an assembly of believers, but those whom were called out by God (1 Cor. 1:2; Rom. 1:7) |
