@@ -13,7 +13,7 @@ permalink: /faith/
 
 ## Background
 
-**Faith** is defined in Hebrews as the substantiation of things hoped for, the conviction of things not seen (Heb. 11:1). The hoped for and unseen things of God are objectively real and exist, however subjectively to an individual they are "substantiated" (i.e. given substance to, made real) through faith. For example, a person surrounded by radio waves will not be able to detect them and may not believe the radio waves are there unless the waves are substantiated by a radio receiver. Thus, all spiritual experiences require faith, as without faith to subjectively realize the truths in the Bible the word remains dead letters. Many people who hear the word do not profit from it, as there is no faith in their hearing (Heb. 4:2).
+**Faith** is the substantiation of things hoped for, the conviction of things not seen (Heb. 11:1). The hoped for and unseen things of God are objectively real and exist, however subjectively to an individual they are "substantiated" (i.e. given substance to, made real) through faith. For example, a person surrounded by radio waves will not be able to detect them and may not believe the radio waves are there unless the waves are substantiated by a radio receiver. Thus, all spiritual experiences require faith, as without faith to subjectively realize the truths in the Bible the word remains dead letters. Many people who hear the word do not profit from it, as there is no faith in their hearing (Heb. 4:2).
 
 In the New Testament, faith replaces the law as God's principle in dealing with man (Gal. 3:22-25). Righteousness could not be achieved through works of law by anyone in the Old Testament (Rom. 3:20), but through the redemption of Christ, righteousness can be readily achieved through faith (Rom. 3:22, 28). This justification by faith actually retroactively applies to Old Testament believers (Rom. 4:3) through the eternal Spirit (Heb. 9:14). Faith comes out of hearing, and hearing through the word of God. Without faith, it is impossible to be well pleasing to Him (Rom. 10:14). Faith must be kept with a good conscience; failing to take care of the conscience by confessing will weaken one's faith (1 Tim. 1:19).
 
@@ -35,11 +35,9 @@ There are two types of faith in the New Testament: objective and subjective. The
 
 ## Application
 
-Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16), and is in the mingled spirit (1 Cor. 4:13). One should really thank God for His faithfulness, since they themselves do not have faith. 
+Humans have a natural concept to believe, but that is not the true faith. This true faith is the faith of Jesus Christ (Rom. 3:22, Gal. 2:16), and is in the mingled spirit (1 Cor. 4:13). One should really thank God for His faithfulness, since they themselves do not have faith. In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
 
-In our natural life, we actually cannot believe in God. We need Christ to become our faith. This is altogether based on the mercy of God.
-
-After we are given faith, this faith must be exercised, that the virtue of the divine life may be developed and reach maturity.
+Faith begins with hearing the Word, and leads to speaking the Word, which cyclically leads to more faith. Romans 10:17 says that faith comes out of hearing through the word of Christ. After we are given faith, this faith must be exercised. Exercising this faith is equivalent to exercising the spirit, as the spirit is a spirit of faith. It is through such a spirit of faith that one speaks for God and speaks forth God (2 Cor. 4:13), thereby producing more faith. 
 
 ## Biblical Examples
 
