@@ -10,7 +10,7 @@ permalink: /outer_man/
 
 ## Background
 
-The **outer man** needs to be broken in order for the spirit to be released. This allows the believers to bear fruit (John 12:24), and for Christ to be expressed in a corporate way. When a believer is attacked, persecuted or in much suffering, it only gives them the opportunity to die i.e. break their outer man and to release the divine life in their spirit. In this respect those who see this fact are invincible. 
+The **outer man** refers to a person's natural life apart from God and needs to be broken in order for the spirit to be released. This allows the believers to bear fruit (John 12:24), and for Christ to be expressed in a corporate way. When a believer is attacked, persecuted or in much suffering, it only gives them the opportunity to die i.e. break their outer man and to release the divine life in their spirit. In this respect those who see this fact are invincible. 
 
 There are two main reasons for the outer man to not be broken:
 

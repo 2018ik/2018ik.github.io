@@ -13,7 +13,7 @@ permalink: /divine_and_mystical_realm/
 
 The **divine and mystical realm** (DMR) is the Triune God Himself as a coinhering realm where the Son and the Father indwell each other (John 14:10-11). This realm is not enterable except by the mingled spirit, which is why the divine and mystical realm is often qualified with "of the consummated Spirit and the pneumatic Christ" (DMRCSPC). One enters the DMR when they enter into the processed Triune God who is embodied in Christ as the life-giving Spirit in their mingled spirit. Divine is on God's side, mystical is on man's side. In the case of the first God-man Jesus, He was a man in the flesh, yet He prayed and was one with God in a divine and mystical way (John 14:20).
 
-Objectively, one is born into the DMR through regeneration. Subjectively, one enters into this realm experientially by exercising their mingled spirit.
+Objectively, one is born into the DMR through regeneration. Subjectively, believers live in two realms simultaneously - the material, fleshly, psychological human realm, or the divine and mystical realm - depending on whether or not they are exercising their mingled spirit (Rom. 8:6). 
 
 ## Incorporation
 

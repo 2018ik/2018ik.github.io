@@ -26,7 +26,7 @@ Olive oil in the Bible signifies the Spirit of God. As the base of the ointment,
 
 ## Spices
 
-The spices were split into three units of 500 shekels (Exo. 30:23:24), signifying the Trinity. The middle unit of cinnamon and calamus is split into 250 shekels each, indicating the second of the Trinity had been split on the cross. 
+The spices were split into three units of 500 shekels (Exo. 30:23-24), signifying the Trinity. The middle unit of cinnamon and calamus is split into 250 shekels each, indicating the second of the Trinity had been split on the cross. 
 
 Five hundred shekels signifies full responsibility. the number five symbolizes responsibility. Five is composed of four plus one, that is, four creatures and one God. Therefore, the number five is God (one) added to man (four) to give us the ability to bear responsibility. 
 

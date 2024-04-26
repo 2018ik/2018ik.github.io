@@ -22,7 +22,7 @@ permalink: /spirit_man/
 
 ## Background
 
-The **spirit** is the innermost part of the man, and consists of the conscience, intuition and fellowship. Man's spirit is distinct from the soul (Heb. 4:12; 1 Thes. 5:23), and the spirit is the only way through which man can contact God. The [regenerated human spirit](../regeneration) is the key to everything in the Christian life, as it is the single point of connection between God and man (1 Cor. 6:17). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven to earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
+The **spirit** is the innermost part of the tripartite man, and consists of the conscience, intuition and fellowship. Man's spirit is distinct from the soul (Heb. 4:12; 1 Thes. 5:23), and the spirit is the only way through which man can contact God. The [regenerated human spirit](../regeneration) is the key to everything in the Christian life, as it is the single point of connection between God and man (1 Cor. 6:17). This is typified by the house of God at Bethel, which is the gate of heaven where Christ is the ladder that joins earth to heaven and brings heaven to earth (Gen. 28:12-17; John 1:51). Today the spirit as God's habitation joins the people on earth to heaven with Christ as the ladder.
 
 Having been uniquely created with a spirit, man is separated from animal. Satan throughout church history has strategically veiled the existence of the human spirit (despite its clear record in the Bible) so that man is separated from God and Christianity becomes a religion form. 
 

@@ -8,7 +8,7 @@ permalink: /inner_man/
 
 ## Background
 
-The **inner man** is the human spirit indwelt by the Holy Spirit, the mingled spirit. This mingled spirit is a person's *new* person upon regeneration.
+The **inner man** is one's person in contact with the human spirit indwelt by the Holy Spirit, the mingled spirit. This mingled spirit joined to the soul is a person's *new* person upon regeneration.
 
 ## Significance
 

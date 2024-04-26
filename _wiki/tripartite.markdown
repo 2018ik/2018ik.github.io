@@ -12,15 +12,24 @@ permalink: /tripartite/
 
 ## Background
 
-The Bible reveals that man is **tripartite** (having three parts). The body gives consciousness to the physical realm, the soul gives consciousness to the psychological realm, and the spirit gives consciousness to the spiritual realm.  
+The Bible reveals that man is **tripartite** and consists of three parts: spirit, soul and body. The body contacts the physical realm, the soul contacts the psychological realm, and the spirit contacts the spiritual realm.  
  
 ![diagram of man](../img/WL64-03-20EconomyGod06_1_chart.png)
 
-The Lord works in someone first by touching them in their heart, so that they may love Him. Then, this love allows them to exercise their spirit to receive God. Finally, God is able to spread through their being into their soul and body so that they can express God. This is the correct order. We do not exercise our soul and body to do good things so that God will bless us; we allow God to dispense Himself into us first which will spontaneously issue in the outward expression in our actions after He spreads from our spirit into our whole being.
+The spirit is a receiving organ and is joined to God (John 4:24; 1 Cor. 6:17). 
+The soul's original purpose is to be a reflecting organ to inherit the mind, emotion and will of God (2 Cor. 3:18). The heart, is a composite part of man which based on Scripture includes the soul and the conscience, and usually places its emphasis on love (Mark 12:30).
 
-The soul is a reflecting organ (2 Cor. 3:18). The spirit is a receiving organ (John 4:24). The heart, which includes the soul and the conscience places its emphasis on love (Mark 12:30).
+The "inner man" is the regenerated spirit contacted by our person, the soul. In that contact, the soul joins to the spirit and they become one merged person called the inner man. The "outer man" refers to our living in the soul and body without contact with God. The "self" refers to the soul (Matt. 16:24-25). There is a constant battle between the soul and the spirit, the outer man and the inner man (1 Cor. 2:14-15).
+
+The Lord works in someone first by touching them in their heart, so that they may love Him. Then, this love allows them to exercise their spirit to receive God. Finally, God is able to spread through their being into their soul and body so that they can express God. This This is the correct order. We do not exercise our soul and body to do good things so that God will bless us; we allow God to dispense Himself into us first which will spontaneously issue in the outward expression in our actions after He spreads from our spirit into our whole being.
 
 ## Biblical Basis
+
+>And the God of peace Himself sanctify you wholly, and may your spirit and soul and body be preserved complete, without blame, at the coming of our Lord Jesus Christ.
+
+\-1 Thes. 5:23
+
+1 Thessalonians 5:23 very clearly states that man is a being of three parts: body *and* soul *and* spirit. The Greek text separates these three nouns with the conjunction *kai* meaning "and." Therefore, the spirit is different from the soul and the soul is different from the body.
 
 When creating Adam, God formed him from the dust of the ground, indicating the Body. Then, He breathed into Him the breath of life, producing the Spirit. Then, man became a living soul, which issued from the breath of life entering the body (Gen 2:7). In Genesis 2:17, God says that in the **day** that they eat of the tree of knowledge they will **surely** die. Adam and Eve ate of the fruit, but they continued to both physically live for hundreds of more years afterwards, as well as mentally function. This means that something other than their body and soul died, which could only be the spirit becoming deadened.
 

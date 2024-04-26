@@ -13,7 +13,9 @@ The **mingled spirit** is the organic union of the Lord as the consummated life-
 
 ## Significance
 
-Technically speaking, the mingled spirit is God (in life and nature but not in the Godhead). Thus, to contact God is not to communicate to a God that is without, in the word or in the heavens, but to turn to our mingled Spirit. By being one spirit with the Lord, one can know, experience and enjoy the all-inclusive Christ. The mingled spirit which is one with God is the same as God in His life and nature but not in His Godhead (1 John 5:11; 2 Pet. 1:4). However, for such a life to be expressed, one's outer man must be broken.
+Technically speaking, the mingled spirit is God (in life and nature but not in the Godhead). Thus, to contact God is not to communicate to a God that is without, in the word or in the heavens, but to turn to our mingled Spirit. This makes an experiential difference; exercising the mingled spirit means turning one's heart to a *person*. 
+
+By being one spirit with the Lord, one can know, experience and enjoy the all-inclusive Christ. The mingled spirit which is one with God is the same as God in His life and nature but not in His Godhead (1 John 5:11; 2 Pet. 1:4). However, for such a life to be expressed, one's outer man must be broken.
 
 ## Occurrences in Bible
 
