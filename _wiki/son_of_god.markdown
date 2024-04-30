@@ -10,7 +10,13 @@ permalink: /son_of_god/
 
 ## Background
 
-The **Son of God** is a title given to Christ Jesus with an emphasis on His divinity (as opposed to son of man which places the emphasis on His humanity).
+The **Son of God** is a title given to Christ Jesus with an emphasis on His divinity (as opposed to son of man which places the emphasis on His humanity) and is the center of the Divine Trinity with regards to His relationship to man.
+
+1. Isaiah 9:6 says the Son is the eternal Father, not vice-versa.
+2. 2 Corinthians 3:17 says the Lord is the Spirit, not vice-versa.
+3. The Bible makes most evident calling on the name of the Lord Jesus, not the Father nor the Spirit (Acts 7:59; Rom. 8:9-11).
+4. The Father is pleased to reveal His *Son* in us, not Himself (Gal. 1:15-16).
+5. Our access to the Father is through the Son (Eph. 2:18)
 
 ## Only-begotten
 
