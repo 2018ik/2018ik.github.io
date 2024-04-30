@@ -13,9 +13,9 @@ permalink: /body_of_christ/
 
 ## Background
 
-The **Body of Christ** is the **universal church**, consisting of His chosen and redeemed people who are constituted into one organic entity to corporately express God. As Christ embodies God (Col. 2:9) and is God, so does the Body of Christ embody Christ and is Christ. In 1 Corinthians 12:12, Christ is used in apposition with "body," indicating that the Body of Christ is Christ. The reality of the Body of Christ is simply the Christ that is in all the believers as the Spirit, the life flow of the Body. As there is one Spirit, so is there one Body (Eph. 4:4). 
+The **Body of Christ** is the principal aspect of the universal church, consisting of His chosen and redeemed people who are constituted into one organic entity to corporately express God. Paul is the only writer in the new Testament to use the term "Body of Christ." A person consists of a head and a body, and is a living being. Likewise, the church consists of Christ as the Head and the totality of the believers as the Body, and is a living organism (Col. 1:18). As Christ embodies God (Col. 2:9) and is God, so does the Body of Christ embody Christ and is Christ. In 1 Corinthians 12:12, Christ is used in apposition with "body," indicating that the Body of Christ is Christ. The reality of the Body of Christ is simply the Christ that is in all the believers as the Spirit, the life flow of the Body. As there is one Spirit, so is there one Body (Eph. 4:4). 
 
-Paul is the only writer in the new Testament to use the term "Body of Christ." Those who see that they are members of the Body treasure the Body and honor the other members. The Body of Christ must be governing principle for the church, the ministry, and the work. These three things are distinct manifestations of the Body - for the expression, function in service and increase respectively. The Body of Christ is obtained through a cycle involving minsters working to build up churches (see: ministry).
+The Body of Christ must be governing principle for the church, the ministry, and the work. These three things are distinct manifestations of the Body - for the expression, function in service and increase respectively. The Body of Christ is obtained through a cycle involving minsters working to build up churches (see: ministry).
 
 ## Biblical Basis
 

@@ -9,9 +9,13 @@ permalink: /vessel/
 
 ## Background
 
-Mankind was created as a **vessel**, a container for holding God. Paul often used the word "vessel" in his writings (Romans 9:21; 9:23; 2 Cor. 4:7), having learned this from being called a "chosen vessel" himself by God (Acts 9:15). Within this chosen vessel is a [treasure](../treasure_in_earthen_vessels): Christ Himself (2 Cor. 4:7).
+Mankind was created as a **vessel**, a container for holding God. Paul in his epistles described the relationship between God and man as the relationship between a Potter and a vessel (Romans 9:21; 9:23; 2 Cor. 4:7). This revelation was likely sourced from his being called a "chosen vessel" by God (Acts 9:15). Within this chosen vessel is a [treasure](../treasure_in_earthen_vessels): Christ Himself (2 Cor. 4:7).
 
-God did not create man as servants who must do something for God. To be a vessel opposes man's "doing." A vessel doesn't "do" anything, it just contains its intended contents. For man to "do" something out of his natural self is to be presumptuous, and to usurp God's original intention for man (it could be said that Eve's initial sin was prior to eating the fruit, but interacting with the serpent in the first place apart from God). Without being filled by God, man can never fulfill God's economy.
+To be a vessel is contrary to man's "doing." A vessel doesn't "do" anything, it just contains its intended contents. Inherently within man is a desire to pursue and to achieve. Thus, man begins to pursue knowledge and success, even with the intent of pleasing God. However, God does not want man to try to do anything for Him; He only wants us to love Him and to open ourselves to him. Notice that man was created on the sixth day, after everything else - every plant that was pleasant to the sight and good for food - was already prepared in the prior days. The seventh day was a day of rest for both man and God.
+
+For man to "do" something out of his natural self is to be presumptuous, and to usurp God's original intention for man (it could be said that Eve's initial sin was prior to eating the fruit, but interacting with the serpent in the first place apart from God). Without being filled by God, man can never fulfill God's economy.
+
+When a vessel is open to God to be constituted with His divine nature, it is honorable, made of gold and silver. When a vessel is closed, it is dishonorable, wooden and earthen (2 Tim. 2:20). 
 
 ## Biblical Basis
 
