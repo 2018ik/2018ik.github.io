@@ -17,7 +17,7 @@ A **vision** is a spectacular sight from the spirit of God revealing His desire 
 
 When a person receives a vision, they lose all self-confidence and live a life of co-dependence on Him. A vision converts a person from everything to Christ Himself; He will be the inner operating God to them, energizing them to carry out His plan (Gal 1:15-16). Although believers see many subjective visions, they are all based on the vision of the age - what God wants His people to do during a particular period of time - of which there is always one.
 
-Revelation is required for seeing a vision. The difference is that revelation is an initial receiving of some truth, whereas a vision is a further consideration of the revelation which issues in a move and truly controls one's life. While a revelation allows one to understand and teach a divine fact, a vision allows one to be directed, even willingly martyred for what they have seen.
+Revelation is required for seeing a vision. The difference is that revelation is an initial receiving of some truth, whereas a vision is a further consideration of the revelation which issues in a move and truly controls one's life. While a revelation allows one to understand and teach a divine fact, a vision allows one to be directed, even willingly martyred for what they have seen. To see a vision also does not imply experiencing the things within the vision. Jacob and Joseph both experienced visions far beyond what they've experienced at the time. By faith we must speak according to the vision we've seen, not our experience, and the vision will eventually become our experience.
 
 ## Significance
 

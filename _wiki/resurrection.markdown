@@ -5,7 +5,6 @@ permalink: /resurrection/
 ---
 - [Background](#background)
 - [Experience](#experience)
-  - [Person](#person)
   - [Process](#process)
   - [Destiny](#destiny)
 - [God of Resurrection](#god-of-resurrection)
@@ -22,13 +21,6 @@ Resurrection is altogether victorious over death; resurrection life overcomes de
 ## Experience
 
 In experience, believers first receive the power of Christ's resurrection through their salvation, and then by this power, they can live a crucified life by taking the death of Christ as the mold of their living. Thus, the order in this kind of experience is resurrection then death.
-
-However, believers must also first recognize that they are
-
-### Person
-
-Resurrection is actually a person. In John 11, the Lord told others that He *is* the resurrection and the life. Any time we face the attack of death in any form, we can contact the Lord as the Spirit in our spirit who is the resurrection and the life.
-
 
 ### Process
 

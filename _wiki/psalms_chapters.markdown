@@ -5,6 +5,7 @@ permalink: /psalms_chapters/
 ---
 - [Background](#background)
 - [23](#23)
+- [45](#45)
 
 ## Background
 
@@ -32,5 +33,6 @@ In the fourth stage, we are able to enjoy Christ despite the adversaries.
 
 In the fifth stage, house of Jehovah here is the house of God referring to the church today. The personal experience of Christ in the prior four stages leads believers to the church for the Body life.
 
+## 45
 
-
+The psalmist's heart overflows concerning a good matter: the King who symbolizes Christ is brought into marriage with the daughter of Tyre who symbolizes the church as the bride of Christ.

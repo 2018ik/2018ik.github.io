@@ -13,9 +13,9 @@ permalink: /transformation/
 
 **Transformation** is the inward metabolic process in which God works to spread His divine life and nature into every part of one's being - spirit, soul and body (particularly the soul). As in any metabolic process, a new element is brought in to replace an old element which is discharged. Transformation is the issue of renewing, and is for the building up of the Body of Christ.
 
-Transformation is not a perceptible outward change in behavior, but an inward change in essence. Someone who is sickly can change their outward appearance with makeup, but actually by eating healthy food, gradually over time there will be the outward expression. As someone is transformed, there is the gradual change in the way they dress and act *as a spontaneous result* of their inward change in disposition.
+Transformation is not a perceptible outward change in behavior, but an inward change in essence. Someone who is sickly can change their outward appearance with makeup, but actually by eating healthy food, gradually over time there will be the outward expression. As someone is transformed, there is the gradual change in the way they dress and act *as a spontaneous result* of their inward change in disposition. Transformation can also be seen in the petrification of wood. Petrified wood looks the same as it once was, but it has been completely replaced by stone. 
 
-Transformation can also be seen in the petrification of wood. Petrified wood looks the same as it once was, but it has been completely replaced by stone. 
+In organic salvation, transformation follows renewing and precedes conformation. Furthermore, transformation precedes maturity in life.
 
 ## Significance
 
