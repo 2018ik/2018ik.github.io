@@ -6,6 +6,7 @@ permalink: /first_corinthians_chapters/
 - [Background](#background)
 - [3](#3)
 - [7](#7)
+- [12](#12)
 
 ## Background
 
@@ -24,3 +25,7 @@ Here, the philosophical greeks had questions and proposals regarding what should
 In the Old Testament, the speaking of God was "Thus says the Lord" (Isa. 10:24; Jer. 2:2). However here, Paul is able to charge directly on behalf of God, as his opinions are of God (1 Cor. 7:10; 7:12; 7:25; 7:40). Nowhere else in the entire Bible is as high as this chapter in terms of God expressed through a man (who isn't Jesus).
 
 In verse 25, he explicitly states that he received no commandment from the Lord, yet he is able to give his opinion. Because Paul knew God and was one with God to such an extent, he knew what the Spirit of God would like to say.
+
+## 12
+
+Honor and comeliness is evenly distributed to each member of the Body through blending. The uncomely and dishonorable ones are brought in to expose the comely and honorable ones. If it is just outward comeliness, their uncomeliness will be exposed.

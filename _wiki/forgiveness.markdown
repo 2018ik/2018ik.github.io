@@ -15,11 +15,11 @@ permalink: /Forgiveness/
 
 ## Human Perspective
 
-In the church life, there will inevitably be offenses. We must learn to forgive. The Lord's heart is for us to forgive infinitely.
+In the church life, there will inevitably be offenses. We must learn to forgive. The Lord's heart is for us to forgive infinitely. If we are wronged, our intention in reprove someone should not be to vindicate ourselves or to judge them, rather, it should be with the intention to forgive and gain them (Matt. 18:15). An unforgiving heart is why some cannot live in a small church life. They get offended by a few people, and they can no longer meet without being offended since they see these same people every time.
 
 >Then Peter came and said to Him, Lord, how often shall my brother sin against me and I forgive him? Up to seven times? 
 >Jesus said to him, I do not say to you, Up to seven times, but, Up to seventy times seven.
 
 \- Matt. 18:21-22
 
-When someone offends you over a hundred times, eventually you just lose count. Seventy times seven, or four-hundred-ninety is practically speaking an uncountable number of times in which one should forgive. Brother E.M. remarks that perhaps another disciple had wronged Peter seven times previously, and he hoped to get the green light from Jesus to only forgive seven times so the next time he could blast that disciple.
+When someone offends you over a hundred times, eventually you just lose count. Seventy times seven, or four-hundred-ninety is practically speaking an uncountable number of times in which one should forgive. Perhaps another disciple had wronged Peter seven times previously, and he hoped to get the green light from Jesus to only forgive seven times so the next time he could blast that disciple.
