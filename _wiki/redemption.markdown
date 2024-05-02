@@ -6,7 +6,8 @@ permalink: /redemption/
 - [Background](#background)
 - [Aspects](#aspects)
   - [Atonement](#atonement)
-- [Salvation](#salvation)
+  - [Salvation](#salvation)
+  - [Price](#price)
 
 ## Background
 
@@ -20,6 +21,10 @@ If one sins, he is guilty before God. In order for God to forgive sins, He must 
 
 The atonement in the Old Testament was an expiation, which means to appease God. 
 
-## Salvation
+### Salvation
 
 Redemption is what Christ accomplished in the eyes of God. Salvation is what God has wrought upon us based upon the redemption of Christ. Redemption is objective, and salvation is subjective. When redemption becomes our experience, it becomes salvation. 
+
+### Price
+
+As redemption means a payment of debts, the Lord's redemption for us was Him paying the great price of His precious blood (1 Cor. 6:19-20; 1 Pet. 1:18-19). This was a price that we could not realistically pay, as the wages of sin is death. When we see the great price paid by the Lord, He becomes our personal Lord and Master and we give ourselves to Him. All that we have, do, and are will be [to God](../living_to_the_lord).
