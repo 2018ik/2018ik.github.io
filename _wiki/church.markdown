@@ -45,7 +45,7 @@ While the universal church was formed by God, local churches are established by 
 
 | Aspect | Description |
 | --- | --- |
-| Body of Christ | The expression of Christ with a measurable stature |
+| Body of Christ | The organic expression of Christ with a measurable stature |
 | New man | The life and person of Christ |
 | Kingdom of God | Having rights and responsibilities |
 | House of God | The house of God implies two things: God has a dwelling place that is in our spirit, and God has a household that is his family. It is by virtue of God's indwelling of man as life that He has a household. | 
