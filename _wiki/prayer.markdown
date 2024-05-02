@@ -15,7 +15,7 @@ permalink: /prayer/
 - [Principle of Prayer](#principle-of-prayer)
 - [Dispensing](#dispensing)
   - [Passport application](#passport-application)
-- [Inhaling](#inhaling)
+- [Breathing](#breathing)
 - [Types](#types)
   - [Individual](#individual)
   - [Corporate](#corporate)
@@ -91,9 +91,9 @@ The dispensing in God's economy is conditional, and that is based on our prayer.
 
 The Lord has applied for a passport to enter into us. Our prayer is the stamp on this passport which allows Him to pass through into us.
 
-## Inhaling
+## Breathing
 
-Inhaling implies taking in a gas, and bringing it into us that it may be absorbed. When we pray, God as the divine air is able to move into our inner being unimpeded as if we are breathing Him in.
+The Bible says that we should unceasingly pray (1 Thes. 5:17). This is pretty much impossible if one's definition of prayer is asking God to fulfill particular needs. Actually, prayer is just spiritual breathing. When we exercise our spirit to call on the name of the Lord, we breath God in as fresh spiritual air. Calling on the Lord is something that can be done anytime, anywhere.
 
 ## Types
 
