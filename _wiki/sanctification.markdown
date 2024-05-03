@@ -11,15 +11,18 @@ permalink: /sanctification/
 
 ## Background
 
-**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem. As the New Jerusalem, the holy city, is a corporate entity, being made holy is also a corporate process which requires the Body of Christ. 
+**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem, the holy city. As the New Jerusalem is a corporate entity, being made holy is also a corporate process which requires the Body of Christ. 
 
 ## Three Aspects
 
 ### Seeking Sanctification
 
-1 Peter 1:2 says that all believers were chosen by the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus christ. This means that the Spirit's sanctification is what causes sinners to be obedient and repent. In this verse, sanctification is equivalent to God's choosing, as the two are one action. While God's choosing occurs in eternity (Eph. 1:4), the Spirit's sanctification occurs in time.
+Seeking sanctification (also called initial sanctification) refers to the conviction of sinners by the Spirit unto repentance, after which one can undergo positional and dispositional sanctification. The descriptor *seeking* is used because the woman in Luke 15:8-10 signifies the Spirit, who is sweeping and seeking for an unsaved one as the lost coin. The lamp which she holds is the word of God (Psa. 119:105, 130). When we heard the gospel, God's words began to shine in us and to expose our sinful condition unto repentance and believing.
 
-The Spirit's sanctification can be called *seeking* because the woman in Luke 15:8-10 signifies the Spirit, who is sweeping for an unsaved one as the lost coin. The lamp which she holds is the word of God (Psa. 119:105, 130). When we heard the gospel, God's words began to shine in us and to expose our sinful condition unto repentance. Thus, while we were chosen by God, this choosing continues in time as the seeking sanctification of the Spirit until we are saved and undergo positional then dispositional sanctification.
+The conviction of sinners can also be seen in John 16:8-11 which says after the Lord's death, resurrection and ascension, the Spirit will come and convict the world concerning sin, righteousness and judgement. The three convictions correspond to three parties: sin is in Adam, the old creation, which we realize that we are in. Righteousness is in Christ, which we see that we lack. Judgement is for Satan and will be eternal perdition in the lake of fire, which we see that we will share if we do not repent.
+
+The clearest proof that God's sanctifying work begins prior to repentance is in 1 Peter 1:2, which says that believers were "chosen according to the foreknowledge of God the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus Christ." In this verse, God's choosing is in the sanctification of the Spirit, indicating the two ar e contained in one action. While God's choosing occurs in eternity (Eph. 1:4), the Spirit's sanctification here must occur in time as it results in the obedience of men. The Spirit arranges the environment of God's chosen, unredeemed people that they would be convicted and repent.
+
 
 ### Positional Sanctification
 
