@@ -21,6 +21,29 @@ The soul's original purpose is to be a reflecting organ to inherit the mind, emo
 
 The "inner man" is the regenerated spirit contacted by our person, the soul. In that contact, the soul joins to the spirit and they become one merged person called the inner man. The "outer man" refers to our living in the soul and body without contact with God. The "self" refers to the soul (Matt. 16:24-25). There is a constant battle between the soul and the spirit, the outer man and the inner man (1 Cor. 2:14-15).
 
+Below is a list of every part of man used in the Bible. Note that many overlap with each other, as either the spirit, soul or body is included in all of them.
+
+| Part of Man | Description |
+| --- | --- |
+| Spirit | The innermost part of man and the faculty to contact and receive God. |
+| Soul | The psychological part of man that represents his person and can decide how it uses the spirit and body. |
+| Body | The physical part of man that interacts with the physical world. |
+| Created life | The human life given to Adam upon creation. This includes the spirit, soul, and body. This life naturally has good intentions, but evidently God does not care about our goodness as it is on the satanic tree. This life always joins itself to God or Satan, signified by the trees in the garden of Eden. |
+| Satanic life | The fallen life of Satan added to man as a result of [the fall](../fall_of_man). All three parts of man were deadened in their function as a result. |
+| Uncreated life | The divine life of God which is imparted into man upon regeneration, which joins one's spirit to God, instantly restoring the faculties of the spirit. A regenerated believer possesses their created life, Satan's fallen life, and God's uncreated life simultaneously. |
+| Old man | The created life choosing to live by the fallen life of Satan, producing a person that is fallen. Also a man that is in the old creation i.e. without God (including pre-fall Adam). This man must be crucified in order for sin to be terminated and for the created life to be resurrected in the new man. |
+| New man | The created life choosing to live by the divine life of God, producing a person that is divine. Also a man that is in the new creation i.e. contains God. Everything in the new creation has passed through death and resurrection.|
+| Soul-life | The life of the old man. The natural life of a person devoid of God's inner working. |
+| Self | Same as soul life with an emphasis on one's thoughts and opinions. To deny the self is to deny the soul-life. |
+| Natural life | Same as soul-life with an emphasis on the positive aspects of the soul. For example, a person may have a natural love for the brothers, or a natural patience. |
+| Flesh | The living out and expression of the old man. |
+| "I" (old man) | "I" sometimes refers to the old man e.g. the first "I" in Galatians 2:20. |
+| "I" (new man) | "I" sometimes refers to the new man e.g. the last "I" in Galatians 2:20.  |
+| "I" (created life) | "I" sometimes refers to the created life in the soul - the law of good in the mind e.g. the "I" in Romans 7:15. |
+| Law of good in the mind | This law in Romans 7 is the created, human life with its natural goodness. |
+| Law of sin and of death | This law in Romans 7 is the fallen, satanic life with its fleshly evilness. |
+| Law of the Spirit and of life | This law in Romans 8 is the divine, uncreated life as the mingled spirit. |
+
 The Lord works in someone first by touching them in their heart, so that they may love Him. Then, this love allows them to exercise their spirit to receive God. Finally, God is able to spread through their being into their soul and body so that they can express God. This This is the correct order. We do not exercise our soul and body to do good things so that God will bless us; we allow God to dispense Himself into us first which will spontaneously issue in the outward expression in our actions after He spreads from our spirit into our whole being.
 
 ## Biblical Basis

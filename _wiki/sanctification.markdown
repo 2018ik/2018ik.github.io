@@ -17,7 +17,9 @@ permalink: /sanctification/
 
 ### Seeking Sanctification
 
-1 Peter 1:2 says that all believers were chosen by the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus christ. This means that the Spirit's sanctification is what causes sinners to be obedient and repent. We call this seeking sanctification because the second parable in Luke 15 portrays the Spirit seeking out sinners that they may repent (Luke 15:8-10). Even before being saved, all believers were swept out by the seeking Spirit.
+1 Peter 1:2 says that all believers were chosen by the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus christ. This means that the Spirit's sanctification is what causes sinners to be obedient and repent. In this verse, sanctification is equivalent to God's choosing, as the two are one action. While God's choosing occurs in eternity (Eph. 1:4), the Spirit's sanctification occurs in time.
+
+The Spirit's sanctification can be called *seeking* because the woman in Luke 15:8-10 signifies the Spirit, who is sweeping for an unsaved one as the lost coin. The lamp which she holds is the word of God (Psa. 119:105, 130). When we heard the gospel, God's words began to shine in us and to expose our sinful condition unto repentance. Thus, while we were chosen by God, this choosing continues in time as the seeking sanctification of the Spirit until we are saved and undergo positional then dispositional sanctification.
 
 ### Positional Sanctification
 
