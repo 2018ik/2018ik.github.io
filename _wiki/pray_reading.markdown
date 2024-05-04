@@ -17,9 +17,7 @@ permalink: /pray_reading/
 
 ## Background
 
-**Pray-reading** is to take the Lord's word and repeat it back to Him, that is to receive the word by means of all prayer (Eph. 6:17-18). The term "pray-reading" originated from Los Angeles around 1966 in the Lord's recovery, but has been practiced by believers for centuries.
-
-Calling on the name of the Lord and pray-reading are similar in that they all require breathing, drinking, eating and the Bible actually ends with pray-reading and calling in Revelation 22:20.
+**Pray-reading** is to take the Lord's word and repeat it back to Him, which is to receive the word by means of all prayer (Eph. 6:17-18). Pray-reading is simply a more effective way to eat the Word. For example, you can try to eat soup with a fork, but it's far more effective to use a spoon. Praying over God's word is His ordained way to get His word into our being. The term "pray-reading" originated from Los Angeles around 1966 in the Lord's Recovery, but has been practiced by believers for centuries.
 
 ## Biblical Basis
 

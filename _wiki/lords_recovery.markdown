@@ -19,7 +19,7 @@ The **Lord's Recovery** is a recovery of the following three items in God's New 
 
 The first point is a matter of experiencing Christ, and the second and third points are related to the proper practice of the church life. In short, the Lord's Recovery is the recovery of Christ and the church. The concept of experiencing or enjoying Christ is largely lost in Christianity, and the practice of the church life is completely ignored. Over the centuries, Satan brought in many replacements for Christ, robbed each member of their function, and divided the members of the Body. These satanic replacements include the clergy-laity system and many "Christian" traditions. The Lord's recovery is for recovering the subjective experience of Christ as life in a practical way, that the Body of Christ may be built up so the Lord can return.
 
-The Lord's Recovery is not about following a person, but to follow the all-inclusive, all-inheriting vision of the age.
+The three substances which underpin the Lord's Recovery are prayer, the Spirit, and the Word. There is no way to carry out the Lord's work without these three things (Acts 1:14, 8; 4:31; 6:7; 12:24; 19:20). The Lord's Recovery is not about following a person, but to follow the all-inclusive, all-inheriting vision of the age.
 
 ## "Recovery"
 
