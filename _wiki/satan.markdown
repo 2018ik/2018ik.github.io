@@ -22,6 +22,8 @@ Satan wants to inject death, darkness, disorder and disharmony into the church. 
 
 ## History
 
+In His wisdom, God allowed Satan to rebel in order to make known the riches of His glory (Rom. 9:22-23).
+
 When Satan first came to man, he was hidden as a serpent.
 
 In Job, Satan is seen conversing with God and the angels.
