@@ -52,7 +52,7 @@ While the universal church was formed by God, local churches are established by 
 | Dwelling place of God | For God to live in. |
 | Household of God | A family with life and enjoyment |
 | Pillar and base of the truth | The church upholds the truth, what is real. |
-| Bride and wife of Christ | For Christ's rest and satisfaction |
+| Bride/wife/counterpart of Christ | For Christ's rest and satisfaction |
 | Warrior | To defeat the enemy to accomplish God's purpose | 
 | Man-child |  |
 | Firstfruit | |
