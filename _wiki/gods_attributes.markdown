@@ -13,4 +13,4 @@ God has many **attributes** revealed in the Bible. This includes:
 2. Love
 3. Joy
 4. Hope
-5. 
+5. Glory

@@ -11,7 +11,9 @@ permalink: /conformation/
 
 ## Background
 
-**Conformation** is to be molded into the image of the firstborn Son of God as the prototype for mass reproduction (Rom. 8:29). To be conformed is also to reach maturity in the divine life and participate in God's divinity in full and to be solidified in the position of His divine element. In organic salvation, conformation is the consummation of transformation, and the prerequisite for the glorification of one's body.
+**Conformation** (Greek: *συμμορφή*) is to be molded into the image of the firstborn Son of God as the prototype for mass reproduction (Rom. 8:29). To be conformed is also to reach maturity in the divine life and participate in God's divinity in full and to be solidified in the possession of His divine element. In organic salvation, conformation is the consummation of transformation, and the prerequisite for the glorification of one's body.
+
+The word "conform" is only used twice in the New Testament: Romans 8:29 and Philippians 3:10. In both cases, it is not used in the present progressive, but as an adjective and present participle respectively. While transformation emphasizes the process, conformation is the end result. Thus, while it is technically correct to say we are under the process of conformation, it is more accurate to say we are under the process of transformation.
 
 The mold in which believers are conformed into is that of Christ's death (Phil 3:10). In order to be conformed to the resurrection of Christ, that is to receive His life to grow in life, we must first be conformed to His death (Rom. 6:5).
 

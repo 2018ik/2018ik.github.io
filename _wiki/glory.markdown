@@ -8,7 +8,7 @@ permalink: /glory/
 
 ## Background
 
-**Glory** is God Himself expressed. The God of glory desires to have a corporate expression in the church as the Body of Christ, and today the believers are being transformed from glory to glory (1 Cor. 2:7).
+**Glory** is God Himself expressed, and is an attribute of God (Acts 7:55; 2 Pet. 1:3). The God of glory desires to have a corporate expression in the church as the Body of Christ, and today the believers are being transformed from glory to glory (1 Cor. 2:7).
 
 ## 14 Aspects
 
@@ -16,7 +16,7 @@ permalink: /glory/
 2. God's purpose is to bring many sons into glory (Heb. 2:10; 1 Cor. 2:7; Eph. 1:6-7, 12, 14)
 3. God created us as vessels prepared unto glory (Rom. 9:23) 
 4. Sin is a falling short of God's glory (Rom. 3:23)
-5. Christ's redemption has fulfilled the requirements of God's glory (Rom. 3:24-29; Heb. 9:5)
+5. Christ's redemption has fulfilled the requirements of God's glory (Rom. 3:24-25; Heb. 9:5)
 6. God has called us into His eternal glory through the gospel of His glory (2 Cor. 4:4; 1 Tim. 1:11; 1 Pet. 5:10; 1 Thes. 2:12)
 7. Christ in us is the hope of glory (Col. 1:27; 3:4)
 8. We are being transformed into the Lord's image from glory to glory (2 Cor. 3:18)
