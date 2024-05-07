@@ -15,6 +15,15 @@ permalink: /conformation/
 
 The mold in which believers are conformed into is that of Christ's death (Phil 3:10). In order to be conformed to the resurrection of Christ, that is to receive His life to grow in life, we must first be conformed to His death (Rom. 6:5).
 
+| Aspect | Description |
+| --- | --- |
+| Solidified in the possession of His divine element | One is regenerated with the divine life; conformation is the solidification of the possession of this life |
+| Maturity in life | Conformation is related to maturing in the divine life; to be conformed implies fullness in the maturity in life. This is to be a full-grown man at the measure of the stature of the fullness of Christ. |
+| Consummation of transformation | When one is fully transformed in the divine life, they may participate in God's divinity in full and thus can be considered conformed to the image of the firstborn Son of God. |
+| Conformed to the image of the Firstborn Son of God | Rom. 8:29 |
+| Conformed to the death of the Son | Phil. 3:10 |
+| Preparation for the glorification of the body |  |
+
 ## Significance
 
 ## Biblical Basis
