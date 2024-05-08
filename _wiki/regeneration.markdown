@@ -10,7 +10,7 @@ permalink: /regeneration/
 
 ## Background
 
-**Regeneration** is to generate the redeemed believers with the divine life, making them born of God to become children of God belonging to the species of God (John 1:12-13; 3:6). As the first item of organic salvation, being regenerated is not optional; all Christians must be born anew (John 3:7). This is achieved by repenting and believing in the Lord through His Spirit.
+**Regeneration** is the process in which one is born with the divine life, making them children of God belonging to the species of God (John 1:12-13; 3:6). As the first item of organic salvation, being regenerated is not optional; all Christians must be born anew (John 3:7). This is achieved by repenting and believing in the Lord through His Spirit.
 
 Through the resurrection of Jesus Christ, all believers were regenerated unto a living hope (1 Pet. 1:3). This shows that after the life of Christ was released through his death, He can impart His life in resurrection to His chosen people. This hope is organic salvation.
 
