@@ -9,6 +9,7 @@ permalink: /2_corinthians_book/
   - [Vessel](#vessel)
   - [Grace](#grace)
   - [Aspects of the Spirit](#aspects-of-the-spirit)
+  - [Ministries](#ministries)
 
 ## Background
 
@@ -40,3 +41,7 @@ Paul prayed for the thorn to be removed from his side, but this was never answer
 7. The freeing Spirit frees from the bondage of letter and of the law (2 Cor. 3:17).
 8. The transforming Spirit dispenses the divine life and nature into the believers to metabolically change them in their inner being (2 Cor. 3:18).
 9. The transmitting Spirit transmits all the Christ is with the riches of the Triune God into the believers (2 Cor. 13:14)
+
+### Ministries
+
+Second Corinthians reveals three aspects of the carrying out of God's New Testament economy: the ministry of the Spirit, the ministry of righteousness and the ministry of reconciliation.

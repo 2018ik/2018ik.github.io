@@ -9,6 +9,7 @@ permalink: /moses/
   - [Worldly Education](#worldly-education)
   - [Wilderness](#wilderness)
   - [Failure](#failure)
+- [Trivia](#trivia)
 
 ## Background
 
@@ -31,3 +32,7 @@ Moses refused to be called Pharaoh's daughter (Exo. ??:??)
 ### Failure
 
 Rather than speaking to the rock to get water, he struck the rock again with his staff in anger. This violated God's law governmentally, and as a result, he was barred from entering the good land (Num. 20:8-12).
+
+## Trivia
+
+1. Besides the Pentateuch, Moses also wrote Psalm 90

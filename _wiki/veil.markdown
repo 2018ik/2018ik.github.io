@@ -4,6 +4,7 @@ title: Veil
 permalink: /veil/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [Types](#types)
   - [Natural Concepts](#natural-concepts)
   - [Human Philosophies](#human-philosophies)
@@ -19,7 +20,13 @@ permalink: /veil/
 
 ## Background
 
+A **veil** is something which separates man from God, especially in seeing biblical revelation. The source of all veils is the flesh, and veils themselves also signify the flesh. Dealing with veils, as with dealing with the flesh, requires the dealing of the cross.
+
 The majority of Christians today have a veiled understanding of the Bible. These veils can be removed by having a heart turned to the Lord (2 Cor. 3:16). This implies that veils are actually just a turned away, darkened heart. When a person has a heart turned to the Lord, this is a single heart, a pure heart, and a simplified heart. One must learn to drop all veils in order to see the intrinsic significance of the Bible.
+
+## Biblical Basis
+
+The tabernacle had two veils: one at the entrance into the Holy Place, and one dividing the Holy Place from the Holy of Holies (Exo. 26:36-37; Heb. 9:3). The flesh is what prevents a Christian from contacting God in their spirit, typified by the Holy of Holies. God is calling us through the veil to enter the Holy of Holies, but in order to do this one must terminate their flesh, that is to deny their soul-life (Heb. 10:19-20). In the eyes of God, the veil was split when Christ was crucified (Matt. 27:51), but in man's experience, the veil, the flesh, continues to remain (Gal. 5:24; Rom. 8:6). 
 
 ## Types
 

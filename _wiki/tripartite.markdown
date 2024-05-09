@@ -32,11 +32,12 @@ Below is a list of every part of man used in the Bible. Note that many overlap w
 | Satanic life | The fallen life of Satan added to man as a result of [the fall](../fall_of_man). All three parts of man were deadened in their function as a result. |
 | Uncreated life | The divine life of God which is imparted into man upon regeneration, which joins one's spirit to God, instantly restoring the faculties of the spirit. A regenerated believer possesses their created life, Satan's fallen life, and God's uncreated life simultaneously. |
 | Old man | The created life choosing to live by the fallen life of Satan, producing a person that is fallen. Also a man that is in the old creation i.e. without God (including pre-fall Adam). This man must be crucified in order for sin to be terminated and for the created life to be resurrected in the new man.  |
+| Natural man | Same as old man with an emphasis on the positive aspects of the old man. For example, the old man may have a natural love for the brothers, or a natural patience. |
+| Flesh | Same as old man with an emphasis on its living out and expression. |
 | New man | The created life choosing to live by the divine life of God, producing a person that is divine. Also a man that is in the new creation i.e. contains God. Everything in the new creation has passed through death and resurrection.|
 | Soul-life | The life of the old man. The natural life of a person devoid of God's inner working. |
-| Self | Same as soul life with an emphasis on one's thoughts and opinions. To deny the self is to deny the soul-life. |
 | Natural life | Same as soul-life with an emphasis on the positive aspects of the soul. For example, a person may have a natural love for the brothers, or a natural patience. |
-| Flesh | The living out and expression of the old man. |
+| Self | Same as soul life with an emphasis on one's thoughts and opinions. To deny the self is to deny the soul-life. |
 | "I" (old man) | "I" sometimes refers to the old man e.g. the first "I" in Galatians 2:20. |
 | "I" (new man) | "I" sometimes refers to the new man e.g. the last "I" in Galatians 2:20.  |
 | "I" (created life) | "I" sometimes refers to the created life in the soul - the law of good in the mind e.g. the "I" in Romans 7:15. |

@@ -6,6 +6,7 @@ permalink: /psalms_chapters/
 - [Background](#background)
 - [23](#23)
 - [45](#45)
+- [73](#73)
 
 ## Background
 
@@ -36,3 +37,11 @@ In the fifth stage, house of Jehovah here is the house of God referring to the c
 ## 45
 
 The psalmist's heart overflows concerning a good matter: the King who symbolizes Christ is brought into marriage with the daughter of Tyre who symbolizes the church as the bride of Christ.
+
+## 73
+
+The psalmist wondered why he was suffering so much while the worldly people were prospering. He could never understand why until he went into the sanctuary of God (Psalm 73:16-17). The answer is that God Himself is more valuable than temporal possessions on earth.
+
+>Whom do I have in heaven but You? / And besides You there is nothing I desire on earth. / My flesh and my heart fail, / But God is the rock of my heart and my portion forever.
+
+\-Psalm 73:25-26
