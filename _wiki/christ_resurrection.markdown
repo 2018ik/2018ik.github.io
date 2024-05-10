@@ -8,7 +8,7 @@ permalink: /christ_resurrection/
 
 ## Background
 
-**Christ's resurrection** was the beginning of the new creation. It produced the firstborn Son of god, the many sons of God, and Christ was made the life-giving Spirit. Furthermore, it regenerated us unto living hope, and made us alive together with Christ.
+**Christ's resurrection** was the beginning of the new creation. It produced the firstborn Son of god, the many sons of God, and Christ was made the life-giving Spirit. Not only was Christ resurrected and begotten, but we were all regenerated  unto living hope and made alive together with Christ (1 Pet. 1:3).
 
 For a vast majority of Christians, resurrection is simply a historical process that Jesus underwent 2000 years ago. Seemingly the most significant aspect of resurrection is that it signifies Christ's complete victory of death, Hades and the grave. 
 

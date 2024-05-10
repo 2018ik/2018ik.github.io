@@ -10,9 +10,9 @@ permalink: /regeneration/
 
 ## Background
 
-**Regeneration** is the process in which one is born with the divine life, making them children of God belonging to the species of God (John 1:12-13; 3:6). As the first item of organic salvation, being regenerated is not optional; all Christians must be born anew (John 3:7). This is achieved by repenting and believing in the Lord through His Spirit.
+**Regeneration** is the process in which one is born with the divine life to possess God's life in addition to the natural life, making them children of God belonging to the species of God (John 1:12-13; 3:6). Regeneration washes away the fallen old creation and puts on the new creation, and can be described as "the greatest miracle in the universe." Sinners who were once completely incompatible with God in every way can be born anew as children of God, possessing His life and nature. This is far more miraculous than if scientists figured out how to transmogrify a cat into a dog! As the first item of organic salvation, being regenerated is not optional; all Christians must be born anew (John 3:7). This is achieved by repenting and believing in the Lord through His Spirit.
 
-Through the resurrection of Jesus Christ, all believers were regenerated unto a living hope (1 Pet. 1:3). This shows that after the life of Christ was released through his death, He can impart His life in resurrection to His chosen people. This hope is organic salvation.
+Through the resurrection of Jesus Christ, all believers were regenerated unto a living hope (1 Pet. 1:3). The only hope for fallen man who possessed sin and death in their initial fleshly birth is to be regenerated, that is to be born again. This involves dying and being raised from the dead. Through His work on the cross, Christ brought us into death and burial (Rom. 6:3-4) and through His resurrection, He raised us up with Him and gave us a new life (Eph. 2:6). After the life of Christ was released through his death, He can impart His life in resurrection to His chosen people.
 
 ## Biblical Basis
 
