@@ -29,6 +29,8 @@ Many Christians are living in the flesh, and very few have experienced deliveran
 2. Dealing with the whole being which has become flesh
 3. Dealing with the fleshly living
 
+By continuously dealing with flesh, and to make no provision for it to fulfill its lusts (Rom. 13:14) the flesh is starved, and it actually becomes weaker and easier to deal with. Then, God Himself is able to come in and replace these things which the flesh once fed on.
+
 ## Testimonies
 
 ### Testimony #1
@@ -36,4 +38,3 @@ Many Christians are living in the flesh, and very few have experienced deliveran
 > Romans 6:6 says that the old man has been crucified with Christ that the body of sin might be annulled. Likewise, Galatians 2:20 says that the old “I” has been crucified with Christ. This is an objective fact, but even if we believe this, it will do nothing for us if it is not made real in our experience. This is the difference between these two verses and Galatians 5:24, which says that we who are of Christ Jesus have crucified the flesh. Here, the action of crucifying is initiated by the believers; it is we who are crucifying the flesh with its passions and lusts. This indicates a definite application by the believers of the death of Christ.
 >
 >In the Bible, the old man and the flesh both refer to the same corrupt body of sin, but while the old man is objective, the flesh is subjective and is our personal living out of the old man. This section also mentions the self, which is also subjective and refers particularly to our human ideas and opinions. So despite knowing that the old man is crucified, how come we still live in the flesh and in the self, with our infinite opinions? Well, the context of Galatians 5 is to walk by the Spirit. The objective basis of the crucifixion of the old man needs to be applied subjectively by the Holy Spirit, which is in us and imparting to us resurrection life. Christ has crucified the old man, and now we have his resurrection life in us by which we can crucify the flesh and deny the self. 
-
