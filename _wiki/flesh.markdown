@@ -5,20 +5,29 @@ permalink: /flesh/
 ---
 - [Background](#background)
 - [Relation to the Old Man](#relation-to-the-old-man)
+- [Dealing](#dealing)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The **flesh** in the Bible is almost always negative, and usually refers to the transmuted, sinful body produced by the fall of man. For example, the flesh is weak (Matt. 24:41; Rom. 6:19), and nothing good dwells in the flesh (Rom. 7:18). When someone is in the flesh, they work out sins (Rom. 7:5; Gal. 5:19-21) and cannot fulfill the righteous requirements of the law (Rom. 8:4) or please God (Rom. 8:8). The flesh is the body of sin mentioned in Romans 6:6 and the body of death mentioned in Romans 7:24 is only good for sin and death. This sinful body is also called the old man, however the old man is objective while the flesh is subjective. This "old man" is an intangible aspect of man; the flesh can only be crucified in the spiritual sense (Gal. 5:24). 
+The **flesh** in the Bible is almost always negative, and usually refers to the transmuted, sinful body produced by the fall of man. For example, the flesh is weak (Matt. 24:41; Rom. 6:19), and nothing good dwells in the flesh (Rom. 7:18). When someone is in the flesh, they work out sins (Rom. 7:5; Gal. 5:19-21) and cannot fulfill the righteous requirements of the law (Rom. 8:4) or please God (Rom. 8:8). The flesh is the body of sin mentioned in Romans 6:6 and the body of death mentioned in Romans 7:24 is only good for sin and death. This sinful body is also called the old man, however the old man is objective while the flesh is subjective. That is, the flesh is the living out of the old man. 
 
 On the other hand, flesh sometimes refers to the totality of fallen man, including the physical body. In Genesis 6:3, God says that man is flesh. Paul’s flesh that was afflicted in 2 Corinthians 7:5 was his physical, fallen body. Man was originally called a "soul" by God (Gen. 2:7), but after the fall he was called flesh (Gen. 6:3).
 
-Romans chapters 7 and 8 are related to the subjective experiences concerning the Holy Spirit and the flesh. Just as Christ is related to the Holy Spirit, so the old man is related to the flesh. Just as Christ cannot be experienced without the Holy Spirit, so also the old man cannot be experienced without the flesh. Christ is lived out in the Holy Spirit; likewise, the old man is lived out in the flesh. For example, the Bible says that our old man has been crucified with Christ.
+Romans chapters 7 shows the flesh while chapter 8 shows the Spirit. Both of these are subjective realizations of the old man and Christ respectively from chapter 6. Just as Christ is experienced through the Spirit, so is the old man experienced through the flesh. Christ is lived out in the Holy Spirit; likewise, the old man is lived out in the flesh. For example, the Bible says that our old man has been crucified with Christ.
 
 ## Relation to the Old Man
 
 The old man and the first definition of the flesh (the corrupted, sinful body) are one and the same. Both are crucified, and both are substituted for Christ. However, crucifying the old man is done by Christ and is an objective fact (Rom. 6:6; Gal. 2:20), while crucifying the flesh is done by the believers themselves in their subjective experience. Galatians 5:24 says that they who are of Christ Jesus have crucified the flesh with its passions and its lusts. A believer must see not only that the crucifixion of their old man has been accomplished in Christ, but also take the initiative to crucify the flesh through the Holy Spirit. This is not to invent a new cross, but to allow the Holy Spirit to apply the cross of Christ in one’s daily life. 
+
+## Dealing
+
+Many Christians are living in the flesh, and very few have experienced deliverance. Dealing with the flesh is a matter of:
+
+1. Dealing with the sinful deeds of the body
+2. Dealing with the whole being which has become flesh
+3. Dealing with the fleshly living
 
 ## Testimonies
 
