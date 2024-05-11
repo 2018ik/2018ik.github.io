@@ -6,6 +6,10 @@ permalink: /new_jerusalem/
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
 - [Description](#description)
+  - [River](#river)
+  - [Street](#street)
+  - [Mountain](#mountain)
+  - [Materials](#materials)
 - [Central Line](#central-line)
 - [Application](#application)
 
@@ -47,9 +51,19 @@ The New Jerusalem promised to the overcomers in Revelation 3:12 is a prize only 
 
 The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. 
 
+### River
+
 The river of water of life flowing out of the throne proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
 
-The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration. 
+### Street
+
+The street of gold signifies divine and human communications, as it proceeds from the throne to reach all twelve gates of the city. This brings the entire city into submission to the one divine administration. Given that a single street reaches every gate, this street as well as the river which runs alongside it could may spiral down from the throne of God at the top.
+
+### Mountain
+
+The New Jerusalem is 12000 stadia tall, about 1300 miles, yet its walls are only 144 cubits. Furthermore, it is pure gold (Rev. 21:18). This indicates that the city itself may be a mountain.
+
+### Materials
 
 | Item | Description |
 | --- | --- |

@@ -4,13 +4,18 @@ title: Dispensation
 permalink: /dispensation/
 ---
 - [Background](#background)
+- [Sin](#sin)
 - [Law](#law)
 - [Grace](#grace)
 - [Kingdom](#kingdom)
 
 ## Background
 
-**Dispensations** are ages throughout the Bible where God deals with man in a particular way. 
+**Dispensations** (or simply, **ages**) are periods of time throughout the Bible where God deals with man in a particular way. These can be divided into many ways, such as the seven dispensations of innocence, conscience, human government, promise, law, grace and the kingdom. Most generally however, there are four notable dispensations prior to eternity future: the dispensations of sin, law, grace and the kingdom.
+
+## Sin
+
+Sin entered in through Adam.
 
 ## Law
 
