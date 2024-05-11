@@ -8,9 +8,9 @@ permalink: /gimmicks/
 
 ## Background
 
-**Gimmicks** are fun things introduced to the church or used on the gospel to attract and people entertained. Such methods gather together a group of Christians without any intrinsic reality. The Lord Jesus did not rely on gimmicks to get His disciples to follow Him. He had the Spirit. As a result there was a divine and mystical fragrance to His living which attracted them.
+**Gimmicks** are fun things introduced to the church or used on the gospel to attract and people entertained, primarily for the sake of gaining an increase. Such methods gather together a group of Christians without any intrinsic reality. The Lord Jesus did not rely on gimmicks to get His disciples to follow Him. He had the Spirit, and a divine and mystical fragrance to His living which attracted them. Similarly, the early church recorded in Acts advanced with only prayer, the Spirit, and the Word.
 
-The use of gimmicks indicates a lack of Spirit. If we have the real power of the Spirit we do not need any gimmicks. There is no need for rock music, dramas and performances to attract people to the church meetings. Any proposals to use gimmicks for the gospel is strong proof that we have not exercised faith in believing that the baptism of the Spirit is an accomplished fact.
+The use of gimmicks indicates a lack of these three items. If we have the real power of the Spirit we do not need any gimmicks. There is no need for rock music, dramas and performances to attract people to the church meetings. Any proposals to use gimmicks for the gospel is strong proof that we have not exercised faith in believing that the baptism of the Spirit is an accomplished fact.
 
 ## Significance
 

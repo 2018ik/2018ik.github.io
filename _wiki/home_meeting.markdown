@@ -6,11 +6,14 @@ permalink: /home_meeting/
 - [Background](#background)
 - [Scriptural Basis](#scriptural-basis)
 - [Significance](#significance)
+- [Trivia](#trivia)
 - [Related Terms](#related-terms)
 
 ## Background
 
-**Home meetings** in the context of the God-ordained way are meetings which are held in new believers' homes, usually after they are baptized (though it can also more generally refer to any meeting hosted in someone's home). The emphasis here is on nourishing and cherishing the new ones. These meetings are not necessarily for teaching and edification, but for nourishing and cherishing the attendees. These meetings also provide a testimony for the neighbors, and provide an opportunity for gospel preaching. After the new ones have met in the homes and are sufficiently mature in life, they can be brought to the small group and Lord's day meetings. While the big meetings bring people in, the small meetings keep them in and build up the Body.
+**Home meetings** are church meetings which are held in the believers' homes. The early church met primarily in the houses; prayer meetings, gospel meetings and even the church building itself was often in the believers' homes (Acts 12:12; Acts 5:42; Rom. 16:5). 
+
+In the context of the God-ordained way, home meetings are held in new believers' homes, usually after they are baptized. The emphasis here is on nourishing and cherishing the new ones. These meetings are not necessarily for teaching and edification, but for nourishing and cherishing the attendees. These meetings also provide a testimony for the neighbors, and provide an opportunity for gospel preaching. After the new ones have met in the homes and are sufficiently mature in life, they can be brought to the small group and Lord's day meetings. While the big meetings bring people in, the small meetings keep them in and build up the Body.
 
 ## Scriptural Basis
 
@@ -23,6 +26,11 @@ The homes are the life-pulse of the church, and the unique way to build up the c
 The way to meet in the homes lasted a very short time, and after the early apostles by the second century, the church began meeting solely in large congregations. As a result, big evangelists were raised up, and each individual member lost their function. Without home meetings, it is difficult for each member of the Body to function, and therefore it is difficult for the Body to be built up.
 
 Meeting in the homes allows each person to open up and share experiences with each other, which allow for mutual building.
+
+## Trivia
+
+1. Paul preached the gospel in his own rented dwelling, not a chapel or cathedral (Acts 28:30).
+2. George Müller was saved in a home meeting.
 
 ## Related Terms
 
