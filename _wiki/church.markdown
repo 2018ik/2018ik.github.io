@@ -42,6 +42,7 @@ While the universal church was formed by God, local churches are established by 
 
 ## Aspects
 
+This is a non-exhaustive list of the aspects of the (universal) church. These are also sometimes called statuses. Each aspect is equivalent to the church and can be thought of as titles. For example, the Body of Christ is the church and vice versa. 
 
 | Aspect | Description |
 | --- | --- |
