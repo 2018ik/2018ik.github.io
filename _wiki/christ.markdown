@@ -16,7 +16,7 @@ permalink: /christ/
 
 ## Background
 
-**Christ** is the title given to the Son in His resurrection. Jesus refers to the name given to the Lord in His incarnation. Christ refers to the name given after His resurrection, when He became Lord and Christ. Jesus Christ highlights the fact of the man Jesus who once lived on earth that became this Christ while Christ Jesus highlights the reverse: that this divine One was once a man on the earth.
+**Christ** (meaning "anointed one") is the title given to the Son in His resurrection. Jesus refers to the name given to the Lord in His incarnation. Christ refers to the name given after His resurrection, when He became Lord and Christ. Jesus Christ highlights the fact of the man Jesus who once lived on earth that became this Christ while Christ Jesus highlights the reverse: that this divine One was once a man on the earth.
 
 Ephesians 1:3 says "Blessed be the God and Father of our Lord Jesus Christ." God corresponds to Jesus while Father corresponds to Christ. In Christ's humanity - Jesus - God is His God. In His divinity, God is His Father. 
 

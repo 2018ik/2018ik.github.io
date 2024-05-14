@@ -13,7 +13,9 @@ The **anointing** refers to God as the indwelling compound Spirit typified by th
 
 ## Biblical Basis
 
-In Exodus, the holy anointing oil was used to anoint the Tent of Meeting and the Ark of the Testimony, as well as the priests (Exo. 30:25-30). This signifies that the anointing is only for God's dwelling place and priesthood, which reality is that New Testament believers. 1 John 2:20 tells the readers that they have an anointing from the Holy One, and verse 27 elaborates that this anointing teaching concerning all things. This is not a physical anointing, but the anointing of the Holy Spirit (Acts 10:38).
+In Exodus, the holy anointing oil was used to anoint the Tent of Meeting and the Ark of the Testimony, as well as the priests (Exo. 30:25-30). Furthermore, all the kings and priests in the Old Testament were anointed. All of these anointed ones were related to God's dwelling place, His priesthood, His kingship and His commission. The reality of this Old Testament anointing is to receive the Spirit, which is typified by the anointing oil. The receiving of the Spirit can be seen in four stages: the Lord Jesus at His baptism in the Jordan, the Lord Jesus in resurrection, the Jewish believers on the day of Pentecost(Acts 1:5; 2:4), and the gentile believers in the house of Cornelius (10:44-47; 11:15-17).
+
+1 John 2:20 tells the readers that they have an anointing from the Holy One, and verse 27 elaborates that this anointing teaching concerning all things. This is not a physical anointing, but the anointing of the Holy Spirit (Acts 10:38).
 
 The Spirit’s anointing adds the elements of the aforementioned holy anointing oil, which signifies the all-inclusive Christ. Furthermore, as the new element is added, the old element is discharged or killed, as signified by the myrrh and cinnamon, which signify the death of Christ.
 

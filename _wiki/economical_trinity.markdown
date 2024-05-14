@@ -10,7 +10,8 @@ permalink: /economical_trinity/
   - [Matthew](#matthew)
   - [Luke](#luke)
 - [John](#john)
-  - [Romans 8:9](#romans-89)
+  - [Acts](#acts)
+  - [Romans](#romans)
   - [1 Corinthians](#1-corinthians)
   - [2 Corinthians](#2-corinthians)
   - [Galatians](#galatians)
@@ -19,7 +20,7 @@ permalink: /economical_trinity/
   - [Titus](#titus)
   - [Hebrews](#hebrews)
   - [1 Peter](#1-peter)
-  - [1 John 4:2](#1-john-42)
+  - [1 John](#1-john)
   - [Jude](#jude)
   - [Revelation](#revelation)
 
@@ -60,6 +61,7 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 | Verse | Description |
 | --- | --- |
 | 1:20-23 | The Son was born of the Holy Spirit and was called Emmanuel, meaning God (the Father) with us. |
+| 3:16-17 | the Son was in the water, the Spirit of God descended like a dove and the Father spoke out of the heavens. |
 | 12:28 | The Son by the Spirit of God casted out demons that the kingdom of God would come, indicating that the Son's operation was neither by Himself nor for Himself, but by the Spirit and for the kingdom of God. | 
 | 28:19 | Having been consummated through many processes, the name of the Divine Trinity is revealed for the first time. |
 
@@ -81,11 +83,18 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 | 15:26 | The Son sends the Sprit from/with (*para*) the Father. While the Father sends in 14:26, the Son sends in 15:26. On one hand, the "two" sendings are distinct, on the other hand, they cannot be separate. This it the mystery of the Triune God. | 
 | 16:13-15 | As the Son does not speak from Himself (John 14:10) so does the Spirit not speak from Himself. The Spirit glorifies the Son who glorifies the Father. What the Father has the Son has, and what the Son has is declared (made real) to us by the Spirit. |
 
-### Romans 8:9
+### Acts
 
 | Verse | Description |
 | --- | --- |
-| 8:9 | The Spirit of God the Father and the Spirit of Christ dwell in us, and both Spirits are obviously the same Spirit, the Holy Spirit. |
+| 2:32-33 | The Triune God raised up the Son, and received the Holy Spirit from the Father. This receiving was the beginning of the operation of God's New Testament economy and the fulfillment of the Father's promise in Joel 2:28. |
+
+### Romans
+
+| Verse | Description |
+| --- | --- |
+| 5:5-6 | The love of the Father is poured out into our hearts by the Holy Spirit given to us and Christ the Son having died to the ungodly. |
+| 8:9 | The Spirit of God the Father and the Spirit of Christ dwell in us, and these two titles of the Spirit refer interchangeably to the same Spirit, the Holy Spirit. |
 
 ### 1 Corinthians
 
@@ -97,8 +106,10 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 
 | Verse | Description |
 | --- | --- |
+| 1:21-22 | God attaches to unto Christ and anoints us, and we are sealed by the Spirit as a pledge. |
 | 3:17 | The Lord (the Son) is the Spirit. |
 | 4:6-7 | The glory of God the Father is illuminated in the face of the Son who is in us as a treasure in earthen vessels. |
+| 5:5-6 | God has wrought us to be swallowed up by life and given the Spirit as a pledge. On one hand, we are abroad from the Lord in the body, on the other hand, the Spirit which indwells us makes real to us the Lord's presence and life. |
 | 13:14 | A classic - the grace of the Lord Jesus Christ, the love of God (the Father), and the fellowship of the Holy Spirit. |
 
 ### Galatians
@@ -117,7 +128,7 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 | 3:14-19 | The Father strengthens the believers through the Spirit that Christ may make His home in their hearts. The goal is the Son, as the Son is the center with regards to God's work in man in His economy. |
 | 4:4-6 | There is one Spirit, one Lord and one God and Father of all. The Father is over all, the Son is through all, and the Spirit is in all. |
 | 5:19-29 | The psalms and hymns are of the Spirit, sung to the Lord, the Son. Then we give thanks to God the Father. |
-| 6:19-11, 17 | The full armor of God includes being empowered in the Lord (the Son) to put on the whole armor of God (the Father) and to receive the Sword of the Spirit, which is the word of God. |
+| 6:9-11, 17 | The full armor of God includes being empowered in the Lord (the Son) to put on the whole armor of God (the Father) and to receive the Sword of the Spirit, which is the word of God. |
 
 ### 2 Thessalonians 
 
@@ -146,7 +157,7 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 | 1:2 | The Father foreknew us, the Spirit sanctified us, and the Son redeemed us. |
 | 4:14 | Believers of the Son are reproached because the Spirit of God (the Father) rests upon them. |
 
-### 1 John 4:2 
+### 1 John
 
 | Verse | Description |
 | --- | --- |
