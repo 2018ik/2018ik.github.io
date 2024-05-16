@@ -14,6 +14,8 @@ permalink: /paul/
 - [Characteristics](#characteristics)
   - [Governed by the Spirit](#governed-by-the-spirit)
   - [??? TODO name (factor for others' progress)](#-todo-name-factor-for-others-progress)
+  - [All-fitting life](#all-fitting-life)
+  - [Enlarged heart](#enlarged-heart)
 
 ## Background
 
@@ -74,3 +76,9 @@ Paul was governed by whether or not he had rest in his spirit (2 Cor. 2:13).
 ### ??? TODO name (factor for others' progress)
 
 Paul was a factor for others' progress and joy in the faith (Phil. 1:25).
+
+### All-fitting life
+
+### Enlarged heart
+
+Paul's heart was enlarged to care about all the Corinthians and to suffer much on behalf of them (2 Cor. 6:1-13; 7:3)

@@ -4,12 +4,19 @@ title: Forgiveness
 permalink: /Forgiveness/
 ---
 - [Background](#background)
+- [Biblical Examples](#biblical-examples)
 - [God's Perspective](#gods-perspective)
 - [Human Perspective](#human-perspective)
 
 ## Background
 
+## Biblical Examples
 
+| Reference | Description |
+| --- | --- |
+| Matt. 18:21-35 | The Lord Jesus presents a parable to Peter, depicting a slave who is forgiven of his debts, who then does not forgive his fellow slave. Because God has forgiven our sins, which wages is death (Rom 6:23), likewise we must forgive others for smaller offenses. |
+| Eph. 4:32 | As with the above, we should forgive one another even as God in Christ also forgave us. |
+| Col 3:13 | As with the above, we should forgive one another even as the Lord also forgave us. |
 ## God's Perspective
 
 
