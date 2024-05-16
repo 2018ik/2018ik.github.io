@@ -46,6 +46,7 @@ This is a non-exhaustive list of the aspects of the (universal) church. These ar
 
 | Aspect | Description |
 | --- | --- |
+| Called out assembly | This is the literal translation of the Greek word for church (*ekklesia*). This is not only an assembly of believers, but those whom were called out by God (1 Cor. 1:2; Rom. 1:7) |
 | Body of Christ | The organic expression of Christ with a measurable stature |
 | New man | The life and person of Christ |
 | Kingdom of God | Having rights and responsibilities |
@@ -58,4 +59,3 @@ This is a non-exhaustive list of the aspects of the (universal) church. These ar
 | Man-child |  |
 | Firstfruit | |
 | Holy city | |
-| Assembly | This is the literal translation of *ekklesia*, the word translated church. This is not only an assembly of believers, but those whom were called out by God (1 Cor. 1:2; Rom. 1:7) |

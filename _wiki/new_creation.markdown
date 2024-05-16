@@ -13,7 +13,7 @@ The **new creation** is in contrast to the old creation, and is God's life wroug
 
 ## Significance
 
-God only cares about the new creation, and only the new creation can fulfills God's plan. Now what God has been added to man, man must live by this divine life mingled with his human life, otherwise he cannot please God (Rom. 8:8).
+God only cares about the new creation, and only the new creation can fulfills God's plan. Now what God has been added to man, man must live by this divine life mingled with his human life. We are often on the right or wrong, the tree of knowledge of good and evil, but this will never please God (Rom. 8:8).
 
 ## Spirit
 

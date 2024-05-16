@@ -5,7 +5,8 @@ permalink: /peter/
 ---
 - [Background](#background)
 - [History](#history)
-  - [Post-crucifixion](#post-crucifixion)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 >"Peter is our representative. Peter is you, Peter is me."
 
@@ -21,7 +22,7 @@ Peter rebuked the Lord after He said He was to die (Matt. 16:21-22). This was be
 
 Jesus asked Peter three times if he loved Him. This is in parallel to the three times which Peter denied the Lord's name.
 
-In Acts 10, Peter spoke a foolish word when a trace came upon him. The Lord showed a vessel descending from heaven with all the animals, but Peter refused to eat what was common and unclean. This was according to Old Testament principles, indicating that Peter had not fully seen the vision.
+In Acts 10, Peter spoke a foolish word when a trace came upon him. The Lord showed a vessel descending from heaven with all the animals, but Peter refused to eat what was common and unclean (Acts 10:14). This was according to Old Testament principles, indicating that Peter had not fully seen the vision. He did not realize that the Lord on the cross had abolished all the laws of ordinances (Eph. 2:15). Ho
 
 ## Testimonies
 
