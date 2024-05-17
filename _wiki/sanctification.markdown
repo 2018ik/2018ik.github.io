@@ -4,6 +4,7 @@ title: Sanctification
 permalink: /sanctification/
 ---
 - [Background](#background)
+- [Interpretation](#interpretation)
 - [Three Aspects](#three-aspects)
   - [Seeking Sanctification](#seeking-sanctification)
   - [Positional Sanctification](#positional-sanctification)
@@ -11,7 +12,11 @@ permalink: /sanctification/
 
 ## Background
 
-**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem, the holy city. As the New Jerusalem is a corporate entity, being made holy is also a corporate process which requires the Body of Christ. 
+**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem, the holy city. As the New Jerusalem is a corporate entity, being made holy is also a corporate process which requires the Body of Christ.
+
+## Interpretation
+
+Various teachers hold different opinions about sanctification. John Wesley for example believed that sanctification was "sinless perfection." The Brethren taught that sanctification was a matter of position based on Matthew 23. The Lord said that gold was sanctified by the temple and offerings sanctified by the altar. The gold and the offerings did not change intrinsically, rather, they were sanctified by its position within the temple. This is an accurate teaching regarding positional sanctification, as seen below. However, the Bible reveals that sanctification goes the entire course of one's Christian life (Rom. 6:19, 22). Sanctification in the New Testament is through the Holy Spirit (Rom. 15:16) which operates from within, changing one's inward parts to match that of God's. While eventually sinless perfection will be exhibited, that in and of itself is not the intention of sanctification. Sanctification along with the rest of organic salvation is to work more of God's life into man.
 
 ## Three Aspects
 
@@ -24,7 +29,6 @@ The conviction of sinners can also be seen in John 16:8-11 which says after the 
 The clearest proof that God's sanctifying work leads believers to repentance is in 1 Peter 1:2, which says that believers were "chosen according to the foreknowledge of God the Father in the sanctification of the Spirit unto the obedience and sprinkling of the blood of Jesus Christ." In this verse, God's choosing is in the sanctification of the Spirit, indicating the two ar e contained in one action. While God's choosing occurs in eternity (Eph. 1:4), the Spirit's sanctification here must occur in time as it results in the obedience of men. The Spirit arranges the environment of God's chosen, unredeemed people that they would be convicted and repent.
 
 Additional proof that God's sanctification encompasses full salvation is 2 Thessalonians 2:13, which says that God chose us from the beginning unto salvation in sanctification of the Spirit. This also shows that the Spirit's sanctifying work not only applies prior to one's repentance but also afterwards. This "unto" refers to a full salvation in glorification (2 Thes. 2:14). However, the Spirit's sanctifying work is only categorized as "seeking sanctification" prior to repentance.
-
 
 ### Positional Sanctification
 
