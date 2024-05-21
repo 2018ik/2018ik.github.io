@@ -12,10 +12,12 @@ permalink: /prayer/
   - [David](#david)
   - [Daniel](#daniel)
   - [Jesus](#jesus)
-- [Principle of Prayer](#principle-of-prayer)
-- [Dispensing](#dispensing)
-  - [Passport application](#passport-application)
-- [Breathing](#breathing)
+- [Purpose](#purpose)
+  - [God's Will](#gods-will)
+  - [Dispensing](#dispensing)
+- [Principles](#principles)
+  - [Breathing](#breathing)
+  - [Every Place](#every-place)
 - [Types](#types)
   - [Individual](#individual)
   - [Corporate](#corporate)
@@ -29,15 +31,10 @@ permalink: /prayer/
 
 TODO: clean up background
 
-**Prayer** is to contact God in the spirit (Eph. 6:18) to absorb God, which is to have fellowship with God. Prayer is the believers' response to God's flowing in, and their flowing back to God. Entering into God's presence to contact Him by looking to Him, beholding Him, praising Him, giving thanks to Him, worshipping Him and absorbing Him will allow one to enjoy God's riches.
-
-Prayer should also be a living, unceasingly talking to God throughout the day (1 Thes. 5:17), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16). This means coming to the Lord regardless of one's spiritual or physical condition. Even if someone is weak, confused, sad and speechless, they still must come to God and bring it to God. 
+**Prayer** is to contact God in the spirit (Eph. 6:18) to absorb God, which is to have fellowship with God. Prayer is the believers' response to God's flowing in, and their flowing back to God. Real prayer includes entering into God's presence took look at Him, behold Him, praise Him, give thanks to Him, and worship Him to enjoy His riches. Prayer should also be a living, unceasingly talking to God throughout the day in every  in every place (1 Thes. 5:17; 1 Tim. 2:8), but specific times should also be set aside for praying in private (Matt. 14:23; Mark 1:35; Luke 5:16). This means coming to the Lord regardless of one's spiritual or physical condition. Even if someone is weak, confused, sad and speechless, they still must come to God and bring it to God. 
 
 Prayer may start in the self, but with the proper yearning and turning, one can contact God which brings them into a bilaterally active touch with Him where they enter into Him as the Spirit in their spirit. As a result, this prayer is also truly what is on God's heart, and all such prayers will be answered (John 15:7).
 
-First, one must recognize that God has a will. If God reveals His will to someone, they should pray this will back to Him and He has a way to move through that. God's ways and thoughts are higher than man's (Isa. 55:8-9).
-
-Through our prayer God passes through our being, and we pass through His being. Our words pass though Him and His words pass through Us and two pray together one prayer. Often the first word of our prayer is of the mind, but by the end, it is altogether of the spirit.
 
 Prayers should be divine facts, for example what the Lord prayed in John 17. Praying for one's need is okay, but it should be prayed in a divine way. 
 
@@ -73,27 +70,27 @@ Daniel had particular times throughout the day to pray.
 
 Jesus was the only true "man of prayer" revealed in the Bible. This is because He was truly one with God (John 10:30), God was always with Him (John 8:29), and He committed all things to God (1 Pet. 2:23). As a result, Satan had no ground in the Lord Jesus (John 14:30). 
 
-## Principle of Prayer
+## Purpose
 
-Firstly, we must pray before God will rise up to work (Matt 18:18-20). God will not act independently, we must pray and agree with Him - His goal is to accomplish His will through our prayer.
+### God's Will
 
-Therefore, prayer is man's working together with God to accomplish His will. If man does not work together with God in prayer for His will, He will not work and cannot work.
+If God reveals His will to someone, they should pray this will back to Him. We must pray before God will rise up to work (Matt 18:18-20). God will not act independently, we must pray and agree with Him - His goal is to accomplish His will through our prayer. Therefore, prayer is man's working together with God to accomplish His will. If man does not work together with God in prayer for His will, He will not work and cannot work. God's ways and thoughts are higher than man's (Isa. 55:8-9).
 
-We must see this principle: while God cannot do what he wants to do unless man wants it, he likewise will only carry out His will when our prayers are in harmony with His will.
+We must see this principle: while God cannot do what he wants to do unless man wants it, he likewise will only carry out His will when our prayers are in harmony with His will. For the carrying out of God's economy, it is necessary that we have a corporate prayer of the Church. 
 
-And lastly - for the carrying out of God's economy, it is necessary that we have a corporate prayer of the Church. 
+### Dispensing
 
-## Dispensing
+Through our prayer God passes through our being, and we pass through His being. Our words pass though Him and His words pass through Us and two pray together one prayer. Often the first word of our prayer is of the mind, but by the end, it is altogether of the spirit. The dispensing in God's economy is conditional, and that is based on our prayer. In a sense, our prayer is our "yes" to Him. In another sense, the Lord has applied for a passport to enter into us. Our prayer is the stamp on this passport which allows Him to pass through into us.
 
-The dispensing in God's economy is conditional, and that is based on our prayer. In a sense, our prayer is our "yes" to Him. 
+## Principles
 
-### Passport application
-
-The Lord has applied for a passport to enter into us. Our prayer is the stamp on this passport which allows Him to pass through into us.
-
-## Breathing
+### Breathing
 
 The Bible says that we should unceasingly pray (1 Thes. 5:17). This is pretty much impossible if one's definition of prayer is asking God to fulfill particular needs. Actually, prayer is just spiritual breathing. When we exercise our spirit to call on the name of the Lord, we breath God in as fresh spiritual air. Calling on the Lord is something that can be done anytime, anywhere.
+
+### Every Place
+
+In 2 Timothy 8, Paul desires men to pray in every place. While Ephesians 6:18 says to pray at every time, here we see that we need to pray in every place. There are some places where it is difficult to pray - for example the movie theater or nightclub. Therefore, the simply solution is to not go to these places. If you cannot pray somewhere, do not go there.
 
 ## Types
 
