@@ -19,7 +19,7 @@ permalink: /kingdom_of_god/
 
 ## Background
 
-The **kingdom of God** is a realm in which God can exercise his authority. This is not a legal realm, where papers and documents need to be signed in order to enter as in a sovereign nation, but an organic realm. The way to enter into the kingdom of God is to be born anew of the Spirit (John 3:3-5). The kingdom is not just something in the future; One can enter into the kingdom life today, and the prerequisite is regeneration.
+The **kingdom of God** is a realm in which God can exercise his authority, and is an aspect of the church. Just as one is born into the household of God upon regeneration, they are also born into the kingdom of God (John 3:3-5). This is not a legal realm where papers and documents need to be signed in order to enter as in a sovereign nation, but an organic realm. Contrary to tradition, the kingdom is not just something in the future but is enterable today.
 
 ## Significance
 
@@ -36,7 +36,7 @@ Matthew is the gospel of the kingdom, and reveals many aspects of the kingdom. T
 
 ### Kingdom of God
 
-The kingdom of God encompasses God's rule from eternity past to eternity future. 
+The kingdom of God encompasses God's rule from eternity past to eternity future. Although the kingdom of God has always existed, man could not enter into it through regeneration until the dispensation of grace.
 
 ### Kingdom of the Heavens
 
