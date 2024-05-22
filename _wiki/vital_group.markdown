@@ -10,13 +10,11 @@ permalink: /vital_group/
 
 ## Background
 
-A **vital group** is a group of living and active Christians who meet together to perfect and build up the church according to [the way that God has ordained](../god_ordained_way) in Acts. There are many groups of Christians to meet together, but these groups are rarely vital. Believers who are vital are gathered together despite persecution to continue steadfastly and desperately in prayer and praise.
+A **vital group** is a group of living and active Christians who meet together to perfect and build up the church according to [the way that God has ordained](../god_ordained_way) in Acts. Not only so, but vital groups are all the ultimate substantiation of the vision of Christ and the church given to the Lord's Recovery. It is through vital groups that the saints are perfected to build up the Body of Christ to bring the Lord back. Believers who are vital are gathered together despite persecution to continue steadfastly and desperately in prayer and praise.
 
-The church is degraded, and has become abnormal, even since the early church throughout Paul's epistles. Satan's strategy is to bring in many replacements for Christ; instead of Christ himself, believers are often more interested in Bible knowledge, carrying out good works, and trying to do good things.
+There are many groups of Christians to meet together, but these groups are rarely vital. The church is degraded, and has become abnormal, even since the early church throughout Paul's epistles. Satan's strategy is to bring in many replacements for Christ; instead of Christ himself, believers are often more interested in Bible knowledge, carrying out good works, and trying to do good things. The enemy has also annulled the function of the members of the Body of Christ. Instead of all the members functioning as priests to God, there are intermediate members (e.g. clergy) through which the members communicate to God by proxy. Lastly, the enemy has brought in division, which is quite apparent today with the many denominations of Christianity.
 
-The enemy has also annulled the function of the members of the Body of Christ. Instead of all the members functioning as priests to God, there are intermediate members (e.g. clergy) through which the members communicate to God by proxy. Lastly, the enemy has brought in division, which is quite apparent today with the many denominations of Christianity.
-
-All of these aforementioned things are *not* normal - therefore to be an overcomer actually requires simply being a normal Christian: no replacements for Christ, direct contact with God, and to have the proper oneness. A vital group is a group composed of such normal Christians.
+All of these aforementioned things are *not* normal - therefore to be vital is simply to be a normal Christian: no replacements for Christ, direct contact with God, and to have the proper oneness. Such normal Christians are actually overcomers. The relationship of vital groups to the church is equal to the relationship of the types of Zion (the overcomers) to Jerusalem (all believers). 
 
 ## Why "Vital" Groups?
 
