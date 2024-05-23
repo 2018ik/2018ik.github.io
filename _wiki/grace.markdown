@@ -24,7 +24,7 @@ Technically speaking, the entire Bible can be summarized as God in the beginning
 
 ## Etymology
 
-The Greek word for grace refers to that which bestows joy or delight.
+The Greek word for grace (*χάρις*) is related to the verb *χαίρω* which means "to rejoice." Even in traditional usage by the ancient Greeks, grace is not only favor, politeness or aesthetics but also the joy which comes from those things. 
 
 ## Not Mere Unmerited Favor
 
