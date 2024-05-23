@@ -49,13 +49,14 @@ This is a non-exhaustive list of the aspects of the (universal) church. These ar
 | Called out assembly | This is the literal translation of the Greek word for church (*ekklesia*). This is not only an assembly of believers, but those whom were called out by God (1 Cor. 1:2; Rom. 1:7) |
 | Body of Christ | The organic expression of Christ with a measurable stature |
 | New man | The life and person of Christ |
-| Kingdom of God | Having rights and responsibilities |
+| Kingdom of God | Having rights and responsibilities (Eph. 2:19) |
 | House of God | The house of God implies two things: God has a dwelling place that is in our spirit, and God has a household that is his family. It is by virtue of God's indwelling of man as life that He has a household. | 
 | Dwelling place of God | For God to live in. |
 | Household of God | A family with life and enjoyment |
 | Pillar and base of the truth | The church upholds the truth, what is real. |
 | Bride/wife/counterpart of Christ | For Christ's rest and satisfaction |
 | Warrior | To defeat the enemy to accomplish God's purpose | 
+| Golden Lampstands | Uniform reproduction of the Triune God | 
 | Man-child |  |
 | Firstfruit | |
 | Holy city | |

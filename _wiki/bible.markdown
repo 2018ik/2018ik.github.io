@@ -20,4 +20,4 @@ The New Testament was written because the believers were bad, and to counteract 
 
 ## Emphasis
 
-When one comes to the Bible, it is easy to have a thought or view that a particular item is the most important. One way of dividing the divine revelation of the Bible can be the below three categories: the central line, supplemental line, and leaves and branches.
+When one comes to the Bible, it is easy to have a thought or view that a particular item is the most important. Thus, it is important to interpret the Bible with the entire Bible. However, there is inevitably going to be differing interpretations among believers as long as the flesh still exists, so the divine revelation of the Bible can be divided into three categories: the central line, supplemental line, and leaves and branches.
