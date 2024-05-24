@@ -5,6 +5,7 @@ permalink: /sanctification/
 ---
 - [Background](#background)
 - [Interpretation](#interpretation)
+- [Holding Line](#holding-line)
 - [Three Aspects](#three-aspects)
   - [Seeking Sanctification](#seeking-sanctification)
   - [Positional Sanctification](#positional-sanctification)
@@ -12,11 +13,17 @@ permalink: /sanctification/
 
 ## Background
 
-**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem, the holy city. As the New Jerusalem is a corporate entity, being made holy is also a corporate process which requires the Body of Christ.
+**Sanctification** (Greek: *hagiazo*) is the verb form of "holy" and means to make holy, or to make not common. In the Old Testament, holiness was a matter of becoming something for God and belonging to God. In the New Testament, only the new creation is holy: God Himself must be added to something intrinsically in order for it to be holy. The process of sanctification includes the entirety of God's economy. There are three steps of sanctification, beginning with God's initial choosing and consummating with the New Jerusalem. As the New Jerusalem is a corporate entity, being made holy is also a corporate process which requires the Body of Christ.
 
 ## Interpretation
 
-Various teachers hold different opinions about sanctification. John Wesley for example believed that sanctification was "sinless perfection." The Brethren taught that sanctification was a matter of position based on Matthew 23. The Lord said that gold was sanctified by the temple and offerings sanctified by the altar. The gold and the offerings did not change intrinsically, rather, they were sanctified by its position within the temple. This is an accurate teaching regarding positional sanctification, as seen below. However, the Bible reveals that sanctification goes the entire course of one's Christian life (Rom. 6:19, 22). Sanctification in the New Testament is through the Holy Spirit (Rom. 15:16) which operates from within, changing one's inward parts to match that of God's. This is a process; Hebrews 2:11 makes it clear that we are still "being" sanctified, and the goal of this sanctification is to bring us to full sonship (Heb. 2:10). Ephesians 1:4-5 also presents that God chose us to be holy (that is to be sanctified) and predestinated us unto sonship, further showing the goal of sanctification is sonship. While eventually sinless perfection will be exhibited, that in and of itself is not the intention of sanctification. Sanctification along with the rest of organic salvation is to work more of God's life into man to fully conform us to the image of His Son.
+Various teachers hold different opinions about sanctification. In the 1700s, John Wesley, Charles Wesley and George Whitfield began to meet at Oxford university and adopted certain methods in their living to live in a "sanctified" way. They were labeled "Methodists" for following methods to live in a sanctified way. John Wesley eventually began to teach something called "entire sanctification" or "sinless perfection." Later in the 1800s, the Brethren taught that sanctification was a matter of position based on Matthew 23. The Lord said that gold was sanctified by the temple and offerings sanctified by the altar. The gold and the offerings did not change intrinsically, rather, they were sanctified by its position within the temple. This is an accurate teaching regarding positional sanctification, as seen below. 
+
+However, the Bible reveals that sanctification goes the entire course of one's Christian life (Rom. 6:19, 22). Sanctification in the New Testament is through the Holy Spirit (Rom. 15:16) which operates from within, changing one's inward parts to match that of God's. This is a process; Hebrews 2:11 makes it clear that we are still "being" sanctified, and the goal of this sanctification is to bring us to full sonship (Heb. 2:10). Ephesians 1:4-5 also presents that God chose us to be holy (that is to be sanctified) and predestinated us unto sonship, further showing the goal of sanctification is sonship. While eventually sinless perfection will be exhibited, that in and of itself is not the intention of sanctification. Sanctification along with the rest of organic salvation is to work more of God's life into man to fully conform us to the image of His Son.
+
+## Holding Line
+
+Sanctification is sometimes called the "holding line" of God's economy as it includes the entirety of one's salvation (1 Pet. 1:2; Eph. 1:4-5; Rom. 8:23). This line can be likened to a fishing line, by which one is hooked in God's choosing. In the ocean of the world, this line reached us and secures our destiny to become holy. Although one may struggle and veer the wrong way, the holding line will keep them in God's economy.
 
 ## Three Aspects
 

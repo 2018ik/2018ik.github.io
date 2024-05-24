@@ -5,6 +5,7 @@ permalink: /the_lords_recovery/
 ---
 - [Background](#background)
 - ["Recovery"](#recovery)
+- [History](#history)
 - [Recovered Items](#recovered-items)
   - [Functioning of Each Member](#functioning-of-each-member)
   - [The life-giving Spirit](#the-life-giving-spirit)
@@ -25,6 +26,9 @@ The three substances which underpin the Lord's Recovery are prayer, the Spirit, 
 
 *Recovery* means to restore or return something to a normal condition after damage or loss has been incurred. In a sense, this is to go back to the beginning before the damage was done. The church has been degraded through many centuries of its history, and needs to be restored to God's original intention. This includes the introduction of human philosophy, as in the Colossians (Col. 2:8; 1:12), Judaism as in the Galatians and Hebrews (Heb. 8:6; Gal. 3:1-3), and gifts, signs and wisdoms as in Corinth (1 Cor. 1:22-23). Satan is also working to divide the Body of Christ with sects and denominations (1 Cor. 1:10-13; Gal. 5:19-20) as well as the clergy-laity system which kills the function of each member (Rev. 2:6; 1:5-6; 1 Pet. 2:5,9).
 
+## History
+
+The matter of justification by faith was recovered strongly by Martin Luther. In the 1800s with the British Brethren, J.N. Darby in particular began to recover the matters of the church. They also began to see that sinless perfection as taught by Wesley was not according to the scriptures but that sanctification is a matter of a change of position.
 
 ## Recovered Items
 
