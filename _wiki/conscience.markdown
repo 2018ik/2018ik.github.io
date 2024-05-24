@@ -5,8 +5,8 @@ permalink: /conscience/
 ---
 - [Background](#background)
 - [Significance](#significance)
+- [Origin](#origin)
 - [Biblical Basis](#biblical-basis)
-  - [The Spirit](#the-spirit)
 - [Function](#function)
 - [Descriptors of the Conscience](#descriptors-of-the-conscience)
 - [Testimonies](#testimonies)
@@ -14,27 +14,24 @@ permalink: /conscience/
 
 ## Background
 
-The **conscience** enables one to discern right from wrong, and is one of the three parts of the human spirit. It is the only part of the spirit that is not altogether deadened by the fall of man; unbelievers have a conscience which has the function of discernment. 
-
-For regenerated believers, the conscience likewise justifies and condemns, but functions as the window of the spirit to lead them back to God's direct heavenly ruling. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul. When this window is dirtied meaning that one's heart is not turned toward God, the conscience convicts accordingly.
+The **conscience** enables one to discern right from wrong and is one of the three parts of the human spirit. It is the only part of the spirit that was not altogether deadened by the fall of man; even unbelievers have a conscience which allows them to discern good and evil. For regenerated believers, the conscience additionally functions as the window of the spirit to lead them back to God's direct heavenly ruling. If the conscience is unclean, then the light from the spirit cannot come through the window into the soul. When this window is dirtied meaning that one's heart is not turned toward God, the conscience convicts accordingly.
 
 ## Significance
 
-The conscience is the leading part of the human spirit, and without dealing with a dirtied conscience, there is no fellowship with God (1 John 1:6). If one feels that there is a barrier between them and God, they must confess what their conscience accuses them of. 
+The conscience is the leading part of the human spirit, and without [dealing with a dirtied conscience](../dealing_with_conscience), there is no fellowship with God (1 John 1:6). If one feels that there is a barrier between them and God, they must confess what their conscience accuses them of. 
+
+## Origin
+
+The conscience of man came with the spirit of man at the same time of creation. However, only after the fall of man did the conscience begin to function. Prior to the fall, man was not ashamed of his nakedness, indicating that there was no concept of good and evil, which is the primary function of the conscience. Only after eating the tree which gave them knowledge of good and evil did the conscience begin to function. In [Dispensationalism](../dispensation), this would represent the shift from the dispensation of innocence to conscience.
 
 ## Biblical Basis
 
-### The Spirit
+The conscience is clearly a thing that exists (Acts 23:1; 24:16; 1 Tim. 1:5; 19; Heb. 9:14; 10:22; 2 Cor. 1:12). Specifically, it is a part or function of the human spirit:
 
-It is easy to tell that the conscience is a part of the human spirit.
-
-Romans 9:1 states "My conscience bearing witness with me in the Holy Spirit." We know the Holy Spirit witnesses with our human spirit, which allows our conscience to witness in the Holy Spirit, in our conscience. 
-
-In 1 Corinthians 5:3 the apostle Paul says that in his spirit he judged a sinful person. To judge means either to condemn or to justify, which are acts of the conscience. This confirms that the condemning or justifying function is in the spirit; hence, the conscience is in the spirit. 
-
-Psalm 51:10 speaks of "a right spirit within me" and Psalm 34:18 speaks of being "contrite in spirit." Knowing right from wrong is related to the conscience.
-
-Deuteronomy 2:30 shows that man can harden his spirit, which means that the conscience was hardened. When we cast off the feeling in the conscience, we become hardened in the spirit.
+1. Romans 9:1 states "My conscience bearing witness with me in the Holy Spirit." We know the Holy Spirit witnesses with our human spirit, which allows our conscience to witness in the Holy Spirit, in our conscience. 
+2. In 1 Corinthians 5:3 the apostle Paul says that in his spirit he judged a sinful person. To judge means either to condemn or to justify, which are acts of the conscience. This confirms that the condemning or justifying function is in the spirit; hence, the conscience is in the spirit. 
+3. Psalm 51:10 speaks of "a right spirit within me" and Psalm 34:18 speaks of being "contrite in spirit." Knowing right from wrong is related to the conscience.
+4. Deuteronomy 2:30 shows that man can harden his spirit, which means that the conscience was hardened. When we cast off the feeling in the conscience, we become hardened in the spirit.
 
 ## Function
 

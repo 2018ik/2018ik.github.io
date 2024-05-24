@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dealing with the Heart
-permalink: /dealing_with_the_heart/
+permalink: /dealing_with_heart/
 ---
 - [Background](#background)
 - [Steps](#steps)

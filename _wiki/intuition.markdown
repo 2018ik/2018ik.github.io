@@ -4,12 +4,14 @@ title: Intuition
 permalink: /intuition/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
   - [The Spirit](#the-spirit)
+- [Relationship to the Mind](#relationship-to-the-mind)
 
 ## Background
 
-The intuition enables one to have a direct sense from God, and is a function of the human spirit.
+The **intuition** is the direct sense in one's spirit of God's mind, emotion and will. This could be to know God's opinion (1 Cor. 7:40), whether or not God is pleased, and what He wants to do.
 
 ## Significance
 
@@ -25,6 +27,6 @@ To show that the intuition is a function of the spirit, the Bible reveals that t
 
 Mark 2:8 says "Knowing fully in His spirit." The knowing of the spirit is a different knowing than that of the mind, as it is beyond natural human understanding. This is the intuition of our human spirit.
 
-## Function
+## Relationship to the Mind
 
 The sense from the intuition of the spirit is interpreted and understood by the mind. This leading of the spirit can be exercised and developed. By continually following the sense of the spirit, one will become more sensitive to the leading, and therefore gain a keener intuition. 

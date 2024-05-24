@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dealing with the Soul
-permalink: /dealing_with_the_soul/
+permalink: /dealing_with_soul/
 ---
 - [Background](#background)
 - [Mind](#mind)
