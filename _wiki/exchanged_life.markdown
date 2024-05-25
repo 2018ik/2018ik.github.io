@@ -14,4 +14,4 @@ Thus, the full story of Galatians 2:20 is as follows: even though it is no longe
 
 ## Proof
 
-There are three pictures of the organic union between God and man, where man is not evidently not entirely terminated. Firstly in John 15, there is the picture of the vine and the branches. In Romans 11, there is a picture of the grafted life.
+There are three pictures of the organic union between God and man, where man is not evidently not entirely terminated. First in John 15, there is the picture of the vine and the branches. The branches (the believers) are part of the vine, but they are distinct in their function. Then in Romans 7, there is the picture of the two husbands. Firstly, the wife and husband were joined together as one person, then the wife is joined to the new husband. In both cases, the wife is the common denominator. In Romans 11, there is a picture of the grafted life, which is similar to the vine in John 15.

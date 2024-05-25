@@ -5,12 +5,10 @@ permalink: /love/
 ---
 - [Background](#background)
 - [Significance](#significance)
-- [Biblical Basis](#biblical-basis)
-- [Types of Love](#types-of-love)
-  - [Human Love](#human-love)
-  - [Divine Love](#divine-love)
+- [Human Love](#human-love)
+- [Divine Love](#divine-love)
 - [Practice](#practice)
-- [Issues](#issues)
+- [Result](#result)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
@@ -19,27 +17,17 @@ permalink: /love/
 
 **Love** for the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from oneself, but a divine life which comes from God as the Spirit of love who puts real love into the heart (Col. 1:8; Rom. 5:5). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
 
-To perform a work without love amounts to nothing (1 Cor. 13:2-3). Between faith, hope and love, the greatest is love (1 Cor. 13:13).
+When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "Do you love me?" (Matt. 21:15). To perform a work without love amounts to nothing (1 Cor. 13:2-3). Between faith, hope and love, the greatest is love (1 Cor. 13:13). The degradation of the church began with the loss of the first love (Rev. 2:4-5).
 
 ## Significance
 
 Everything comes out of a loving relationship with God. It is not enough to revere God, fear God, worship God; love is the basic requirement to realize and participate in the things which God has ordained (Mark 12:30). Furthermore, without love, the enjoyment and experience of Christ will not last.
 
-## Biblical Basis
-
-When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "Do you love me?" (Matt. 21:15).  
-
-Love actually constrains the believers (2 Cor. 5:14), which means to be forcibly limited and confined within certain bounds.
-
-The degradation of the church as revealed in letter to the church in Ephesus began with the loss of the first love (Rev. 2:4-5).
-
-## Types of Love
-
-### Human Love
+## Human Love
 
 The finite love of one's human virtues is not universal, and is limited. It is difficult if not impossible to truly love those of all cultures, backgrounds and dispositions. This is not to merely tolerate someone's existence, but to love and care for them as one cares for themselves (Matt. 19:19). God operates in each believer's environments to expose their lack of love, to draw them back to the love of God. The reality of love is God's love can be expressed through the human virtue of love, as in Jesus Christ in His human living. 
 
-### Divine Love
+## Divine Love
 
 The divine love does not issue form oneself, but from God who is love. The basis of this love is on God first loving us (1 John 4:19). The Father who is love sent His Son who is grace, the expression of His love. Now as the Spirit He make His love real to us, and we love Him and the things he loves as a result. 
 
@@ -55,9 +43,15 @@ The best way to love the Lord is to continually look at Him. This is to love Him
 
 To look away unto Him as per Hebrews 12:2 implies a distance or rift, having been distracted by other things.
 
-## Issues
+## Result
 
-Loving God issues in many things. When we Love Hod, we are occupied by Him as He enters into our being. When we love the brothers and sisters, their joy is our joy; we are not jealous of each other.
+Loving God issues in many things. 
+
+1. We are occupied by Him as He enters into our being
+2. The Spirit searches the depths of God to reveal to us all things (1 Cor. 2:10-11)
+3. We are constrained, which means to be forcibly limited and confined within certain bounds (2 Cor. 5:14).
+1. We love the Body, including all the brothers and sisters
+2. When we love the brothers and sisters, their joy is our joy; we are not jealous of each other.
 
 ## Testimonies
 
