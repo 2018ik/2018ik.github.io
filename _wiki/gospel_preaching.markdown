@@ -12,7 +12,7 @@ permalink: /gospel_preaching/
 
 ## Background
 
-**Gospel preaching** is to live and walk by Christ such that He is dispensed into others for the building up of the Body of Christ. Practically, this involves the believers' going out in order to save sinners, but the full content of the gospel includes a full salvation, not merely a judicial redemption. The way to preach the gospel as seen in the saints of the early church is the God-ordained way.
+**Gospel preaching** is to live and walk by Christ such that the overflow of the inner life is dispensed into others for the building up of the Body of Christ. Practically, this involves the believers' going out to speak to sinners. The full content of the gospel includes not only judicial redemption, but a full salvation (Rom. 5:10). The way to preach the gospel as seen in the saints of the early church is the God-ordained way.
 
 ## Significance
 
