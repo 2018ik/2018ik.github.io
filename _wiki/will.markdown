@@ -13,7 +13,7 @@ The **will** is the part of the soul which can choose, refuse and decide. When o
 
 ## Significance
 
-It is a Christian's choice to choose the Lord. According to God's principle of free will, He does not impose Himself on man to force him to choose life or death (as seen in the creation of man). If the human will aligns with God's will, then God's economy can be carried out.
+It is a Christian's choice to choose the Lord. According to God's principle of free will, He does not impose Himself on man to force him to choose life or death (as seen in the creation of man). If the human will aligns with God's will, then God's economy can be carried out. This alignment is not up to us to align our will to God, but for us to have God continually dispensed into our being such that God's will and our will become one mingled will as in the mingled spirit.  
 
 ## Biblical Basis
 

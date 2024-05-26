@@ -5,14 +5,21 @@ permalink: /true_vine/
 ---
 - [Background](#background)
 - [Significance](#significance)
+- [Abiding](#abiding)
 - [Cut off](#cut-off)
 - [Vine of the Earth](#vine-of-the-earth)
 
 ## Background
 
-The **true vine** in John 15 represents the Son as the vine which along with His branches shows an organic union between God and man. The branches live by the life of the vine and the vine flows its life through the branches and bears fruit through the branches. 
+The **true vine** in John 15 represents a corporate organism of the Son as the vine and the believers as the branches joined together in an organic union. The branches live by the life of the vine and the vine flows its life through the branches and bears fruit through the branches. The branches are in the vine and [part of the vine](../corporate_christ), and whatever the vine is, is in the branches. Therefore, a believer is a part of Christ as a member of the Body.
 
 ## Significance
+
+The Lord is not interested in worldly affairs, He is only interested in growing this vine.
+
+## Abiding
+
+Abiding means to remain, stay or dwell in place. in the vine means that we are receiving the dispensing of the riches of the Triune God.
 
 ## Cut off
 

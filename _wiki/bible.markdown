@@ -18,6 +18,8 @@ The truths in the Bible are not presented in an orderly sequence, but scattered 
 
 ## New Testament
 
+The essence of the New Testament is the Spirit of God mingled with the spirit of man to become one (1 Cor. 6:17).
+
 The New Testament was written because the believers were bad, and to counteract the degradation of the churches.
 
 ## Emphasis
