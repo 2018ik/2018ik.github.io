@@ -12,6 +12,8 @@ permalink: /bible/
 
 The **Bible** as the written word of God explains who God is. When we touch this written word in a certain way, we get God. The major revelation in the Bible in the unique divine economy of the unique Triune God. The content of this economy is Christ, the embodiment and expression of God.
 
+The truths in the Bible are not presented in an orderly sequence, but scattered throughout the Bible. This can be likened to a jigsaw puzzle; the full scene of the Bible from end to end is not very clear from the outset.
+
 ## Old Testament
 
 ## New Testament

@@ -1,0 +1,13 @@
+---
+layout: pagev2
+title: 1
+permalink: /1/
+---
+- [Background](#background)
+- [Significance](#significance)
+
+## Background
+
+The number **one** signifies the one unique God (Deut. 4:35; 1 Tim. 2:5).
+
+## Significance

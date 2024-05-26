@@ -4,25 +4,28 @@ title: Holy Anointing Oil
 permalink: /holy_anointing_oil/
 ---
 - [Background](#background)
+- [Purpose](#purpose)
 - [Olive Oil](#olive-oil)
 - [Spices](#spices)
   - [Myrrh](#myrrh)
   - [Cinnamon](#cinnamon)
   - [Calamus](#calamus)
   - [Cassia](#cassia)
-- [Purpose](#purpose)
+- [Purpose](#purpose-1)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The **holy anointing oil** (or compound ointment) was a fragrant ointment of four spices and olive oil used to anoint the various items in the tabernacle and the priests (Exo. 30:25-31). The addition of myrrh, cinnamon, calamus and cassia to olive oil is typifies the compound anointing Spirit; the inclusion of the elements of Christ's humanity into the Spirit of God.
+The **holy anointing oil** (or compound ointment) was a fragrant ointment of four spices and olive oil used to anoint the various items in the tabernacle and the priests (Exo. 30:25-31). This oil is a full type of the compound, all-inclusive Spirit of the processed Triune God. The addition of four spices (myrrh, cinnamon, calamus and cassia) to olive oil signifies four elements of Christ's humanity being compounded into the Spirit of God.
+
+## Purpose
 
 The Son who had from eternity been with the Father began a new stage of existence when He became flesh. Prior to this, God possessed divinity, and was perfect and complete. However, He did not possess humanity and was not yet (John 7:39). Passing through human living, death and resurrection, [Christ was glorified](../christ_glorification), adding all the elements of His humanity into the Godhead and became the life-giving Spirit, the Spirit of reality, to make Himself real to His believers.
 
 ## Olive Oil
 
-Olive oil in the Bible signifies the Spirit of God. As the base of the ointment, the Spirit is the unique God in eternity which contained only the divine element. Now, the Spirit of God is no longer merely oil, but the oil compounded the Christ's humanity. The compounding the spices into the oil was through pressing or cutting, signifying the death of Christ, the procedure by which the Spirit was consummated.
+Olive oil in the Bible signifies the Spirit of God. As the base of the ointment, the Spirit is the unique God in eternity which contained only the divine element. Now, the Spirit of God is no longer merely oil, but the oil compounded the Christ's humanity. The compounding the spices into the oil was through pressing or cutting, signifying the suffering and death of Christ.
 
 ## Spices
 
@@ -34,19 +37,19 @@ There being four spices signify humanity in God's creation, as four signifies Go
 
 ### Myrrh
 
-Myrrh which was used when burying the Lord Jesus, typifies Christ's flowing death. This is a sweet smelling and bitter yellow sap-like resin which comes from an aromatic tree with the appearance like tears coming out from the bark. Myrrh contains chemicals that reduce pain and kill bacteria and was used to reduce the suffering of the death (the Lord Jesus was given wine mixed with myrrh). The bacteria-killing power of myrrh is seen in its ability to kill the natural self which is basically a germ and disease.
+Myrrh which was used when burying the Lord Jesus, typifies Christ's precious, flowing death. This is a sweet smelling and bitter yellow sap-like resin which comes from an aromatic tree with the appearance like tears coming out from the bark. Myrrh contains chemicals that reduce pain and kill bacteria and was used to reduce the suffering of the death (the Lord Jesus was given wine mixed with myrrh). The bacteria-killing power of myrrh is seen in its ability to kill the natural self which is basically a germ and disease.
 
 ### Cinnamon
 
-Cinnamon signifies the sweetness and effectiveness of Christ's death. Cinnamon has a distinctive flavor and can be used to stimulate a weak heart. Likewise, when applying the Lord's death, it will stimulate us to make us happy and joyful. 
+Cinnamon signifies the sweetness and effectiveness of Christ's death. Cinnamon has a distinctive flavor and can be used to stimulate a weak heart. Likewise, when applying the Lord's death, it will stimulate us to make us happy and joyful. When we die to the self and the old "I" is crossed out, this aspect of the Lord's death stimulates us. While we are dying, we are living.
 
 ### Calamus
 
-Calamus signifies Christ's resurrection. Calamus is a reed which grows upward in marshy places, and the root for calamus means standing up. This signifies the rising up of the Lord Jesus from the place of death.
+Calamus signifies Christ's precious resurrection. Calamus is a reed which grows upward in marshy places, and the root for the word "calamus" means standing up. This signifies the rising up of the Lord Jesus from the place of death. If we are in a muddy situation, down and depressed, there is calamus in the compound Spirit ready to shoot up and overcome death.
  
 ### Cassia 
 
-Cassia in ancient times was used as a repellent to drive away insects and snakes, typifying the repelling power of Christs' resurrection. The Lord's resurrection repels all evil "insects" and the old serpent, the Devil.
+Cassia in ancient times was used as a repellent to drive away insects and snakes, signifying the repelling power of Christs' resurrection. The Lord's resurrection repels all evil "insects" and the old serpent, the devil.
 
 ## Purpose
 

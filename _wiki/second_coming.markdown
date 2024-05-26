@@ -11,7 +11,9 @@ permalink: /second_coming/
 
 ## Background
 
-In order for the Lord to comes back, His bride needs to be made ready, which is the built up Body of Christ. This Body can only be built up when the believers partake of the Lord's unsearchable riches to be His fullness. The Lord is not going to come back on an arbitrary date solely based on His discretion, actually the believers are able to hasten His return (1 Pet. 3:12).
+The Lord's **second coming** refers to His coming back at the close of the dispensation of grace.
+
+In order for the Lord to comes back, His bride needs to be made ready, which is the built up Body of Christ. There needs to be some reality of the Body of Christ that is obtained. This can only occur if believers corporately partake of the Lord's unsearchable riches to be His fullness. The Lord is not going to come back on an arbitrary date solely based on His discretion, actually the believers are able to hasten His return (1 Pet. 3:12).
 
 ## Significance
 

@@ -45,7 +45,7 @@ The revelation of the Spirit in the Bible is progressive. The Old Testament open
 2. The last Adam became a life-giving Spirit (1 Cor. 15:45)
    1. The life-giving Spirit being the consummation of the Triune God; it was not until post-resurrection that the Trinity was revealed in full (Matt. 28:19).
 3. The compound Spirit typified by the holy anointing oil in Exodus 30
-4. The Spirit of life in Romans 8
+4. The Spirit of life, Spirit of God, Spirit of Christ, and Christ Himself in Romans 8 all referring to the compound Spirit
 5. The seven Spirits in Revelation
 
 ## Etymology
@@ -118,7 +118,7 @@ This is the Spirit which filled John the Baptist from his mother's womb (Luke 1:
 
 ### Spirit of Holiness
 
-The Spirit of Holiness in the Old Testament is for making His people holy (Psa. 51:11; Isa. 63:10-11).
+This is not actually a divine title of the Spirit. The King James version incorrectly translates this as "the Holy Spirit." The Spirit of Holiness in the Old Testament does not denote the third of the Trinity but refers to the nature and essence of God (Psa. 51:11; Isa. 63:10-11). The Spirit of holiness is a description of what God is.
 
 ### Spirit of God
 
