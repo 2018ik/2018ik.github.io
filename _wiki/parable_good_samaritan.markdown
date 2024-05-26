@@ -8,6 +8,6 @@ permalink: /parable_good_samaritan/
 
 ## Background
 
-The **Parable of the Good Samaritan** in Luke 10:25-37 depicts TODO
+The **Parable of the Good Samaritan** in Luke 10:25-37 depicts a good Samaritan which takes care of a certain injured man, bringing them to an inn, symbolizing the church.
 
 ## Significance
