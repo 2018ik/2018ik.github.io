@@ -6,6 +6,7 @@ permalink: /anointing/
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
 - [Function](#function)
+- [Teaching of the Anointing](#teaching-of-the-anointing)
 
 ## Background
 
@@ -23,6 +24,10 @@ The Spirit’s anointing adds the elements of the aforementioned holy anointing 
 
 The anointing, originating from the fellowship of the spirit, is a sense of life which supplies and waters the spirit to feel refreshed, brightened and strengthened. However, this feeling of life remains vague unless it is understood by the mind, which is what the "teaching" the anointing refers to in 1 John 2:27. Based on the context, this teaching is not doctrinal but concerning the indwelling of the Triune God (1 John 5:20).
 
+## Teaching of the Anointing
+
 The anointing then passes through the conscience and intuition to become the the feeling of the conscience and teaching of the anointing respectively. The feeling of the conscience is to differentiate between good and evil, while the teaching of the anointing is related to the will of God Himself. Caring only about the conscience can lead to a faultless Christian, but God wants to become one with man, that man can understand the mind of God. Likewise, the conscience convicts negative things, while the teaching of the anointing is to lead toward a positive move.
 
 The teaching of the anointing can give someone a revelation, a vision, and or simply a feeling regarding a certain decision such as marriage. This requires the interpretation of the intuition of the spirit by the mind in the soul, however it is not purely natural human ideation. This teaching is not necessarily a definite verbal confirmation or denial heard with English words, but an inward feeling.
+
+[Further reading: The Experience of Life Chapter 7, Section 3 "Knowing the Teaching of the Anointing"].
