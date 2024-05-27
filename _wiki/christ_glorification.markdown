@@ -21,7 +21,7 @@ In Luke 12:49-50, the Lord says He has come to cast fire on the earth, and that 
 
 Luke 24:26 says that Christ had to suffer death in order to enter into glory. 
 
-In Acts 3:13-35, Peter explicitly states that Jesus was glorified by the Father, having been delivered to Pilate, killed, and raised from the dead. Likewise, in John 7:39 when the Lord says the Spirit was not yet, as He had not yet been glorified, this refers to the Spirit not being compounded into the all-inclusive life-giving Spirit in resurrection (1 Cor. 15:43-45) 
+In Acts 3:13-15, Peter explicitly states that Jesus was glorified by the Father, having been delivered to Pilate, killed, and raised from the dead. Likewise, in John 7:39 when the Lord says the Spirit was not yet, as He had not yet been glorified, this refers to the Spirit not being compounded into the all-inclusive life-giving Spirit in resurrection (1 Cor. 15:43-45) 
 
 ## Significance
  

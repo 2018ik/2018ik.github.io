@@ -8,7 +8,7 @@ permalink: /glory/
 
 ## Background
 
-**Glory** is God Himself expressed, and is an attribute of God (Acts 7:55; 2 Pet. 1:3). The God of glory desires to have a corporate expression in the church as the Body of Christ, and today the believers are being transformed from glory to glory (1 Cor. 2:7).
+**Glory** is God Himself expressed, and is an attribute of God (Acts 7:55; 2 Pet. 1:3). God desires to bring His many sons into glory, which is the [final step of organic salvation](../glorification). Today the believers are being transformed from glory to glory (1 Cor. 2:7; 2 Cor 3:18). This is how He will gain a corporate expression of glory in the church. 
 
 ## 14 Aspects
 
