@@ -5,6 +5,7 @@ permalink: /building/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
+- [Builder](#builder)
 - [Process](#process)
   - [Material](#material)
 
@@ -16,10 +17,14 @@ permalink: /building/
 
 In fact, the entire scripture is about life and *building*. In the beginning of the Bible, Eve, typifying the church, was *built* out of the Adam's rib. In the end of the Bible there is the New Jerusalem, the consummation of all prior building work.
 
+## Builder
+
+All believers should be builders of the church with Christ as the foundation and Christ as the material. The church is actually just Christ. And the building is just the organic growth of Christ by the dispensing of Christ into the members of the Body.
+
 ## Process
 
 ### Material
 
-The material with which we build with must be gold, silver and precious stones, as opposed to wood, grass and stubble (1 Cor. 3:12).
+The material with which we build with must be gold, silver and precious stones, as opposed to wood, grass and stubble (1 Cor. 3:12). Gold is the Father's divine nature, silver is the Son in His redemptive work, and the precious stones is the Spirit's transformative work.
 
 The only material which we can build with is Christ. So Christ must be in us.  
