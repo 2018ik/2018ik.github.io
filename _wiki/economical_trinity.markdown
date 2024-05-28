@@ -28,13 +28,12 @@ permalink: /economical_trinity/
 
 The **economical Trinity** is the Trinity in action to fulfill His purpose in mankind. While in essence, the Trinity co-exists in Himself from eternity to eternity, God entered into time for a move. In the economical Trinity, God's three-ness is more prominent as the distinctions between the hypostases are manifest in action (e.g. Father plans, Son carries out, Spirit applies to man).
 
-God having an economical aspect implies four things:
-
 In His economy,
-1. God can undergo change (1 Cor. 15:45)
+1. God can undergo change (John 1:14; 1 Cor. 15:45)
 2. God finds delight in man
 3. God can coinhere with man to be a divine incorporation (John 14:20)
 4. God can make man the same as He is in life and nature but not in the Godhead
+5. The Father is the Head of the Son who voluntarily submitted Himself to the authority of the Father
 
 Prior to entering into time as man, God was eternally perfect, complete but yet perfected, completed. He was yet to be processed, and did not have the human element.
 

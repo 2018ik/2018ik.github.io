@@ -11,3 +11,5 @@ permalink: /mercy/
 **Mercy**
 
 ## Significance
+
+Everything is contingent on God's mercy (Rom. 9:16-18).

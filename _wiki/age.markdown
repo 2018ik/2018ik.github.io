@@ -9,7 +9,7 @@ permalink: /age/
 
 ## Background
 
-The **age** (Greek: aion) is the current era in which the world system operates.
+The **age** (Greek: aion) is the current era in which the world system operates. This is the present practical world life which is in opposition to and substitutes the church life.
 
 ## Significance
 
