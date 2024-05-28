@@ -22,7 +22,7 @@ The **house of God** (or Father's house) is the church, the place where God dwel
 
 ## Stages
 
-###  Bethel
+### Bethel
 
 The first mention of the house of God is in Genesis 28 after Jacob had a dream of a ladder which joined earth to heaven (v. 12). Upon waking up, he described the place he was at as the "house of God" and poured oil on the stone he was using as a pillow. Pouring oil (the Holy Spirit) on the stone (man) is a picture of man becoming the house of God. 
 
@@ -37,6 +37,8 @@ The temple was in Jerusalem.
 This temple was in a city, a kingdom.
 
 ### Spirit of man
+
+Christ also wants to make His home in man's heart (Eph. 3:17).
 
 ### Church
 

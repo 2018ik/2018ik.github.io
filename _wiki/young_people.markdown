@@ -23,7 +23,7 @@ Whenever God calls us, he always has something new to do. He has a desire to tur
 
 | Item | Description |
 | --- | --- |
-| Have an interest and a heart for all | One should have a universal interest in all young people, whether good or bad. Furthermore, forebearance must be exercised when dealing with their typical worldly behavior (e.g. watching movies, playing video games). We must not judge or provoke them but to be patient and sympathetic. |
+| Have an interest and a heart for all | One should have a universal interest in all young people, whether good or bad. Furthermore, forbearance must be exercised when dealing with their typical worldly behavior (e.g. watching movies, playing video games). We must not judge or provoke them but to be patient and sympathetic. |
 | Pay attention to regular contact | Have many normal contacts, and do not immediately attempt to impart the gospel into them. Likewise, don't stir up negative feelings by talking to them right awy about reading the Bible or praying. Eventually, a genuine relationship will be built up. |
 | Pay attention to personal contact | Contact should be individual. As in the God-ordained way, large gospel meetings are good for begetting, but not for nourishing new ones to bring them on. Likewise, contacting the young people must be personal for their perfecting. |
 | More practicality and less doctrine | The more we speak doctrines, the more young people become dead, cold and backsliding. Rather, be practical. Sense their feelings, and solve their problems with a practical word. |

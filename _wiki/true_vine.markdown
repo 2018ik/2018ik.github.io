@@ -5,13 +5,15 @@ permalink: /true_vine/
 ---
 - [Background](#background)
 - [Significance](#significance)
+- [Husbandman](#husbandman)
+- [Branches](#branches)
 - [Abiding](#abiding)
 - [Cut off](#cut-off)
 - [Vine of the Earth](#vine-of-the-earth)
 
 ## Background
 
-The **true vine** in John 15 represents a corporate organism of the Son as the vine and the believers as the branches joined together in an organic union. The branches live by the life of the vine and the vine flows its life through the branches and bears fruit through the branches. The branches are in the vine and part of the vine, and the totality of the vine also includes the branches. This is a similar relationship to Christ [being both the Head and the Body](../corporate_christ) in the Body of Christ.
+The **true vine** in John 15 represents a corporate organism of the Son as the vine and the believers as the branches joined together in an organic union. The branches live by the life of the vine and the vine flows its life through the branches and bears fruit through the branches. The branches are in the vine and part of the vine, and it is unclear where the vine ends and the branches start. Thus, the totality of the vine includes the branches. This is a similar relationship to Christ [being both the Head and the Body](../corporate_christ) in the Body of Christ.
 
 ## Significance
 
@@ -19,9 +21,17 @@ There are many depictions of the Lord's relationship with man in the Bible, but 
 
 In a sense, this vine is God's economy. God is not interested in worldly affairs, He is only interested in growing this vine, which is Christ. As a farmer's economy is growing their crops, God's economy is growing His vine. You could say that God's economy is the Christ-growing business.
 
+## Husbandman
+
+The Husbandman represents the Father. All that is supplied to the vine is provided by the Father, but without the vine, He has no expression and no economy.
+
+## Branches
+
+The purpose of the branches is to express the inner life of the vine. 
+
 ## Abiding
 
-Abiding means to remain, stay or dwell in place. in the vine means that we are receiving the dispensing of the riches of the Triune God.
+Abiding means to remain, stay or dwell in place. For a believer to abide in the vine means that the Lord is abiding in them and they are receiving the dispensing of the riches of the Triune God.
 
 ## Cut off
 
