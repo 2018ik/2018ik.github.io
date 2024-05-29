@@ -12,6 +12,7 @@ permalink: /abiding/
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
   - [Testimony #3](#testimony-3)
+  - [Testimony #4](#testimony-4)
 
 ## Background
 
@@ -52,3 +53,7 @@ A number of years ago after I was married to my wife, she left for Korea to spen
 ### Testimony #3 
 
 >The Christian life is not a matter of trying to align our will with God's will, but to abide in the vine, that is to live by the mingled spirit, that is for our will and God's will to be mingled together as one such that it even becomes ambiguous whether or not something we do is according to our will our God's will, yet we are able to do it anyways by faith since we know we are abiding in Him and have fellowship with Him. When the Lord Jesus did His works on earth, was it the Father doing it, the Son doing it or the Spirit doing it? Actually it was the Three working together as One. Today, we have been grafted into the vine to become one with the Triune God. The Christian life is a matter of living by our mingled spirit which is one spirit with God!
+
+### Testimony #4
+
+>A brother was once giving a message and he said something to the effect, "If you're out on the gospel and you get rejected, rather than being disappointed, you're happy, because..." I wasn't paying very close attention to the context, so I immediately thought in my head, "well, we remain happy because a seed was planted." But actually, he said it's "because the Lord's word is abiding in us." I immediately thought of the outward reasons why someone would be happy, such as having a seed planted, being more edified to preach the gospel in the future, or having an opportunity to take the cross or something. But actually, as lovers of the Lord, the only thing that makes us happy should be the Lord's abiding, that is the Lord's presence. If two individuals love each other, they don't care about each others' cars or houses, they only care about their presence. Likewise, we shouldn't care about God's bestowing of outward gospel preaching power or fruits upon us, but simply his presence.

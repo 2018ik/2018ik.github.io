@@ -20,7 +20,7 @@ What the Lord's Recovery is, and what it will be, depends on how we handle the t
 
 ## In Three Stages
 
-These stages are linear in time with regards to their occurrences and revelations. However, in terms of experience they are cyclical.
+These stages are linear in time with regards to their occurrences and revelations. However, in terms of experience they are cyclical. The first stage of incarnation is from His human birth to His death. The second stage of inclusion is from His death to His ascension. The third stage of intensification is from His ascension to His second coming.
 
 ### Incarnation
 
