@@ -11,10 +11,13 @@ permalink: /resurrection/
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
+  - [Testimony #3](#testimony-3)
 
 ## Background
 
-**Resurrection** is to bring the dead back to life, and can only be accomplished through Christ, who is resurrection itself (John 11:25). Christ as the resurrection life can therefore be experienced today as one of the elements in the [compound Spirit](../spirit#compound_spirit). The principle of resurrection is that the natural life is killed for the divine life to rise up in its place (2 Cor. 1:9). Resurrection is the life pulse and the lifeline of God's divine economy. There are many instances of resurrection throughout the Bible, however the reality of resurrection began with [that of Jesus Himself](../christ_resurrection). 
+**Resurrection** is to change death into life, and can only be accomplished through Christ, who is resurrection itself (John 11:25). The principle of resurrection is that the natural life is killed for the divine life to rise up in its place (2 Cor. 1:9). Resurrection is the life pulse and the lifeline of God's divine economy. The experience of resurrection life today is through Christ as the [all-inclusive, compound, life-giving Spirit](../spirit#compound_spirit).
+
+There are many instances of resurrection as a physical raising of the dead throughout the Bible, however the reality of resurrection began with [the Lord Jesus](../christ_resurrection). 
 
 Resurrection is altogether victorious over death; resurrection life overcomes death without being damaged or injured by death (John 11:25; Rev. 1:17-18; 2:8). Death is powerless to do anything with resurrection (Acts 2:24). When the enemy makes a believer think that they are finished, they must remember that within their regenerated spirit is resurrection, and that resurrection will surely defeat the enemy. This is the life which conquers all suffering, and the experience of this life is actually why believers suffer in the first place.
 
@@ -59,3 +62,9 @@ The principle of resurrection is that our end is the Lord's beginning. The Lord 
 >In the late 1950s and early 1960s there were ambitious coworkers who raised up dissension and rebellion among the churches in Taiwan. Brother Lee was led by the Lord to migrate to the U.S. to carry out the Lord's work, and the coworkers in Taiwan implored Lee to come back to deal with the rebellion. However Brother Lee said not to worry, as if the work he carried out is of men, it should be destroyed and must be destroyed. But if this work is of God, no one can destroy it. Eventually, the churches in Taiwan were brought into resurrection. Death cannot hold the resurrection life. If we hear of certain churches that are passing through a turmoil, we need to pray to bring those churches into resurrection. Bring them into the third day. 
 >
 >In Christ's resurrection, He became a life-giving Spirit, which is the highest significance of resurrection. Did you realize that becoming a life-giving Spirit is also a work of Christ? We will realize one day that it is a work to become a husband, it is a marvelous work to become a Father, likewise to become a life-giving Spirit was indeed a glorious work.
+
+### Testimony #3
+
+>To deny our natural inclination is not easy at all. Especially when it is related to a good part of our being. When Watchman Nee was younger, he was able to read through 3000 important books written by the early church fathers. And he knew so much about the Bible, so he desired to work out the Bible with rich footnotes just like we have today in the Recovery version. But the Lord did not allow him to do that. what the Lord wanted him to do was to establish and build up many local churches in China. However, he was not that agreeable. You know what happened? He got tuberculosis. During this time, he had a lot of prayer, repentance, confession, almost two years passed he was still lying on the bed dying. 
+>
+>One day he asked the Lord, why do you allow this to happen? And then the light came, the Lord showed him, in the big China land there are four golden lampstands, that's what God wanted him to do. And then he prayed, from now on, I will give up my natural preference, I will never do just what I want to do, I will only do what you want me to do. Soon after that, he was healed many years later, Brother Lee worked out the Recovery version. The Lord is sovereign. He wants His elect to live Him. That's why He is the life-giving Spirit in us. Why does He indwell us? Because He wants to live out through us and because He lives in us so we can also say for me to live is Christ. This is to live in the realm of resurrection. Don't think this is something very high, unachievable, no. Actually, according to Romans 6:5, through His death and our baptism, we will grow together with Him in the likeness of His resurrection.
