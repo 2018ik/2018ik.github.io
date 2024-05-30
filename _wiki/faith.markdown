@@ -19,7 +19,7 @@ In the New Testament, faith replaces the law as God's principle in dealing with 
 
 For example, if we go into a jewelry store, the salesman can only sell something to you if he makes you appreciate its beauty. The salesman is able to infuse into you some level of appreciation of the jewelry by talking about its beauty, its preciousness. This is to have faith in the jewelry. Having faith spontaneously results in a sense of appreciation.
 
-There are two types of faith in the New Testament: objective and subjective. The former refers to the things which Christians believe in, and the latter refers to the action of believing. The subjective faith is actually the processed Triune God infused into one's being. This infusion takes place under the hearing of the word of God. 
+There are two types of faith in the New Testament: objective and subjective. The former refers to the things which Christians believe in, and the latter refers to the action of believing. The objective faith is usually preceded by the definite article as in "*the* faith." The subjective faith is the processed Triune God infused into one's being to be their believing ability. This infusion takes place under the hearing of the word of God. 
 
 | Objective Faith | Subjective Faith |
 | --- | --- |
