@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Living by the Spirit
-permalink: /living_by_spirit/
+permalink: /living_by_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)
@@ -15,4 +15,4 @@ permalink: /living_by_spirit/
 
 ## Related Terms
 
-1. [Walking by the Spirit](../walking_by_spirit)
+1. [Walking by the Spirit](../walking_by_the_spirit)
