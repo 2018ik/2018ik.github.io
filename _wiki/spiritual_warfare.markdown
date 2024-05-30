@@ -20,6 +20,8 @@ permalink: /spiritual_warfare/
 
 In Ephesians 6:12 we see our war is not against flesh and blood, but against the spiritual forces of evil in the heavenlies. In Matthew 12:26, we see that Satan has a kingdom. Likewise, God also has a kingdom (Rom 14:17). The war between these two forces is currently going on in our daily lives. 
 
+In 2 Corinthians 10:4-5, spiritual warfare overthrows the strongholds of Satan.
+
 ## God's Kingdom
 
 ### The Church
