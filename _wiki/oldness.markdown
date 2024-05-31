@@ -12,7 +12,7 @@ permalink: /oldness/
 
 ## Background
 
-Oldness kills, and prevents us from seeing and speaking the New Testament revelation. Oldness is closely related to opinions, with the former emphasizing doctrine and biblical practice while the latter can apply to any self-imposed belief which hinders our openness to new things. Both have an element of stubbornness, or unwillingness to change.
+**Oldness** is the elements of the old creation which deadens the spirit. Oldness is closely related to opinions, with the former emphasizing doctrine and biblical practice while the latter can apply to any self-imposed belief or habit which hinders our openness to God. Both have an element of stubbornness, or unwillingness to change and prevents us from seeing and speaking the New Testament revelation. 
 
 ## Early Church
 

@@ -5,14 +5,15 @@ permalink: /renewing/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
+- [Position in Organic Salvation](#position-in-organic-salvation)
 - [Purpose](#purpose)
 - [Significance](#significance)
 
 ## Background
 
-**Renewing** is the process in which the divine life added to one's being through regeneration penetrates the mind, causing it to be inwardly changed and even to become the mind of Christ (Rom. 12:2; Phil. 2:5; 1 Cor. 2:16). The Spirit mingled with the believers' spirit can spread into the mind through the cross which terminates the old, which produces thoughts and virtues which are through the cross and by the spirit, for the purpose of ministering Christ for the building up of the Body (Titus 3:5; Rom. 12:2; Eph. 4:23; Rom. 8:6; Phil. 2:5; 2 Cor. 4:16).
+**Renewing** is the process in which the spirit enters the mind, issuing in one's entire being becoming new (Rom. 12:2; Phil. 2:5; 1 Cor. 2:16). In our daily living, we always tend towards our oldness, rather than God who is newness itself. Renewing is contingent on setting the mind on the spirit and having a strong spirit that can break through into the mind. This breaking is through the cross which in the only thing that can terminate oldness to produce the new creation (2 Cor. 5:17).
 
-To be renewed, that is to have more of the new life of God added into our being, we must experience the cross. Resurrection life always follows the killing of the cross, which is a key component in renewing.
+To be renewed, we must experience the cross. Resurrection life always follows the killing of the cross, which is a key component in renewing.
 
 ## Biblical Basis
 
@@ -32,10 +33,14 @@ Key verses:
 
 \- 2 Cor. 4:16 
 
+## Position in Organic Salvation
+
+Renewing follows regeneration and dispositional sanctification and precedes transformation. It's clear based on Romans 12:2 that renewing issues in transformation. Logically, regeneration precedes DS as one needs to be born as a child of God first in order to grow. As dispositional sanctification includes one's entire organic salvation, renewing is placed after it. This does not mean that they are separate; DS always results in renewing, but renewing is included in DS, not vice versa. In other words, renewing is specific, DS is more general.
+
 ## Purpose
 
-Believers were once sinners altogether of the old creation. Upon being saved, they are brought into the new creation. However, at this point one possesses both old and new natures. Renewing is to kill the old life and bring in more of the new life, such that eventually one becomes altogether of the new creation, of Christ.
+Believers were once sinners altogether of the old creation. Upon being saved, they are brought into the new creation. However, at this point one possesses both old and new natures. Renewing is to kill the old life and bring in more of the new life, such that eventually one becomes altogether of the new creation, of Christ. For example, regenerated believers receive a new heart (Ezek. 36:26). However, this heart can become hard, and lose the first love (Rev. 2:4). This could be ambition in the church, wanting to be somebody. It is in this way the Satan filled Ananias's heart (Acts 5:3). Even after being saved, one's mind must continually be renewed.
 
-For example, regenerated believers receive a new heart (Ezek. 36:26). However, this heart can become hard, and lose the first love (Rev. 2:4). This could be ambition in the church, wanting to be somebody. It is in this way the Satan filled Ananias's heart (Acts 5:3). Even after being saved, one's mind must continually be renewed.
+In many ways, we are still old. We may be messy, disagreeable, too fast, too slow or simply make mistakes. The new creation does not make mistakes and is always gentle, fine and careful.
 
 ## Significance

@@ -4,10 +4,16 @@ title: Repentance
 permalink: /Repentance/
 ---
 - [Background](#background)
+- [Significance](#significance)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
+
+
+## Significance
+
+Every genuine Christian must go through repentance.
 
 ## Testimonies
 

@@ -13,8 +13,7 @@ permalink: /quotes/
 - [Conduct](#conduct)
 - [Miscellaneous](#miscellaneous)
 - [Love](#love)
-- [Prayer](#prayer)
-- [Suffering](#suffering)
+- [Gospel](#gospel)
 
 ## Marriage
 
@@ -72,10 +71,6 @@ permalink: /quotes/
 
 >If you say that you love the Lord, yet year by year you remain the same, I do not believe you.
 
-## Prayer
+## Gospel
 
->If you enter fully into a prayer meeting, it will be exhilarating, even if all you do is say "amen."
-
-## Suffering
-
->Everyone goes through suffering, but we don't want our suffering to be in vain.
+>You might look around and say, "He's not open, she's not open, no one's open." But then the Spirit will say, "You're not open." No one's open because you're not open.
