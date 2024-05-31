@@ -14,11 +14,11 @@ The **world** (Greek: kosmos) in the negative sense refers to the **world system
 
 Behind all tangible things is the intangible enemy who operates behind the scenes (Eph. 6:12). We must be clear regarding the world and sanctify ourselves from it as in Galatians 6:14 and 1 John 5:19. According to these two verses, the whole world lies in the evil one, but this world has been crucified to Paul and Paul to the world.
 
-The "world" can also refer to the physical world (Col 1:6) or the people within the world (John 3:16).
+The "world" can also refer to the physical world (Col 1:6) or the people within the world (John 3:16). It is also used in 1 Peter 3:3 to refer to outward adornments and fancy garments which is the satanic systematization of the necessity of clothing oneself to become self-beautification.
 
 ## History
 
-Originally, God was everything to man and was his pleasure and protection. Man at this point had neither fallen into sin nor the world, though both existed due to Satan's rebellion. Upon eating of the tree, man first fell into sin, and then the  world. Cain invented agriculture, amusement and other elements of human civilization. These are things necessary for human existence, however the need or perhaps more accurately "want" that humans sense for these things is greater than God. 
+Originally, God was everything to man and was his pleasure and protection. Man at this point had neither fallen into sin nor the world. Upon eating of the tree, man first fell into sin and was no longer in God's presence. Now, man needed a replacement for God, that is the world. Cain invented agriculture, amusement and other elements of human civilization to sustain himself and his family. These are things necessary for human existence, however the need or perhaps more accurately "want" that humans sense for these things is greater than God. 
 
 ## Significance
 
