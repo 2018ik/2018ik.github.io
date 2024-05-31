@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Parable of Pharisee & Publican
-permalink: /parable_of_pharisee_and_publican/
+permalink: /parable_pharisee_and_publican/
 ---
 - [Background](#background)
 - [Significance](#significance)
