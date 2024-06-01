@@ -1,6 +1,6 @@
 ---
 layout: pagev2
-title: Christ's Indwelling
+title: Christ Indwelling
 permalink: /christ_indwelling/
 ---
 - [Background](#background)
@@ -13,11 +13,11 @@ permalink: /christ_indwelling/
 
 ## Background
 
-Christ is **indwelling** the believers as the Spirit. When someone receives the Spirit, they also receive Christ, as well as the Father. The entire Triune God is dispensed into man at the same time.
+Christ is **indwelling** the believers as the Spirit. When someone receives the Spirit, they received Christ as the Spirit who is the embodiment of the Father. The entire Triune God is dispensed into man at the same time. 
+
+The fact that Christ indwells us can be called the kernel of the gospel; the life-germ, center and vital point of God's gospel.
 
 ## Biblical Basis
-
-Three verses which explicitly state that Christ is in the believers is Romans 8:10, Colossians 1:27, and 2 Corinthians 13:5.
 
 ### Romans 8:10
 

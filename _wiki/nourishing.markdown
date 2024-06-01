@@ -13,7 +13,7 @@ permalink: /nourishing/
 
 **Nourishing** (along with cherishing) is the second step of the God-ordained way, and follows begetting. This is according to the Biblical principle of bearing remaining fruit.
 
-The primary goal in nourishing the newly baptized ones is to help them to have a personal contact with the Lord by their spirit directly. During this time, they should learn about the crucial practices of the Christian life, such as reading the Bible, praying, having morning revival, and attending the meetings. The focus should be on feeding, not on correction.
+The primary goal in nourishing the newly baptized ones is to help them to have a personal contact with the Lord by their spirit directly. During this time, they should learn about the crucial practices of the Christian life, such as reading the Bible, praying, having morning revival, and attending the meetings. The focus should be on feeding, not on correction. The words which we speak should be according to their personal need (Eph. 4:29).
 
 ## Biblical Basis
 
