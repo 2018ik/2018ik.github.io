@@ -7,9 +7,6 @@ permalink: /light/
 - [Biblical Definition](#biblical-definition)
 - [Contrast to Darkness](#contrast-to-darkness)
 - [Contrast to Introspection](#contrast-to-introspection)
-- [Blindness](#blindness)
-  - [Elisha](#elisha)
-  - [Saul of Tarsus](#saul-of-tarsus)
 - [Gospel](#gospel)
 - [Trivia](#trivia)
 - [Testimonies](#testimonies)
@@ -17,7 +14,7 @@ permalink: /light/
 
 ## Background
 
-**Light** is that which makes manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself (1 John 1:5). By default, unbelievers are objectively in darkness, and believers are subjectively in darkness. When God shines on us, He gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. This shining is an aspect of God's dispensing. As God's dispensing is from eternity to eternity, so is the shining of God in the New Jerusalem (Rev. 21:23; 22:5).
+**Light** is that which makes manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself (1 John 1:5). By default, unbelievers are objectively in darkness, and believers are subjectively in darkness. When God shines on us, He gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. Furthermore, He reveals more of Himself in His all-inclusiveness (Col. 1:12). This shining is an aspect of God's dispensing. As God's dispensing is from eternity to eternity, so is the shining of God in the New Jerusalem (Rev. 21:23; 22:5).
 
 ## Biblical Definition
 
@@ -32,16 +29,6 @@ When we are in darkness, we think everything is fine because we can't see anythi
 ## Contrast to Introspection
 
 God's presence which issues in the light will spontaneously reveal the hidden things we must deal with. There is no need for introspection of the mind. We only need to deal with what is revealed directly by the light. We simply agree with what is exposed by the light. By confessing, we agree with and acknowledge what we see in God as light.
-
-## Blindness
-
-The absent of light is blindness.
-
-### Elisha
-
-Elisha struck the Syrians with blindness. The New Testament ministry to deal with the enemy is to make them blind, open their eyes, and give them a feast.
-
-### Saul of Tarsus
 
 ## Gospel 
 

@@ -4,10 +4,13 @@ title: Common Faith
 permalink: /common_faith/
 ---
 - [Background](#background)
+- [Seven Items](#seven-items)
 
 ## Background
 
-The **common faith** refers to fundamental Christian beliefs which should be contended for. This includes seven items:
+The **common faith** (or basic faith) refers to fundamental Christian beliefs which should be contended for. This is in contrast to secondary truths, such as beliefs regarding eating and the keeping of days (Rom. 14:3-5).
+
+## Seven Items
 
 1. The Bible is the Word of God, written under His inspiration word by word (2 Tim. 3:16), and is the complete and only written divine revelation of God to man (Deut. 4:2; 12:32; Prov. 30:5-6; Rev. 22:18-19).
 2. There is one God (Deut. 6:4; 1 Cor. 8:4b; Isa. 45:5a), who is triune—the Father, the Son, and the Spirit (Matt. 28:19), co-existing (Matt. 3:16-17; 2 Cor. 13:14) and coinhering (John 14:10-11) in three persons, or hypostases, distinct but never separate, from eternity to eternity.

@@ -4,6 +4,7 @@ title: Christ
 permalink: /christ/
 ---
 - [Background](#background)
+- [Etymology](#etymology)
 - [Jesus Christ](#jesus-christ)
 - [Christ Jesus](#christ-jesus)
 - [Living](#living)
@@ -16,7 +17,11 @@ permalink: /christ/
 
 ## Background
 
-**Christ** (meaning "anointed one") is the title given to the Son in His resurrection. Jesus refers to the name given to the Lord in His incarnation. Christ refers to the name given after His resurrection, when He became Lord and Christ. Jesus Christ highlights the fact of the man Jesus who once lived on earth that became this Christ while Christ Jesus highlights the reverse: that this divine One was once a man on the earth.
+**Christ** is the embodiment of God realized as the Spirit to be everything to the believers (Col. 2:9; John 16:13). All of Christianity is built on the man Christ Jesus. He is the center of God's economy and God's relationship with man. All other religions and faiths are built on doctrines and theories. The founding religious leaders (Sakyamuni, Mohammed, Confucius, etc.) disassociate themselves with the religion and do not have much to do with it. Only in Christianity does the progenitor Christ Jesus declare to be God and to be believed into.
+
+## Etymology
+
+The Greek word "Christ" means "anointed one. When God commissioned someone to work in the OT, they would be anointed with oil, signifying the seal of tht commission. This is the title given to the Son in His resurrection. Jesus refers to the name given to the Lord in His incarnation. Christ refers to the name given after His resurrection, when He became Lord and Christ. Jesus Christ highlights the fact of the man Jesus who once lived on earth that became this Christ while Christ Jesus highlights the reverse: that this divine One was once a man on the earth.
 
 Ephesians 1:3 says "Blessed be the God and Father of our Lord Jesus Christ." God corresponds to Jesus while Father corresponds to Christ. In Christ's humanity - Jesus - God is His God. In His divinity, God is His Father. 
 
