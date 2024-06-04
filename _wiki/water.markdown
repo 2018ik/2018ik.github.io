@@ -19,6 +19,7 @@ permalink: /water/
 | Exo 17:6 | Water of life as the Spirit flowing into the redeemed people typified by the riven rock |
 | Psa. 36:8-9 | The fountain refers to the Father as the source of life, and the river refers to the Spirit as the river of water of life. |
 | Ezek. 47:1-12 | Water of life flowing out of the house of God |
+| John 4:14 | The fountain is the Father as the source and the springing up is the Son as the manifestation. |
 
 ## Death
 
