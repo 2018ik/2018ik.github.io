@@ -17,6 +17,7 @@ The three accomplishments of inclusion is as follows:
 1. For Christ as the only-begotten Son of God in eternity to be begotten as God's firstborn Son (Rom. 8:29)
 2. For Christ to become the life-giving Spirit (1 Cor 15:45)
    1. The Lord is on the throne, but he is also in us as the Spirit. We believe all that the Bible says without making a system out of it.
+   2. The life-giving Spirit is for the Lord to carry out organic salvation
 3. For Christ to regenerate the believers for His Body
 
 ## Biblical Basis

@@ -4,12 +4,14 @@ title: New Jerusalem
 permalink: /new_jerusalem/
 ---
 - [Background](#background)
-- [Biblical Basis](#biblical-basis)
+- [Typology](#typology)
 - [Description](#description)
+  - [Throne](#throne)
   - [River](#river)
+  - [Tree of Life](#tree-of-life)
   - [Street](#street)
   - [Mountain](#mountain)
-  - [Materials](#materials)
+  - [Precious Materials](#precious-materials)
 - [Central Line](#central-line)
 - [Application](#application)
 
@@ -27,7 +29,7 @@ Our living out of the New Jerusalem is for us to become the New Jerusalem, and o
 
 The New Jerusalem is for the glorification of the Triune God as the oneness of the believers built into the Triune God (John 17). John 17 reveals the divine incorporation of God and man, and that the firstborn Son and the Sons of God might be glorified. John likely wrote his gospel after he had seen the vision. The fulfillment of this prayer is consummated in the New Jerusalem.
 
-## Biblical Basis
+## Typology
 
 The blueprint for the New Jerusalem can be seen in the very beginning in Genesis 1-2. 
 
@@ -51,9 +53,17 @@ The New Jerusalem promised to the overcomers in Revelation 3:12 is a prize only 
 
 The New Jerusalem has one throne with one flow of life, one tree of life, and one street of life. 
 
+### Throne
+
+The throne of God and of the lamb is for divine administration. It is the source of eternal enjoyment since the river flows out of the throne.
+
 ### River
 
 The river of water of life flowing out of the throne proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
+
+### Tree of Life
+
+The tree of life grows on two sides of the river and yields fruit each month. The tree is Christ as the true vine, as only a vine tree can grow on both sides of a river. 
 
 ### Street
 
@@ -63,7 +73,7 @@ The street of gold signifies divine and human communications, as it proceeds fro
 
 The New Jerusalem is 12000 stadia tall, about 1300 miles, yet its walls are only 144 cubits. Furthermore, it is pure gold (Rev. 21:18). This indicates that the city itself may be a mountain.
 
-### Materials
+### Precious Materials
 
 | Item | Description |
 | --- | --- |
