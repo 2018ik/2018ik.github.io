@@ -21,6 +21,8 @@ If one wants Christ's life to be unhindered in its spread, they must experience 
 
 ### Crucified
 
+The dialogue between the Son on the cross with the Father is in parallel to the dialogue between Abraham and God when he was bringing Isaac to be sacrificed.
+
 While Christ was on the cross, rulers and authorities were working to frustrate His work, however these evil forces were stripped off and put to shame (Col. 2:15).
 
 ### Response

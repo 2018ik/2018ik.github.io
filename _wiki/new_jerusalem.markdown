@@ -55,15 +55,15 @@ The New Jerusalem has one throne with one flow of life, one tree of life, and on
 
 ### Throne
 
-The throne of God and of the lamb is for divine administration. It is the source of eternal enjoyment since the river flows out of the throne.
+The throne of God and of the lamb is for divine administration. It is the source of eternal enjoyment since the river flows out of the throne. The fact that the throne is of both God and the Lamb indicates the divine incorporation of the Trinity.
 
 ### River
 
-The river of water of life flowing out of the throne proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The tree of life typifies Christ, and is available along the flow of the river. This indicates that wherever the Spirit is, there is Christ.
+The river of water of life flowing out of the throne proceeding in the middle of the street signifies divine life as the Spirit for the believers' supply and satisfaction. The flow of life makes all the believers match who is on the throne; in a sense, the New Jerusalem is produced by what is coming out of the throne.
 
 ### Tree of Life
 
-The tree of life grows on two sides of the river and yields fruit each month. The tree is Christ as the true vine, as only a vine tree can grow on both sides of a river. 
+The tree of life typifying Christ grows on two sides of the river and yields fruit each month. The tree is Christ as the true vine, as only a vine tree can grow on both sides of a river. The tree's location along the river indicates that wherever the Spirit is, there is Christ. 
 
 ### Street
 
