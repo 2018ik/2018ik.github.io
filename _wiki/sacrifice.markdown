@@ -6,7 +6,7 @@ permalink: /sacrifice/
 - [Background](#background)
 - [Significance](#significance)
 - [Testimonies](#testimonies)
-  - [Sacrifice](#sacrifice)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -14,8 +14,16 @@ permalink: /sacrifice/
 
 ## Significance
 
+Sacrifice should be a joy with a realization of the compassions of God and that we are His possession (Rom. 12:1). Hymns #473 "No mortal tongue can e’er describe" has a verse:
+
+>’Tis passing strange that we refuse \\
+To be our Lord’s alone. \\
+O never speak of sacrifice! \\
+A privilege untold \\
+Is to be His at any price,
+
 ## Testimonies
 
-### Sacrifice
+### Testimony #1
 
->when china was in danger by being overrun by the communist, brother nee decalred that he would send me out ofthe counry but otheres would remain to sacrifice themelves. after he said this I walked with him and asked why are you sending me away am i not worthy of being sacrificed. He replies yes we're willing to sacrifice ourselves while we look to the lord for Him to save us however there is the possiblity that one day the enemy will destroy us. If so, you will be out of the coutnry and we will still have a continunation. is it possible that brother lee that as he laid dying in the hospital was he considering this time with brother nee and the saccrifie that he made and is that why his last utterance was sacrifice. 
+>When China was in danger by being overrun by the communists, Brother Nee declared that he would send me out of the country but others would remain to sacrifice themselves. After he said this, I walked with him and asked, "Why are you sending me away? Am I not worthy of being sacrificed?" He replies, "Yes we're willing to sacrifice ourselves while we look to the Lord for Him to save us. However there is the possibility that one day the enemy will destroy us. If so, you will be out of the country and we will still have a continuation." It is possible that Brother Lee was thinking of this as he laid dying in the hospital. Perhaps he was considering this time with Brother Nee and the sacrifice that he made and this is why his last utterance was "sacrifice." 

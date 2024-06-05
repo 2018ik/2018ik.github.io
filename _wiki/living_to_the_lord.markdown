@@ -18,3 +18,5 @@ Living to the Lord is in contrast to living to oneself, which is what one does b
 In 2 Corinthians 5:14-15 and Romans 14:8, Paul does not tell them to live for, by, or with the Lord. He tells them to live *to* the Lord. Romans 14:8 also shows that living to the Lord is related to being the Lord's possession - "we *are* the Lord's." This indicates that those who live to the Lord see that they belong to the Lord.
 
 ## Significance
+
+If a person truly sees the Lord's love and compassion, their consecration to live to the Lord would be automatic. When one is supremely involved with the Lord in this way, they should be steadfast regardless of any outward circumstance. The lack of consecration we have today is because we are short in seeing this point. 
