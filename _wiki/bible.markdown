@@ -6,7 +6,7 @@ permalink: /bible/
 - [Background](#background)
 - [Old Testament](#old-testament)
 - [New Testament](#new-testament)
-- [Emphasis](#emphasis)
+- [Categories of Truth](#categories-of-truth)
 
 ## Background
 
@@ -22,6 +22,6 @@ The essence of the New Testament is the Spirit of God mingled with the spirit of
 
 The New Testament was written because the believers were bad, and to counteract the degradation of the churches.
 
-## Emphasis
+## Categories of Truth
 
 When one comes to the Bible, it is easy to have a thought or view that a particular item is the most important. Thus, it is important to interpret the Bible with the entire Bible. However, there is inevitably going to be differing interpretations among believers as long as the flesh still exists, so the divine revelation of the Bible can be divided into three categories: the central line, supplemental line, and leaves and branches.
