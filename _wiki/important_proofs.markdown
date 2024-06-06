@@ -23,8 +23,7 @@ permalink: /important_proofs/
 
 ## Spirit = Grace
 
-1. 
-As grace came through Christ so did the Spirit (John 1:17; John 16:13). The all-inclusive, compound, life-giving Spirit was "not yet" prior to Christ's resurrection (John 7:39) and breathed into the disciples post-resurrection (John 20:22). Furthermore, there is a principle in the Bible where all that the Father has is embodied in the Son and all that the Son has is realized as the Spirit. Therefore, as there is the "grace of Christ" so is there the "Spirit of Christ." Therefore, the Spirit which is the ultimate realization of Christ is grace and is the only way for us to experience grace.
+1. As grace came through Christ so did the Spirit (John 1:17; John 16:13). The all-inclusive, compound, life-giving Spirit was "not yet" prior to Christ's resurrection (John 7:39) and breathed into the disciples post-resurrection (John 20:22). Furthermore, there is a principle in the Bible where all that the Father has is embodied in the Son and all that the Son has is realized as the Spirit. Therefore, as there is the "grace of Christ" so is there the "Spirit of Christ." Therefore, the Spirit which is the ultimate realization of Christ is grace and is the only way for us to experience grace.
 
 ## Christ = Tree of Life
 
