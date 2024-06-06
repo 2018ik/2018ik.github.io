@@ -18,9 +18,7 @@ permalink: /trinity/
 
 ## Background
 
-The **Divine Trinity** or Triune God is God Himself: the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man. Only the Father fully knows the Son and vice versa (Matt. 11:27). 
-
-The term "Trinity" is not directly mentioned in the Bible but was established by the early church fathers such as Tertullian, Origen, Athanasius, Basil and Augustine. Trinitarian theology served as a framework in which to study the Bible and to basic tenet of the Christian faith. Today, we see that God is triune not for human understanding, but for the dispensing of Himself into man as life that the Body of Christ may be built up as His expression and enlargement.
+The **Divine Trinity** (or **Triune God**) refer to God Himself in the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man (Matt. 11:27). The term "Trinity" is not directly mentioned in the Bible but was established by the early church fathers such as Tertullian, Origen, Athanasius, Basil and Augustine. Trinitarian theology served as a framework in which to study the Bible and is a basic tenet of the Christian faith. Today, we see that God is triune not for human understanding, but for Him to dispense Himself into man. 
 
 ## Importance
 
@@ -28,9 +26,7 @@ The term "Trinity" is not directly mentioned in the Bible but was established by
 
 \-2 Cor. 13:14
 
-God is triune in order to be experienced and enjoyed by man. The terms grace, love and fellowship are all related to God's reaching of man. The Father sends the Son in His name who is now the Spirit to make the entire Triune God real to us.
-
-The Trinity is the framework of the Bible and is indispensible for its understanding. God's operation throughout the New Testament and even the Old Testament is always in His Trinity. In many of the apostle's prayers, as in the above 2 Corinthians 13:14 involve the Trinity (further: Eph. 1:4-5; 3:16-17). To experience God in full one must know the Triune God. One's experience and gaining of Christ cannot surpass their knowledge and revelation of Christ (Phil. 3:8). 
+God is triune in order to be experienced and enjoyed by man. The terms grace, love and fellowship are all related to God's reaching of man. The Father sends the Son in His name who is now the Spirit within us to make the entire Triune God real to us. God's operation throughout the New Testament and even the Old Testament is always in His Trinity. In many of the apostle's prayers, as in the above 2 Corinthians 13:14 involve the Trinity (further: Eph. 1:4-5; 3:16-17). To experience God in full one must know the Triune God. One's experience and gaining of Christ cannot surpass their knowledge and revelation of Christ (Phil. 3:8). 
 
 ## Characteristics
 
@@ -115,6 +111,7 @@ God is triune because He wants to dispense Himself into man. The Father, who is 
 ## Related Terms
 
 1. Economical Trinity
+2. Essential Trinity
 
 ## Testimonies
 

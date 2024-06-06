@@ -6,15 +6,14 @@ permalink: /spirit_man/
 - [Background](#background)
 - [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
+- [Typology](#typology)
 - [Parts of the Spirit](#parts-of-the-spirit)
   - [Conscience](#conscience)
   - [Fellowship](#fellowship)
   - [Intuition](#intuition)
 - [Location](#location)
+- [Defilement](#defilement)
 - [Distractions](#distractions)
-  - [To Do Good](#to-do-good)
-  - [Doctrines](#doctrines)
-  - [Gifts](#gifts)
 
 >"The Spirit Himself witnesses with our spirit that we are children of God."
 
@@ -47,11 +46,13 @@ To not use the spirit to contact God is akin to using the entirely wrong organ t
 
 ## Biblical Basis
 
-Many verses in the Bible indicate that there is the Spirit of God as well as a spirit of man, sometimes even in the same verse. 
+Many verses in the Bible indicate that there is the Spirit of God as well as a spirit of man, sometimes even in the same verse. These verses also make a clear differentiation between the spirit and soul.
 
 Romans 8:16 says that the Spirit witnesses with our spirit, indicating that there is both a Spirit of God and a spirit of man. Hebrews 4:12 draws a distinction between the soul and spirit, and 1 Thessalonians 5:23 shows that man has a spirit, soul and body.
 
 1 Corinthians 2:11 mentions the spirit of man, except this verse also personifies the spirit with the pronoun "who," indicating a mingling of the Spirit of God with our spirit, in which there is a person present in man's spirit.
+
+## Typology
 
 In the Old Testament, there are types which illustrate the three parts of man. For example, the temple or tabernacle as the dwelling place of God has three sections, and is also directly indicated by Jesus who referred to Himself as a temple (John 2:19-21). In the creation record of Adam, God formed him from the dust of the ground, indicating the Body. Then, He breathed into Him the breath of life, indicating the Spirit. Then, man became a living soul, indicating the soul.
 
@@ -93,18 +94,16 @@ Hebrews 4:12 reveals that the human soul and spirit need to be divided. We see a
 
 Why does Paul use the subjunctive mood ("the Lord *be* with your Spirit" - 2 Tim. 4:22) rather than asserting that "the Lord *is* with your Spirit." That is because the Lord's being with our Spirit is dependent on our relationship with Him. He could be *in* our spirit but not *with* our spirit. 
 
+## Defilement
+
+It is possible for there to apparently be a problem with a person's spirit. 2 Corinthians 7:1 speaks of defilement of flesh *and* spirit. This is not the defilement of the spirit itself, as this is a mingled spirit that is joined to the Lord (1 Cor. 6:17). The spirit can be defiled by the soul and the body in its expression. For example a fountain can have a flow of perfectly clean water which gets dirtied by the channel through which it flows. In order to release the spirit, the spirit needs to pass through the soul and body, which are the channels that can dirty the spirit. When the Bible describes the spirit as meek, quiet, lowly or proud (1 Pet. 3:4; Prov. 16:19), it is not the spirit as the source which is such, but the outflow that passes through the soul and body. 
+
+For example, a person may receive a genuine spiritual revelation. However, they can then present it in a proud way, indicating that they have a proud spirit. The message may be spiritual heavenly, but the spirit is defiled. When exercising to release the spirit, one needs to deal with selfish motives, intentions, desires, and interests.
+
 ## Distractions
 
-The enemy (Satan and his angels) will try at all-costs to distract us from our spirit, because when we are in the spirit, he has no ground in us. The first time Satan attempted to draw man away from the tree of life, the argument he posed was that the fruit was good to eat, will give knowledge, and make oneself wise (Gen. 3:5). This is the same as today; he distracts us through these three things, all of which are not inherently evil: the desire to do good, doctrine, and gifts. 
+The enemy will try at all-costs to distract us from our spirit, because when we are in the spirit, he has no ground in us. The first time Satan attempted to draw man away from the tree of life, the argument he posed was that the fruit was good to eat, will give knowledge, and make oneself wise (Gen. 3:5). Throughout church history, the matter of the human spirit has been hidden from many despite it being an obvious revelation in the Scriptures. Today, Satan continues to distract genuine Christians from their spirit through these three things, all of which are not inherently evil:
 
-### To Do Good
-
-Satan tempts us to live by the wrong tree, and to live by the law of good in our mind. If we attempt to live by this law of good, it is inevitable that we will die (Rom. 7:21).
-
-### Doctrines
-
-Doctrine can be scriptural knowledge and bring us into dead letters, or it can bring us into Christ in our spirit to experience Him as life.
-
-### Gifts
-
-Sometimes God needs something to be done, or a particular member of body is short, so He gives them some kind of gift. We have to grow to the point where gift or not, we exercise our faith to touch the spirit. The gifts are to bring us to the key, our human spirit. Anything the gifts do beyond that will result in division.
+1. The desire to do good: Satan tempts us to live by the wrong tree, and to live by the law of good in our mind. If we attempt to live by this law of good, it is inevitable that we will die (Rom. 7:21).
+2. Doctrine: scriptural knowledge can bring us into dead letters, or it can bring us into Christ in our spirit to experience Him as life.
+3. Gifts: sometimes God needs something to be done, or a particular member of body is short, so He gives them some kind of gift. We have to grow to the point where gift or not, we exercise our faith to touch the spirit. The gifts are to bring us to the key, our human spirit. Anything the gifts do beyond that will result in division.
