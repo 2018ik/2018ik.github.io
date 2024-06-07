@@ -12,6 +12,7 @@ permalink: /spirit_man/
   - [Fellowship](#fellowship)
   - [Intuition](#intuition)
 - [Location](#location)
+- [Release](#release)
 - [Defilement](#defilement)
 - [Distractions](#distractions)
 
@@ -42,7 +43,7 @@ Below is a non-exhaustive list of items which show the importance of the human s
 
 Evidently, God's purpose in creation which is His economy cannot be fulfilled without the human spirit. The heavens were created for the earth, which was created for man's spirit (Zech. 12:1).
 
-To not use the spirit to contact God is akin to using the entirely wrong organ to accomplish certain things (e.g. trying to see with the ears). One cannot contact God through their body or their soul. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when one is saved, their spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, one must turn to their spirit.
+To not use the spirit to contact God is akin to using the entirely wrong organ to accomplish certain things (e.g. trying to see with the ears). One cannot contact God through their body or their soul. Furthermore, as God is truth, doing anything without the spirit comes with some level of falsity. Even diligently studying the Bible, or being extremely in love with the Lord in one's emotions will serve no benefit without the exercise of the spirit. This is because when one is saved, their spirit is joined to the Lord in one spirit (1 Cor. 6:17). So in order for this Spirit to do anything, one must turn to their spirit.
 
 ## Biblical Basis
 
@@ -93,6 +94,10 @@ Mark 2:8 says "Knowing fully in His spirit." The knowing of the spirit is a diff
 Hebrews 4:12 reveals that the human soul and spirit need to be divided. We see a type of this in the Old Testament in the temple with its outer court, Holy place, and Holy of Holies. Likewise, we see a type of this in the children of Israel going out of Egypt, through the wilderness and entering into the good land. When we are not contacting God and receiving His word, the spirit is covered and difficult to distinguish from the soul. 
 
 Why does Paul use the subjunctive mood ("the Lord *be* with your Spirit" - 2 Tim. 4:22) rather than asserting that "the Lord *is* with your Spirit." That is because the Lord's being with our Spirit is dependent on our relationship with Him. He could be *in* our spirit but not *with* our spirit. 
+
+## Release
+
+The release of the spirit is the outflow of the spirit through the reflecting and expressing organs of the soul and body respectively. This allows the Spirit with one's spirit to flow out and enter into others, which flow is true fellowship. The condition of one's spirit is only manifested when it is released, which can indicate defilement.
 
 ## Defilement
 
