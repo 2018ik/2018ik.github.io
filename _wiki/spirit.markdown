@@ -78,13 +78,9 @@ However, this is a very inorganic understanding of the Trinity; some believed th
 
 The inner-life movement began with Madame Guyon and Father Fenelon of the Catholic Church, as well as others in the seventeenth century. These were ones who emphasized the inner life of the Spirit and were known as mystics.
 
-In the 1800s, it became generally acceptable and considered that in resurrection the Son *became* the life-giving Spirit. It was also revealed the the Spirit makes Christ present to the believers, and that the Trinity operates as one.
-
 ### The Spirit of Christ
 
-Finally, it was recovered in the 1950s that humanity is now in the Spirit, and that the Spirit contains a human element.
-
-Chapter 5 of *The Spirit of Christ* by Andrew Murray, a dutch reformer who lived in South Africa in the 1800s, reveals that the Spirit now as the Spirit of the glorified Jesus had the glorified humanity of Jesus added to it. So when the Spirit comes to humanity it contains the person of Christ in His humanity. The truth that Christ is the Spirit is arguably the greatest truth recovered in the nineteenth century.
+In the 1800s, it became generally acceptable and considered that in resurrection the Son *became* the life-giving Spirit. It was also revealed the the Spirit makes Christ present to the believers, and that the Trinity operates as one. There was also the recovery that the humanity of Christ is now in the Spirit, and that the Spirit contains a human element. Published in 1888, Chapter 5 of *The Spirit of Christ* by Andrew Murray reveals that the Spirit as the Spirit of the glorified Jesus had the glorified humanity of Jesus added to it. So when the Spirit comes to humanity it contains the person of Christ in His humanity. The truth that Christ is the Spirit is arguably the greatest truth recovered in the nineteenth century.
 
 In verse 39, we see the "Spirit was not yet, because Jesus had not yet been glorified." This is not that Christ as glorified, which became the requirement to *send* the Spirit, but the Spirit was *not yet*. The Spirit is eternal, and clearly operating in the Old Testament as a person of the Trinity. So in what sense was the Spirit "not yet" before Jesus was glorified? It had not yet entered the believers to flow out as rivers of living water (John 7:38).
 
@@ -144,7 +140,7 @@ The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His huma
 
 ### Lord Spirit
 
-2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit as the pneumatic Christ. In order to behold the Lord as the Spirit, one needs an [unveiled face](../veil). 
+2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit as the pneumatic Christ. In order to behold the Lord as the Spirit, one needs an [unveiled face](../veil). Transformation is also carried out through the Lord Spirit, as the compound Spirit which can put one's being through Christ's death and resurrection.
 
 ### Comforter
 

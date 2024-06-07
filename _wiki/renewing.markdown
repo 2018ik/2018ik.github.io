@@ -11,7 +11,7 @@ permalink: /renewing/
 
 ## Background
 
-**Renewing** is the process in which the spirit enters the mind, issuing in one's entire being becoming new (Rom. 12:2; Phil. 2:5; 1 Cor. 2:16). In our daily living, we always tend towards our oldness, rather than God who is newness itself. Renewing is contingent on setting the mind on the spirit and having a strong spirit that can break through into the mind. This breaking is through the cross which in the only thing that can terminate oldness to produce the new creation (2 Cor. 5:17).
+**Renewing** is the process in which the spirit enters the mind, issuing in one's entire being becoming new (Rom. 12:2; Phil. 2:5; 1 Cor. 2:16). In our daily living, we always tend towards our oldness, rather than God who is newness itself. Renewing is contingent on setting the mind on the spirit and having a strong spirit that can break through into the mind. This breaking is through the cross which is the only thing that can terminate oldness to produce the new creation (2 Cor. 5:17).
 
 To be renewed, we must experience the cross. Resurrection life always follows the killing of the cross, which is a key component in renewing.
 

@@ -6,9 +6,9 @@ permalink: /tripartite/
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)
 - [Three Lives](#three-lives)
-  - [Spiritual Man](#spiritual-man)
-  - [Soulish Man](#soulish-man)
-  - [Fleshly](#fleshly)
+  - [Divine Life](#divine-life)
+  - [Created Life](#created-life)
+  - [Satanic Life](#satanic-life)
 
 ## Background
 
@@ -63,14 +63,16 @@ When creating Adam, God formed him from the dust of the ground, indicating the B
 
 In Romans 7, we have three lives as a regenerated human being - the divine life in our spirit, the human life in our soul, and the satanic life in the flesh.
 
-### Spiritual Man
+### Divine Life 
 
 A believer may be a spiritual man, living habitually in his spirit under the annointing of the Holy Spirit (Rom. 8:3, 6; Gal. 5:25). A spiritual man does not behave according to the flesh or soul but lives according to the spirit mingled with the Spirit of God (Phil. 2:1). In 1 Cor. 5 Paul says that his spirit will be assembled with the Corinthians. This is a man with a powerful spirit.
 
-### Soulish Man
+### Created Life
+
+The created life refers to the human life given to Adam upon creation which prior to the fall was without sin. This life includes the spirit, soul, and body since man was created tripartite from the outset. However, the created life is primarily represented by the soul, meaning it is also one's person. This can be seen in the wife and two husbands in Romans 7; the neutral created life can join itself to either the Satanic life or God's life.
 
 A soulish man lives under the mind, emotion and will, ignoring the spirit and behaving as if he does not have a spirit. These are those who make divisions (Jude 10). Animals live under the soul - our pets have a mind, emotion, and will, but they don't have a conscience, and are unable to fathom concepts such as eternity, the meaning of life, etc. We don't see our dogs crouching in the corner having a mid-life crisis.
 
-### Fleshly
+### Satanic Life
 
 *Fleshy* denotes being made of flesh; *fleshly* denotes being influenced by the nature of the flesh and partaking of the character of the flesh.
