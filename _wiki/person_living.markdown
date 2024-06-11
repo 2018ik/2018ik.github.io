@@ -12,15 +12,15 @@ permalink: /person_living/
 
 ## Background
 
-God pays more attention to what kind of **person** or **character** someone lives than what they can accomplish. In a sense, in God's economy, the person *is* the work. The living of God's people should be different from the common living; this includes how one behaves in their work life, church life and family life.
+God pays more attention to what kind of **person** or **character** someone is than what they can accomplish. In a sense, in God's economy, the person *is* the work. The living of God's people should be different from the common living; this includes how one behaves in their work life, church life and family life. 
+
+To be a Christian, one must not only know God and His word, but also one's person. The only way to truly know oneself is actually through 
 
 ## Significance
 
 It is not enough to be competent in performing many tasks; the proper Christian living is one which lives out Christ daily, not only during the church meetings. How one conducts themselves in their daily living has a significant impact on their testimony towards their family (especially the children), friends and coworkers. Furthermore, those with a good character can be used by God to carry out many things. There is no difference between the Holy Spirit that each person receives; however, the degree to which that Spirit can penetrate one's being is a matter of character. 
 
 ## Biblical Basis
-
-Jesus could do nothing except that which was allowed by the Father (John ??:??). 
 
 Matthew 17:7-12 teaches that a good tree produces good fruit and that a corrupt tree produces bad fruit. A good tree inherently produces good fruit; it is the proper source which brings forth the proper results. Likewise, a proper minister will spontaneously result in a good ministry. It is senseless to try to work out a good ministry without first taking care of the person.
 

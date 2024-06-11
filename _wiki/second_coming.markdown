@@ -6,7 +6,7 @@ permalink: /second_coming/
 - [Background](#background)
 - [Significance](#significance)
 - [Timeline](#timeline)
-  - [Last Days](#last-days)
+  - [Europe](#europe)
   - [Hidden coming](#hidden-coming)
 
 ## Background
@@ -21,11 +21,11 @@ The world is hopeless, and all things defiled by the rebellion of Satan are to b
 
 ## Timeline 
 
-### Last Days
+In the last days men will be lovers of self, lovers of money (Matt 24:37-39). In the present day, we even worship celebrities as idols. Morality has been slowly undermined and degraded that even our leaders who are supposed to be the pinnacle of such things are immoral. In God's economy it is the opposite - it doesn't matter what you can do or what you're good at - the person is what matters.
 
-In the last days men will be lovers of self, lovers of money (Matt 24:37-39). In the present day, we even worship celebrities as idols. Morality has been slowly undermined and degraded that even our leaders who are supposed to be the pinnacle of such things are immoral.
+### Europe
 
-In God's economy it is the opposite - it doesn't matter what you can do or what you're good at - the person is what matters.
+Ten kingdoms, presumably in Europe, will join together under the Antichrist, who will be the last Caesar of the revived Roman Empire (Rev. 17:12). These are typified by the ten toes of the great human image in Daniel chapter 2.
 
 ### Hidden coming
 
