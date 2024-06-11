@@ -13,7 +13,7 @@ permalink: /christ_indwelling/
 
 ## Background
 
-Christ is **indwelling** the believers as the Spirit. When someone receives the Spirit, they received Christ as the Spirit who is the embodiment of the Father. The entire Triune God is dispensed into man at the same time. 
+Christ is **indwelling** the believers as the Spirit. When someone receives the Spirit, they received Christ as the Spirit who is the embodiment of the Father. The entire Triune God is dispensed into man to dwell in man at the same time. It is a common misconception that Christ is merely at the right hand of God in the heavens, and the Spirit is sent on behalf of Christ to enter into man. Actually, the Bible makes it clear that Christ Himself indwells the believers. To misconstrue this as the Spirit in the name of Christ is to alter the obvious intention of the Bible to fit one's human concept.
 
 The fact that Christ indwells us can be called the kernel of the gospel; the life-germ, center and vital point of God's gospel.
 
