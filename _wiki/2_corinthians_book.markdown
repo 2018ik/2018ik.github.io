@@ -15,7 +15,6 @@ permalink: /2_corinthians_book/
 
 **Second Corinthians** reveals what kind of person Paul was: someone who was spiritual and has learned to take Christ as grace despite His sufferings, oppositions, rejections and sorrows. According to Watchman Nee, 2 Corinthians is the deepest book in the New Testament, and could be considered an autobiography of the apostle Paul. The ministers of the new covenant are constituted with all the aspects of the Lord revealed in this book through the constituting work of the Spirit which takes place through sufferings, consuming pressures and the killing work of the cross (2 Cor. 1:8-12; 4:5-13; 11:28-30; 12:7-9).
 
-
 ## Summary
 
 ## Topics
@@ -26,9 +25,9 @@ Paul says that the believers have a treasure in earthen vessels (2 Cor. 4:7). Th
 
 ### Grace
 
-The last verse of this book - "the grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit" has the ordering Christ, God (the Father) and the Holy Spirit. Unlike the usual Father, Son, Spirit ordering of the Trinity seen in Matthew 28:19, the grace of Christ is mentioned first. This is because 2 Corinthians is a book about grace.
+The last verse of this book - "the grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit" has the ordering Christ, God (the Father) and the Holy Spirit. Unlike the usual Father, Son, Spirit ordering of the Trinity seen in Matthew 28:19, the grace of Christ is mentioned first. This is because 2 Corinthians is a book about grace. This grace is Christ Himself who is the reality of the good land.
 
-Paul prayed for the thorn to be removed from his side, but this was never answered according to his prayer. This is because God's grace was sufficient for him.
+Paul prayed for the thorn to be removed from his side, but this was never answered according to his prayer (2 Cor. 12:8). This is because God's grace was sufficient for him.
 
 ### Aspects of the Spirit
 

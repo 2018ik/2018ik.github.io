@@ -15,7 +15,7 @@ The **flesh** in the Bible is almost always negative, and usually refers to the 
 
 On the other hand, flesh sometimes refers to the totality of fallen man, including the physical body. In Genesis 6:3, God says that man is flesh (after initially being called a "soul" by God in 2:7). Paul’s flesh that was afflicted in 2 Corinthians 7:5 was his physical, fallen body.
 
-Romans chapters 7 shows the flesh while chapter 8 shows the Spirit. Both of these are subjective realizations of the old man and Christ respectively from chapter 6. Just as Christ is experienced through the Spirit, so is the old man experienced through the flesh. Christ is lived out in the Holy Spirit; likewise, the old man is lived out in the flesh. For example, the Bible says that our old man has been crucified with Christ.
+Romans chapters 7 shows the flesh while chapter 8 shows the Spirit. Both of these are subjective realizations of the old man and Christ respectively from chapter 6. Just as Christ is experienced through the Spirit, so is the old man experienced through the flesh. Christ is lived out in the Holy Spirit; likewise, the old man is lived out in the flesh. For example, the Bible says that our old man has been crucified with Christ. However, in our experience we may feel that the old man is not dead, and we have not been crucified with Christ. This is because the death of Christ is made real by the Spirit in the life-long process of organic salvation.
 
 ## Relation to the Old Man
 

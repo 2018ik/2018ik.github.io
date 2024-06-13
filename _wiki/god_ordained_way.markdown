@@ -33,7 +33,7 @@ John 15 has a picture of the vine and fruit-bearing. The Lord not only charged t
 
 ## Practice
 
-Practicing the God-ordained way is not an outward matter, actually it is a living which requires a personal and affectionate relationship with God. The below steps should be executed with a view of God's economy and in newness of life, otherwise it is a mere facsimile and a movement. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer to have a personal relationship with the Lord.
+Practicing the God-ordained way is not an outward matter, actually it is a living which requires a personal and affectionate relationship with God. The below steps should be executed with a view of God's economy and in newness of life, otherwise it is a mere facsimile and a movement. One needs be involved with the Lord in a full, mutual, divine and human way to fully carry out the God-ordained way. Therefore, practically speaking, the most important work in the God-ordained way is prayer to have a personal relationship with the Lord. The most common reason someone fails to open the hearts of man is because they themselves have insufficient fellowship with God and are not dealt with.
 
 For each step one must first see the vision, so their work is backed by a divine commission. Then, they must pray, followed by labor. This is a patient, persistent and faithful work to preach the gospel and to bear lasting fruit. Much like a farmer, one must appreciate the fruits of their labor and care for their fields to yield a consistent harvest. Lastly, one must study their results, and study the truth.  
 
