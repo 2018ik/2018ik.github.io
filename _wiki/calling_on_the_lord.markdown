@@ -20,7 +20,7 @@ permalink: /calling_on_the_lord/
 
 ## Background
 
-**Calling on the Lord** means to call towards the Lord to invoke His person. Men began to call upon the name of Jehovah in the time of Enosh (Gen 4:26), and this practice spread to many in the Old Testament, eventually spilling over to the New Testament. Yet, today there are few who call on the name of the Lord. This is one of the items recovered in the Lord's recovery. Thousands of saints have been released and enriched through calling on the name of the Lord.
+**Calling on the Lord** means to call towards the Lord to invoke His person. This is a [practical way](../speciality_generality_practicality#practicality) to exercise the spirit to receive life. Men began to call upon the name of Jehovah in the time of Enosh (Gen 4:26), and this practice spread to many in the Old Testament, eventually spilling over to the New Testament. Yet, today there are few who call on the name of the Lord. This is one of the items recovered in the Lord's recovery. Thousands of saints have been released and enriched through calling on the name of the Lord.
 
 Even from the lowest pit, we can call upon the name of the Lord (Lam. 3:55-56). In the same utterance from Jeremiah, we see that calling is closely related to breathing in the Lord, since crying out breathing in for air. We can also cry out with a ringing shout (Isa. 12:3-6). When we simply turn out being to God and call on His name, we are saved (Rom. 10:13), not only judicially, but also from Satan, sin, the world, death, depression, anxiety, hopelessness, etc. 
 
@@ -78,8 +78,7 @@ Saul had authority from the chief priests to bind all who call upon the Lord's n
 
 In his epistles, he continued to profess the significance of calling on the name of the Lord. Firstly in the matter of salvation, believing in the Lord and confessing with the mouth by calling upon the name of the Lord will save us (Rom. 10:9-10, 13). The Lord is also rich to all who all on Him (10:12) which allows Him to fill us, as empty vessels, with the rich Lord (Rom 9:23).
 
-In Paul's epistle to the Corinthians we see that the called saints are those who call on the name of the Lord Jesus Christ in every place (1 Cor. 1:2).
-No one can say "Jesus is Lord" except in the Holy Spirit (1 Cor. 12:3). We drink the Spirit (1 Cor. 12:13) by calling on His name. 
+In Paul's epistle to the Corinthians we see that the called saints are those who call on the name of the Lord Jesus Christ in every place (1 Cor. 1:2). No one can say "Jesus is Lord" except in the Holy Spirit (1 Cor. 12:3). We drink the Spirit by calling on His name (1 Cor. 12:13).
 
 Calling on the name of the Lord also allows us to depart from unrighteousness (2 Tim. 2:19). Furthermore, seeking to be a vessel unto honor, sanctified, useful to the master, we need to call on the Lord out of a pure heart with companions (2 Tim. 21-22).
 
