@@ -10,8 +10,8 @@ permalink: /dealing_with_soul/
 
 ## Background
 
-The soul life is an obstacle to God's life flow.
-
+**Dealing with the soul** is to deal with all the elements of the soul-life, such as the self. This is to deny one's natural thoughts and feelings which are an obstacle to God's life flow.
+ 
 ## Mind
 
 If the things someone wants to do originates from their thoughts, then these things will be nothing more than religious activities even if they are successful; they are not a testimony of Christ lived out from their spirit. Although they have the life of Christ within, they do not cooperate with Christ's life in their thoughts and actions and so this life cannot be lived out from them. When their mind is et on the spirit, their outward actions are in agreement with their inner man, and there is no discrepancy between them and God, so they are at peace with God (Rom. 8:6).

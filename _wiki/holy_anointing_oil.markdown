@@ -4,22 +4,19 @@ title: Holy Anointing Oil
 permalink: /holy_anointing_oil/
 ---
 - [Background](#background)
-- [Purpose](#purpose)
 - [Olive Oil](#olive-oil)
 - [Spices](#spices)
   - [Myrrh](#myrrh)
   - [Cinnamon](#cinnamon)
   - [Calamus](#calamus)
   - [Cassia](#cassia)
-- [Purpose](#purpose-1)
+- [Purpose](#purpose)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The **holy anointing oil** (or compound ointment) was a fragrant ointment of four spices and olive oil used to anoint the various items in the tabernacle and the priests (Exo. 30:25-31). This oil is a full type of the compound, all-inclusive Spirit of the processed Triune God. The addition of four spices (myrrh, cinnamon, calamus and cassia) to olive oil signifies four elements of Christ's humanity being compounded into the Spirit of God.
-
-## Purpose
+The **holy anointing oil** (or compound ointment) was a fragrant ointment of four spices and olive oil used to anoint the various items in the tabernacle and the priests (Exo. 30:25-31). This oil is a full type (and the best type) of the compound, all-inclusive Spirit of the processed Triune God. The addition of four spices (myrrh, cinnamon, calamus and cassia) to olive oil signifies four elements of Christ's humanity being compounded into the Spirit of God.
 
 The Son who had from eternity been with the Father began a new stage of existence when He became flesh. Prior to this, God possessed divinity, and was perfect and complete. However, He did not possess humanity and was not yet (John 7:39). Passing through human living, death and resurrection, [Christ was glorified](../christ_glorification), adding all the elements of His humanity into the Godhead and became the life-giving Spirit, the Spirit of reality, to make Himself real to His believers.
 
@@ -53,7 +50,7 @@ Cassia in ancient times was used as a repellent to drive away insects and snakes
 
 ## Purpose
 
-The compound ointment in in the Old Testament was for sanctifying the tabernacle and priests, things and persons related to the worship of God (Exo. 30:26-30). Furthermore, it says that the anointing oil will be "throughout your generations" indicating that it is eternal (Exo. 30:31) and that it should not be poured on the flesh of man (Exo. 30:32).
+The compound ointment in the OT was for sanctifying the tabernacle and priests, things and persons related to the worship of God (Exo. 30:26-30). When something is anointed, that things is considered to be under God's possession. Saul and David were anointed by Samuel with this oil to prove their kingship. Furthermore, it says that the anointing oil will be "throughout your generations" indicating that it is eternal (Exo. 30:31) and that it should not be poured on the flesh of man (Exo. 30:32).
 
 Today, the compound Spirit as the reality of this ointment anoints the believers of Christ to sanctify them in their organic salvation. To be anointed with the Spirit is to receive a coat of divine paint. This is a permanent imparting of Christ to man which lasts eternally, and can only be enjoyed by the new creation. The old creation, the flesh, cannot receive the anointing of the compound Spirit.
 

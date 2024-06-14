@@ -9,3 +9,10 @@ permalink: /parable_prodigal_son/
 ## Background
 
 ## Significance
+
+Symbolism summary:
+
+| Item | Description |
+| --- | --- |
+| Prodigal Son | An unsaved person |
+| Father | God |

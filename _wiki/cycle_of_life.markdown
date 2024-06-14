@@ -13,7 +13,7 @@ The cycle begins with fellowship with the believers and with God (1 John 1:3). T
 
 Then, we apply the blood of Jesus which cleanses us from every sin (1 John 1:7). Actual and genuine cleansing occurs when one is in the fellowship of life and in the light. Lastly, the anointing in 1 John 2:20 and 27 follows the blood. This is according to the order in 1 John, as well as the ointment following the blood in the Old Testament (Lev. 14:14-18).
 
-As a cycle, these four aspects repeat, giving us a deeper fellowship, a deeper light, a deeper experience of the blood, and a deeper annointing with each repetition. This issues in the building up of the Church, the Body of Christ (Eph. 4:16), which consummates in the New Jerusalem.
+As a cycle, these four aspects repeat, giving us a deeper fellowship, a deeper light, a deeper experience of the blood, and a deeper annointing with each repetition. In another sense, the blood can more generally be described as the the cross. The more light we receive, the more we put to death our self through the cross of Christ which likewise issues in a deeper anointing.
 
 
 
