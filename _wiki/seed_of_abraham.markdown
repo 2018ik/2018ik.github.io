@@ -14,7 +14,7 @@ The **Seed of Abraham** is a title of Christ, as a descendent of Abraham. To be 
 
 ## Biblical Basis
 
-The genealogies in Matthew and Luke prove this.
+The genealogies in Matthew and Luke prove that Jesus Christ was a descendant of Abraham. Therefore to be put into Christ by being baptized into the name of the Triune God is to become Abraham's seed and to receive his blessing (Gal. 3:29; Matt. 28:19).
 
 ## Significance
 

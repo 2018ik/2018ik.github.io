@@ -1,9 +1,8 @@
---
+---
 layout: pagev2
 title: Gospel Preaching
 permalink: /gospel_preaching/
 ---
-- [permalink: /gospel\_preaching/](#permalink-gospel_preaching)
 - [Background](#background)
 - [Significance](#significance)
 - [Practice](#practice)

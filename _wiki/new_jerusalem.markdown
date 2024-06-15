@@ -11,6 +11,7 @@ permalink: /new_jerusalem/
   - [Tree of Life](#tree-of-life)
   - [Street](#street)
   - [Mountain](#mountain)
+  - [Wall](#wall)
   - [Precious Materials](#precious-materials)
 - [Application](#application)
 
@@ -20,7 +21,7 @@ permalink: /new_jerusalem/
 
 ## Background
 
-The **New Jerusalem** is the complete expression and enlargement of the processed Triune God mingled with the believers as a divine-human incorporation. It is not a physical city or place, but the bride of God in the millennium and the wife of God in eternity (Rev. 21:2). God in eternity stepped into time and created all things including man to obtain for Himself a counterpart whom He could marry. As the final vision given to John, the New Jerusalem is the greatest and ultimate sign in the scriptures (Rev. 1:1).
+The **New Jerusalem** is the complete expression and enlargement of God mingled with man as the consummate issue of the church, the Body of Christ. It is not a physical city or place, but the totality of all believers as the bride of God in the millennium and the wife of God in eternity (Rev. 21:2). God in eternity stepped into time and created all things including man to obtain for Himself a counterpart whom He could marry. As the final vision given to John, the New Jerusalem is the greatest and ultimate sign in the scriptures (Rev. 1:1).
 
 Christians often believe that they will end up in heaven, and there will be some kind of mansion, golden streets, etc. Similarly, we may have certain concepts regarding the New Jerusalem. But the Bible tells us that the New Jerusalem is a lot more than just a city. If we miss this, then we are missing a rich gospel that the Lord is showing us.
 
@@ -67,6 +68,12 @@ The street of gold signifies divine and human communications, as it proceeds fro
 ### Mountain
 
 The New Jerusalem is 12000 stadia tall, about 1300 miles, yet its walls are only 144 cubits. Furthermore, it is pure gold (Rev. 21:18). This indicates that the city itself may be a mountain.
+
+### Wall
+
+There is a great and high wall with twelve gates, with three gates in each cardinal direction. The wall signifies separation and protection while the gates signify communication and entrance. Some believers and churches have a very strong wall, but with no gates, so there is no way for people to enter in. This is to be sectarian and exclusive. 
+
+The gates in four direction means that no matter where someone is coming from and what their background is, there must be a way for them to enter into the church. The Lord's charge is to disciple *all* the nations (Matt. 28:19). The three gates on each side signifies the Triune God working to bring people into the church.
 
 ### Precious Materials
 

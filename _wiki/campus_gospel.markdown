@@ -9,15 +9,15 @@ permalink: /campus_gospel/
 - [How to Preach](#how-to-preach)
   - [Choosing](#choosing)
   - [Testimony](#testimony)
+  - [Oneness](#oneness)
   - [Questions to Expect](#questions-to-expect)
   - [Cold Gospel](#cold-gospel)
   - [Follow up](#follow-up)
   - [6+1 Items You Need](#61-items-you-need)
-- [Commission](#commission)
 
 ## Background
 
-The best window of opportunity to preach the gospel to college students is during the orientation phase in the beginning of a semester, as well as to freshman in particular. It is easy for a person to receive the gospel when they are undergoing change. 
+The **campus gospel** is important as college campuses are one of the only places on earth with a large, diverse population who are at a turning point in their lives. The best window of opportunity to preach the gospel to college students is during the orientation phase in the beginning of a semester, as well as to freshman in particular. It is easy for a person to receive the gospel when they are undergoing change. 
 
 ## Grasping the Opportunity
 
@@ -61,7 +61,7 @@ Cold gospel preaching is shorter in duration compared to the vital gospel, and s
 
 1. Don't text at the wrong time. 6 AM for example is one of the worst times for getting a response. 4 - 5:30 PM or past 9 PM appears to maximize response rate.
 2. Text like a freshman; come down to their level
-3. First text to send should be "Hey is this <name>?"
+3. First text to send can be something like "Hey is this <name>?"
 4. Match their texting cadence
 
 ### 6+1 Items You Need
@@ -70,10 +70,6 @@ Cold gospel preaching is shorter in duration compared to the vital gospel, and s
 2. Body
 3. Prayer
 4. Word
-5. Homes
+5. Homes (+1)
 6. Proper daily living
 7. Universal love
-
-## Commission
-
-September is a golden time to catch the freshmen. Every September we should be able to catch a good number. This does not mean that we do not preach the gospel to others. Our daily walk, our meetings, and our communal life are all a type of gospel preaching. Wherever we live, we influence the community. But we must purposely form teams to go to the campuses to reach the young people. If we do this with much prayer, a good number will be brought in. Let September be the time to make contact and October the month to reap. During these months, concentrate your time and labor on reaping a new crop of freshmen. First you reap them, then you build them up. After that, you may use them to gain their classmates or roommates. We need to do the same thing year after year. I believe that each time we do this, more freshmen will be reaped. Do not miss this opportunity.
