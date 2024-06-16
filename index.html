@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three.js Links Example</title>
+    <style>
+        body { margin: 0; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script>
+        // Three.js scene setup
+        var scene = new THREE.Scene();
+        var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        var renderer = new THREE.WebGLRenderer();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        // OrbitControls for looking around
+        var controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.target.set(0, 1, 0); // Set the controls to look at the wall
+
+        // Add lights
+        var ambientLight = new THREE.AmbientLight(0x404040); // Soft white light
+        scene.add(ambientLight);
+
+        var directionalLight = new THREE.DirectionalLight(0xffffff, 1);
+        directionalLight.position.set(1, 1, 1).normalize();
+        scene.add(directionalLight);
+
+        // Create a square platform with shading
+        var platformGeometry = new THREE.BoxGeometry(5, 0.5, 5);
+        var platformMaterial = new THREE.MeshPhongMaterial({ color: 0xcccccc }); // Gray color with shading
+        var platform = new THREE.Mesh(platformGeometry, platformMaterial);
+        scene.add(platform);
+
+        // Position the platform
+        platform.position.y = -0.25;
+
+        // Create a 3D wall with shading
+        var wallGeometry = new THREE.BoxGeometry(5, 2.5, 0.1);
+        var wallMaterial = new THREE.MeshPhongMaterial({ color: 0xffffff });
+        var wall = new THREE.Mesh(wallGeometry, wallMaterial);
+        scene.add(wall);
+
+        // Position the wall
+        wall.position.set(0, 1.25, -2);
+        var loader = new THREE.TextureLoader();
+
+        var linkGoogleTexture = loader.load('https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google.png/600px-Google.png');
+        var linkGoogleMaterial = new THREE.MeshBasicMaterial({ map: linkGoogleTexture });
+        var linkGoogle = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkGoogleMaterial);
+        linkGoogle.position.set(-1, 0.5, 0.06);
+        wall.add(linkGoogle);
+
+        var linkStudyTexture = loader.load('img/studytools.png');
+        var linkStudyMaterial = new THREE.MeshBasicMaterial({ map: linkStudyTexture });
+        var linkStudy = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkStudyMaterial);
+        linkStudy.position.set(1, 0.5, 0.06);
+        wall.add(linkStudy);
+
+        var linkLibraryTexture = loader.load('img/library.png');
+        var linkLibraryMaterial = new THREE.MeshBasicMaterial({ map: linkLibraryTexture });
+        var linkLibrary = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkLibraryMaterial);
+        linkLibrary.position.set(0, 0.5, -0.06 - 0.1);
+        linkLibrary.rotation.y = Math.PI;
+        wall.add(linkLibrary);
+
+        // Add green grass and blue sky background
+        var groundGeometry = new THREE.PlaneGeometry(1000, 1000);
+        var groundMaterial = new THREE.MeshBasicMaterial({ color: 0x00ff00, side: THREE.DoubleSide });
+        var ground = new THREE.Mesh(groundGeometry, groundMaterial);
+        ground.rotation.x = -Math.PI / 2;
+        ground.position.y = -0.5;
+        scene.add(ground);
+
+        var skyGeometry = new THREE.SphereGeometry(1000, 32, 32);
+        var skyMaterial = new THREE.MeshBasicMaterial({ color: 0x87ceeb, side: THREE.BackSide });
+        var sky = new THREE.Mesh(skyGeometry, skyMaterial);
+        scene.add(sky);
+
+        // Set camera position
+        camera.position.set(0, 1, 3);
+        camera.lookAt(0, 1, 0);
+
+        // Raycaster for detecting clicks
+        var raycaster = new THREE.Raycaster();
+        var mouse = new THREE.Vector2();
+
+        function onMouseClick(event) {
+            event.preventDefault();
+
+            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+            raycaster.setFromCamera(mouse, camera);
+
+            var intersects = raycaster.intersectObjects([linkGoogle, linkStudy, linkLibrary]);
+
+            if (intersects.length > 0) {
+                var intersectedObject = intersects[0].object;
+                if (intersectedObject === linkGoogle) {
+                    window.open('https://www.google.com', '_blank');
+                } else if (intersectedObject === linkStudy) {
+                    window.open(document.URL + 'studytools', '_blank');
+                } else if (intersectedObject === linkLibrary) {
+                    window.open(document.URL + 'wiki', '_blank');
+                }
+            }
+        }
+
+        window.addEventListener('click', onMouseClick, false);
+
+        // Render loop
+        function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            renderer.render(scene, camera);
+        }
+        animate();
+    </script>
+</body>
+</html>

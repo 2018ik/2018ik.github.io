@@ -35,14 +35,31 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+# For faster local builds
+exclude: 
+  - _wiki/b*
+  - _wiki/c*
+  - _wiki/d*
+  - _wiki/e*
+  - _wiki/f*
+  - _wiki/g*
+  - _wiki/h*
+  - _wiki/i*
+  - _wiki/j*
+  - _wiki/k*
+  - _wiki/l*
+  - _wiki/m*
+  - _wiki/n*
+  - _wiki/o*
+  - _wiki/p*
+  - _wiki/q*
+  - _wiki/r*
+  - _wiki/s*
+  - _wiki/t*
+  - _wiki/u*
+  - _wiki/v*
+  - _wiki/w*
+  - _wiki/x*
+  - _wiki/y*
+  - _wiki/z*
