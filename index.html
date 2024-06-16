@@ -73,12 +73,17 @@
         wall.add(linkLibrary);
 
         // Add green grass and blue sky background
-        var groundGeometry = new THREE.PlaneGeometry(1000, 1000);
-        var groundMaterial = new THREE.MeshBasicMaterial({ color: 0x00ff00, side: THREE.DoubleSide });
-        var ground = new THREE.Mesh(groundGeometry, groundMaterial);
-        ground.rotation.x = -Math.PI / 2;
-        ground.position.y = -0.5;
-        scene.add(ground);
+        var groundGeometry = new THREE.PlaneGeometry(64, 64);
+        var grassTexture = loader.load('img/grass.png'); // Make sure to replace 'path/to/grass.png' with the actual path to your image
+grassTexture.wrapS = THREE.RepeatWrapping;
+grassTexture.wrapT = THREE.RepeatWrapping;
+grassTexture.repeat.set(100, 100); // Repeat the texture to cover the ground
+var groundMaterial = new THREE.MeshBasicMaterial({ map: grassTexture, side: THREE.DoubleSide });
+var ground = new THREE.Mesh(groundGeometry, groundMaterial);
+ground.rotation.x = -Math.PI / 2;
+ground.position.y = -0.5;
+scene.add(ground);
+
 
         // Create a group for clouds
         var cloudGroup = new THREE.Group();
