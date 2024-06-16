@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Antichrist
-permalink: /antichrist/
+permalink: /wiki/antichrist/
 ---
 - [Background](#background)
 - [Significance](#significance)

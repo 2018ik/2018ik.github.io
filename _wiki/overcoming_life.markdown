@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Overcoming Life
-permalink: /overcoming_life/
+permalink: /wiki/overcoming_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

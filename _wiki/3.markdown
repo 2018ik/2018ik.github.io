@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 3 (Number)
-permalink: /3/
+permalink: /wiki/3/
 ---
 - [Background](#background)
 

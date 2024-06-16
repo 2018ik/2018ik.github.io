@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Roots
-permalink: /roots/
+permalink: /wiki/roots/
 ---
 - [Background](#background)
 - [Significance](#significance)

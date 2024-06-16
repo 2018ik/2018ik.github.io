@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Apollos
-permalink: /apollos/
+permalink: /wiki/apollos/
 ---
 - [Background](#background)
 - [Significance](#significance)

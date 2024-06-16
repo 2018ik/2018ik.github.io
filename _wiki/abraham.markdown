@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Abraham
-permalink: /abraham/
+permalink: /wiki/abraham/
 ---
 - [Background](#background)
 - [Faith](#faith)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 2 Corinthians (Book)
-permalink: /2_corinthians_book/
+permalink: /wiki/2_corinthians_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

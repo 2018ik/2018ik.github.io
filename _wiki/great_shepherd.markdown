@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Great Shepherd
-permalink: /great_shepherd/
+permalink: /wiki/great_shepherd/
 ---
 - [Background](#background)
 

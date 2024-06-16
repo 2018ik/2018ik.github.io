@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Leaven
-permalink: /leaven/
+permalink: /wiki/leaven/
 ---
 - [Background](#background)
 - [Types](#types)

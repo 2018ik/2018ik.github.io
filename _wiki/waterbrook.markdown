@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Waterbrook
-permalink: /waterbrook/
+permalink: /wiki/waterbrook/
 ---
 - [Background](#background)
 - [Significance](#significance)

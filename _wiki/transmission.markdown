@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Transmission
-permalink: /transmission/
+permalink: /wiki/transmission/
 ---
 - [Background](#background)
 - [Electricity](#electricity)

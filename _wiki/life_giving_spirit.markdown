@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Life-giving Spirit
-permalink: /life_giving_spirit/
+permalink: /wiki/life_giving_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

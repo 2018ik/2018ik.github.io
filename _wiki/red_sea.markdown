@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Red Sea
-permalink: /red_sea/
+permalink: /wiki/red_sea/
 ---
 - [Background](#background)
 - [Significance](#significance)

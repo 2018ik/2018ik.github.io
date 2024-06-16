@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Earthly Ministry
-permalink: /earthly_ministry/
+permalink: /wiki/earthly_ministry/
 ---
 - [Background](#background)
 

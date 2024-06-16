@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Samuel
-permalink: /samuel/
+permalink: /wiki/samuel/
 ---
 - [Background](#background)
 

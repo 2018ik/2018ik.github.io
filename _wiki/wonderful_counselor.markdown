@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Wonderful Counselor
-permalink: /wonderful_counselor/
+permalink: /wiki/wonderful_counselor/
 ---
 - [Background](#background)
 - [Significance](#significance)

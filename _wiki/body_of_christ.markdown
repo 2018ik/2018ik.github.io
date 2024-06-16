@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Body of Christ
-permalink: /body_of_christ/
+permalink: /wiki/body_of_christ/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

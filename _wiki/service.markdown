@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Service
-permalink: /service/
+permalink: /wiki/service/
 ---
 - [Background](#background)
 - [Practice](#practice)

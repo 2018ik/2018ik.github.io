@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Treasure in Earthen Vessels
-permalink: /treasure_in_earthen_vessels/
+permalink: /wiki/treasure_in_earthen_vessels/
 ---
 - [Background](#background)
 - [Application](#application)

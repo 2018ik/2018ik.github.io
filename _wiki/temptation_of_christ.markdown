@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Temptation of Christ
-permalink: /temptation_of_christ/
+permalink: /wiki/temptation_of_christ/
 ---
 - [Background](#background)
 - [Temptations](#temptations)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Church Degradation
-permalink: /church_degradation/
+permalink: /wiki/church_degradation/
 ---
 - [Background](#background)
 - [Causes](#causes)

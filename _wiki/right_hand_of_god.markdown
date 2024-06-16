@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Right Hand of God
-permalink: /right_hand_of_god/
+permalink: /wiki/right_hand_of_god/
 ---
 - [Background](#background)
 

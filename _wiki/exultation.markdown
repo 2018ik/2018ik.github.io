@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Exultation
-permalink: /exultation/
+permalink: /wiki/exultation/
 ---
 - [Background](#background)
 - [Significance](#significance)

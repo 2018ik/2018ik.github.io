@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Deacon
-permalink: /Deacon/
+permalink: /wiki/Deacon/
 ---
 
 ## Background

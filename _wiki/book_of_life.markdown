@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Book of Life
-permalink: /book_of_life/
+permalink: /wiki/book_of_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

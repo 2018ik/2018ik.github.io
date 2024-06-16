@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Nahum (Book)
-permalink: /nahum_book/
+permalink: /wiki/nahum_book/
 ---
 - [Background](#background)
 

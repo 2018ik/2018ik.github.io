@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ's Resurrection
-permalink: /christ_resurrection/
+permalink: /wiki/christ_resurrection/
 ---
 - [Background](#background)
 - [Significance](#significance)

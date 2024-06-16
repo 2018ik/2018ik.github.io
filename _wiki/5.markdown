@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 5 (Number)
-permalink: /5/
+permalink: /wiki/5/
 ---
 - [Background](#background)
 - [Examples](#examples)

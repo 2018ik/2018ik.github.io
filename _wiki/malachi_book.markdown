@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Malachi (Book)
-permalink: /malachi_book/
+permalink: /wiki/malachi_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

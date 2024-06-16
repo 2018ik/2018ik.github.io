@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Galatians (Chapters)
-permalink: /galatians_chapters/
+permalink: /wiki/galatians_chapters/
 ---
 - [Background](#background)
 

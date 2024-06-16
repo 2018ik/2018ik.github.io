@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Anointing
-permalink: /anointing/
+permalink: /wiki/anointing/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

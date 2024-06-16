@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Household Salvation
-permalink: /household_salvation/
+permalink: /wiki/household_salvation/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

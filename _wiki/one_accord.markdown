@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: One Accord
-permalink: /one_accord/
+permalink: /wiki/one_accord/
 ---
 - [Background](#background)
 - [Vision](#vision)

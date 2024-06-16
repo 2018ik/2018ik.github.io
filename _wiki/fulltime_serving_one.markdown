@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Full-time Serving One
-permalink: /fulltime_serving_one/
+permalink: /wiki/fulltime_serving_one/
 ---
 - [Background](#background)
 - [Basis](#basis)

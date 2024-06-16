@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 1 Corinthians Chapters
-permalink: /first_corinthians_chapters/
+permalink: /wiki/first_corinthians_chapters/
 ---
 - [Background](#background)
 - [3](#3)

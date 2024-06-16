@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: God's Calling
-permalink: /gods_calling/
+permalink: /wiki/gods_calling/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Numbers (Book)
-permalink: /numbers_book/
+permalink: /wiki/numbers_book/
 ---
 - [Background](#background)
 

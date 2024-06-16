@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Submission
-permalink: /submission/
+permalink: /wiki/submission/
 ---
 - [Background](#background)
 - [Significance](#significance)

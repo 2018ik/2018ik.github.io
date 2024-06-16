@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: All-Inclusive Christ
-permalink: /all_inclusive_christ/
+permalink: /wiki/all_inclusive_christ/
 ---
 - [Background](#background)
 - [What Christ Is](#what-christ-is)

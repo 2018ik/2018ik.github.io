@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Worship
-permalink: /worship/
+permalink: /wiki/worship/
 ---
 - [Background](#background)
 - [Significance](#significance)

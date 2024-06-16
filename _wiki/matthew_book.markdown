@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Matthew (Book)
-permalink: /matthew_book/
+permalink: /wiki/matthew_book/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Church Failures
-permalink: /church_failures/
+permalink: /wiki/church_failures/
 ---
 - [Background](#background)
 - [Significance](#significance)

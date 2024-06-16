@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Organic Union
-permalink: /organic_union/
+permalink: /wiki/organic_union/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

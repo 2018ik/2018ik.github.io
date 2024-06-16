@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Allotted Portion
-permalink: /allotted_portion/
+permalink: /wiki/allotted_portion/
 ---
 - [Background](#background)
 - [Significance](#significance)

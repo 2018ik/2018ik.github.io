@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Donkey
-permalink: /donkey/
+permalink: /wiki/donkey/
 ---
 - [Background](#background)
 - [Significance](#significance)

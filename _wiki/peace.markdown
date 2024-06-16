@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Peace
-permalink: /peace/
+permalink: /wiki/peace/
 ---
 
 ## Background

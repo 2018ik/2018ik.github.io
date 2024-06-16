@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Exhibition
-permalink: /exhibition/
+permalink: /wiki/exhibition/
 ---
 - [Background](#background)
 - [Significance](#significance)

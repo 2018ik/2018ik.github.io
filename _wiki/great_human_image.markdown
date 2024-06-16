@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Great Human Image
-permalink: /great_human_image/
+permalink: /wiki/great_human_image/
 ---
 - [Background](#background)
 

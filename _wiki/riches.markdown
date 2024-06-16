@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Riches
-permalink: /riches/
+permalink: /wiki/riches/
 ---
 - [Background](#background)
 - [Application](#application)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Enoch
-permalink: /enoch/
+permalink: /wiki/enoch/
 ---
 - [Background](#background)
 - [Parent](#parent)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Corruption
-permalink: /corruption/
+permalink: /wiki/corruption/
 ---
 - [Background](#background)
 - [Significance](#significance)

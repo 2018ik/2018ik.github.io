@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ezekiel (Book)
-permalink: /ezekiel_book/
+permalink: /wiki/ezekiel_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

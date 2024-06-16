@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Clothed with the Spirit
-permalink: /clothed_with_the_spirit/
+permalink: /wiki/clothed_with_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

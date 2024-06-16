@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Defense and Confirmation Project (DCP)
-permalink: /defense_and_confirmation/
+permalink: /wiki/defense_and_confirmation/
 ---
 - [Background](#background)
 - [History](#history)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Excess
-permalink: /excess/
+permalink: /wiki/excess/
 ---
 - [Background](#background)
 

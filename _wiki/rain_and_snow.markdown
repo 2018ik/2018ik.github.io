@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Rain and Snow
-permalink: /rain_and_snow/
+permalink: /wiki/rain_and_snow/
 ---
 - [Background](#background)
 

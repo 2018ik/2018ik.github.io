@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Holy
-permalink: /holy/
+permalink: /wiki/holy/
 ---
 - [Background](#background)
 - [Significance](#significance)

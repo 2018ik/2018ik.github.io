@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Garden
-permalink: /garden/
+permalink: /wiki/garden/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

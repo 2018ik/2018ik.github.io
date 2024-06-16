@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Human Concept
-permalink: /human_concept/
+permalink: /wiki/human_concept/
 ---
 - [Background](#background)
 

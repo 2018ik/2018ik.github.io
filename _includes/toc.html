@@ -77,7 +77,7 @@
       {% assign content_without_testimony = page.content | markdownify | split: '<h2 id="testimonies">Testimonies</h2>' | first %}
       {% assign word_count = content_without_testimony | replace: "\n", ' ' | split: ' ' | size %}
       <tr>
-          <td><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></td>
+          <td><a href="{{ page.url }}">{{ page.title }}</a></td>
           <td>{{ word_count }}</td>
       </tr>
     {% endfor %}

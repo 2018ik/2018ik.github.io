@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Rapture
-permalink: /rapture/
+permalink: /wiki/rapture/
 ---
 - [Background](#background)
 - [Significance](#significance)

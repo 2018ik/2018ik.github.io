@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Stone
-permalink: /stone/
+permalink: /wiki/stone/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

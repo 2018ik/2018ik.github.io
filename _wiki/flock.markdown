@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Flock
-permalink: /flock/
+permalink: /wiki/flock/
 ---
 - [Background](#background)
 

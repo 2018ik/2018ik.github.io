@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Apostle
-permalink: /apostle/
+permalink: /wiki/apostle/
 ---
 - [Background](#background)
 - [History](#history)

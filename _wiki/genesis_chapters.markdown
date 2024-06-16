@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Genesis Chapters
-permalink: /genesis_chapters/
+permalink: /wiki/genesis_chapters/
 ---
 - [Background](#background)
 - [35](#35)

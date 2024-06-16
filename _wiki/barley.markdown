@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Barley
-permalink: /barley/
+permalink: /wiki/barley/
 ---
 - [Background](#background)
 - [Significance](#significance)

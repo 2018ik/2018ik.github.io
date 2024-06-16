@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Foretaste
-permalink: /foretaste/
+permalink: /wiki/foretaste/
 ---
 - [Background](#background)
 

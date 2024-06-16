@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hades
-permalink: /hades/
+permalink: /wiki/hades/
 ---
 - [Background](#background)
 - [Significance](#significance)

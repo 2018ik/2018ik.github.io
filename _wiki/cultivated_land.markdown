@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cultivated Land
-permalink: /cultivated_land/
+permalink: /wiki/cultivated_land/
 ---
 - [Background](#background)
 

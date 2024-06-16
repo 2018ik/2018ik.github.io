@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Veil
-permalink: /veil/
+permalink: /wiki/veil/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

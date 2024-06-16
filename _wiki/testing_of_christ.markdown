@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Testing of Christ
-permalink: /testing_of_christ/
+permalink: /wiki/testing_of_christ/
 ---
 - [Background](#background)
 - [Tests](#tests)

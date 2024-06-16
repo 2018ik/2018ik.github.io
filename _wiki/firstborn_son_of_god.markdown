@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Firstborn Son of God
-permalink: /firstborn_son_of_god/
+permalink: /wiki/firstborn_son_of_god/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

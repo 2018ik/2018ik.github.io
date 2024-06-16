@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jehovah
-permalink: /jehovah/
+permalink: /wiki/jehovah/
 ---
 - [Background](#background)
 

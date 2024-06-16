@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: God's Attributes
-permalink: /gods_attributes/
+permalink: /wiki/gods_attributes/
 ---
 - [Background](#background)
 

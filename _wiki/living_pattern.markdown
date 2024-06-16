@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Living Pattern
-permalink: /living_pattern/
+permalink: /wiki/living_pattern/
 ---
 - [Background](#background)
 - [Significance](#significance)

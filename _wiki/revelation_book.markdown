@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Revelation (Book)
-permalink: /revelation_book/
+permalink: /wiki/revelation_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

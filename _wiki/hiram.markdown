@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hiram
-permalink: /hiram/
+permalink: /wiki/hiram/
 ---
 - [Background](#background)
 - [History](#history)

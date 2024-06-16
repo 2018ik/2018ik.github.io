@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Life Practice
-permalink: /life_practice/
+permalink: /wiki/life_practice/
 ---
 - [Background](#background)
 

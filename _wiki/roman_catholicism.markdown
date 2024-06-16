@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Roman Catholicism
-permalink: /roman_catholicism/
+permalink: /wiki/roman_catholicism/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

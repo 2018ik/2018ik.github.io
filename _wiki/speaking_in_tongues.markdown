@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Speaking in Tongues
-permalink: /speaking_in_tongues/
+permalink: /wiki/speaking_in_tongues/
 ---
 - [Background](#background)
 - [Significance](#significance)

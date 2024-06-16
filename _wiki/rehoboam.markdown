@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Rehoboam
-permalink: /rehoboam/
+permalink: /wiki/rehoboam/
 ---
 - [Background](#background)
 - [History](#history)

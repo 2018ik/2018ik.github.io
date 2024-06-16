@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spiritual Sacrifices
-permalink: /spiritual_sacrifices/
+permalink: /wiki/spiritual_sacrifices/
 ---
 - [Background](#background)
 - [Significance](#significance)

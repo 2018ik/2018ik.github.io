@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Children of God
-permalink: /children_of_god/
+permalink: /wiki/children_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

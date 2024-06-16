@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Out-resurrection
-permalink: /out_resurrection/
+permalink: /wiki/out_resurrection/
 ---
 
 >"If perhaps I may attain to the out-resurrection from the dead."

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sons of God
-permalink: /sons_of_god/
+permalink: /wiki/sons_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

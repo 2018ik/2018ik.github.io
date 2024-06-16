@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Grafting
-permalink: /grafting/
+permalink: /wiki/grafting/
 ---
 - [Background](#background)
 - [Process](#process)

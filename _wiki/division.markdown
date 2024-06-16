@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Division
-permalink: /division/
+permalink: /wiki/division/
 ---
 - [Background](#background)
 

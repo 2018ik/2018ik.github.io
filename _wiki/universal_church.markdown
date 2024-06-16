@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Universal Church
-permalink: /universal_church/
+permalink: /wiki/universal_church/
 ---
 - [Background](#background)
 

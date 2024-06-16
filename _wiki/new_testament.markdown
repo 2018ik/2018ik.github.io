@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: New Testament
-permalink: /new_testament/
+permalink: /wiki/new_testament/
 ---
 - [Background](#background)
 - [Significance](#significance)

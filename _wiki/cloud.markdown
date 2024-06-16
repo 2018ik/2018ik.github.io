@@ -1,7 +1,7 @@
 ---
 l (Nayout: pagev2
 title: Cloud
-permalink: /cloud/
+permalink: /wiki/cloud/
 ---
 - [Background](#background)
 - [Significance](#significance)

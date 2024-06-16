@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Blending
-permalink: /blending/
+permalink: /wiki/blending/
 ---
 - [Background](#background)
 

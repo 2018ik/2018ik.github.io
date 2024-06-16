@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Kings (Book)
-permalink: /kings_book/
+permalink: /wiki/kings_book/
 ---
 - [Background](#background)
 

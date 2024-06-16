@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ecclesiastes (Book)
-permalink: /ecclesiastes_book/
+permalink: /wiki/ecclesiastes_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

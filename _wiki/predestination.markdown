@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Predestination
-permalink: /predestination/
+permalink: /wiki/predestination/
 ---
 - [Background](#background)
   

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Testament
-permalink: /testament/
+permalink: /wiki/testament/
 ---
 - [Background](#background)
 - [Related Terms](#related-terms)

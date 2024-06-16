@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: James (Book)
-permalink: /james/
+permalink: /wiki/james/
 ---
 - [Background](#background)
 - [Author](#author)

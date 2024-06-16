@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Joy
-permalink: /joy/
+permalink: /wiki/joy/
 ---
 - [Background](#background)
 - [Aspects](#aspects)

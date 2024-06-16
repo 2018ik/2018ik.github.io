@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Promise of the Spirit
-permalink: /promise_of_the_spirit/
+permalink: /wiki/promise_of_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

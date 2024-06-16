@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ambition
-permalink: /ambition/
+permalink: /wiki/ambition/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

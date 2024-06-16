@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Wisdom
-permalink: /wisdom/
+permalink: /wiki/wisdom/
 ---
 - [Background](#background)
 - [Aspects](#aspects)

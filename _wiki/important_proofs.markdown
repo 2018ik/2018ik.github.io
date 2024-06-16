@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Important Proofs
-permalink: /important_proofs/
+permalink: /wiki/important_proofs/
 ---
 - [Background](#background)
 - [Grace = Christ as enjoyment](#grace--christ-as-enjoyment)

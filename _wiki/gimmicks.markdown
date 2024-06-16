@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Gimmicks
-permalink: /gimmicks/
+permalink: /wiki/gimmicks/
 ---
 - [Background](#background)
 - [Significance](#significance)

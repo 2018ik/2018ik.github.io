@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Exodus (Book)
-permalink: /exodus_book/
+permalink: /wiki/exodus_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

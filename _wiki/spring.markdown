@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spring
-permalink: /spring/
+permalink: /wiki/spring/
 ---
 - [Background](#background)
 - [Significance](#significance)

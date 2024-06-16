@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Divine Right
-permalink: /divine_right/
+permalink: /wiki/divine_right/
 ---
 - [Background](#background)
 - [Significance](#significance)

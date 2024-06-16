@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Exchanged Life
-permalink: /exchanged_life/
+permalink: /wiki/exchanged_life/
 ---
 - [Background](#background)
 - [Proof](#proof)

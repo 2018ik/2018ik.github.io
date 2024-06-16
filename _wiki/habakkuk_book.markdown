@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Habakkuk (Book)
-permalink: /habakkuk_book/
+permalink: /wiki/habakkuk_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

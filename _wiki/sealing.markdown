@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sealing
-permalink: /sealing/
+permalink: /wiki/sealing/
 ---
 - [Background](#background)
 - [Ownership](#ownership)

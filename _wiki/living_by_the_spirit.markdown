@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Living by the Spirit
-permalink: /living_by_the_spirit/
+permalink: /wiki/living_by_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

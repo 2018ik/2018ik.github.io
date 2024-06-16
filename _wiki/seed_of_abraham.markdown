@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Seed of Abraham
-permalink: /seed_of_abraham/
+permalink: /wiki/seed_of_abraham/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Conformation
-permalink: /conformation/
+permalink: /wiki/conformation/
 ---
 - [Background](#background)
 - [Significance](#significance)

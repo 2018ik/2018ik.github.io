@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Watering
-permalink: /watering/
+permalink: /wiki/watering/
 ---
 - [Background](#background)
 - [Significance](#significance)

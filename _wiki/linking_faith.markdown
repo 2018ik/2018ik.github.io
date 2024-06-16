@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Linking Faith
-permalink: /linking_faith/
+permalink: /wiki/linking_faith/
 ---
 - [Background](#background)
 - [Significance](#significance)

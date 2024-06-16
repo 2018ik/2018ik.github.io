@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cherubim
-permalink: /cherubim/
+permalink: /wiki/cherubim/
 ---
 - [Background](#background)
 

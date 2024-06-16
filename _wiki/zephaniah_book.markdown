@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Zephaniah (Book)
-permalink: /zephaniah_book/
+permalink: /wiki/zephaniah_book/
 ---
 - [Background](#background)
 

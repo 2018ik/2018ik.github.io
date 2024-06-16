@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Golden Bell
-permalink: /golden_bell/
+permalink: /wiki/golden_bell/
 ---
 - [Background](#background)
 - [Significance](#significance)

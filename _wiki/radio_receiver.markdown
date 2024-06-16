@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Radio Receiver
-permalink: /radio_receiver/
+permalink: /wiki/radio_receiver/
 ---
 - [Background](#background)
 - [Analogy](#analogy)

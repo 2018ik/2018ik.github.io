@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Kiss
-permalink: /kiss/
+permalink: /wiki/kiss/
 ---
 - [Background](#background)
 - [Significance](#significance)

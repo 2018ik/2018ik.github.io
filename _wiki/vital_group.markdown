@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Vital Group
-permalink: /vital_group/
+permalink: /wiki/vital_group/
 ---
 - [Background](#background)
 - [Why "Vital" Groups?](#why-vital-groups)

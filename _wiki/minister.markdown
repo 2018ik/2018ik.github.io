@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Minister
-permalink: /minister/
+permalink: /wiki/minister/
 ---
 - [Background](#background)
 - [Significance](#significance)

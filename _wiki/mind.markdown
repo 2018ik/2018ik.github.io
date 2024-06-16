@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mind
-permalink: /mind/
+permalink: /wiki/mind/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Depths of God
-permalink: /depths_of_god/
+permalink: /wiki/depths_of_god/
 ---
 - [Background](#background)
 - [Christ](#christ)

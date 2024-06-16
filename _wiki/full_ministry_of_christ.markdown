@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Full Ministry of Christ
-permalink: /full_ministry_of_christ/
+permalink: /wiki/full_ministry_of_christ/
 ---
 - [Background](#background)
 - [In Three Stages](#in-three-stages)

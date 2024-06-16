@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Heap of Collapse
-permalink: /heap_of_collapse/
+permalink: /wiki/heap_of_collapse/
 ---
 - [Background](#background)
 - [Significance](#significance)

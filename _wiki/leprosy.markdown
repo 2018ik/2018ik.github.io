@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Leprosy
-permalink: /leprosy/
+permalink: /wiki/leprosy/
 ---
 - [Background](#background)
 - [History](#history)

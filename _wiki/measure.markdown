@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Measure
-permalink: /measure/
+permalink: /wiki/measure/
 ---
 - [Background](#background)
 - [Measuring in Ezekiel 47](#measuring-in-ezekiel-47)

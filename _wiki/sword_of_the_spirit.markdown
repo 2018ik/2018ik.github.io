@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sword of the Spirit
-permalink: /sword_of_the_spirit/
+permalink: /wiki/sword_of_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

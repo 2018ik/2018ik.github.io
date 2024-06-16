@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Young People Conferences
-permalink: /young_people_conferences/
+permalink: /wiki/young_people_conferences/
 ---
 - [Background](#background)
 - [Roles](#roles)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hearing
-permalink: /hearing/
+permalink: /wiki/hearing/
 ---
 - [Background](#background)
 - [Significance](#significance)

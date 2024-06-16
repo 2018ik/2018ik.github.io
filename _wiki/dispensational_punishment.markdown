@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dispensational Punishment
-permalink: /dispensational_punishment/
+permalink: /wiki/dispensational_punishment/
 ---
 - [Background](#background)
 

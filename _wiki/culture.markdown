@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Culture
-permalink: /culture/
+permalink: /wiki/culture/
 ---
 - [Background](#background)
 - [History](#history)

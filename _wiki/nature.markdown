@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Nature
-permalink: /nature/
+permalink: /wiki/nature/
 ---
 - [Background](#background)
 - [Significance](#significance)

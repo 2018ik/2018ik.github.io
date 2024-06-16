@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Drinking
-permalink: /drinking/
+permalink: /wiki/drinking/
 ---
 - [Background](#background)
 

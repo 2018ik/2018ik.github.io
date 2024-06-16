@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sweetness
-permalink: /sweet/
+permalink: /wiki/sweet/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Prophecies
-permalink: /prophecies/
+permalink: /wiki/prophecies/
 ---
 - [Background](#background)
 - [The Church](#the-church)

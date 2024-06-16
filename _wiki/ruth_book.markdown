@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ruth (Book)
-permalink: /ruth_book/
+permalink: /wiki/ruth_book/
 ---
 - [Background](#background)
 

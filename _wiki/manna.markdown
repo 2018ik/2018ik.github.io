@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Manna
-permalink: /manna/
+permalink: /wiki/manna/
 ---
 - [Background](#background)
 - [Significance](#significance)

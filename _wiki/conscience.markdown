@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Conscience
-permalink: /conscience/
+permalink: /wiki/conscience/
 ---
 - [Background](#background)
 - [Significance](#significance)

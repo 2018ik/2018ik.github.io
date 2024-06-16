@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cain
-permalink: /cain/
+permalink: /wiki/cain/
 ---
 - [Background](#background)
 - [History](#history)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Walking By the Spirit
-permalink: /walking_by_the_spirit/
+permalink: /wiki/walking_by_the_spirit/
 ---
 - [Background](#background)
 - [Daily Walk](#daily-walk)

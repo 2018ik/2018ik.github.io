@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Old Man
-permalink: /old_man/
+permalink: /wiki/old_man/
 ---
 - [Background](#background)
 - [Significance](#significance)

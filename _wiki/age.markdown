@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Age
-permalink: /age/
+permalink: /wiki/age/
 ---
 - [Background](#background)
 - [Significance](#significance)

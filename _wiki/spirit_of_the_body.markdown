@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spirit of the Body
-permalink: /spirit_of_the_body/
+permalink: /wiki/spirit_of_the_body/
 ---
 
 ## Background

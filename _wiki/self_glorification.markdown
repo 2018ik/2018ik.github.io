@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Self Glorification
-permalink: /self_glorification/
+permalink: /wiki/self_glorification/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fruit of the Spirit
-permalink: /fruit_of_the_spirit/
+permalink: /wiki/fruit_of_the_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

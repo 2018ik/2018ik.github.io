@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Onesiphorus
-permalink: /onesiphorus/
+permalink: /wiki/onesiphorus/
 ---
 - [Background](#background)
 - [Significance](#significance)

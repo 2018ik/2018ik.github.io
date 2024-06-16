@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Inner Man
-permalink: /inner_man/
+permalink: /wiki/inner_man/
 ---
 - [Background](#background)
 - [Significance](#significance)

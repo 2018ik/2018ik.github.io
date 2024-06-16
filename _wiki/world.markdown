@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: World
-permalink: /world/
+permalink: /wiki/world/
 ---
 - [Background](#background)
 - [History](#history)

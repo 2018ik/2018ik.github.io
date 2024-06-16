@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Will
-permalink: /will/
+permalink: /wiki/will/
 ---
 - [Background](#background)
 

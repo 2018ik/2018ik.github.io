@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ's Ascension
-permalink: /christ_ascension/
+permalink: /wiki/christ_ascension/
 ---
 - [Background](#background)
 - [History](#history)

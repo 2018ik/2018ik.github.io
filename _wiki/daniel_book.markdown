@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Daniel (Book)
-permalink: /daniel_book/
+permalink: /wiki/daniel_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

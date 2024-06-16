@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Vines
-permalink: /vines/
+permalink: /wiki/vines/
 ---
 - [Background](#background)
 - [Experience](#experience)

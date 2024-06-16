@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Calling on the Lord
-permalink: /calling_on_the_lord/
+permalink: /wiki/calling_on_the_lord/
 ---
 - [Background](#background)
 - [Significance](#significance)

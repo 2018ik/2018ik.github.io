@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Judges (Book)
-permalink: /judges_book/
+permalink: /wiki/judges_book/
 ---
 - [Background](#background)
 - [Significance](#significance)

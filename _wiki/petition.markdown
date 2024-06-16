@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Petition
-permalink: /petition/
+permalink: /wiki/petition/
 ---
 - [Background](#background)
 - [Significance](#significance)

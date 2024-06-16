@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sacrifice
-permalink: /sacrifice/
+permalink: /wiki/sacrifice/
 ---
 - [Background](#background)
 - [Significance](#significance)

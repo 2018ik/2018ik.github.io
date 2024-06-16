@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Perfecting
-permalink: /perfecting/
+permalink: /wiki/perfecting/
 ---
 - [Background](#background)
 

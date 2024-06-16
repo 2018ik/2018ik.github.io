@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Seed of the Woman
-permalink: /seed_of_the_woman/
+permalink: /wiki/seed_of_the_woman/
 ---
 - [Background](#background)
 - [Significance](#significance)

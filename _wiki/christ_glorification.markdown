@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ's Glorification
-permalink: /christ_glorification/
+permalink: /wiki/christ_glorification/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

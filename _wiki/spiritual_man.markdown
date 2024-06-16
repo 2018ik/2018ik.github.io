@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spiritual Man
-permalink: /spiritual_man/
+permalink: /wiki/spiritual_man/
 ---
 - [Background](#background)
 - [Significance](#significance)

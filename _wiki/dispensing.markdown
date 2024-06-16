@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dispensing
-permalink: /dispensing/
+permalink: /wiki/dispensing/
 ---
 - [Issue](#issue)
 

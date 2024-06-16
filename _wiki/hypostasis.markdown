@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hypostasis
-permalink: /hypostasis/
+permalink: /wiki/hypostasis/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

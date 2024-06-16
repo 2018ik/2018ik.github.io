@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Manifestation of the Spirit
-permalink: /manifestation_of_the_spirit/
+permalink: /wiki/manifestation_of_the_spirit/
 ---
 - [Background](#background)
 - [Gifts](#gifts)

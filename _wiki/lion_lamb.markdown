@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Lion Lamb
-permalink: /lion_lamb/
+permalink: /wiki/lion_lamb/
 ---
 - [Background](#background)
 - [Significance](#significance)

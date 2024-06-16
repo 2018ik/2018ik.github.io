@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Member
-permalink: /member/
+permalink: /wiki/member/
 ---
 - [Background](#background)
 - [Significance](#significance)

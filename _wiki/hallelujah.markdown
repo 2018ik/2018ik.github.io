@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hallelujah
-permalink: /hallelujah/
+permalink: /wiki/hallelujah/
 ---
 - [Background](#background)
 

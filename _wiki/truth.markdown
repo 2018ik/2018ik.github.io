@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Truth
-permalink: /truth/
+permalink: /wiki/truth/
 ---
 - [Background](#background)
 - [Corporate Aspect](#corporate-aspect)

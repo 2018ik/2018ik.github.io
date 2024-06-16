@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Bruised Reed
-permalink: /bruised_reed/
+permalink: /wiki/bruised_reed/
 ---
 - [](#)
 

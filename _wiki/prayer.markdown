@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Prayer
-permalink: /prayer/
+permalink: /wiki/prayer/
 ---
 - [Background](#background)
 - [Significance](#significance)

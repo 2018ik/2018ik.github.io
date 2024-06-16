@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Reasoning
-permalink: /reasoning/
+permalink: /wiki/reasoning/
 ---
 - [Background](#background)
 - [Significance](#significance)

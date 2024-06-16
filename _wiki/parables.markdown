@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Parables
-permalink: /parables/
+permalink: /wiki/parables/
 ---
 - [Background](#background)
 - [List of Parables](#list-of-parables)

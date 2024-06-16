@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Training
-permalink: /training/
+permalink: /wiki/training/
 ---
 - [Background](#background)
 - [Old Testament](#old-testament)

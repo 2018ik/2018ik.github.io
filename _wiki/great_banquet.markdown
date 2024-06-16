@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Great Banquet (Parable)
-permalink: /great_banquet/
+permalink: /wiki/great_banquet/
 ---
 - [Background](#background)
 - [Significance](#significance)

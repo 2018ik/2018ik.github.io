@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Self-Beautification
-permalink: /self_beautification/
+permalink: /wiki/self_beautification/
 ---
 - [Background](#background)
 - [Examples](#examples)

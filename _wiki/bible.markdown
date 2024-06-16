@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Bible
-permalink: /bible/
+permalink: /wiki/bible/
 ---
 - [Background](#background)
 - [Old Testament](#old-testament)

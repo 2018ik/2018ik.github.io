@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Gifts
-permalink: /gifts/
+permalink: /wiki/gifts/
 ---
 - [Background](#background)
 - [Significance](#significance)

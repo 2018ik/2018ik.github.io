@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Effulgence
-permalink: /effulgence/
+permalink: /wiki/effulgence/
 ---
 - [Background](#background)
 - [Significance](#significance)

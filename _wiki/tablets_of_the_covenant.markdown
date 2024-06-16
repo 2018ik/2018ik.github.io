@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Tablets of the Covenant
-permalink: /tablets_of_the_covenant/
+permalink: /wiki/tablets_of_the_covenant/
 ---
 - [Background](#background)
 - [Significance](#significance)

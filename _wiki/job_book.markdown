@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Job (Book)
-permalink: /job_book/
+permalink: /wiki/job_book/
 ---
 - [Background](#background)
 - [Topics](#topics)

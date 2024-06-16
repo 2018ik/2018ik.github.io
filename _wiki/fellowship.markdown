@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fellowship
-permalink: /fellowship/
+permalink: /wiki/fellowship/
 ---
 - [Background](#background)
 - [Analogies](#analogies)

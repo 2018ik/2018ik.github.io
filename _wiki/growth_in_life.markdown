@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Growth in Life
-permalink: /growth_in_life/
+permalink: /wiki/growth_in_life/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

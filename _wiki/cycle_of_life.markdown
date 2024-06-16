@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Cycle of Life
-permalink: /cycle_of_life/
+permalink: /wiki/cycle_of_life/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Titus (Book)
-permalink: /titus_book/
+permalink: /wiki/titus_book/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Parable of the Lost Coin
-permalink: /parable_lost_coin/
+permalink: /wiki/parable_lost_coin/
 ---
 - [Background](#background)
 - [Significance](#significance)

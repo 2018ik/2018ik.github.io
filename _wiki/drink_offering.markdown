@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Drink Offering
-permalink: /drink_offering/
+permalink: /wiki/drink_offering/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

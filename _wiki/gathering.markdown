@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Gathering
-permalink: /gathering/
+permalink: /wiki/gathering/
 ---
 - [Background](#background)
 

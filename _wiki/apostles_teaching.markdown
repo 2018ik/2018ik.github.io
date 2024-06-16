@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Apostles' Teaching
-permalink: /apostles_teaching/
+permalink: /wiki/apostles_teaching/
 ---
 - [Background](#background)
 - [History](#history)

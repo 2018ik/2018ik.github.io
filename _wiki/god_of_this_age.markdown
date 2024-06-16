@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: God of this age
-permalink: /god_of_this_age/
+permalink: /wiki/god_of_this_age/
 ---
 - [Background](#background)
 - [Significance](#significance)

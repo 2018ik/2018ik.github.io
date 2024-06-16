@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Good Pleasure
-permalink: /good_pleasure/
+permalink: /wiki/good_pleasure/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

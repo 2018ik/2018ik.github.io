@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Trespass Offering
-permalink: /trespass_offering/
+permalink: /wiki/trespass_offering/
 ---
 - [Background](#background)
 - [Significance](#significance)

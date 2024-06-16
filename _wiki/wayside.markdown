@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Wayside
-permalink: /wayside/
+permalink: /wiki/wayside/
 ---
 - [Background](#background)
 

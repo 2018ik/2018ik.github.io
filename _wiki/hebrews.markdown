@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hebrews (Book)
-permalink: /hebrews/
+permalink: /wiki/hebrews/
 ---
 - [Background](#background)
 

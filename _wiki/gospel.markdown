@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Gospel
-permalink: /gospel/
+permalink: /wiki/gospel/
 ---
 - [Background](#background)
 - [Focus](#focus)

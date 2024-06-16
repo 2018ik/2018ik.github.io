@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: John (Chapters)
-permalink: /john_chapters/
+permalink: /wiki/john_chapters/
 ---
 - [Background](#background)
 - [3](#3)

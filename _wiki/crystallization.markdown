@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Crystallization
-permalink: /crystallization/
+permalink: /wiki/crystallization/
 ---
 
 ## Background

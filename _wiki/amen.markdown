@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Amen
-permalink: /amen/
+permalink: /wiki/amen/
 ---
 - [Background](#background)
 - [Significance](#significance)

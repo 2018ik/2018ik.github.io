@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Love
-permalink: /love/
+permalink: /wiki/love/
 ---
 - [Background](#background)
 - [Significance](#significance)

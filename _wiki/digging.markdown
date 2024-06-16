@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Digging
-permalink: /digging/
+permalink: /wiki/digging/
 ---
 - [Background](#background)
 - [Significance](#significance)

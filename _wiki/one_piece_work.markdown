@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: One Piece Work
-permalink: /one_piece_work/
+permalink: /wiki/one_piece_work/
 ---
 - [Background](#background)
 - [Significance](#significance)

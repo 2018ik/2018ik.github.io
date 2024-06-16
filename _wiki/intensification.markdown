@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Intensification
-permalink: /Intensification/
+permalink: /wiki/Intensification/
 ---
 - [Background](#background)
 

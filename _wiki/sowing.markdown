@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sowing
-permalink: /sowing/
+permalink: /wiki/sowing/
 ---
 - [Background](#background)
 - [Significance](#significance)

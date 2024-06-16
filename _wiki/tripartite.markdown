@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Tripartite
-permalink: /tripartite/
+permalink: /wiki/tripartite/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Way of Righteousness
-permalink: /way_of_righteousness/
+permalink: /wiki/way_of_righteousness/
 ---
 - [Background](#background)
 - [Significance](#significance)

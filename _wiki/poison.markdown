@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Poison
-permalink: /poison/
+permalink: /wiki/poison/
 ---
 - [Background](#background)
 - [Significance](#significance)

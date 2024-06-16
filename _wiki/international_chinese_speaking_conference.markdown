@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: International Chinese Speaking Conference
-permalink: /international_chinese_speaking_conference/
+permalink: /wiki/international_chinese_speaking_conference/
 ---
 - [Background](#background)
 - [2024](#2024)

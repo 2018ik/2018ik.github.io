@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Interpretation
-permalink: /interpretation/
+permalink: /wiki/interpretation/
 ---
 - [Background](#background)
 - [Principles](#principles)

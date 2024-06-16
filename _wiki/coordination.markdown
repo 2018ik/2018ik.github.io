@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Coordination
-permalink: /coordination/
+permalink: /wiki/coordination/
 ---
 - [Background](#background)
 - [Application](#application)

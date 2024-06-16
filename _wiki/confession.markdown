@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Confession
-permalink: /confession/
+permalink: /wiki/confession/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

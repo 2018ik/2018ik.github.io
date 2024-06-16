@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: In Spirit
-permalink: /in_spirit/
+permalink: /wiki/in_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

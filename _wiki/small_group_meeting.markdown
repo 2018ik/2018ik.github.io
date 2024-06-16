@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Small Group Meeting
-permalink: /small_group_meeting/
+permalink: /wiki/small_group_meeting/
 ---
 - [Background](#background)
 - [Significance](#significance)

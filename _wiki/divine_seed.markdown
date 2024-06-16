@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Divine Seed
-permalink: /divine_seed/
+permalink: /wiki/divine_seed/
 ---
 - [Background](#background)
 

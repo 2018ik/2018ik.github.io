@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Revelation
-permalink: /revelation/
+permalink: /wiki/revelation/
 ---
 - [Background](#background)
 - [Significance](#significance)

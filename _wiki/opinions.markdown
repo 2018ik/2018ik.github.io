@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Opinions
-permalink: /opinions/
+permalink: /wiki/opinions/
 ---
 - [Background](#background)
 - [Early Church](#early-church)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Lord's Table
-permalink: /lords_table/
+permalink: /wiki/lords_table/
 ---
 - [Background](#background)
 - [The Two Elements](#the-two-elements)

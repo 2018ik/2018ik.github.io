@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Labor
-permalink: /labor/
+permalink: /wiki/labor/
 ---
 - [Background](#background)
 - [Significance](#significance)

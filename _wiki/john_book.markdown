@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: John (Book)
-permalink: /john_book/
+permalink: /wiki/john_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

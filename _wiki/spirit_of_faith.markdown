@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spirit of Faith
-permalink: /spirit_of_faith/
+permalink: /wiki/spirit_of_faith/
 ---
 - [Background](#background)
 - [Significance](#significance)

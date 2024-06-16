@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Health
-permalink: /health/
+permalink: /wiki/health/
 ---
 - [Background](#background)
 - [Tips](#tips)

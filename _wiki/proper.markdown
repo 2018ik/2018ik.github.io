@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Properness
-permalink: /proper/
+permalink: /wiki/proper/
 ---
 - [Background](#background)
 - [Appearance](#appearance)

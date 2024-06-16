@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Banquet
-permalink: /banquet/
+permalink: /wiki/banquet/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

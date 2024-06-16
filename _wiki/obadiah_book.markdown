@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Obadiah (Book)
-permalink: /obadiah_book/
+permalink: /wiki/obadiah_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

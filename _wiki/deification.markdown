@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Deification
-permalink: /deification/
+permalink: /wiki/deification/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

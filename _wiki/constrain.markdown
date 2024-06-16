@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Constrain
-permalink: /constrain/
+permalink: /wiki/constrain/
 ---
 - [Background](#background)
 

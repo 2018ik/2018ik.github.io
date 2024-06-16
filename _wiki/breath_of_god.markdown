@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Breath of God
-permalink: /breath_of_god/
+permalink: /wiki/breath_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

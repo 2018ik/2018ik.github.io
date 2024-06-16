@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Joshua (Book)
-permalink: /joshua_book/
+permalink: /wiki/joshua_book/
 ---
 - [Background](#background)
 

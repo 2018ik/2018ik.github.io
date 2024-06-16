@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Judgement Day
-permalink: /judgement_day/
+permalink: /wiki/judgement_day/
 ---
 - [Background](#background)
 - [](#)

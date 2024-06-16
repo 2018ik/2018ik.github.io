@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Valley
-permalink: /valley/
+permalink: /wiki/valley/
 ---
 - [Background](#background)
 - [Significance](#significance)

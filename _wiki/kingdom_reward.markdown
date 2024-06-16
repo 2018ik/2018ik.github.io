@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Kingdom Reward
-permalink: /kingdom_reward/
+permalink: /wiki/kingdom_reward/
 ---
 - [Background](#background)
 - [Purpose](#purpose)

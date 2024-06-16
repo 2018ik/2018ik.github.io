@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Nicolaitans
-permalink: /nicolaitans/
+permalink: /wiki/nicolaitans/
 ---
 - [Background](#background)
 - [Significance](#significance)

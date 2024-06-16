@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Shadow
-permalink: /shadow/
+permalink: /wiki/shadow/
 ---
 - [Background](#background)
 - [Examples](#examples)

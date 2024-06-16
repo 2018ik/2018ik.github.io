@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Leaves and Branches
-permalink: /leaves_and_branches/
+permalink: /wiki/leaves_and_branches/
 ---
 - [Background](#background)
 

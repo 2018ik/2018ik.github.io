@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Church Life
-permalink: /church_life/
+permalink: /wiki/church_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

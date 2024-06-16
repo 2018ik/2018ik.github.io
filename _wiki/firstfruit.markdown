@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Firstfruit
-permalink: /firstfruit/
+permalink: /wiki/firstfruit/
 ---
 - [Background](#background)
 - [History](#history)

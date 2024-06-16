@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cooperation
-permalink: /cooperation/
+permalink: /wiki/cooperation/
 ---
 - [Background](#background)
 - [Practical Steps](#practical-steps)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Experience
-permalink: /experience/
+permalink: /wiki/experience/
 ---
 - [Background](#background)
 - [Experience of Life](#experience-of-life)

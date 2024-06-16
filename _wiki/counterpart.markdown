@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Counterpart
-permalink: /counterpart/
+permalink: /wiki/counterpart/
 ---
 - [Background](#background)
 - [Significance](#significance)

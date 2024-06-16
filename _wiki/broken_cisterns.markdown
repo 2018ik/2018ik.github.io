@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Broken Cisterns
-permalink: /broken_cisterns/
+permalink: /wiki/broken_cisterns/
 ---
 - [Background](#background)
 - [Significance](#significance)

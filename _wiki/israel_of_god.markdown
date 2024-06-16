@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Israel of God
-permalink: /israel_of_god/
+permalink: /wiki/israel_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

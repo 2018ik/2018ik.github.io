@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ephesians
-permalink: /ephesians/
+permalink: /wiki/ephesians/
 ---
 - [Background](#background)
 - [Subject](#subject)

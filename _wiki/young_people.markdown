@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Young People
-permalink: /young_people/
+permalink: /wiki/young_people/
 ---
 - [Background](#background)
 - [Significance](#significance)

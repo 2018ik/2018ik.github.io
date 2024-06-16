@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Forbearance
-permalink: /forbearance/
+permalink: /wiki/forbearance/
 ---
 - [Background](#background)
 - [Significance](#significance)

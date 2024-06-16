@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Tirzah
-permalink: /tirzah/
+permalink: /wiki/tirzah/
 ---
 - [Background](#background)
 - [Significance](#significance)

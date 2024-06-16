@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Kingdom of God
-permalink: /kingdom_of_god/
+permalink: /wiki/kingdom_of_god/
 ---
 
 - [Background](#background)

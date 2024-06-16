@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Covenant
-permalink: /covenant/
+permalink: /wiki/covenant/
 ---
 - [Background](#background)
 - [New Covenant](#new-covenant)

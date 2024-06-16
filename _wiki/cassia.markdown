@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cassia
-permalink: /cassia/
+permalink: /wiki/cassia/
 ---
 - [Background](#background)
 - [Significance](#significance)

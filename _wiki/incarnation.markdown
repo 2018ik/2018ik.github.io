@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Incarnation
-permalink: /Incarnation/
+permalink: /wiki/Incarnation/
 ---
 - [Background](#background)
 - [Purpose](#purpose)

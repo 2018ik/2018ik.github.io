@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Modesty
-permalink: /modesty/
+permalink: /wiki/modesty/
 ---
 - [Background](#background)
 - [Significance](#significance)

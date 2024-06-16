@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Caleb
-permalink: /caleb/
+permalink: /wiki/caleb/
 ---
 - [Background](#background)
 - [Significance](#significance)

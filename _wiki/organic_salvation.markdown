@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Organic Salvation
-permalink: /organic_salvation/
+permalink: /wiki/organic_salvation/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

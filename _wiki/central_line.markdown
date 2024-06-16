@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Central Line
-permalink: /central_line/
+permalink: /wiki/central_line/
 ---
 - [Background](#background)
 - [Items](#items)

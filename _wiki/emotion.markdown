@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Emotion
-permalink: /emotion/
+permalink: /wiki/emotion/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

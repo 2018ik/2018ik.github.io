@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pride
-permalink: /pride/
+permalink: /wiki/pride/
 ---
 - [Background](#background)
 - [Significance](#significance)

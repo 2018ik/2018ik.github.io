@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Judicial Redemption
-permalink: /judicial_redemption/
+permalink: /wiki/judicial_redemption/
 ---
 - [Background](#background)
 - [Significance](#significance)

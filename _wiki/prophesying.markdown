@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Prophesying
-permalink: /prophesying/
+permalink: /wiki/prophesying/
 ---
 - [Background](#background)
 - [Significance](#significance)

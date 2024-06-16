@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Unique Center
-permalink: /unique_center/
+permalink: /wiki/unique_center/
 ---
 - [Background](#background)
 - [Significance](#significance)

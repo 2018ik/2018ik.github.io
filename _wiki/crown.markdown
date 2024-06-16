@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Crown
-permalink: /crown/
+permalink: /wiki/crown/
 ---
 - [Background](#background)
 - [Righteousness](#righteousness)

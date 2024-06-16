@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Children's Work
-permalink: /children_work/
+permalink: /wiki/children_work/
 ---
 - [Background](#background)
 - [Goals](#goals)

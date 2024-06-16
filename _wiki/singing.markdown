@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Singing
-permalink: /singing/
+permalink: /wiki/singing/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

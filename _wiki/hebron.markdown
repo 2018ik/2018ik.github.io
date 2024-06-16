@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hebron
-permalink: /hebron/
+permalink: /wiki/hebron/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Saint
-permalink: /saint/
+permalink: /wiki/saint/
 ---
 - [Background](#background)
 

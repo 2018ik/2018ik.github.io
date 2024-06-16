@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: All-fitting Life
-permalink: /all_fitting_life/
+permalink: /wiki/all_fitting_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

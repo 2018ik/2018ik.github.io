@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Confidence
-permalink: /confidence/
+permalink: /wiki/confidence/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dispensation
-permalink: /dispensation/
+permalink: /wiki/dispensation/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

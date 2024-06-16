@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Seven Spirits
-permalink: /seven_spirits/
+permalink: /wiki/seven_spirits/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

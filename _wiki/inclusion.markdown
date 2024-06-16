@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Inclusion
-permalink: /inclusion/
+permalink: /wiki/inclusion/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

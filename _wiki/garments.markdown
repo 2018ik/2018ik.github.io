@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Garments
-permalink: /garments/
+permalink: /wiki/garments/
 ---
 - [Background](#background)
 - [Examples](#examples)

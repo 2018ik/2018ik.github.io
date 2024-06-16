@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Revival
-permalink: /revival/
+permalink: /wiki/revival/
 ---
 - [Background](#background)
 - [Significance](#significance)

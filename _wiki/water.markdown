@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Water
-permalink: /water/
+permalink: /wiki/water/
 ---
 - [Background](#background)
 - [Triune God](#triune-god)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spiritual Warfare
-permalink: /spiritual_warfare/
+permalink: /wiki/spiritual_warfare/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

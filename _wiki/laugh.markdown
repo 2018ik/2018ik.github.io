@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Laugh
-permalink: /laugh/
+permalink: /wiki/laugh/
 ---
 - [Background](#background)
 - [Significance](#significance)

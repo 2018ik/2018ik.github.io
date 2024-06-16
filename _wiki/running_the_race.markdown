@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Running the Race
-permalink: /running_the_race/
+permalink: /wiki/running_the_race/
 ---
 
 ## Background

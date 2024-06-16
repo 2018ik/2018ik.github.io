@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Nourishing
-permalink: /nourishing/
+permalink: /wiki/nourishing/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

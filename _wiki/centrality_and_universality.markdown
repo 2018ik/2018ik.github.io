@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Centrality and Universality
-permalink: /centrality_and_universality/
+permalink: /wiki/centrality_and_universality/
 ---
 - [Background](#background)
 - [Significance](#significance)

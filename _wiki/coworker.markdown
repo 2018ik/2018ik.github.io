@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Coworker
-permalink: /coworker/
+permalink: /wiki/coworker/
 ---
 - [Background](#background)
 

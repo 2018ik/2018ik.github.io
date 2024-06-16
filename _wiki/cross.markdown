@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cross
-permalink: /cross/
+permalink: /wiki/cross/
 ---
 - [Background](#background)
 - [Significance](#significance)

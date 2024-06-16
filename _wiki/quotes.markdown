@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Quotes
-permalink: /quotes/
+permalink: /wiki/quotes/
 ---
 - [Marriage](#marriage)
 - [Career](#career)

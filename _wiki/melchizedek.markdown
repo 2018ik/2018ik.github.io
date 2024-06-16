@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Melchizedek
-permalink: /melchizedek/
+permalink: /wiki/melchizedek/
 ---
 - [Background](#background)
 - [Significance](#significance)

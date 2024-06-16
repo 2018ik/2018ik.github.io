@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Forgiveness
-permalink: /Forgiveness/
+permalink: /wiki/Forgiveness/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

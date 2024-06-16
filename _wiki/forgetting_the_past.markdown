@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Forgetting the Past
-permalink: /forgetting_the_past/
+permalink: /wiki/forgetting_the_past/
 ---
 - [Background](#background)
 

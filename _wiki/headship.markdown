@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Headship
-permalink: /headship/
+permalink: /wiki/headship/
 ---
 - [Background](#background)
 - [Significance](#significance)

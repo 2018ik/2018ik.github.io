@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Supply
-permalink: /supply/
+permalink: /wiki/supply/
 ---
 - [Background](#background)
 

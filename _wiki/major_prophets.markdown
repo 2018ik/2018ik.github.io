@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Major Prophets
-permalink: /major_prophets/
+permalink: /wiki/major_prophets/
 ---
 - [Background](#background)
 - [Significance](#significance)

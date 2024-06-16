@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Poor Spirit
-permalink: /poor_spirit/
+permalink: /wiki/poor_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

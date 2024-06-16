@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Blood
-permalink: /blood/
+permalink: /wiki/blood/
 ---
 - [Background](#background)
 - [Blood of Christ](#blood-of-christ)

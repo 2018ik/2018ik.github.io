@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Present Age
-permalink: /present_age/
+permalink: /wiki/present_age/
 ---
 - [Background](#background)
 - [Christianity Today](#christianity-today)

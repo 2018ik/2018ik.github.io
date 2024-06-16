@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Essence
-permalink: /essence/
+permalink: /wiki/essence/
 ---
 - [Background](#background)
 - [Significance](#significance)

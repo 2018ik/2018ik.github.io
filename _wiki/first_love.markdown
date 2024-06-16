@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: First Love
-permalink: /first_love/
+permalink: /wiki/first_love/
 ---
 - [Background](#background)
 - [Significance](#significance)

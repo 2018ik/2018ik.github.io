@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jerusalem
-permalink: /jerusalem/
+permalink: /wiki/jerusalem/
 ---
 - [History](#history)
   - [Early Church](#early-church)

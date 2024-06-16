@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Everyday Prayers
-permalink: /everyday_prayers/
+permalink: /wiki/everyday_prayers/
 ---
 - [Background](#background)
 - [Prayers](#prayers)

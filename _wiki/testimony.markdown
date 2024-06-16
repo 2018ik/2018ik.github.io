@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Testimony
-permalink: /testimony/
+permalink: /wiki/testimony/
 ---
 - [Background](#background)
 

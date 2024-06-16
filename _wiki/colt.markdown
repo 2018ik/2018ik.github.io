@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Colt
-permalink: /colt/
+permalink: /wiki/colt/
 ---
 - [Background](#background)
 - [Significance](#significance)

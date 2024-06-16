@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fragrance
-permalink: /fragrance/
+permalink: /wiki/fragrance/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

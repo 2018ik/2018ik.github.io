@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Tree of Life
-permalink: /tree_of_life/
+permalink: /wiki/tree_of_life/
 ---
 - [Background](#background)
 - [History](#history)

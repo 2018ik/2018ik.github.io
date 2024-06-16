@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jubilee
-permalink: /jubilee/
+permalink: /wiki/jubilee/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Personal Time
-permalink: /personal_time/
+permalink: /wiki/personal_time/
 ---
 - [Background](#background)
 - [Significance](#significance)

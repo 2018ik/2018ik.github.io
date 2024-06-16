@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Masterpiece
-permalink: /masterpiece/
+permalink: /wiki/masterpiece/
 ---
 - [Background](#background)
 

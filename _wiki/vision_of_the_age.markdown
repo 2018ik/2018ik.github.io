@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Vision of the Age
-permalink: /vision_of_the_age/
+permalink: /wiki/vision_of_the_age/
 ---
 - [Background](#background)
   - [Visions in the Bible](#visions-in-the-bible)

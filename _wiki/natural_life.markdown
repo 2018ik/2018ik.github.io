@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Natural Life
-permalink: /natural_life/
+permalink: /wiki/natural_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

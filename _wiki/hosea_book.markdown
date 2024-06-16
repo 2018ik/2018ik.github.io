@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hosea (Book)
-permalink: /hosea_book/
+permalink: /wiki/hosea_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

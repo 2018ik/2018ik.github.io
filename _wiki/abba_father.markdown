@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Abba Father
-permalink: /Abba Father/
+permalink: /wiki/Abba Father/
 ---
 - [Background](#background)
 

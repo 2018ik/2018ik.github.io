@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mutuality
-permalink: /mutuality/
+permalink: /wiki/mutuality/
 ---
 - [Background](#background)
 

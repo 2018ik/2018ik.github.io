@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Permissive Will
-permalink: /permissive_will/
+permalink: /wiki/permissive_will/
 ---
 - [Background](#background)
 - [Significance](#significance)

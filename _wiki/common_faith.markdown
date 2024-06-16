@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Common Faith
-permalink: /common_faith/
+permalink: /wiki/common_faith/
 ---
 - [Background](#background)
 - [Seven Items](#seven-items)

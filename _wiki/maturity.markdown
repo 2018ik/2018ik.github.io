@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Maturity
-permalink: /maturity/
+permalink: /wiki/maturity/
 ---
 - [Background](#background)
 - [Significance](#significance)

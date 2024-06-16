@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Murmuring
-permalink: /murmuring/
+permalink: /wiki/murmuring/
 ---
 - [Background](#background)
 - [Significance](#significance)

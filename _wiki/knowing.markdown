@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Knowing
-permalink: /knowing/
+permalink: /wiki/knowing/
 ---
 
 - [Background](#background)

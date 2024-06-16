@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Redeeming the Time
-permalink: /redeeming_the_time/
+permalink: /wiki/redeeming_the_time/
 ---
 - [Background](#background)
 - [Significance](#significance)

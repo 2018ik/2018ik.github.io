@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Incense
-permalink: /incense/
+permalink: /wiki/incense/
 ---
 - [Background](#background)
 - [Significance](#significance)

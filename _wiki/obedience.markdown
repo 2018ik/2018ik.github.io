@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Obedience
-permalink: /obedience/
+permalink: /wiki/obedience/
 ---
 - [Background](#background)
 

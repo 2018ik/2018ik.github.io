@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Eliakim
-permalink: /eliakim/
+permalink: /wiki/eliakim/
 ---
 - [Background](#background)
 - [Significance](#significance)

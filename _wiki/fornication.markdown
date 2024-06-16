@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fornication
-permalink: /fornication/
+permalink: /wiki/fornication/
 ---
 
 ## Background

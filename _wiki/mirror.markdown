@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mirror
-permalink: /mirror/
+permalink: /wiki/mirror/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Golden Calf
-permalink: /golden_calf/
+permalink: /wiki/golden_calf/
 ---
 - [Background](#background)
 

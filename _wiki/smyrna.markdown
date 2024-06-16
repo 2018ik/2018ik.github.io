@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Smyrna
-permalink: /smyrna/
+permalink: /wiki/smyrna/
 ---
 - [Background](#background)
 - [Significance](#significance)

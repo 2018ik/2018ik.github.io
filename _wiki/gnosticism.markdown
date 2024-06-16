@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Gnosticism
-permalink: /gnosticism/
+permalink: /wiki/gnosticism/
 ---
 - [Background](#background)
 - [Significance](#significance)

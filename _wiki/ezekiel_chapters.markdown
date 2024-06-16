@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ezekiel Chapters
-permalink: /ezekiel_chapters/
+permalink: /wiki/ezekiel_chapters/
 ---
 - [Background](#background)
 - [Significance](#significance)

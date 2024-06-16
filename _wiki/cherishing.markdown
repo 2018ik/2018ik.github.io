@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Cherishing
-permalink: /cherishing/
+permalink: /wiki/cherishing/
 ---
 - [Background](#background)
 - [Significance](#significance)

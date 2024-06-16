@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Extolling
-permalink: /extolling/
+permalink: /wiki/extolling/
 ---
 - [Background](#background)
 - [Significance](#significance)

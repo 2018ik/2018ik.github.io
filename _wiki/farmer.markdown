@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Farmer
-permalink: /farmer/
+permalink: /wiki/farmer/
 ---
 - [Background](#background)
 - [Significance](#significance)

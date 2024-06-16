@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Resurrection
-permalink: /resurrection/
+permalink: /wiki/resurrection/
 ---
 - [Background](#background)
 - [Experience](#experience)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ezra (Book)
-permalink: /ezra_book/
+permalink: /wiki/ezra_book/
 ---
 - [Background](#background)
 

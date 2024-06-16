@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Stephen
-permalink: /stephen/
+permalink: /wiki/stephen/
 ---
 - [Background](#background)
 - [Significance](#significance)

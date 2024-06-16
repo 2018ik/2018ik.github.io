@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Grace
-permalink: /grace/
+permalink: /wiki/grace/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

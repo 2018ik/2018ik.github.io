@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Millennium
-permalink: /millennium/
+permalink: /wiki/millennium/
 ---
 - [Background](#background)
 - [Significance](#significance)

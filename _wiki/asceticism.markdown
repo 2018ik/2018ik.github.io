@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Asceticism
-permalink: /asceticism/
+permalink: /wiki/asceticism/
 ---
 - [Background](#background)
 

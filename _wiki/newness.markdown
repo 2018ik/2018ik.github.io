@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Newness
-permalink: /newness/
+permalink: /wiki/newness/
 ---
 - [Background](#background)
 

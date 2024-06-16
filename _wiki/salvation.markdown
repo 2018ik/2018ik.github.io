@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Salvation
-permalink: /salvation/
+permalink: /wiki/salvation/
 ---
 - [Background](#background)
 - [Judicially](#judicially)

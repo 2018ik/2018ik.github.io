@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: But
-permalink: /but/
+permalink: /wiki/but/
 ---
 - [Background](#background)
 - [Examples](#examples)

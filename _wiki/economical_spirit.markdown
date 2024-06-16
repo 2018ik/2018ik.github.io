@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Economical Spirit
-permalink: /economical_spirit/
+permalink: /wiki/economical_spirit/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

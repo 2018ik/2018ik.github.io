@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Last Adam
-permalink: /last_adam/
+permalink: /wiki/last_adam/
 ---
 - [Background](#background)
 - [Significance](#significance)

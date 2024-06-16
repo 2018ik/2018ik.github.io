@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Consecration
-permalink: /consecration/
+permalink: /wiki/consecration/
 ---
 
 - [Background](#background)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Discipline of the Holy Spirit
-permalink: /discipline_holy_spirit/
+permalink: /wiki/discipline_holy_spirit/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

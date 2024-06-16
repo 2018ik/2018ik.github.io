@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Eternity Past
-permalink: /eternity_past/
+permalink: /wiki/eternity_past/
 ---
 - [Background](#background)
 - [Facts](#facts)

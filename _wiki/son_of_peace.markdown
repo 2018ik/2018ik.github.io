@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Son of Peace
-permalink: /son_of_peace/
+permalink: /wiki/son_of_peace/
 ---
 - [Background](#background)
 - [Significance](#significance)

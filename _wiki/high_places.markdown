@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: High Places
-permalink: /high_places/
+permalink: /wiki/high_places/
 ---
 - [Background](#background)
 - [Significance](#significance)

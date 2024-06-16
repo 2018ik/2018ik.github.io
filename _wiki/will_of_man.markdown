@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Will of Man
-permalink: /will_of_man/
+permalink: /wiki/will_of_man/
 ---
 - [Background](#background)
 - [Significance](#significance)

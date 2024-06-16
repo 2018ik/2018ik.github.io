@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dispositional Sanctification
-permalink: /dispositional_sanctification/
+permalink: /wiki/dispositional_sanctification/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

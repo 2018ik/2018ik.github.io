@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Joshua
-permalink: /joshua/
+permalink: /wiki/joshua/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Proverbs (Book)
-permalink: /proverbs_book/
+permalink: /wiki/proverbs_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

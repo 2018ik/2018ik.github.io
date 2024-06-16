@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Acts Chapters
-permalink: /acts_chapters/
+permalink: /wiki/acts_chapters/
 ---
 - [Background](#background)
 - [2](#2)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Glorification
-permalink: /glorification/
+permalink: /wiki/glorification/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sanctuary of God
-permalink: /sanctuary_of_god/
+permalink: /wiki/sanctuary_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

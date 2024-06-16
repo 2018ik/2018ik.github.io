@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Redemption
-permalink: /redemption/
+permalink: /wiki/redemption/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

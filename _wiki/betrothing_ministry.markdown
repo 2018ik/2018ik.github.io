@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Betrothing Ministry
-permalink: /betrothing_ministry/
+permalink: /wiki/betrothing_ministry/
 ---
 - [Background](#background)
 - [Significance](#significance)

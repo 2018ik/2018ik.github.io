@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Solomon
-permalink: /solomon/
+permalink: /wiki/solomon/
 ---
 - [Background](#background)
 - [History](#history)

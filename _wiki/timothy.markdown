@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Timothy
-permalink: /timothy/
+permalink: /wiki/timothy/
 ---
 - [Background](#background)
 - [Significance](#significance)

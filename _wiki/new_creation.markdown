@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: New Creation
-permalink: /new_creation/
+permalink: /wiki/new_creation/
 ---
 - [Background](#background)
 - [Significance](#significance)

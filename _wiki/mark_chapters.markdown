@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mark Chapters
-permalink: /mark_chapters/
+permalink: /wiki/mark_chapters/
 ---
 - [Background](#background)
 - [5](#5)

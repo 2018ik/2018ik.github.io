@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Armor of God
-permalink: /armor_of_god/
+permalink: /wiki/armor_of_god/
 ---
 - [Background](#background)
 

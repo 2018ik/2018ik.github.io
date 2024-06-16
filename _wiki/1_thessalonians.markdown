@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 1 Thessalonians
-permalink: /1_thessalonians/
+permalink: /wiki/1_thessalonians/
 ---
 - [Background](#background)
 - [???](#)

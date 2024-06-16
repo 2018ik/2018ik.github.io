@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Parable of the Good Samaritan
-permalink: /parable_good_samaritan/
+permalink: /wiki/parable_good_samaritan/
 ---
 - [Background](#background)
 - [Significance](#significance)

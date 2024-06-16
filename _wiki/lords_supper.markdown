@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Lord's Supper
-permalink: /lords_supper/
+permalink: /wiki/lords_supper/
 ---
 - [Background](#background)
 - [Related Terms](#related-terms)

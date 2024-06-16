@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Burnt Offering
-permalink: /burnt_offering/
+permalink: /wiki/burnt_offering/
 ---
 - [Background](#background)
 - [Significance](#significance)

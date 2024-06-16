@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Regulation
-permalink: /regulation/
+permalink: /wiki/regulation/
 ---
 - [Background](#background)
 - [Responsibility](#responsibility)

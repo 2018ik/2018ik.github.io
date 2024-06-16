@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jericho
-permalink: /jericho/
+permalink: /wiki/jericho/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Egypt
-permalink: /egypt/
+permalink: /wiki/egypt/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Heavenly Ministry
-permalink: /heavenly_ministry/
+permalink: /wiki/heavenly_ministry/
 ---
 - [Background](#background)
 

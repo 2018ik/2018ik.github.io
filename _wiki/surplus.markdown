@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Surplus
-permalink: /surplus/
+permalink: /wiki/surplus/
 ---
 - [Background](#background)
 - [Significance](#significance)

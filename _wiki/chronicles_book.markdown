@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Chronicles (Book)
-permalink: /chronicles_book/
+permalink: /wiki/chronicles_book/
 ---
 - [Background](#background)
 

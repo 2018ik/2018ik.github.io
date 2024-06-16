@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Lamentations (Book)
-permalink: /lamentations_book/
+permalink: /wiki/lamentations_book/
 ---
 - [Background](#background)
 

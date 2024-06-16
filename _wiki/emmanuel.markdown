@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Emmanuel
-permalink: /Emmanuel/
+permalink: /wiki/Emmanuel/
 ---
 - [Background](#background)
 - [Significance](#significance)

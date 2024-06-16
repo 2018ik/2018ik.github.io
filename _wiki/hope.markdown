@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hope
-permalink: /hope/
+permalink: /wiki/hope/
 ---
 - [Background](#background)
 - [Significance](#significance)

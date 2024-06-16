@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Firstborn of All Creation
-permalink: /firstborn_of_all_creation/
+permalink: /wiki/firstborn_of_all_creation/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Vision
-permalink: /vision/
+permalink: /wiki/vision/
 ---
 - [Background](#background)
 - [Significance](#significance)

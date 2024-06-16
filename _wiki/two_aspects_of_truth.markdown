@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Two Aspects of Truth
-permalink: /two_aspects_of_truth/
+permalink: /wiki/two_aspects_of_truth/
 ---
 - [Background](#background)
 - [Examples](#examples)

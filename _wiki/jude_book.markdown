@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jude (Book)
-permalink: /jude_book/
+permalink: /wiki/jude_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

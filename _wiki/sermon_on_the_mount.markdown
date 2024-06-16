@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sermon on the Mount
-permalink: /sermon_on_the_mount/
+permalink: /wiki/sermon_on_the_mount/
 ---
 - [Background](#background)
 - [Significance](#significance)

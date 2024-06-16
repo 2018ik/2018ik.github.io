@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Unveil
-permalink: /unveil/
+permalink: /wiki/unveil/
 ---
 - [Background](#background)
 - [Tips](#tips)

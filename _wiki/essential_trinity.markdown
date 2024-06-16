@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Essential Trinity
-permalink: /essential_trinity/
+permalink: /wiki/essential_trinity/
 ---
 - [Background](#background)
 - [Significance](#significance)

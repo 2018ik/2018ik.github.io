@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Inoculation
-permalink: /inoculation/
+permalink: /wiki/inoculation/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Joseph
-permalink: /joseph/
+permalink: /wiki/joseph/
 ---
 - [Background](#background)
 - [Significance](#significance)

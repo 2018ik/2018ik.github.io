@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Law of the Spirit of Life
-permalink: /law_of_the_spirit_of_life/
+permalink: /wiki/law_of_the_spirit_of_life/
 ---
 - [Background](#background)
 

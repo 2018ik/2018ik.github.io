@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: One Spirit
-permalink: /one_spirit/
+permalink: /wiki/one_spirit/
 ---
 - [Background](#background)
 - [Benefits](#benefits)

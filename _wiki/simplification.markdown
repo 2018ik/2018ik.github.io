@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Simplification
-permalink: /simplification/
+permalink: /wiki/simplification/
 ---
 - [Background](#background)
 

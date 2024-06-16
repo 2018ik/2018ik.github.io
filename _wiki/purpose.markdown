@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Purpose
-permalink: /purpose/
+permalink: /wiki/purpose/
 ---
 - [Background](#background)
 

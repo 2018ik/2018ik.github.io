@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Modalism
-permalink: /modalism/
+permalink: /wiki/modalism/
 ---
 - [Background](#background)
 

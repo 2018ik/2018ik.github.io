@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: God's Operation
-permalink: /gods_operation/
+permalink: /wiki/gods_operation/
 ---
 - [Background](#background)
 - [Significance](#significance)

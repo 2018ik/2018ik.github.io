@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Reality
-permalink: /reality/
+permalink: /wiki/reality/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Topical Verses
-permalink: /topical_verses/
+permalink: /wiki/topical_verses/
 ---
 - [Background](#background)
 - [Brothers](#brothers)

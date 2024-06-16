@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Smitten Rock
-permalink: /smitten_rock/
+permalink: /wiki/smitten_rock/
 ---
 - [Background](#background)
 

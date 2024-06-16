@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Building
-permalink: /building/
+permalink: /wiki/building/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

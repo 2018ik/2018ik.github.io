@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Morning Revival
-permalink: /morning_revival/
+permalink: /wiki/morning_revival/
 ---
 - [Background](#background)
 - [Biblical Patterns](#biblical-patterns)

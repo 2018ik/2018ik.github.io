@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Matthew (Chapters)
-permalink: /matthew_chapters/
+permalink: /wiki/matthew_chapters/
 ---
 - [Background](#background)
 - [13](#13)

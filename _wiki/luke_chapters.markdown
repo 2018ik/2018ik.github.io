@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Luke (Chapters)
-permalink: /luke_chapters/
+permalink: /wiki/luke_chapters/
 ---
 - [Background](#background)
 - [18](#18)

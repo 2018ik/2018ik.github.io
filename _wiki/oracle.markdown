@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Oracle
-permalink: /oracle/
+permalink: /wiki/oracle/
 ---
 - [Background](#background)
 - [History](#history)

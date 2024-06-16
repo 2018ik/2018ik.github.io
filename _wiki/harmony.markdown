@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Harmony
-permalink: /harmony/
+permalink: /wiki/harmony/
 ---
 - [Background](#background)
 

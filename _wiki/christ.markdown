@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ
-permalink: /christ/
+permalink: /wiki/christ/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

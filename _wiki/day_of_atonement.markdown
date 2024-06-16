@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Day of Atonement
-permalink: /day_of_atonement/
+permalink: /wiki/day_of_atonement/
 ---
 - [Background](#background)
 - [Significance](#significance)

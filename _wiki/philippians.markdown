@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Philippians
-permalink: /philippians/
+permalink: /wiki/philippians/
 ---
 - [Background](#background)
 

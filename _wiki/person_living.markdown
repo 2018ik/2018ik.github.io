@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Person & Living
-permalink: /person_living/
+permalink: /wiki/person_living/
 ---
 - [Background](#background)
 - [Significance](#significance)

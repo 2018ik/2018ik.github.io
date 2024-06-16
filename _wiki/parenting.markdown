@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Parenting
-permalink: /parenting/
+permalink: /wiki/parenting/
 ---
 - [Background](#background)
 - [Significance](#significance)

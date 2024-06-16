@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Acacia Wood
-permalink: /acacia_wood/
+permalink: /wiki/acacia_wood/
 ---
 - [Background](#background)
 - [Significance](#significance)

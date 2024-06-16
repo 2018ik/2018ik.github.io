@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Prototype
-permalink: /prototype/
+permalink: /wiki/prototype/
 ---
 - [Background](#background)
 - [Significance](#significance)

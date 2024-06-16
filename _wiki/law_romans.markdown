@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Laws in Romans
-permalink: /law_romans/
+permalink: /wiki/law_romans/
 ---
 - [Background](#background)
 - [Law of God](#law-of-god)

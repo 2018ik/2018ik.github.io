@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spirit (of man)
-permalink: /spirit_man/
+permalink: /wiki/spirit_man/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mystery
-permalink: /mystery/
+permalink: /wiki/mystery/
 ---
 
 - [Background](#background)

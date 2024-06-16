@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Day by Day
-permalink: /day_by_day/
+permalink: /wiki/day_by_day/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Vessel
-permalink: /vessel/
+permalink: /wiki/vessel/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

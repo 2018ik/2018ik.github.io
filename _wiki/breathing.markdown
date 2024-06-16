@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Breathing
-permalink: /breathing/
+permalink: /wiki/breathing/
 ---
 - [Background](#background)
 

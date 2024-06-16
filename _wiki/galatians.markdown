@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Galatians (Book)
-permalink: /galatians/
+permalink: /wiki/galatians/
 ---
 - [Background](#background)
 - [Summary](#summary)

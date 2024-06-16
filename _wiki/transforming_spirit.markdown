@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Transforming Spirit
-permalink: /transforming_spirit/
+permalink: /wiki/transforming_spirit/
 ---
 - [Background](#background)
 - [Functions](#functions)

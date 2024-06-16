@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: In
-permalink: /in/
+permalink: /wiki/in/
 ---
 - [Background](#background)
 - [Significance](#significance)

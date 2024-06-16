@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The One Thing
-permalink: /the_one_thing/
+permalink: /wiki/the_one_thing/
 ---
 - [Background](#background)
 - [Significance](#significance)

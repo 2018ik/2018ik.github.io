@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Universe
-permalink: /universe/
+permalink: /wiki/universe/
 ---
 - [Background](#background)
 - [Universality](#universality)

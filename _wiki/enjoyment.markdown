@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Enjoyment
-permalink: /enjoyment/
+permalink: /wiki/enjoyment/
 ---
 - [Background](#background)
 - [Significance](#significance)

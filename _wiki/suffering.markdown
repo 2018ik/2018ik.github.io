@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Suffering
-permalink: /suffering/
+permalink: /wiki/suffering/
 ---
 - [Background](#background)
 - [Purpose](#purpose)

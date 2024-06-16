@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Paul's Gospel
-permalink: /paul_gospel/
+permalink: /wiki/paul_gospel/
 ---
 - [Background](#background)
 - [Significance](#significance)

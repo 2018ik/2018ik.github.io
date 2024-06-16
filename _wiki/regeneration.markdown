@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Regeneration
-permalink: /regeneration/
+permalink: /wiki/regeneration/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

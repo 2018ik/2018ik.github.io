@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Circumcision
-permalink: /circumcision/
+permalink: /wiki/circumcision/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fourth Watch
-permalink: /fourth_watch/
+permalink: /wiki/fourth_watch/
 ---
 - [Background](#background)
 - [Significance](#significance)

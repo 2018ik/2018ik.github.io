@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Witness
-permalink: /witness/
+permalink: /wiki/witness/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

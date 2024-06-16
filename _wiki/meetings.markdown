@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Meetings
-permalink: /meetings/
+permalink: /wiki/meetings/
 ---
 - [Background](#background)
 - [Significance](#significance)

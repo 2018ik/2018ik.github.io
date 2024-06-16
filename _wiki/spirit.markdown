@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spirit (of God)
-permalink: /spirit/
+permalink: /wiki/spirit/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

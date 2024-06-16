@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Inheritance
-permalink: /inheritance/
+permalink: /wiki/inheritance/
 ---
 - [Background](#background)
 

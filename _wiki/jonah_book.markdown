@@ -1,7 +1,7 @@
  ---
 layout: pagev2
 title: Jonah (Book)
-permalink: /jonah_book/
+permalink: /wiki/jonah_book/
 ---
 - [Background](#background)
 

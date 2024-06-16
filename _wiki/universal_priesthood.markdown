@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Universal Priesthood
-permalink: /universal_priesthood/
+permalink: /wiki/universal_priesthood/
 ---
 - [Background](#background)
 - [Significance](#significance)

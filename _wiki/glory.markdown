@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Glory
-permalink: /glory/
+permalink: /wiki/glory/
 ---
 - [Background](#background)
 - [14 Aspects](#14-aspects)

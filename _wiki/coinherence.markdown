@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Coinherence
-permalink: /coinherence/
+permalink: /wiki/coinherence/
 ---
 - [Background](#background)
 - [Significance](#significance)

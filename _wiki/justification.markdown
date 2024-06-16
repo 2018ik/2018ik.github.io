@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Justification
-permalink: /justification/
+permalink: /wiki/justification/
 ---
 - [Background](#background)
 - [Justification by Faith](#justification-by-faith)

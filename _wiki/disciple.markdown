@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Disciple
-permalink: /disciple/
+permalink: /wiki/disciple/
 ---
 - [Background](#background)
 

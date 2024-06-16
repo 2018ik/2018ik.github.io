@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 2 Corinthians Chapters
-permalink: /2_corinthians_chapters/
+permalink: /wiki/2_corinthians_chapters/
 ---
 - [Background](#background)
 - [2](#2)

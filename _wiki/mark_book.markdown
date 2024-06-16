@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mark (Book)
-permalink: /mark_book/
+permalink: /wiki/mark_book/
 ---
 - [Background](#background)
 

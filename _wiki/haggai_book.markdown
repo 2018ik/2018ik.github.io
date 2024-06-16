@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Haggai (Book)
-permalink: /haggai_book/
+permalink: /wiki/haggai_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

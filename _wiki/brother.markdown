@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Brother
-permalink: /brother/
+permalink: /wiki/brother/
 ---
 - [Background](#background)
 - [Significance](#significance)

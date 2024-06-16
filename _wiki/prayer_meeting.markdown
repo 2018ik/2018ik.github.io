@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Prayer Meeting
-permalink: /prayer_meeting/
+permalink: /wiki/prayer_meeting/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

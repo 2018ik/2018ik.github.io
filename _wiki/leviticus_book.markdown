@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Leviticus (Book)
-permalink: /leviticus_book/
+permalink: /wiki/leviticus_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

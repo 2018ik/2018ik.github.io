@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mingled Spirit
-permalink: /mingled_spirit/
+permalink: /wiki/mingled_spirit/
 ---
 - [Background](#background)
 - [Significance](#significance)

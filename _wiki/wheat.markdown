@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Wheat
-permalink: /wheat/
+permalink: /wiki/wheat/
 ---
 - [Background](#background)
 - [Significance](#significance)

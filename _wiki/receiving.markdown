@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Receiving
-permalink: /receiving/
+permalink: /wiki/receiving/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

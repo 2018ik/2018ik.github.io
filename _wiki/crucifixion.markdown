@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Crucifixion
-permalink: /crucifixion/
+permalink: /wiki/crucifixion/
 ---
 - [Background](#background)
 

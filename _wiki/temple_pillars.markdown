@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Temple Pillars
-permalink: /temple_pillars/
+permalink: /wiki/temple_pillars/
 ---
 - [Background](#background)
 - [Significance](#significance)

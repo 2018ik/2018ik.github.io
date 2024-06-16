@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Local Church
-permalink: /local_church/
+permalink: /wiki/local_church/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

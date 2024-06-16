@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Spiritual Milk
-permalink: /spiritual_milk/
+permalink: /wiki/spiritual_milk/
 ---
 - [Background](#background)
 

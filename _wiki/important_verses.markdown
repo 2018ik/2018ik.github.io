@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Important Verses
-permalink: /important_verses/
+permalink: /wiki/important_verses/
 ---
 - [Background](#background)
 - [1 Cor. 6:17](#1-cor-617)

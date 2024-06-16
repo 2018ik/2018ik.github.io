@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Manchild
-permalink: /manchild/
+permalink: /wiki/manchild/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

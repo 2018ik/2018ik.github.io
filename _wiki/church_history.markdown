@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Church History
-permalink: /church_history/
+permalink: /wiki/church_history/
 ---
 - [Background](#background)
 - [Old Testament Canon](#old-testament-canon)

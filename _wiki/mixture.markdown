@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mixture
-permalink: /mixture/
+permalink: /wiki/mixture/
 ---
 - [Background](#background)
 - [Significance](#significance)

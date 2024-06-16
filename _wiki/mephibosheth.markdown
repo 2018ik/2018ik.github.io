@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mephibosheth
-permalink: /mephibosheth/
+permalink: /wiki/mephibosheth/
 ---
 - [Background](#background)
 - [Significance](#significance)

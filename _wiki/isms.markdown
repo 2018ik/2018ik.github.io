@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Isms
-permalink: /isms/
+permalink: /wiki/isms/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Life
-permalink: /life/
+permalink: /wiki/life/
 ---
 - [Background](#background)
 - [Significance](#significance)

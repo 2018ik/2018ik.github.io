@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fullness of the Times
-permalink: /fullness_of_the_times/
+permalink: /wiki/fullness_of_the_times/
 ---
 - [Background](#background)
 - [Significance](#significance)

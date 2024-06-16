@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Intrinsic Significance
-permalink: /intrinsic_significance/
+permalink: /wiki/intrinsic_significance/
 ---
 - [Background](#background)
 

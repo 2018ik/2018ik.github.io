@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Full-time Training in Anaheim (FTTA)
-permalink: /ftta/
+permalink: /wiki/ftta/
 ---
 - [Background](#background)
 - [Testimonies](#testimonies)

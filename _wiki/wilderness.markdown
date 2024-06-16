@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Wilderness
-permalink: /wilderness/
+permalink: /wiki/wilderness/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Inward Parts
-permalink: /inward_parts/
+permalink: /wiki/inward_parts/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

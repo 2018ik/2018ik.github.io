@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Speciality, Generality, and Practicality
-permalink: /speciality_generality_practicality/
+permalink: /wiki/speciality_generality_practicality/
 ---
 - [Background](#background)
 - [Speciality](#speciality)

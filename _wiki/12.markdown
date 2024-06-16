@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 12 (Number)
-permalink: /12/
+permalink: /wiki/12/
 ---
 - [Background](#background)
 - [Significance](#significance)

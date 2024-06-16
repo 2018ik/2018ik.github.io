@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Philippians (Chapters)
-permalink: /philippians_chapters/
+permalink: /wiki/philippians_chapters/
 ---
 - [Background](#background)
 - [3](#3)

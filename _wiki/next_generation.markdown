@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Next Generation
-permalink: /next_generation/
+permalink: /wiki/next_generation/
 ---
 - [Background](#background)
 - [History](#history)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Rhema
-permalink: /rhema/
+permalink: /wiki/rhema/
 ---
 - [Background](#background)
 

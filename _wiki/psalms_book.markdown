@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Psalms (Book)
-permalink: /psalms_book/
+permalink: /wiki/psalms_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

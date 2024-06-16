@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Healthy Teaching
-permalink: /healthy_teaching/
+permalink: /wiki/healthy_teaching/
 ---
 - [Background](#background)
 - [History](#history)

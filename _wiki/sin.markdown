@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sin
-permalink: /sin/
+permalink: /wiki/sin/
 ---
 - [Background](#background)
 - [Penalty](#penalty)

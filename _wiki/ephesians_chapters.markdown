@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ephesians (Chapters)
-permalink: /ephesians_chapters/
+permalink: /wiki/ephesians_chapters/
 ---
 - [Background](#background)
 - [1](#1)

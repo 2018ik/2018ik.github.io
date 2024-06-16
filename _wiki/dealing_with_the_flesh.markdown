@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dealing with the Flesh
-permalink: /dealing_with_the_flesh/
+permalink: /wiki/dealing_with_the_flesh/
 ---
 - [Background](#background)
 - [Significance](#significance)

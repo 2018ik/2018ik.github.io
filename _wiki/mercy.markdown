@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mercy
-permalink: /mercy/
+permalink: /wiki/mercy/
 ---
 - [Background](#background)
 - [Significance](#significance)

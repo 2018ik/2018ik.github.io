@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Tabernacle
-permalink: /tabernacle/
+permalink: /wiki/tabernacle/
 ---
 - [Background](#background)
 - [Description](#description)

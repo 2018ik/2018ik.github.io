@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Keys of Death and of Hades
-permalink: /keys_of_death_and_of_hades/
+permalink: /wiki/keys_of_death_and_of_hades/
 ---
 - [Background](#background)
 - [Significance](#significance)

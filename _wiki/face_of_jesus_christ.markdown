@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Face of Jesus Christ
-permalink: /face_of_jesus_christ/
+permalink: /wiki/face_of_jesus_christ/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

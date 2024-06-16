@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Natural Constitution
-permalink: /natural_constitution/
+permalink: /wiki/natural_constitution/
 ---
 - [Background](#background)
 - [Significance](#significance)

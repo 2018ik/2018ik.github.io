@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Heresy
-permalink: /heresy/
+permalink: /wiki/heresy/
 ---
 - [Background](#background)
 - [Significance](#significance)

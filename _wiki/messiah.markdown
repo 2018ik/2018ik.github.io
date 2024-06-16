@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Messiah
-permalink: /messiah/
+permalink: /wiki/messiah/
 ---
 - [Background](#background)
 - [Significance](#significance)

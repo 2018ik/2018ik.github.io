@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mystery of God
-permalink: /mystery_of_god/
+permalink: /wiki/mystery_of_god/
 ---
 
 - [Background](#background)

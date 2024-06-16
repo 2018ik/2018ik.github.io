@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ephaphroditus
-permalink: /ephaphroditus/
+permalink: /wiki/ephaphroditus/
 ---
 - [Background](#background)
 - [Significance](#significance)

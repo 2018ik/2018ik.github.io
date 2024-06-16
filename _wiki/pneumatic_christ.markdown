@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pneumatic Christ
-permalink: /pneumatic_christ/
+permalink: /wiki/pneumatic_christ/
 ---
 - [Background](#background)
 - [Significance](#significance)

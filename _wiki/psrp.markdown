@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pray-reading, Studying, Reciting, Prophesying (PSRP)
-permalink: /psrp/
+permalink: /wiki/psrp/
 ---
 - [Background](#background)
 - [How To Practice PSRP](#how-to-practice-psrp)

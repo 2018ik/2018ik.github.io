@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Isaiah (Book)
-permalink: /isaiah_book/
+permalink: /wiki/isaiah_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

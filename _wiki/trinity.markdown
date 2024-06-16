@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Trinity
-permalink: /trinity/
+permalink: /wiki/trinity/
 ---
 - [Background](#background)
 - [Importance](#importance)

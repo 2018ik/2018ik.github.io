@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Lampstand
-permalink: /lampstand/
+permalink: /wiki/lampstand/
 ---
 - [Background](#background)
 - [Material](#material)

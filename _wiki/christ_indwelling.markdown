@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ Indwelling
-permalink: /christ_indwelling/
+permalink: /wiki/christ_indwelling/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

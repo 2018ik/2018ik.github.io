@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dealing with the World
-permalink: /dealing_with_the_world/
+permalink: /wiki/dealing_with_the_world/
 ---
 - [Background](#background)
 - [Significance](#significance)

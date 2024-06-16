@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Isaac
-permalink: /isaac/
+permalink: /wiki/isaac/
 ---
 - [Background](#background)
 - [Significance](#significance)

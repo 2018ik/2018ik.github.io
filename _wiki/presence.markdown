@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Presence
-permalink: /presence/
+permalink: /wiki/presence/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

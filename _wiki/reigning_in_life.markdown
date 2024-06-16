@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Reigning in Life
-permalink: /reigning_in_life/
+permalink: /wiki/reigning_in_life/
 ---
 - [Background](#background)
 - [Purpose](#purpose)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Roman Empire
-permalink: /roman_empire/
+permalink: /wiki/roman_empire/
 ---
 - [Background](#background)
 - [Significance](#significance)

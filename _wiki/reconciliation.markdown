@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Reconciliation
-permalink: /reconciliation/
+permalink: /wiki/reconciliation/
 ---
 - [Background](#background)
 - [Significance](#significance)

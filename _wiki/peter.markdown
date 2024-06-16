@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Peter
-permalink: /peter/
+permalink: /wiki/peter/
 ---
 - [Background](#background)
 - [History](#history)

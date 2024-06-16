@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Eating
-permalink: /eating/
+permalink: /wiki/eating/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

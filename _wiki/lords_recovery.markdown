@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Lord's Recovery
-permalink: /the_lords_recovery/
+permalink: /wiki/the_lords_recovery/
 ---
 - [Background](#background)
 - ["Recovery"](#recovery)

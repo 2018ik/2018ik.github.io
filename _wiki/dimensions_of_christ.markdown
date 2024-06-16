@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dimensions of Christ
-permalink: /dimensions_of_christ/
+permalink: /wiki/dimensions_of_christ/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Body of Sin
-permalink: /body_of_sin/
+permalink: /wiki/body_of_sin/
 ---
 - [Background](#background)
 - [Significance](#significance)

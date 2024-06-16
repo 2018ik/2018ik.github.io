@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Church
-permalink: /church/
+permalink: /wiki/church/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

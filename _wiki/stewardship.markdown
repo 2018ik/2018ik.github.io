@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Stewardship
-permalink: /stewardship/
+permalink: /wiki/stewardship/
 ---
 - [Background](#background)
 

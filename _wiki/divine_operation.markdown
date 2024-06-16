@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Divine Operation
-permalink: /divine_operation/
+permalink: /wiki/divine_operation/
 ---
 - [Background](#background)
 

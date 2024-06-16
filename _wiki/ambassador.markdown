@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ambassador
-permalink: /ambassador/
+permalink: /wiki/ambassador/
 ---
 - [Background](#background)
 - [Qualifications](#qualifications)

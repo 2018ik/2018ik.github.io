@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Heaven
-permalink: /heaven/
+permalink: /wiki/heaven/
 ---
 - [Background](#background)
 

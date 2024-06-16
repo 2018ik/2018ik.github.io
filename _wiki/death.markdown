@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Death
-permalink: /death/
+permalink: /wiki/death/
 ---
 - [Background](#background)
 - [Significance](#significance)

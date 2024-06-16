@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Lot
-permalink: /lot/
+permalink: /wiki/lot/
 ---
 - [Background](#background)
 - [Significance](#significance)

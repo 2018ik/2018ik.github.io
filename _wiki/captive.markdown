@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Captive
-permalink: /captive/
+permalink: /wiki/captive/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

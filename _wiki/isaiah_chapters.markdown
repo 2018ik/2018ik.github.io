@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Isaiah Chapters
-permalink: /isaiah_chapters/
+permalink: /wiki/isaiah_chapters/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Introspection
-permalink: /introspection/
+permalink: /wiki/introspection/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pray-reading
-permalink: /pray_reading/
+permalink: /wiki/pray_reading/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

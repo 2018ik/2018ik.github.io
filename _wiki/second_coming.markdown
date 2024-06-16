@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Second Coming
-permalink: /second_coming/
+permalink: /wiki/second_coming/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Romans (Chapters)
-permalink: /romans_chapters/
+permalink: /wiki/romans_chapters/
 ---
 - [Background](#background)
 - [8](#8)

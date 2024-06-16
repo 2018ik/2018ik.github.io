@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Repentance
-permalink: /Repentance/
+permalink: /wiki/Repentance/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Baptism
-permalink: /baptism/
+permalink: /wiki/baptism/
 ---
 - [Background](#background)
 - [Prerequisites](#prerequisites)

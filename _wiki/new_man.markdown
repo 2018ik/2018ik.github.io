@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: New Man
-permalink: /new_man/
+permalink: /wiki/new_man/
 ---
 - [Background](#background)
 - [Creation](#creation)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Religion
-permalink: /religion/
+permalink: /wiki/religion/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

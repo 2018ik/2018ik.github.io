@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ordinary Days
-permalink: /ordinary/
+permalink: /wiki/ordinary/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

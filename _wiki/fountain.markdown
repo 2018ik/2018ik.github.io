@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fountain
-permalink: /fountain/
+permalink: /wiki/fountain/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

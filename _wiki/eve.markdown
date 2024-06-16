@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Eve
-permalink: /eve/
+permalink: /wiki/eve/
 ---
 - [Background](#background)
 - [Significance](#significance)

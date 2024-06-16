@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: First Fall of Man
-permalink: /first_fall_of_man/
+permalink: /wiki/first_fall_of_man/
 ---
 - [Background](#background)
 - [Timeline](#timeline)

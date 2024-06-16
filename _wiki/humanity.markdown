@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Humanity
-permalink: /humanity/
+permalink: /wiki/humanity/
 ---
 - [Background](#background)
 - [Without God](#without-god)

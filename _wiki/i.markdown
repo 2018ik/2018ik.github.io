@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: I (old I, new I)
-permalink: /i/
+permalink: /wiki/i/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

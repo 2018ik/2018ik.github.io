@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Moses
-permalink: /moses/
+permalink: /wiki/moses/
 ---
 - [Background](#background)
 - [History](#history)

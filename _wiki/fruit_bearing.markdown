@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fruit Bearing
-permalink: /fruit_bearing/
+permalink: /wiki/fruit_bearing/
 ---
 - [Background](#background)
 - [Life](#life)

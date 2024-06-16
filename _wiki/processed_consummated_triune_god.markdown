@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Processed Consummated Triune God
-permalink: /processed_consummated_triune_god/
+permalink: /wiki/processed_consummated_triune_god/
 ---
 - [Background](#background)
 - [Processes](#processes)

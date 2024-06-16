@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Flesh
-permalink: /flesh/
+permalink: /wiki/flesh/
 ---
 - [Background](#background)
 - [Relation to the Old Man](#relation-to-the-old-man)

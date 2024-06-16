@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Feast of Unleavened Bread
-permalink: /feast_of_unleavened_bread/
+permalink: /wiki/feast_of_unleavened_bread/
 ---
 - [Background](#background)
 

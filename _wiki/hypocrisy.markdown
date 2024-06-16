@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hypocrisy
-permalink: /hypocrisy/
+permalink: /wiki/hypocrisy/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

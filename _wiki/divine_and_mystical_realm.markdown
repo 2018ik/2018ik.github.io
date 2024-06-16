@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Divine and Mystical Realm
-permalink: /divine_and_mystical_realm/
+permalink: /wiki/divine_and_mystical_realm/
 ---
 - [Background](#background)
 - [Incorporation](#incorporation)

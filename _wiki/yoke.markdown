@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Yoke
-permalink: /yoke/
+permalink: /wiki/yoke/
 ---
 - [Background](#background)
 - [Significance](#significance)

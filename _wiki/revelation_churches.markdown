@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Revelation Churches
-permalink: /revelation_churches/
+permalink: /wiki/revelation_churches/
 ---
 - [Background](#background)
 - [Ephesus](#ephesus)

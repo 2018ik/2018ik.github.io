@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Canaan
-permalink: /canaan/
+permalink: /wiki/canaan/
 ---
 - [Background](#background)
 - [Significance](#significance)

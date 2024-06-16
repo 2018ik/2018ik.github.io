@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Curse of the Law
-permalink: /curse_of_the_law/
+permalink: /wiki/curse_of_the_law/
 ---
 - [Background](#background)
 - [Significance](#significance)

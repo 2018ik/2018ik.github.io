@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Economical Trinity
-permalink: /economical_trinity/
+permalink: /wiki/economical_trinity/
 ---
 - [Background](#background)
 - [Significance](#significance)

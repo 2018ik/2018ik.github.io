@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Judaizer
-permalink: /judaizer/
+permalink: /wiki/judaizer/
 ---
 - [Background](#background)
 - [Significance](#significance)

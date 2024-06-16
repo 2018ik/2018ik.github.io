@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sonship
-permalink: /sonship/
+permalink: /wiki/sonship/
 ---
 - [Background](#background)
 - [Significance](#significance)

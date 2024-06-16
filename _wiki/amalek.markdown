@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Amalek
-permalink: /amalek/
+permalink: /wiki/amalek/
 ---
 - [Background](#background)
 - [Significance](#significance)

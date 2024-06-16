@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 1 Timothy (Book)
-permalink: /1_timothy_book/
+permalink: /wiki/1_timothy_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

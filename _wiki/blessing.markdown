@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Blessing
-permalink: /blessing/
+permalink: /wiki/blessing/
 ---
 - [Background](#background)
 - [Definitions](#definitions)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Darkness
-permalink: /darkness/
+permalink: /wiki/darkness/
 ---
 - [Background](#background)
 - [Significance](#significance)

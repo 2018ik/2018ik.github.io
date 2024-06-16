@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fullness
-permalink: /fullness/
+permalink: /wiki/fullness/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Divine Romance
-permalink: /divine_romance/
+permalink: /wiki/divine_romance/
 ---
 - [Background](#background)
 - [Old Testament](#old-testament)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Blessing of Abraham
-permalink: /blessing_of_abraham/
+permalink: /wiki/blessing_of_abraham/
 ---
 - [Background](#background)
 - [Significance](#significance)

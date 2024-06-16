@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Bride
-permalink: /bride/
+permalink: /wiki/bride/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

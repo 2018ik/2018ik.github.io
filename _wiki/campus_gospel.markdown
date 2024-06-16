@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Campus Gospel
-permalink: /campus_gospel/
+permalink: /wiki/campus_gospel/
 ---
 - [Background](#background)
 - [Grasping the Opportunity](#grasping-the-opportunity)

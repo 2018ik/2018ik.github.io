@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Practicality
-permalink: /practicality/
+permalink: /wiki/practicality/
 ---
 - [Background](#background)
 

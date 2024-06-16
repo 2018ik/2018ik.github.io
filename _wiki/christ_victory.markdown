@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ's Victory
-permalink: /christ_victory/
+permalink: /wiki/christ_victory/
 ---
 - [Background](#background)
 - [Significance](#significance)

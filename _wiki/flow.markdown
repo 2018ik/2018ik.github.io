@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Flow
-permalink: /flow/
+permalink: /wiki/flow/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Supplemental Line
-permalink: /supplemental_line/
+permalink: /wiki/supplemental_line/
 ---
 - [Background](#background)
 - [Items](#items)

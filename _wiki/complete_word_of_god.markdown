@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Complete Word of God
-permalink: /complete_word_of_god/
+permalink: /wiki/complete_word_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

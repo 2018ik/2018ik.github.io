@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hidden Manna
-permalink: /hidden_manna/
+permalink: /wiki/hidden_manna/
 ---
 - [Background](#background)
 - [Divine Incorporation](#divine-incorporation)

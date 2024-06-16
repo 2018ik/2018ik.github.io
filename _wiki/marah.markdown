@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Marah
-permalink: /marah/
+permalink: /wiki/marah/
 ---
 - [Background](#background)
 - [History](#history)

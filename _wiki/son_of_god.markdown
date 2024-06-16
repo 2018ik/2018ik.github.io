@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Son of God
-permalink: /son_of_god/
+permalink: /wiki/son_of_god/
 ---
 - [Background](#background)
 - [Only-begotten](#only-begotten)

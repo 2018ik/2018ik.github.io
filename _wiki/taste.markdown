@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Taste
-permalink: /taste/
+permalink: /wiki/taste/
 ---
 - [Background](#background)
 - [Significance](#significance)

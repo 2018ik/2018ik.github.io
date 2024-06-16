@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Seven Seals
-permalink: /seven_seals/
+permalink: /wiki/seven_seals/
 ---
 - [Background](#background)
 - [1-4](#1-4)

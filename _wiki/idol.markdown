@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Idols
-permalink: /idol/
+permalink: /wiki/idol/
 ---
 - [Background](#background)
 - [Five Principles](#five-principles)

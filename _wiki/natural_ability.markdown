@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Natural Ability
-permalink: /natural_ability/
+permalink: /wiki/natural_ability/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

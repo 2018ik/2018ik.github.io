@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Prudence
-permalink: /prudence/
+permalink: /wiki/prudence/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Elder
-permalink: /elder/
+permalink: /wiki/elder/
 ---
 - [Background](#background)
 - [Function](#function)

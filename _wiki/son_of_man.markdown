@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Son of Man
-permalink: /son_of_man/
+permalink: /wiki/son_of_man/
 ---
 - [Background](#background)
 - [Cherishing](#cherishing)

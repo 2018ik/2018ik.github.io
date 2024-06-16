@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Gospel Work
-permalink: /gospel_work/
+permalink: /wiki/gospel_work/
 ---
 - [Background](#background)
 - [Relationship to the church](#relationship-to-the-church)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Discernment
-permalink: /discernment/
+permalink: /wiki/discernment/
 ---
 - [Background](#background)
 - [Significance](#significance)

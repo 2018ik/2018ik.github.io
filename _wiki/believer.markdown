@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Believer
-permalink: /believer/
+permalink: /wiki/believer/
 ---
 - [Background](#background)
 - [Significance](#significance)

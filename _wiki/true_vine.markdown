@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: True Vine
-permalink: /true_vine/
+permalink: /wiki/true_vine/
 ---
 - [Background](#background)
 - [Significance](#significance)

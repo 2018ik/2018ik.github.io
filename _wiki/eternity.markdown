@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Eternity
-permalink: /eternity/
+permalink: /wiki/eternity/
 ---
 
 - [Background](#background)

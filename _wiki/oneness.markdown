@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Oneness
-permalink: /oneness/
+permalink: /wiki/oneness/
 ---
 - [Background](#background)
 - [Significance](#significance)

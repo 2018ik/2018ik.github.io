@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Strongholds
-permalink: /strongholds/
+permalink: /wiki/strongholds/
 ---
 - [Background](#background)
 - [Significance](#significance)

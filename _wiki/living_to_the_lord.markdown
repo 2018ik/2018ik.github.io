@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Living to the Lord
-permalink: /living_to_the_lord/
+permalink: /wiki/living_to_the_lord/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

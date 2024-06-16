@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Will of God
-permalink: /will_of_god/
+permalink: /wiki/will_of_god/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

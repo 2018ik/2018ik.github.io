@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 4
-permalink: /4/
+permalink: /wiki/4/
 ---
 - [Background](#background)
 - [Significance](#significance)

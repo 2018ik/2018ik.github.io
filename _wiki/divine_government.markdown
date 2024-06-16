@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Divine Government
-permalink: /divine_government/
+permalink: /wiki/divine_government/
 ---
 - [Background](#background)
 - [Significance](#significance)

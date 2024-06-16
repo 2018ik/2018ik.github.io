@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Type
-permalink: /type/
+permalink: /wiki/type/
 ---
 - [Background](#background)
 - [Examples](#examples)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: House of God
-permalink: /house_of_god/
+permalink: /wiki/house_of_god/
 ---
 - [Background](#background)
 - [Stages](#stages)

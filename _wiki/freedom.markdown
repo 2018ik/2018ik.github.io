@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Freedom
-permalink: /freedom/
+permalink: /wiki/freedom/
 ---
 - [Background](#background)
 - [Four Aspects](#four-aspects)

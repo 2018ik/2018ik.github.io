@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Temple
-permalink: /temple/
+permalink: /wiki/temple/
 ---
 - [Background](#background)
 - [New Testament](#new-testament)

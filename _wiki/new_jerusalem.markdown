@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: New Jerusalem
-permalink: /new_jerusalem/
+permalink: /wiki/new_jerusalem/
 ---
 - [Background](#background)
 - [Typology](#typology)

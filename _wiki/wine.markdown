@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Wine
-permalink: /wine/
+permalink: /wiki/wine/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mediator
-permalink: /mediator/
+permalink: /wiki/mediator/
 ---
 - [Background](#background)
 

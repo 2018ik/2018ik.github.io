@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Seventy Weeks
-permalink: /seventy_weeks/
+permalink: /wiki/seventy_weeks/
 ---
 - [Background](#background)
 - [Sections](#sections)

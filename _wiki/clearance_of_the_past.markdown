@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Clearance of the Past
-permalink: /clearance_of_the_past/
+permalink: /wiki/clearance_of_the_past/
 ---
 - [Background](#background)
 - [Significance](#significance)

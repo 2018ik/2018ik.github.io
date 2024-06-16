@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Satan
-permalink: /satan/
+permalink: /wiki/satan/
 ---
 - [Background](#background)
 - [History](#history)

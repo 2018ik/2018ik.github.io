@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Brands
-permalink: /brands/
+permalink: /wiki/brands/
 ---
 - [Background](#background)
 

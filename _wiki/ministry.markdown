@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ministry
-permalink: /ministry/
+permalink: /wiki/ministry/
 ---
 - [Background](#background)
 - [Cycle](#cycle)

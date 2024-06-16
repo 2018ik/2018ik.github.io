@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: School of Tyrannus
-permalink: /school_of_tyrannus/
+permalink: /wiki/school_of_tyrannus/
 ---
 - [Background](#background)
 - [Significance](#significance)

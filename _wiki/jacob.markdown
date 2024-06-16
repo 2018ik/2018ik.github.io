@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jacob
-permalink: /jacob/
+permalink: /wiki/jacob/
 ---
 - [Background](#background)
 - [Significance](#significance)

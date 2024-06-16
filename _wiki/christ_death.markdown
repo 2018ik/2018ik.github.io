@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ's Death
-permalink: /christ_death/
+permalink: /wiki/christ_death/
 ---
 - [Background](#background)
 - [Significance](#significance)

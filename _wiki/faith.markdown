@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Faith
-permalink: /faith/
+permalink: /wiki/faith/
 ---
 - [Background](#background)
 - [Application](#application)

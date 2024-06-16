@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Renewing
-permalink: /renewing/
+permalink: /wiki/renewing/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

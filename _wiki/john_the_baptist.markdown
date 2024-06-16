@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: John the Baptist
-permalink: /john_the_baptist/
+permalink: /wiki/john_the_baptist/
 ---
 - [Background](#background)
 - [Significance](#significance)

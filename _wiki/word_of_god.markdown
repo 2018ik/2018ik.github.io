@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Word of God
-permalink: /word_of_god/
+permalink: /wiki/word_of_god/
 ---
 - [Background](#background)
 - [How To Read](#how-to-read)

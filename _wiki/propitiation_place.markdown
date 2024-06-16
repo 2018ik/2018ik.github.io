@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Propitiation Place
-permalink: /propitiation_place/
+permalink: /wiki/propitiation_place/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

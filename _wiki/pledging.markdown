@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pledging
-permalink: /pledging/
+permalink: /wiki/pledging/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Nehemiah (Book)
-permalink: /nehemiah_book/
+permalink: /wiki/nehemiah_book/
 ---
 - [Background](#background)
 

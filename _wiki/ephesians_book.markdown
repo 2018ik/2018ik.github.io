@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ephesians (Book)
-permalink: /ephesians_book/
+permalink: /wiki/ephesians_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

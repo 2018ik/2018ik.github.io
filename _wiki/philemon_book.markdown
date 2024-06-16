@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Philemon (Book)
-permalink: /philemon_book/
+permalink: /wiki/philemon_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

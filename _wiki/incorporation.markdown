@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Incorporation
-permalink: /incorporation/
+permalink: /wiki/incorporation/
 ---
 - [Background](#background)
 - [Divine Incorporation](#divine-incorporation)

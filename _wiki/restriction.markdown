@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Restriction
-permalink: /restriction/
+permalink: /wiki/restriction/
 ---
 - [Background](#background)
 - [Inward Restriction](#inward-restriction)

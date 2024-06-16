@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Letter of Christ
-permalink: /letter_of_christ/
+permalink: /wiki/letter_of_christ/
 ---
 - [Background](#background)
 - [Old Testament Typology](#old-testament-typology)

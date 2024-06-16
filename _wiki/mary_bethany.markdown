@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mary (of Bethany)
-permalink: /mary_bethany/
+permalink: /wiki/mary_bethany/
 ---
 - [Background](#background)
 - [History](#history)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Romans (Book)
-permalink: /romans/
+permalink: /wiki/romans/
 ---
 - [Background](#background)
 - [Summary](#summary)

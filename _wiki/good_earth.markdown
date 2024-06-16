@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Good Earth
-permalink: /good_earth/
+permalink: /wiki/good_earth/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hedonism
-permalink: /hedonism/
+permalink: /wiki/hedonism/
 ---
 - [Background](#background)
 - [Significance](#significance)

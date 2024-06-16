@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Another Angel
-permalink: /another_angel/
+permalink: /wiki/another_angel/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Heading Up
-permalink: /heading_up/
+permalink: /wiki/heading_up/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

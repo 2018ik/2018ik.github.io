@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Transformation
-permalink: /transformation/
+permalink: /wiki/transformation/
 ---
 - [Background](#background)
 - [Significance](#significance)

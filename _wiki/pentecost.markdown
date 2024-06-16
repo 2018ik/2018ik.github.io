@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pentecost
-permalink: /pentecost/
+permalink: /wiki/pentecost/
 ---
 - [Background](#background)
 - [Significance](#significance)

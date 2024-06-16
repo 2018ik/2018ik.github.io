@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Manger to Cross
-permalink: /manger_to_cross/
+permalink: /wiki/manger_to_cross/
 ---
 - [Background](#background)
 - [Timeline](#timeline)

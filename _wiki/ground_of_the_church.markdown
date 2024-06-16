@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ground of the Church
-permalink: /ground_of_the_church/
+permalink: /wiki/ground_of_the_church/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Environment
-permalink: /environment/
+permalink: /wiki/environment/
 ---
 - [Background](#background)
 - [Significance](#significance)

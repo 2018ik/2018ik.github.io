@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Questions & Answers
-permalink: /questions_and_answers/
+permalink: /wiki/questions_and_answers/
 ---
 
 #### God wants man to be subject to deputy authorities (Rom. 13:1). What should a person do if his parents forbid him from going to the meetings? 

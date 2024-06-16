@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hannah
-permalink: /hannah/
+permalink: /wiki/hannah/
 ---
 - [Background](#background)
 - [Significance](#significance)

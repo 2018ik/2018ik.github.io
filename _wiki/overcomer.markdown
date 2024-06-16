@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Overcomer
-permalink: /overcomer/
+permalink: /wiki/overcomer/
 ---
 - [Background](#background)
 - [Significance](#significance)

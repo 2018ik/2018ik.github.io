@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Quenching the Spirit
-permalink: /quenching_the_spirit/
+permalink: /wiki/quenching_the_spirit/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

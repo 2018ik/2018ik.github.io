@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 1 Corinthians (Book)
-permalink: /first_corinthians/
+permalink: /wiki/first_corinthians/
 ---
 - [Background](#background)
 - [Summary](#summary)

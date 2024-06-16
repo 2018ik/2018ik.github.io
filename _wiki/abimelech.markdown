@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Abimelech
-permalink: /abimelech/
+permalink: /wiki/abimelech/
 ---
 - [Background](#background)
 - [Significance](#significance)

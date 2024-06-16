@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Thornbush
-permalink: /thornbush/
+permalink: /wiki/thornbush/
 ---
 - [Background](#background)
 

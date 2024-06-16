@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: God-man
-permalink: /godman/
+permalink: /wiki/godman/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

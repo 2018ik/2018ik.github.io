@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Exercising the Spirit
-permalink: /exercising_the_spirit/
+permalink: /wiki/exercising_the_spirit/
 ---
 
 ## Background

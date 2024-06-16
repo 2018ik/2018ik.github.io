@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mingling
-permalink: /mingling/
+permalink: /wiki/mingling/
 ---
 - [Background](#background)
 - [Examples](#examples)

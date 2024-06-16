@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Resistance
-permalink: /resistance/
+permalink: /wiki/resistance/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

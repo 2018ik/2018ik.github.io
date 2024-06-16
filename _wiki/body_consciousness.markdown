@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Body Consciousness
-permalink: /body_consciousness/
+permalink: /wiki/body_consciousness/
 ---
 - [Background](#background)
 - [Testimonies](#testimonies)

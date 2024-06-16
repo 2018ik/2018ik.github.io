@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: 1 Timothy (Chapters)
-permalink: /1_timothy_chapters/
+permalink: /wiki/1_timothy_chapters/
 ---
 - [Background](#background)
 - [2](#2)

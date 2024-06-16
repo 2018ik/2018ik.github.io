@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Acts (Book)
-permalink: /acts_book/
+permalink: /wiki/acts_book/
 ---
 - [Background](#background)
 

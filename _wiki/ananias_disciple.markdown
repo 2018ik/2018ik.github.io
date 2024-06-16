@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ananias (disciple)
-permalink: /ananias_disciple/
+permalink: /wiki/ananias_disciple/
 ---
 - [Background](#background)
 

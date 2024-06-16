@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Oldness
-permalink: /oldness/
+permalink: /wiki/oldness/
 ---
 - [Background](#background)
 - [Early Church](#early-church)

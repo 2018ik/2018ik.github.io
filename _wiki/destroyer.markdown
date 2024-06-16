@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Destroyer
-permalink: /destroyer/
+permalink: /wiki/destroyer/
 ---
 - [Background](#background)
 - [Significance](#significance)

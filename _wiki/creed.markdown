@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Creed
-permalink: /creed/
+permalink: /wiki/creed/
 ---
 - [Background](#background)
 - [History](#history)

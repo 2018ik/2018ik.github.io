@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Companion
-permalink: /companion/
+permalink: /wiki/companion/
 ---
 - [Background](#background)
 - [Significance](#significance)

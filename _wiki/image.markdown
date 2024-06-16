@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Image of God
-permalink: /image_of_god/
+permalink: /wiki/image_of_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

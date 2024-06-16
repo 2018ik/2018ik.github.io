@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Budding Rod
-permalink: /budding_rod/
+permalink: /wiki/budding_rod/
 ---
 - [Background](#background)
 - [History](#history)

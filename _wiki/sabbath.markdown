@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Sabbath
-permalink: /sabbath/
+permalink: /wiki/sabbath/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Premature Knowledge
-permalink: /premature_knowledge/
+permalink: /wiki/premature_knowledge/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

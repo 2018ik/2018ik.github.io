@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Heart
-permalink: /heart/
+permalink: /wiki/heart/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Remaining Fruit
-permalink: /remaining_fruit/
+permalink: /wiki/remaining_fruit/
 ---
 - [Background](#background)
 

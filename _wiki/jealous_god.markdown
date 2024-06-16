@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Jealous God
-permalink: /jealous_god/
+permalink: /wiki/jealous_god/
 ---
 - [Background](#background)
 - [Significance](#significance)

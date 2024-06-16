@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Samaritan
-permalink: /samaritan/
+permalink: /wiki/samaritan/
 ---
 - [Background](#background)
 

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Church Meetings
-permalink: /church_meetings/
+permalink: /wiki/church_meetings/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

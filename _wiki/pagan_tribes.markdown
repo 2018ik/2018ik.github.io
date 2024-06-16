@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pagan Tribes
-permalink: /pagan_tribes/
+permalink: /wiki/pagan_tribes/
 ---
 - [Background](#background)
 - [Significance](#significance)

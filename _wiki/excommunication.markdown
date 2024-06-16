@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Excommunication
-permalink: /excommunication/
+permalink: /wiki/excommunication/
 ---
 - [Background](#background)
 

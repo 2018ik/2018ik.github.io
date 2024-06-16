@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Zion
-permalink: /zion/
+permalink: /wiki/zion/
 ---
 - [Background](#background)
 - [Significance](#significance)

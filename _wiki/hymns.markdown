@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hymns
-permalink: /hymns/
+permalink: /wiki/hymns/
 ---
 - [Background](#background)
 - [Prayer](#prayer)

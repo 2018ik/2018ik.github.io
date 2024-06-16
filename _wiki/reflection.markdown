@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Reflection
-permalink: /reflection/
+permalink: /wiki/reflection/
 ---
 - [Background](#background)
 

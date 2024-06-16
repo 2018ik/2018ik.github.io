@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dealing with the Spirit
-permalink: /dealing_with_the_spirit/
+permalink: /wiki/dealing_with_the_spirit/
 ---
 - [Background](#background)
 - [Application](#application)

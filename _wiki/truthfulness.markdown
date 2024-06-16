@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Truthfulness
-permalink: /truthfulness/
+permalink: /wiki/truthfulness/
 ---
 - [Background](#background)
 - [Significance](#significance)

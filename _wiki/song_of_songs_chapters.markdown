@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Song of Songs Chapters
-permalink: /song_of_songs_chapters/
+permalink: /wiki/song_of_songs_chapters/
 ---
 - [Background](#background)
 - [Significance](#significance)

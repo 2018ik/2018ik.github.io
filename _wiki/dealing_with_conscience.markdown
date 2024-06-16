@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Dealing with Conscience
-permalink: /dealing_with_conscience/
+permalink: /wiki/dealing_with_conscience/
 ---
 - [Background](#background)
 - [How To](#how-to)

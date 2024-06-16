@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Abiding
-permalink: /abiding/
+permalink: /wiki/abiding/
 ---
 - [Background](#background)
 - [Etymology](#etymology)

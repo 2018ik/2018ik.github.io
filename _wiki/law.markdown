@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Law
-permalink: /law/
+permalink: /wiki/law/
 ---
 - [Background](#background)
 - [History](#history)

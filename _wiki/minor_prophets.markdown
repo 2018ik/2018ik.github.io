@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Minor Prophets
-permalink: /minor_prophets/
+permalink: /wiki/minor_prophets/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Shulammite
-permalink: /shulammite/
+permalink: /wiki/shulammite/
 ---
 - [Background](#background)
 - [Description](#description)

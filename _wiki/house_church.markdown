@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: House Church
-permalink: /house_church/
+permalink: /wiki/house_church/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Iniquity of the Sanctuary
-permalink: /iniquity_of_sanctuary/
+permalink: /wiki/iniquity_of_sanctuary/
 ---
 - [Background](#background)
 

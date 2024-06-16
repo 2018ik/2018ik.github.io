@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Samuel (Book)
-permalink: /samuel_book/
+permalink: /wiki/samuel_book/
 ---
 - [Background](#background)
 

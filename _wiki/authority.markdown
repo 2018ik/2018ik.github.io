@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Authority
-permalink: /authority/
+permalink: /wiki/authority/
 ---
 - [Background](#background)
 - [Deputy Authorities](#deputy-authorities)

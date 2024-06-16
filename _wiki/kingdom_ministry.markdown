@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Kingdom Ministry
-permalink: /kingdom_ministry/
+permalink: /wiki/kingdom_ministry/
 ---
 - [Background](#background)
 - [Universality](#universality)

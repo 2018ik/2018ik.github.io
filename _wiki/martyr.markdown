@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Martyr
-permalink: /martyr/
+permalink: /wiki/martyr/
 ---
 - [Background](#background)
 - [Significance](#significance)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Routine Church Life
-permalink: /routine_church_life/
+permalink: /wiki/routine_church_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

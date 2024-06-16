@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Pomegranate
-permalink: /pomegranate/
+permalink: /wiki/pomegranate/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

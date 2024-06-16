@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Seed of David
-permalink: /seed_of_david/
+permalink: /wiki/seed_of_david/
 ---
 - [Background](#background)
 

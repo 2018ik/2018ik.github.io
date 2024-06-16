@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Body of Death
-permalink: /body_of_death/
+permalink: /wiki/body_of_death/
 ---
 - [Background](#background)
 - [Significance](#significance)

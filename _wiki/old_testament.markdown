@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Old Testament
-permalink: /old_testament/
+permalink: /wiki/old_testament/
 ---
 - [Background](#background)
 - [Significance](#significance)

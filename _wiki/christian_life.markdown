@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christian Life
-permalink: /christian_life/
+permalink: /wiki/christian_life/
 ---
 - [Background](#background)
 - [Significance](#significance)

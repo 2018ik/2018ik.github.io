@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Numbers (Chapters)
-permalink: /numbers_chapters/
+permalink: /wiki/numbers_chapters/
 ---
 - [Background](#background)
 - [1](#1)

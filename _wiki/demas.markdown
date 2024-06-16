@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Demas
-permalink: /demas/
+permalink: /wiki/demas/
 ---
 - [Background](#background)
 

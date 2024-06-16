@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Free Will
-permalink: /free_will/
+permalink: /wiki/free_will/
 ---
 - [Background](#background)
 - [Significance](#significance)

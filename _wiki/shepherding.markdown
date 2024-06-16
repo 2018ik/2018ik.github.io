@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Shepherding
-permalink: /shepherding/
+permalink: /wiki/shepherding/
 ---
 - [Background](#background)
 - [Biblical Examples](#biblical-examples)

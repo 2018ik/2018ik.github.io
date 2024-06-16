@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Light
-permalink: /light/
+permalink: /wiki/light/
 ---
 - [Background](#background)
 - [Biblical Definition](#biblical-definition)

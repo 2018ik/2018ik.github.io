@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Psalms (Chapters)
-permalink: /psalms_chapters/
+permalink: /wiki/psalms_chapters/
 ---
 - [Background](#background)
 - [23](#23)

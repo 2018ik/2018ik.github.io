@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Young People Singing Times
-permalink: /young_people_singing_times/
+permalink: /wiki/young_people_singing_times/
 ---
 - [Background](#background)
 - [Leading](#leading)

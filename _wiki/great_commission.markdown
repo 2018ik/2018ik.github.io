@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Great Commission
-permalink: /great_commission/
+permalink: /wiki/great_commission/
 ---
 - [Background](#background)
 - [Significance](#significance)

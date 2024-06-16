@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Smoking Flax
-permalink: /smoking_flax/
+permalink: /wiki/smoking_flax/
 ---
 - [Background](#background)
 - [Related Terms](#related-terms)

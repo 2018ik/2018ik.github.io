@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Christ's Designation
-permalink: /christ_designation/
+permalink: /wiki/christ_designation/
 ---
 - [Background](#background)
 - [Significance](#significance)

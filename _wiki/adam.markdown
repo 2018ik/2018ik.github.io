@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Adam
-permalink: /adam/
+permalink: /wiki/adam/
 ---
 - [Background](#background)
 - [Significance](#significance)

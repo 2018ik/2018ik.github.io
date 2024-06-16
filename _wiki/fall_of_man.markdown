@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Fall of Man
-permalink: /fall_of_man/
+permalink: /wiki/fall_of_man/
 ---
 - [Background](#background)
 - [Significance](#significance)

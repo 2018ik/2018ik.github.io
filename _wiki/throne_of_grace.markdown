@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Throne of God
-permalink: /throne_of_god/
+permalink: /wiki/throne_of_god/
 ---
 - [Background](#background)
 - [Aspects](#aspects)

@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Children of Israel
-permalink: /children_of_israel/
+permalink: /wiki/children_of_israel/
 ---
 - [Background](#background)
 - [Significance](#significance)

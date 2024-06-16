@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Two Spirits
-permalink: /two_spirits/
+permalink: /wiki/two_spirits/
 ---
 - [Background](#background)
 - [Biblical Basis](#biblical-basis)

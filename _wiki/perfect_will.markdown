@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Perfect Will
-permalink: /perfect_will/
+permalink: /wiki/perfect_will/
 ---
 - [Background](#background)
 - [Significance](#significance)

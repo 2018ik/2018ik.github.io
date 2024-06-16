@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Ananias and Sapphira
-permalink: /ananias_and_sapphira/
+permalink: /wiki/ananias_and_sapphira/
 ---
 - [Background](#background)
 - [History](#history)

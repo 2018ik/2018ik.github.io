@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Paraclete
-permalink: /paraclete/
+permalink: /wiki/paraclete/
 ---
 - [Background](#background)
 

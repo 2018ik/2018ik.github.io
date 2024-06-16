@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Second Death
-permalink: /second_death/
+permalink: /wiki/second_death/
 ---
 - [Background](#background)
 - [Significance](#significance)

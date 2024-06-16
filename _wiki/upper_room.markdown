@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Upper Room
-permalink: /upper_room/
+permalink: /wiki/upper_room/
 ---
 - [Background](#background)
 

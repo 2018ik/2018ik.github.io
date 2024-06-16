@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Hezekiah
-permalink: /hezekiah/
+permalink: /wiki/hezekiah/
 ---
 - [Background](#background)
 

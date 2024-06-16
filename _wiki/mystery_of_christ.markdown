@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Mystery of Christ
-permalink: /mystery_of_christ/
+permalink: /wiki/mystery_of_christ/
 ---
 
 - [Background](#background)

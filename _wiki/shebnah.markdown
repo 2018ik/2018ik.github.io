@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Shebnah
-permalink: /shebnah/
+permalink: /wiki/shebnah/
 ---
 - [Background](#background)
 - [Significance](#significance)

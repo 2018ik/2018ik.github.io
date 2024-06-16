@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Essential Spirit
-permalink: /essential_spirit/
+permalink: /wiki/essential_spirit/
 ---
 - [Background](#background)
 

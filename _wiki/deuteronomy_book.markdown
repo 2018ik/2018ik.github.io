@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Deuteronomy (Book)
-permalink: /deuteronomy_book/
+permalink: /wiki/deuteronomy_book/
 ---
 - [Background](#background)
 - [Summary](#summary)

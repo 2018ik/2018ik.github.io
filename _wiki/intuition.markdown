@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Intuition
-permalink: /intuition/
+permalink: /wiki/intuition/
 ---
 - [Background](#background)
 - [Significance](#significance)

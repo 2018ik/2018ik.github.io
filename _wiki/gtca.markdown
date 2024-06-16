@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: GTCA
-permalink: /gtca/
+permalink: /wiki/gtca/
 ---
 - [Background](#background)
 - [Significance](#significance)

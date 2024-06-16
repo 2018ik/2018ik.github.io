@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: The Creation of Man
-permalink: /creation_of_man/
+permalink: /wiki/creation_of_man/
 ---
 - [Background](#background)
 - [Biblical Record](#biblical-record)

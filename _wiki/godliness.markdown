@@ -1,7 +1,7 @@
 ---
 layout: pagev2
 title: Godliness
-permalink: /godliness/
+permalink: /wiki/godliness/
 ---
 - [Background](#background)
 - [Significance](#significance)
