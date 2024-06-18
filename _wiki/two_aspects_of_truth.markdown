@@ -9,6 +9,7 @@ permalink: /wiki/two_aspects_of_truth/
   - [Not Doing vs Doing](#not-doing-vs-doing)
   - [Labor/Suffering vs Grace/Enjoyment](#laborsuffering-vs-graceenjoyment)
   - [Law vs Grace](#law-vs-grace)
+  - [Enjoyment vs Studying](#enjoyment-vs-studying)
 
 ## Background
 
@@ -34,3 +35,6 @@ Outwardly, believers must pass through suffering to be conformed to the image of
 
 The Bible makes it clear that the law is over and that living is now by faith in Christ (Gal. 2:20). However, it is still important to keep and teach the law, ethics, and cultural standards especially to those who aren't saved, like children. The law is a child-conductor unto Christ (Gal. 3:24). Physically young children don't have the mental capacity to understand the deeper truths of the Bible, therefore, it is not necessary to teach grace and faith until a certain age. But they should still be taught to follow rules so as to develop a [good character](../person_living) to be useful to God. Spiritually young children are also not necessarily going to instantly live 100% by faith in Christ and count everything as loss, as Paul did. Likewise, they are also governed by the law, that they may conducted unto Christ. Gaining Christ is a gradual process of transformation, therefore, the law cannot be immediately thrown out of the window.
 
+### Enjoyment vs Studying
+
+God wants man to gain Him and to enjoy Him. On one hand, one does not need to know what a food item is to enjoy it. On the other hand, for a person to know what their eating and what to eat issues in greater enjoyment. For example, you need to know how to read the menu to know the best food to order. A major part of enjoyment is contingent on knowledge. Therefore, study of the truth and the enjoyment of God go hand-in-hand for fulfilling God's eternal purpose.

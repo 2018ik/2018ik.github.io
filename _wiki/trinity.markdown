@@ -11,14 +11,15 @@ permalink: /wiki/trinity/
   - [One](#one)
   - [Three](#three)
   - [Cooperation](#cooperation)
-- [Function](#function)
+    - [Old Testament](#old-testament)
+    - [New Testament](#new-testament)
 - [Related Terms](#related-terms)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-The **Divine Trinity** (or **Triune God**) refer to God Himself in the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man (Matt. 11:27). The term "Trinity" is not directly mentioned in the Bible but was established by the early church fathers such as Tertullian, Origen, Athanasius, Basil and Augustine. Trinitarian theology served as a framework in which to study the Bible and is a basic tenet of the Christian faith. Today, we see that God is triune not for human understanding, but for Him to dispense Himself into man. 
+The **Divine Trinity** (or **Triune God**) refer to God Himself in the three hypostases of the Father, the Son, and the Spirit which have coexisted simultaneously from eternity to eternity. The Father, Son, and Spirit are all the same God (1 Pet. 1:2; Heb 1:8; Acts 5:3-4), as God is only one (1 Cor. 8:4; Isa 45:5), yet also three. This is a mystery which cannot be fully understood by man (Matt. 11:27). The term "Trinity" is not directly mentioned in the Bible but was established by the early church fathers such as Tertullian, Origen, Athanasius, Basil and Augustine. Trinitarian theology served as a framework in which to study the Bible and is a basic tenet of the Christian faith. Today, we see that God is triune not for human understanding, but for Him to dispense Himself into man. This isn't to say that studying the Trinity is pointless, but that it is a means to an end: the deeper enjoyment of the dispensing of the Divine Trinity. If someone truly knows the Trinity, they would want to be a part of the corporate expression of the [PCTG](../processed_consummated_triune_god). As the Trinity is in perfect oneness, so should we pray to do everything in oneness as the Body.
 
 ## Importance
 
@@ -37,7 +38,7 @@ The three of the Trinity coexist simultaneously from eternity to eternity. This 
 | Hypostasis | Being God | Being Eternal |
 | --- | --- | --- |
 | Father |  | Isaiah 9:6 says "eternal Father." |
-| Son | John 1:1 says that the Word, the Son was God. Acts 20:28 says that God obtained the church through His own blood showing that the Son possessing flesh and blood is God Himself. Romans 9:5 says Christ is God over all and blessed forever. | John 1:1-2 says that the Word was in the beginning with God. Hebrews 7:3 shows that the Son of God is without father and mother, having neither beginning of days nor end of life. Furthermore, the very existence of an eternal Father implies an eternal Son, since a father is only so because he has a son. |
+| Son | John 1:1 says that the Word, the Son was God. Acts 20:28 says that God obtained the church through His own blood showing that the Son possessing flesh and blood is God Himself. Romans 9:5 says Christ is God over all and blessed forever. | John 1:1-2 says that the Word was in the beginning with God. Hebrews 7:3 shows that the Son of God is without father and mother, having neither beginning of days nor end of life. Furthermore, the very existence of an eternal Father implies an eternal Son, since a father is only so because he has a son. No son, no father; no father, no son. |
 | Spirit | | Hebrews 9:14 says "eternal Spirit." |
 
 ### Coinherence
@@ -70,15 +71,19 @@ Going further, the Father is the begetter, and the Son is the begotten. As the S
 
 ### Cooperation
 
-Every significant operation of God's economy includes the three of the Trinity.
+Every significant operation of God's economy includes the three of the Trinity. In fact, every time God speaks, the Trinity is in motion: the Father is the speaker, the Son is the word and the Spirit is the breath (Job 33:4). Although the NT explicitly reveals the Trinity and reveals its purpose, the operation of the Trinity is actually clearer in the OT. There are many events, peoples, and matters in the OT, but the significance of all such things is the hidden operation of the Triune God. The Bible should not be seen as a historical record, but an autobiography of God. For a finer examination of specific passages of the Triune God in action, see the [examples under economical Trinity](../economical_trinity#examples).
 
-In the beginning in Genesis, God's intention is revealed in His creation of man, as well as His person. In the New Testament, it is clear that God is triune, and the purpose behind the Trinity is revealed. Even in the first verse of the Bible ("In the beginning, God created..."), we see a Triune God. The Hebrew word used for God *elohim* is grammatically plural, while the verb for created is singular. The fact that God is love also implies a plurality. Love requires both a subject and an object; the object of God the Father's love is the Son.
+#### Old Testament
+
+In the beginning in Genesis, God's intention is revealed in His creation of man, as well as His person. Even in the first verse of the Bible ("In the beginning, God created..."), we see a Triune God. The Hebrew word used for God *elohim* is grammatically plural, while the verb for created is singular. The fact that God is love also implies a plurality. Love requires both a subject and an object; the object of God the Father's love is the Son.
 
 Genesis 1:2-3 following the first verse which reveals the Father then reveals the rest of the Triune God. The Spirit of God was explicitly stated to be brooding on the waters (Gen. 1:2). In verse three, God *said*, "Let there be light." God's word here implies the Son, who is the Word (John 1:1). Every operation of God is Triune - why did God need to say anything to create light? He had to create by the Son as the active instrument for everything to come into being.
 
 In Genesis 1:26 when creating man, God says let *Us* make man in our image. This is also not the only time that the plural pronoun *Us* is used to refer to God (Isa. 6:8; Gen. 3:22; 11:7).
 
 God as the God of Abraham, Isaac and Jacob also implies the Trinity as the Father, Son and Spirit. God called Abraham as the Father. Isaac as the son of Abraham inherited all that his father had and accomplished the will of his father. Jacob experienced a great work of transformation which corresponds to the transformative work of the Spirit.
+
+#### New Testament
 
 In Matthew 12:18, the Lord Jesus casts out demons by the Spirit of God. Then, the kingdom that comes is not the kingdom of the son, but the kingdom of God. Then, in 28:19, baptism is in the name of the Father, Son and Holy Spirit.
 
@@ -103,10 +108,6 @@ Ephesians 3:14-17 says:
 Here the Father is granting us to be strengthened through His Spirit that Christ would make his home in our hearts. The three of the Trinity are all active at the same time.
 
 Ephesians 4:4-6 reveals the Body of Christ requires the Triune God in one Spirit, one Lord and one God. 
-
-## Function
-
-God is triune because He wants to dispense Himself into man. The Father, who is the source, the origin, has many riches. Whatever the Father has is the Son’s (John 16:15), and what the Son has is received by the Spirit (2 Cor. 3:17). The Father is embodied in the Son, the Son is transfigured to be the Spirit, and the Spirit is the reaching of the divine Trinity to man.
 
 ## Related Terms
 

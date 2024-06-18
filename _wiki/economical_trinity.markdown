@@ -7,9 +7,12 @@ permalink: /wiki/economical_trinity/
 - [Significance](#significance)
 - [Biblical Basis](#biblical-basis)
 - [Examples](#examples)
+  - [Genesis](#genesis)
+  - [Exodus](#exodus)
+  - [Numbers](#numbers)
   - [Matthew](#matthew)
   - [Luke](#luke)
-- [John](#john)
+  - [John](#john)
   - [Acts](#acts)
   - [Romans](#romans)
   - [1 Corinthians](#1-corinthians)
@@ -55,6 +58,27 @@ Prior to the Son's ministry on earth, the economical trinity was not yet consumm
 
 Below is a non-exhaustive list of the Divine Trinity in action and in experience.
 
+### Genesis
+
+| Verse | Description |
+| --- | --- |
+| Gen. 1:1 | The first verse of the Bible shows God is uni-plural. The plural pronoun "us" is used with a singular verb "create." This shows that not only God the Father, but entire Trinity was involved in the creation of the universe. |
+| Gen. 1:26-27 | The same plural pronoun is used in verse 26, however the singular pronoun "he" is used in the following verse 27. This once again indicates the three-one God in His creation. |
+
+### Exodus
+
+| Verse | Description |
+| --- | --- |
+| Exo. 17:6 | The children of Israel became thirsty and threatened Moses to bring them water. Then, Moses was instructed to strike a rock to bring forth water. This rock signifies Christ who became a rock in His incarnation was smitten on the cross (1 Cor. 10:4; Isa. 53:4). Then, the living water which flowed out typifies the life-giving Spirit. |
+| Exo. 23:20-23 | The Angel of God representing the Son was sent with the Father's name to speak His words (cf. John 14:10). |
+
+### Numbers
+
+| Verse | Description |
+| --- | --- |
+| Num. 6:24-27 | This was a triune blessing spoken by Aaron and his sons to the children of Israel. In verse 24, the Father blesses and keeps (Eph. 1:4; John 17:5; 1 Pet. 1:5). In verse 25, the shining of His face and graciousness signifies the Son. The Lord Jesus is the face of the Triune God (Col. 1:5). When the Lord shines on us, He becomes grace to us. In verse 26, the lifting of His countenance and giving of peace signifies the Spirit. The Spirit is the countenance of the Triune God (Eph. 4:30). To have God's smile or His frown is a matter of spiritual experience. When we have God's smile, we have His peace. |
+| Num. 20:8 | As with Exodus 17:6, this rock signifies Christ (1 Cor. 10:4). This time, God told Moses to speak to the rock. This is to come to God and contact Him as we are. |
+
 ### Matthew
 
 | Verse | Description |
@@ -70,7 +94,7 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 | --- | --- |
 | 1:35 | The Holy Spirit, the power of the Most High (the Father) and the Son of God were all involved in the conception of the Man-Savior. | 
 
-## John
+### John
 
 | Verse | Description |
 | --- | --- |

@@ -24,7 +24,7 @@ for name in "$@"; do
     file_content="---
 layout: pagev2
 title: $name
-permalink: /$permalink/
+permalink: /wiki/$permalink/
 ---
 - [Background](#background)
 - [Significance](#significance)
