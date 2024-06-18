@@ -17,6 +17,7 @@
         var scene = new THREE.Scene();
         scene.background = new THREE.Color(0x87ceeb);
 
+        var loader = new THREE.TextureLoader();
         var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
         var renderer = new THREE.WebGLRenderer();
         renderer.setSize(window.innerWidth, window.innerHeight);
@@ -36,7 +37,11 @@
 
         // Create a square platform with shading
         var platformGeometry = new THREE.BoxGeometry(5, 0.5, 5);
-        var platformMaterial = new THREE.MeshPhongMaterial({ color: 0xcccccc }); // Gray color with shading
+        var stoneTexture = loader.load('img/stone.png'); 
+        stoneTexture.wrapS = THREE.RepeatWrapping;
+        stoneTexture.wrapT = THREE.RepeatWrapping;
+        stoneTexture.repeat.set(8, 8);
+        var platformMaterial = new THREE.MeshBasicMaterial({ map: stoneTexture, side: THREE.DoubleSide });
         var platform = new THREE.Mesh(platformGeometry, platformMaterial);
         scene.add(platform);
 
@@ -44,45 +49,49 @@
         platform.position.y = -0.25;
 
         // Create a 3D wall with shading
-        var wallGeometry = new THREE.BoxGeometry(5, 2.5, 0.1);
-        var wallMaterial = new THREE.MeshPhongMaterial({ color: 0xffffff });
+        var wallGeometry = new THREE.BoxGeometry(5, 2.5, 0.5);        
+        var logTexture = loader.load('img/log.png'); 
+        logTexture.wrapS = THREE.RepeatWrapping;
+        logTexture.wrapT = THREE.RepeatWrapping;
+        logTexture.repeat.set(8, 4);
+        var wallMaterial = new THREE.MeshBasicMaterial({ map: logTexture, side: THREE.DoubleSide });
+        
         var wall = new THREE.Mesh(wallGeometry, wallMaterial);
         scene.add(wall);
 
         // Position the wall
         wall.position.set(0, 1.25, -2);
-        var loader = new THREE.TextureLoader();
 
         var linkGoogleTexture = loader.load('https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google.png/600px-Google.png');
         var linkGoogleMaterial = new THREE.MeshBasicMaterial({ map: linkGoogleTexture });
         var linkGoogle = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkGoogleMaterial);
-        linkGoogle.position.set(-1, 0.5, 0.06);
+        linkGoogle.position.set(-1, 0.5, 0.251);
         wall.add(linkGoogle);
 
         var linkStudyTexture = loader.load('img/studytools.png');
         var linkStudyMaterial = new THREE.MeshBasicMaterial({ map: linkStudyTexture });
         var linkStudy = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkStudyMaterial);
-        linkStudy.position.set(1, 0.5, 0.06);
+        linkStudy.position.set(1, 0.5, 0.251);
         wall.add(linkStudy);
 
         var linkLibraryTexture = loader.load('img/library.png');
         var linkLibraryMaterial = new THREE.MeshBasicMaterial({ map: linkLibraryTexture });
         var linkLibrary = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkLibraryMaterial);
-        linkLibrary.position.set(0, 0.5, -0.06 - 0.1);
+        linkLibrary.position.set(0, 0.5, -0.251);
         linkLibrary.rotation.y = Math.PI;
         wall.add(linkLibrary);
 
         // Add green grass and blue sky background
         var groundGeometry = new THREE.PlaneGeometry(64, 64);
-        var grassTexture = loader.load('img/grass.png'); // Make sure to replace 'path/to/grass.png' with the actual path to your image
-grassTexture.wrapS = THREE.RepeatWrapping;
-grassTexture.wrapT = THREE.RepeatWrapping;
-grassTexture.repeat.set(100, 100); // Repeat the texture to cover the ground
-var groundMaterial = new THREE.MeshBasicMaterial({ map: grassTexture, side: THREE.DoubleSide });
-var ground = new THREE.Mesh(groundGeometry, groundMaterial);
-ground.rotation.x = -Math.PI / 2;
-ground.position.y = -0.5;
-scene.add(ground);
+        var grassTexture = loader.load('img/grass.png');
+        grassTexture.wrapS = THREE.RepeatWrapping;
+        grassTexture.wrapT = THREE.RepeatWrapping;
+        grassTexture.repeat.set(100, 100); // Repeat the texture to cover the ground
+        var groundMaterial = new THREE.MeshBasicMaterial({ map: grassTexture, side: THREE.DoubleSide });
+        var ground = new THREE.Mesh(groundGeometry, groundMaterial);
+        ground.rotation.x = -Math.PI / 2;
+        ground.position.y = -0.5;
+        scene.add(ground);
 
 
         // Create a group for clouds
