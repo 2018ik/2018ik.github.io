@@ -6,6 +6,7 @@ permalink: /wiki/church_life/
 - [Background](#background)
 - [Significance](#significance)
 - [The Cross](#the-cross)
+- [Service](#service)
 
 ## Background
 
@@ -16,3 +17,7 @@ The **church life** is a procedure which practically carries out God's eternal e
 ## The Cross
 
 The church life is a cross for our transformation. If we dislike the saints in our locality, we have no right to move to another local church. We must stay where we were sovereignly placed by God and allow the saints to put us to death.
+
+## Service
+
+The service in the church life involves the six matters of truth, life, evangelizing, children's work, student's work and community work. To get into the truth with an exercised spirit is to receive life, which spontaneously issues in the following four things. 

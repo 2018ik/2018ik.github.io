@@ -20,12 +20,11 @@ permalink: /wiki/local_church/
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
   - [Testimony #3](#testimony-3)
-  - [Testimony #4](#testimony-4)
 
 
 ## Background
 
-A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city; there is not a single city mentioned in the New Testament which had multiple churches. This is the practical way in which the Body of Christ can be expressed and built up. If there is only a universal church of disjoint, individual believers, it would be impossible for them to be built together (Eph. 2:22), joined together, and knit together (Eph. 4:16).
+A **local church** is the Body of Christ expressed locally in a particular city - for example Antioch (Acts 13:1). The Bible reveals that there is one church per city. In the NT, there is not a single city mentioned which had multiple churches. Having one church in each city is the practical way in which the Body of Christ can be expressed and built up. If there is only a universal church of disjoint, individual believers, it would be impossible for them to be built together, joined together, and knit together (Eph. 2:21-22; Eph. 4:16).
 
 Each local church should be the same intrinsically in life and nature, as a result of fellowship with one another. This means that the churches are not an organization, and not hierarchical, but rather operate by means of the organic flow of the divine life. Any outward organizational similarity should be the issue of fellowship.
 
@@ -35,15 +34,9 @@ In the New Testament, whenever the plural "churches" is used, it is to refer to 
 
 ## History
 
-The establishment of local churches began from the day of Pentecost (Acts 2:1) in the city of Jerusalem (Acts 2:5; 8:1). As a result of persecution, the early Christians were scattered, fulfilling the Lord's prophecy (Acts 1:8; Acts 8:1) that churches be established in Judea and Samaria. The work then reached Galilee as well (Acts 9:31). Then, the gospel spread to Phoenicia, Cyprus and Antioch (Acts 11:19-26), then Syria and Cilicia (Acts 15:40-41).
+The establishment of local churches began from the day of Pentecost (Acts 2:1) in the city of Jerusalem (Acts 2:5; 8:1). As a result of persecution, the early Christians were scattered, fulfilling the Lord's prophecy (Acts 1:8; Acts 8:1) that churches be established in Judea and Samaria. The work then reached Galilee as well (Acts 9:31). Then, the gospel spread to Phoenicia, Cyprus and Antioch (Acts 11:19-26), then Syria and Cilicia (Acts 15:40-41). Jerusalem was the center of the Jewish religion, and the church there was primarily composed of Jews. On the other hand, Antioch was the center of the gentile world. Antioch was chosen by the Lord to carry out this new move to the gentiles. The group of believers in Antioch was quite diverse: Jews, Romans, those of African descent, those related Herod, etc. The Church is composed of all kinds of people in all kinds of backgrounds. We are different in the old creation, but one in Christ.
 
-Next was Asia Minor in the province of Galatia, where the apostles established churches in Lystra, Iconium and Antioch (a different Antioch than the one before, which was in Pisidia) (Acts 14:21-23). Then, seven churches were established in Asia: Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea (Rev. 1:11).
-
-Churches were eventually raised in Europe as well: Macedonia (2 Cor. 8:1), Philippi (Phil. 1:1), Thessalonica (Acts 16:9-12; 17:1-4; 1 Thes. 1:1), Corinth (1 Cor. 1:2), Cenchrea (Romans 16:1), Rome (Romans 1:7).
-
-Jerusalem was the center of the Jewish religion, and the church there was primarily composed of Jews. On the other hand, Antioch was the center of the gentile world. Antioch was chosen by the Lord to carry out this new move to the gentiles. 
-
-The group of believers in Antioch was quite diverse: Jews, Romans, those of African descent, those related Herod, etc. The Church is composed of all kinds of people in all kinds of backgrounds. We are different in the old creation, but one in Christ.
+Next was Asia Minor in the province of Galatia, where the apostles established churches in Lystra, Iconium and Antioch (a different Antioch than the one before, which was in Pisidia) (Acts 14:21-23). Then, seven churches were established in Asia: Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea (Rev. 1:11). Churches were eventually raised in Europe as well: Macedonia (2 Cor. 8:1), Philippi (Phil. 1:1), Thessalonica (Acts 16:9-12; 17:1-4; 1 Thes. 1:1), Corinth (1 Cor. 1:2), Cenchrea (Romans 16:1), Rome (Romans 1:7).
 
 ## Three Elements
 
@@ -81,7 +74,7 @@ There is a pattern established in the New Testament regarding the offices of the
 
 ### Elders
 
-Elders (Acts 20:17), or overseers (20:28) are a individuals of maturity who oversee a particular local church. "Elder" denotes spiritual maturity, while "overseer" denotes the function. This is not to create a hierarchy, but to shepherd the church of God.
+Elders (Acts 20:17), or overseers (20:28) are a individuals of maturity who oversee a particular local church. "Elder" denotes spiritual maturity, while "overseer" denotes the function, and both refer to the same office. The eldership is not to create a hierarchy, but to shepherd the church of God. They should have a grasp of both the spiritual and practical situations of all the saints. Furthermore, elders should take the lead to be a pattern in matters such as preaching the gospel, laboring in the word, shepherding and serving. 
 
 ### Serving Ones
 
@@ -104,7 +97,3 @@ Serving ones (Acts 6:2) or deacons (Phil. 1:1) are those who serve under the lea
 ### Testimony #3
 
 >We must be one with the local church which we are sovereignly assigned to. There must be no divisions, back doors or fire escapes. We must be restricted, and this restriction is actually a protection. The problem with Christians today is that they do not read the Bible, so they don't see the local churches, so they don't have this restriction, and they don't have this protection, and they divide again and again and again. We must have our eyes opened to see this vision, which will solve all our problems. The Lord's recovery today is to recover this unique, proper, practical and living expression of the Body.
-
-### Testimony #4
-
->In 1828, the Brethren with John Nelson Darby began to see that the church must be local. However they were not clear about the bound
