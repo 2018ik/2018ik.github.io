@@ -72,7 +72,7 @@
     </tr>
   </thead>
   <tbody>
-    {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+    {% assign pages = site.pages | where_exp: 'page', 'page.path contains "_wiki/"' %}
     {% for page in pages %}
       {% assign content_without_testimony = page.content | markdownify | split: '<h2 id="testimonies">Testimonies</h2>' | first %}
       {% assign word_count = content_without_testimony | replace: "\n", ' ' | split: ' ' | size %}

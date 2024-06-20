@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: psrp.life
-url: "https://2018ik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site_url: "http://localhost:4000"
 
 # Build settings
 theme: minima
