@@ -1,0 +1,305 @@
+---
+layout: basev2_st
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Word Reveal Game</title>
+<style>
+    body {
+    }
+    #container {
+        text-align: center; /* Center-align text */
+        padding: 5%;
+    }
+    #sentence {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: #e6fffd; /* Turquoise text color */
+    }
+    #prevSentence {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: #657372; /* Turquoise text color */
+    }
+    #nextSentence {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: #657372; /* Turquoise text color */
+    }
+    #revealBtn {
+        background-color: #d3fffb; /* Turquoise button color */
+        color: #242943; /* White text color */
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    #revealBtn:hover {
+        background-color: #00796b; /* Darker turquoise hover color */
+    }
+    strong {
+        color: rgb(147, 255, 84);  /* Additional styling */
+        text-decoration: underline;
+    }
+    #wrong {
+        color: rgb(255, 130, 130);
+    }
+    input {
+        margin-top: 20px;
+        width: 200px;
+        height: 30px;
+        font-size: 20px;
+    }
+    #score {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: #c0ffb5; /* Turquoise text color */
+    }
+    body {
+    font-family: Arial, sans-serif;
+}
+
+    #settings-icon {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        cursor: pointer;
+    }
+
+    #settings-icon img {
+        width: 60px;
+        height: 60px;
+    }
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-top: 60px;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    resize: none;
+}
+
+</style>
+</head>
+<body>
+    <div id="settings-icon" onclick="openModal()">
+        <img src="../../img/settings.png" alt="Settings">
+    </div>
+
+    <div id="settingsModal" class="modal">
+        <div class="modal-content">
+            <h2>Settings</h2>
+            <textarea id="settingsInput" rows="10" cols="50" placeholder="Enter your text here..."></textarea>
+        </div>
+    </div>
+<div id="container">
+    <div id="score">0/0</div>
+    <div id="prevSentence"></div>
+    <div id="sentence"></div>
+    <div id="nextSentence"></div>
+    <button id="revealBtn">Reveal</button>
+    <br>
+    <input type="text" id="guess" placeholder="">
+</div>
+<script>
+    let sentences = [];
+    let blankIndices = [];
+    let currentSentenceIndex = -1;
+    let previousSentenceIndex = -1;
+    let revealed = false;
+    let score = 0;
+    let rounds = 0;
+    let bannedWords = ["-", "a", "an", "and", "are", "as", "at", "be", "being", "but", 
+    "by", "for", "from", "having", "have", "if", "in", "is", "it", "its", "of", "on", "or", "than", "that", 
+    "the", "their", "them", "there", "this", "to", "we", "what", "with"];
+
+    function loadSentences() {
+        var settingsText = document.getElementById("settingsInput").value;
+        console.log(settingsText.length);
+        if (settingsText.length > 0) {
+            sentences = settingsText.split('\n').map(sentence => sentence.trim());
+        } else {
+            sentences = ["I. This is an example sentence",
+                        "A. This is another example sentence",
+                        "B. This is yet another example sentence",
+                        "II. This is once again another example sentence",
+                        "A. This is yet again another example sentence",
+                        "B. This",
+                        "C. Another one",
+                        "D. Thanks",
+                        "III. Example"]
+        }
+        console.log(sentences);
+        blankIndices = [];
+        currentSentenceIndex = -1;
+        previousSentenceIndex = -1;
+        revealed = false;
+        score = 0;
+        rounds = 0;
+        showNextSentence();
+    }
+    // Function to show the next sentence
+    function showNextSentence() {
+        rounds += 1;
+        document.getElementById('guess').value = "";
+        if (sentences.length == 1) {
+            currentSentenceIndex = 0
+        } else {
+            while (currentSentenceIndex === previousSentenceIndex) {
+                currentSentenceIndex = Math.floor(Math.random() * sentences.length);
+            }
+        }
+        blankIndices = [];
+        let sentence = sentences[currentSentenceIndex];
+        let words = sentence.split(' ');
+        let blanksCount = Math.max(1, Math.floor(words.length / 3))
+        while (blankIndices.length < blanksCount) {
+            let index = words.length == 1 ? 0 : Math.floor(1 + Math.random() * (words.length - 1));
+            if (!blankIndices.includes(index) && !bannedWords.includes(words[index].toLowerCase())) {
+                blankIndices.push(index);
+            }
+        }
+        let maskedSentence = '';
+        for (let i = 0; i < words.length; i++) {
+            if (blankIndices.includes(i)) {
+                maskedSentence += '___';
+                if (!/^[a-zA-Z]+$/.test(words[i].charAt(words[i].length-1))) {
+                    maskedSentence += words[i].charAt(words[i].length-1);
+                }
+                maskedSentence += ' ';
+            } else {
+                maskedSentence += words[i] + ' ';
+            }
+        }
+        document.getElementById('sentence').innerText = maskedSentence;
+        if (currentSentenceIndex > 0) {
+            document.getElementById('prevSentence').innerText = sentences[currentSentenceIndex-1];
+        } else {
+            document.getElementById('prevSentence').innerText = "";
+        }
+        if (currentSentenceIndex < sentences.length-1) {
+            document.getElementById('nextSentence').innerText = sentences[currentSentenceIndex+1];
+        } else {
+            document.getElementById('nextSentence').innerText = "";
+        }
+        revealed = false;
+    }
+
+    // Function to reveal words
+    function revealWords() {
+        if (!revealed) {
+            let guesses = document.getElementById('guess').value.trim().split(' ');
+            console.log(guesses)
+            let sentence = sentences[currentSentenceIndex];
+            let words = sentence.split(' ');
+            let unmaskedSentence = '';
+            let j = 0;
+            let win = true;
+            console.log(win)
+            for (let i = 0; i < words.length; i++) {
+                if (blankIndices.includes(i)) {
+                    if (j < guesses.length && guesses[j].replace(/[^a-zA-Z]/g, '') === words[i].replace(/[^a-zA-Z]/g, '')) {
+                        unmaskedSentence += "<strong id='right'>" + words[i] + "</strong> ";
+                    } else {
+                        win = false;
+                        unmaskedSentence += "<strong id='wrong'>" + words[i] + "</strong> ";
+                    }
+                    j += 1;
+                } else {
+                    unmaskedSentence += words[i] + ' ';
+                }
+            }
+            if (win === true) {
+                score += 1;
+            }
+            document.getElementById('score').innerText = score + "/" + rounds;
+            document.getElementById('sentence').innerHTML = unmaskedSentence;
+            revealed = true;
+            previousSentenceIndex = currentSentenceIndex;
+        } else {
+            showNextSentence();
+        }
+    }
+
+    window.onload = function() {
+        loadSentences();
+        document.addEventListener('keydown', function(event) {
+            if (event.code === 'Space') {
+                const guessInput = document.getElementById('guess');
+                if (!guessInput.matches(':focus')) { 
+                    revealWords();
+                }
+            }
+        });
+        document.addEventListener('click', function(event) {
+            const clickedElement = event.target; 
+            if (!['guess', 'settings-icon'].includes(clickedElement.id)
+            && document.getElementById("settingsModal").style.display === "") {
+                revealWords();
+            }
+        });
+        document.getElementById('guess').addEventListener('keydown', function(event) {
+            if (event.code === 'Enter' && document.getElementById("settingsModal").style.display === "") {
+                revealWords();
+            }
+        });
+    };
+    function openModal() {
+        document.getElementById("settingsModal").style.display = "block";
+    }
+
+    // Close the modal when clicking outside of it
+    window.onclick = function(event) {
+        var modal = document.getElementById("settingsModal");
+        if (event.target == modal) {
+            modal.style.display = "";
+            loadSentences();
+        }
+    }
+</script>
+</body>
+</html>

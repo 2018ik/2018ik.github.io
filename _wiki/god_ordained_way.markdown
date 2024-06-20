@@ -19,7 +19,7 @@ permalink: /wiki/god_ordained_way/
 
 ## Background
 
-The **God-ordained way** refers to the scriptural way ordained by God for His people to meet and serve to carry out His New Testament economy by releasing the organic functions of each member of the Body of Christ for the building up of the Body. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and building.
+The **God-ordained way** refers to the scriptural way ordained by God for His people to meet and serve to carry out His NT economy by releasing the organic functions of each member of the Body of Christ for the building up of the Body. This has been condensed into the four practices of begetting, nourishing, teaching (perfecting) and building.
 
 If all the church does is beget new believers, these new ones will have no way to go on. Therefore, there has to be nourishing in order to feed them. Then, they can be taught and perfected regarding the truth. Lastly, the perfecting of the new ones will allow them to build up the church through prophesying. This issues in the proper church life in which all believers are priests (1 Pet 2:9).
 
