@@ -15,15 +15,15 @@ permalink: /wiki/resurrection/
 
 ## Background
 
-**Resurrection** is to change death into life, and can only be accomplished through Christ, who is resurrection itself (John 11:25). The principle of resurrection is that the natural life is killed for the divine life to rise up in its place (2 Cor. 1:9). Resurrection is the life pulse and the lifeline of God's divine economy. The experience of resurrection life today is through Christ as the [all-inclusive, compound, life-giving Spirit](../spirit#compound_spirit).
+**Resurrection** is to change death into life, and can only be accomplished through Christ, who is resurrection and life itself (John 11:25). The principle of resurrection is that the natural life is killed for the divine life to rise up in its place (2 Cor. 1:9). Resurrection is the life pulse and the lifeline of God's divine economy. The experience of resurrection life today is through Christ as the [all-inclusive, compound, life-giving Spirit](../spirit#compound_spirit).
+
+Resurrection life overcomes death without being damaged or injured by death (John 11:25; Rev. 1:17-18; 2:8). Death is powerless to do anything with resurrection (Acts 2:24). When the enemy makes a believer think that they are finished, they must remember that within their regenerated spirit is resurrection, and that resurrection will surely defeat the enemy. This is the power of Christ's resurrection seen in Philippians 3:10 and Ephesians 1:19-20.
 
 There are many instances of resurrection as a physical raising of the dead throughout the Bible, however the reality of resurrection began with [the Lord Jesus](../christ_resurrection). 
 
-Resurrection is altogether victorious over death; resurrection life overcomes death without being damaged or injured by death (John 11:25; Rev. 1:17-18; 2:8). Death is powerless to do anything with resurrection (Acts 2:24). When the enemy makes a believer think that they are finished, they must remember that within their regenerated spirit is resurrection, and that resurrection will surely defeat the enemy. This is the life which conquers all suffering, and the experience of this life is actually why believers suffer in the first place.
-
 ## Experience
 
-In experience, believers first receive the power of Christ's resurrection through their salvation, and then by this power, they can live a crucified life by taking the death of Christ as the mold of their living. Thus, the order in this kind of experience is resurrection then death.
+In experience, believers first know the power of Christ's resurrection, then by this power they can live a crucified life by taking the death of Christ as the mold of their living (Phil. 3:10). Thus, the order in this kind of experience is resurrection then death which leads to more resurrection. The various situations in one's life is for them to know the power of Christ's resurrection (Rom. 8:28). These situations weaken one's natural virtues such as natural love, patience or humility, allowing such things to pass through death and be terminated. 
 
 ### Process
 

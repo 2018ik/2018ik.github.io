@@ -10,6 +10,8 @@ permalink: /wiki/submission/
 
 ## Background
 
+**Submission** or **subjection** is to submit or yield to a superior force or the will of another person.
+
 ## Significance
 
 ## Application
