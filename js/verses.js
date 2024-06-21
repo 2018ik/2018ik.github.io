@@ -10,6 +10,7 @@ document.getElementById('stringInput').addEventListener('keypress', (event) => {
     }
 });
 
+const BLANK = '____';
 let verses = [];
 let currentVerseIndex = 0;
 let currentWordIndex = 0;
@@ -46,14 +47,11 @@ function displayVerse(verse, ref, stage) {
         blankVerse = words;
     }
     else if (stage === 2) {
-        blankVerse = words.map(word => Math.random() < 0.5 ? '____' : word);
+        blankVerse = words.map(word => Math.random() < 0.5 ? BLANK : word);
     } else if (stage === 3) {
-        blankVerse = words.map(() => '____');
+        blankVerse = words.map(() => BLANK);
     }
-    const formattedWords = blankVerse.map((word, index) => {
-        if (index === currentWordIndex) {
-            return `<span class="current">${word}</span>`;
-        }
+    const formattedWords = blankVerse.map((word) => {
         return word;
     });
     document.getElementById('verseText').innerHTML = formattedWords.join(' ');
@@ -65,9 +63,9 @@ function updateVerse(verse) {
     words = verse.split(' ');
     const formattedWords = blankVerse.map((word, index) => {
         if (index === currentWordIndex) {
-            return `<span class="current">${word}</span>`;
+            return word;
         } else if (index < currentWordIndex) {
-            return words[index];
+            return `<span class="current">${words[index]}</span>`;
         }
         return word;
     });
@@ -108,6 +106,9 @@ function checkInput(verse) {
         } else {
             updateVerse(verse);
         }
+    } else {
+        // clear field
+        document.getElementById('typingInput').value = '';
     }
 }
 
