@@ -1,3 +1,0 @@
-# studytools
-
-study tools

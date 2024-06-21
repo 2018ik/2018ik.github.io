@@ -71,9 +71,12 @@
     </tr>
   </thead>
   <tbody>
+    {% assign pages = site.pages | where_exp: 'page', 'page.path contains "_studytools/"' %}
+    {% for page in pages %}
       <tr>
-          <td><a href="./outline">Outline Memorization</a></td>
+          <td><a href="{{ page.url }}">{{ page.title }}</a></td>
       </tr>
+    {% endfor %}
   </tbody>
 </table>
 

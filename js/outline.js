@@ -163,7 +163,7 @@ document.addEventListener("DOMContentLoaded", function() {
             revealWords();
         });
         document.getElementById('guess').addEventListener('keydown', function(event) {
-            if (event.code === 'Enter' && document.getElementById("settingsModal").style.display === "") {
+            if ((event.code === 'Enter' || event.key === 'Enter') && document.getElementById("settingsModal").style.display === "") {
                 revealWords();
             }
         });
@@ -177,3 +177,9 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 });
+
+// function closeModal() {
+//     var modal = document.getElementById("settingsModal");
+//     modal.style.display = "";
+//     loadSentences();
+// }

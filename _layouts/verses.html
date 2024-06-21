@@ -1,0 +1,34 @@
+---
+layout: basev2_st
+---
+
+<head>
+    <title>Verse Memorizer</title>
+    <link rel="stylesheet" href="/css/studytools.css">
+    <script src="/js/verses.js" defer></script>
+</head>
+
+<div id="settingsModal" class="modal">
+    <div class="modal-content">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <h2>Settings</h2>
+        <div>
+            <label for="caseSensitiveCheckbox">Case Sensitivity</label>
+            <input type="checkbox" id="caseSensitiveCheckbox">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <h1 id="message">Verse Memorizer</h1>
+    <input type="text" id="stringInput" placeholder="Enter verse references (e.g. 1 Cor. 15:45; 2 Cor. 3:17, 18; 1 Cor. 6:17; 12:3; Rom. 10:8-10)">
+    <button id="fetchButton">Fetch Verses</button>
+    <div id="verseContainer"></div>
+    <div id="typingExercise" style="display: none;">
+        <p id="stage"></p>
+        <p id="verseText"></p>
+        <input type="text" id="typingInput" autocomplete="off">
+        <p id="progress"></p>
+    </div>
+</div>
+<button id="settings-button" onclick="document.getElementById('settingsModal').style.display = 'block'">Settings</button>

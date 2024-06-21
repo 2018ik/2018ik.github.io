@@ -3,11 +3,10 @@ layout: basev2_st
 ---
 
 <head>
+<link rel="stylesheet" href="/css/studytools.css">
+<script src="/js/outline.js" defer></script>
+
 <style>
-    #container {
-        text-align: center; /* Center-align text */
-        padding: 5%;
-    }
     #sentence {
         font-size: 30px;
         margin-bottom: 20px;
@@ -22,18 +21,6 @@ layout: basev2_st
         font-size: 30px;
         margin-bottom: 20px;
         color: #657372;
-    }
-    button {
-        background-color: #444444;
-        color: #ffffff; /* White text color */
-        border: none;
-        padding: 10px 20px;
-        font-size: 16px;
-        cursor: pointer;
-        border-radius: 5px;
-    }
-    button:hover {
-        background-color: #6b6b6b;
     }
     strong {
         color: rgb(65, 178, 0);  /* Additional styling */
@@ -53,58 +40,13 @@ layout: basev2_st
         margin-bottom: 20px;
         color: #000000;
     }
-/* Modal styles */
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgb(0, 0, 0);
-    background-color: rgba(0, 0, 0, 0.4);
-    padding-top: 60px;
-}
 
-.modal-content {
-    background-color: #fefefe;
-    margin: 5% auto;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
-    max-width: 600px;
-}
-
-.close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-}
-
-.close:hover,
-.close:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-textarea {
-    width: 100%;
-    height: 200px;
-    padding: 10px;
-    box-sizing: border-box;
-    font-size: 16px;
-    resize: none;
-}
 </style>
 </head>
-<button id="settings-button" onclick="document.getElementById('settingsModal').style.display = 'block'">Settings</button>
 
 <div id="settingsModal" class="modal">
     <div class="modal-content">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
         <h2>Settings</h2>
         <textarea id="settingsInput" rows="10" cols="50" placeholder="Enter your outline here..."></textarea>
         <div>
@@ -114,7 +56,7 @@ textarea {
     </div>
 </div>
 
-<div id="container">
+<div class="container">
     <div id="score">0/0</div>
     <div id="prevSentence"></div>
     <div id="sentence"></div>
@@ -123,5 +65,4 @@ textarea {
     <br>
     <input type="text" id="guess" placeholder="">
 </div>
-
-<script src="/js/outline.js"></script>
+<button id="settings-button" onclick="document.getElementById('settingsModal').style.display = 'block'">Settings</button>
