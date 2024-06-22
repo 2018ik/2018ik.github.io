@@ -25,15 +25,13 @@ In the 14 epistles of Paul we see the three words: ME, JESUS, VESSEL.
 
 ### Saul
 
-Prior to receiving the vision on the way to Damascus, Saul operated entirely based on the law, i.e. what was right and wrong according to what he knew.
+Prior to receiving the vision on the way to Damascus, Saul operated entirely based on the law, i.e. what was right and wrong according to what he knew. In Acts 9, Paul was breathing "threatening and murder against the disciples" (Acts 9:1). 
 
 ### Conversion
 
 Paul's conversion is recorded three separate times in Acts. 
 
-In Acts 9, Paul was breathing "threatening and murder against the disciples" (Acts 9:1). Eventually, the voice out of heaven said "why are you persecuting Me?" The disciples were actually part of the Body of Christ, so Paul's threatening against the disciples was a persecution toward Christ. 
-
-Here, Paul addressed the voice as "Lord" as he thought he was serving God. The voice then replied with "I am *Jesus*." Paul saw that Jesus is Lord and passed through the process of incarnation, human living, death, resurrection, and ascension for the producing and building up of the Body of Christ. Here Paul sees that the Triune God and the believers are one (Acts 9:5).
+In Acts 9, a voice out of heaven said "why are you persecuting Me?" Here, Paul addressed the voice as "Lord" as he thought he was serving God. The voice then replied with "I am *Jesus*." Paul saw that Jesus is Lord and passed through the process of incarnation, human living, death, resurrection, and ascension for the producing and building up of the Body of Christ. Here Paul sees that the Triune God and the believers are one (Acts 9:5). The disciples were actually part of the Body of Christ, so Paul's threatening against the disciples was a persecution toward Christ. Furthermore, Paul could not resist. When the God of glory appears to a person, it can change their lives. 
 
 He also sees that man is a tripartite vessel to contain and be filled with Christ as life (Acts 9:15).
 
@@ -57,9 +55,11 @@ Paul went back to Jerusalem, against the advice of the Body and the Spirit. Upon
 
 ### Completing Ministry
 
-Paul says that he was commissioned to complete the word of God; this means to complete the revelation of God, which without Paul's writings would be incomplete. (Col 1:25)
+Paul says that he was commissioned to complete the word of God; this means to complete the revelation of God, which without Paul's writings would be incomplete. (Col 1:25). The central vision of this ministry is:
 
-The central vision of this ministry is God in us as our contents ("vessel"), Christ as the mystery of God ("Jesus"), and the church as the mystery of Christ ("Me").
+1. God in us as our contents ("vessel"), having gone through a process to dispense Himself into us.
+2. Christ as the mystery of God ("Jesus")
+3. The church as the mystery of Christ ("Me").
 
 The Lord's recovery is the recovery of this central vision.
 
