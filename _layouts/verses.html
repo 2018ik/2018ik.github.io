@@ -10,12 +10,24 @@ layout: basev2_st
 
 <div id="settingsModal" class="modal">
     <div class="modal-content">
-        <span class="modal-close" onclick="closeModal()">&times;</span>
-        <h2>Settings</h2>
-        <div>
-            <label for="caseSensitiveCheckbox">Case Sensitivity</label>
-            <input type="checkbox" id="caseSensitiveCheckbox">
-        </div>
+      <span class="modal-close" onclick="closeModal()">&times;</span>
+      <h2>Settings</h2>
+      <div>
+        <label for="stagesInput">Stages</label>
+        <input type="number" min="1" max="10" value="3" id="stagesInput">
+      </div>
+      <div>
+        <label for="attemptsInput">Attempts per word</label>
+        <input type="number" min="1" max="10" value="3" id="attemptsInput">
+      </div>
+      <div>
+        <label for="caseSensitiveCheckbox">Case Sensitivity</label>
+        <input type="checkbox" id="caseSensitiveCheckbox">
+      </div>
+      <div>
+        <label for="skipFirstStageCheckbox">Skip First Stage</label>
+        <input type="checkbox" id="skipFirstStageCheckbox">
+      </div>
     </div>
 </div>
 

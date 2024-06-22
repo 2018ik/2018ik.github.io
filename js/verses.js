@@ -11,23 +11,46 @@ document.getElementById('stringInput').addEventListener('keypress', (event) => {
 });
 
 const BLANK = '____';
+const WRONG = 'wrong';
 let verses = [];
 let currentVerseIndex = 0;
 let currentWordIndex = 0;
 let currentStage = 0;
+let currentAttempts = 0;
 let blankVerse = [];
+let totalStages = 3;
+let maxAttempts = 3;
+let totalKeystrokes = 0;
+let totalWords = 0;
+let skipFirstStage = false;
 
 async function fetchVerses(inputString) {
     const response = await fetch(`https://api.lsm.org/recver.php?String=${encodeURIComponent(inputString)}&Out=json`);
     const data = await response.json();
     verses = data.verses;
-    currentVerseIndex = 0;
-    currentStage = 1;
-    startTypingExercise();
+    totalKeystrokes = 0;
+    totalWords = 0;
+    if (verses.length === 0 || verses[0]['urlpfx'] === '') {
+        document.getElementById('message').innerHTML =`<span id='errorText'>Invalid reference!</span>`;
+        setTimeout(() => {
+            document.getElementById('message').innerHTML = 'Verse Memorizer';
+        }, 3000);
+    } else {
+        currentVerseIndex = 0;
+        currentStage = 1;
+        startTypingExercise();
+    }
 }
 
 function startTypingExercise() {
-    if (currentStage > 3) {
+    const verseObj = verses[currentVerseIndex];
+    displayVerse(verseObj.text, verseObj.ref, currentStage);
+    setupTyping(verseObj.text);
+}
+
+function nextStage() {
+    currentStage++;
+    if (currentStage > totalStages) {
         currentVerseIndex++;
         if (currentVerseIndex >= verses.length) {
             displayCompletionMessage();
@@ -35,44 +58,47 @@ function startTypingExercise() {
         }
         currentStage = 1;
     }
-    const verse = verses[currentVerseIndex];
-    displayVerse(verse.text, verse.ref, currentStage);
-    setupTyping(verse.text);
+    startTypingExercise();
 }
-
 function displayVerse(verse, ref, stage) {
     currentWordIndex = 0;
     let words = verse.split(' ');
-    if (stage == 1) {
-        blankVerse = words;
-    }
-    else if (stage === 2) {
-        blankVerse = words.map(word => Math.random() < 0.5 ? BLANK : word);
-    } else if (stage === 3) {
+    console.log(skipFirstStage, stage, totalStages)
+    if (stage >= totalStages) {
         blankVerse = words.map(() => BLANK);
+    }
+    else if (stage == 1 && !skipFirstStage) {
+        blankVerse = words;
+    } else {
+        blankVerse = words.map(word => Math.random() < (stage+Number(skipFirstStage)-1)/totalStages ? BLANK : word);
     }
     const formattedWords = blankVerse.map((word) => {
         return word;
     });
     document.getElementById('verseText').innerHTML = formattedWords.join(' ');
-    document.getElementById('stage').innerText = `Stage: ${currentStage}, Verse: ${ref}`;
-    document.getElementById('progress').innerText = `Progress: ${currentWordIndex}/${words.length}`;
+    document.getElementById('stage').innerText = `Stage: ${currentStage}/${totalStages}, Verse: ${ref}`;
+    document.getElementById('progress').innerText = `Progress: 0/${words.length}`;
 }
 
-function updateVerse(verse) {
+function updateVerse(verse, wrong) {
+    totalWords += 1;
     words = verse.split(' ');
     const formattedWords = blankVerse.map((word, index) => {
-        if (index === currentWordIndex) {
-            return word;
-        } else if (index < currentWordIndex) {
-            return `<span class="current">${words[index]}</span>`;
+        if (index <= currentWordIndex) {
+            if (word === WRONG) {
+                return `<span class="wrongWord">${words[index]}</span>`;
+            }
+            return `<span class="seenWord">${words[index]}</span>`;
         }
         return word;
     });
+    currentWordIndex++;
     document.getElementById('verseText').innerHTML = formattedWords.join(' ');
+    document.getElementById('typingInput').value = '';
+    document.getElementById('progress').innerText = `Progress: ${currentWordIndex}/${words.length}`;
 }
 
-function setupTyping(verse) {
+function setupTyping() {
     currentWordIndex = 0;
     document.getElementById('typingExercise').style.display = 'block';
     document.getElementById('typingInput').value = '';
@@ -90,47 +116,66 @@ function handleTypingInput() {
 function checkInput(verse) {
     const input = document.getElementById('typingInput').value.trim();
     const words = verse.split(' ');
+    if (currentWordIndex >= words.length) {
+        console.log("Received invalid input: " + currentWordIndex);
+        return;
+    }
+    totalKeystrokes += 1;
     const letter = words[currentWordIndex].replace(/[^a-zA-Z]/g, '')[0]
     let correct = letter === input;
     if (!document.getElementById('caseSensitiveCheckbox').checked) {
         correct = letter.toLowerCase() === input.toLowerCase();
     }
     if (correct) {
-        currentWordIndex++;
-        document.getElementById('typingInput').value = '';
-        document.getElementById('progress').innerText = `Progress: ${currentWordIndex}/${words.length}`;
+        updateVerse(verse);
         if (currentWordIndex >= words.length) {
             // Done with verse for particular stage
-            currentStage++;
-            startTypingExercise();
+            setTimeout(()=> nextStage(), 1000);
         } else {
-            updateVerse(verse);
+            currentAttempts = 0;
         }
     } else {
+        currentAttempts += 1
+        if (currentAttempts >= maxAttempts) {
+            blankVerse[currentWordIndex] = WRONG;
+            updateVerse(verse);
+            currentAttempts = 0;
+            if (currentWordIndex >= words.length) {
+                // Done with verse for particular stage
+                setTimeout(()=> nextStage(), 1000);
+            }
+        }
         // clear field
         document.getElementById('typingInput').value = '';
     }
 }
 
 function displayCompletionMessage() {
-    document.getElementById('message').innerHTML = '<span class="current">Congrats!</span>';
+    console.log(totalWords, totalKeystrokes);
+    document.getElementById('message').innerHTML = `Congrats! Your accuracy was: ${Math.floor(totalWords*100/totalKeystrokes)}%`;
     document.getElementById('typingExercise').style.display = 'none';
     document.getElementById('progress').innerText = '';
     document.getElementById('stringInput').value = '';
     setTimeout(() => {
         document.getElementById('message').innerHTML = 'Verse Memorizer';
-    }, 3000);
+    }, 5000);
 }
+
+//Settings
 
 // Close the modal when clicking outside of it
 window.onclick = function(event) {
     var modal = document.getElementById("settingsModal");
     if (event.target == modal) {
-        modal.style.display = "";
+        closeModal();
     }
 }
 
 function closeModal() {
     var modal = document.getElementById("settingsModal");
     modal.style.display = "";
+    // apply settings
+    totalStages = document.getElementById("stagesInput").value;
+    maxAttempts = document.getElementById("attemptsInput").value;
+    skipFirstStage = document.getElementById("skipFirstStageCheckbox").checked;
 }

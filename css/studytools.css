@@ -69,6 +69,9 @@ button:hover {
     max-width: 600px;
     border-radius: 10px;
 }
+.modal-content div {
+    margin-bottom: 10px;
+}
 
 textarea {
     width: 100%;
@@ -91,4 +94,30 @@ textarea {
     color: black;
     text-decoration: none;
     cursor: pointer;
+}
+
+.modal input {  /* Basic styling */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.modal input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    border: 1px solid #999;
+    border-radius: 3px; 
+    cursor: pointer;
+}
+.modal input[type="checkbox"]:checked {
+    background-color: #007BFF;
+}
+#errorText {
+    color:#f30000;
+}
+.seenWord {
+    color: black;
+}
+.wrongWord {
+    color:#f30000;
 }
