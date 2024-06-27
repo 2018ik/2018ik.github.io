@@ -10,7 +10,7 @@ permalink: /wiki/sin/
 
 ## Background
 
-**Sin** 
+**Sin** can refer to the original sin of Adam which is inward and resulted in the fallen human nature's union with Satan, as well as individual wrongdoings committed as a result.
 
 Sin has both a penalty and a power. When the Lord forgave the sinful woman, He dealt with the penalty of sin. When He told her to go and sin no more, He dealt with the power of sin.
 

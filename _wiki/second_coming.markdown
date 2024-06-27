@@ -8,6 +8,7 @@ permalink: /wiki/second_coming/
 - [Timeline](#timeline)
   - [Europe](#europe)
   - [Hidden coming](#hidden-coming)
+  - [Great Tribulation](#great-tribulation)
 
 ## Background
 
@@ -29,7 +30,8 @@ Ten kingdoms, presumably in Europe, will join together under the Antichrist, who
 
 ### Hidden coming
 
-Christ first comes in a hidden way, *parousia*. All the overcoming believers still alive on earth during the second coming will be raptured to the air prior to the three and a half year great tribulation as the firstfruits to God and to the Lamb (Rev. 3:10; 14:1,14-6). However, the highest incentive for us to be the firstfruits is to satisfy God, not to escape tribulation. Then eventually, all the graves will open, and all will resurrect. 
+Christ first comes in a hidden way, *parousia*. All the  overcoming believers still alive on earth during the second coming will be raptured to the air prior to the three and a half year great tribulation as the firstfruits to God and to the Lamb (Rev. 3:10; 14:1,14-6). However, the highest incentive for us to be the firstfruits is to satisfy God, not to escape tribulation. Then eventually, all the graves will open, and all will resurrect. 
 
+### Great Tribulation
 
-
+In the last three and a half years, Christ and the bridal army will be descending from the heavens in a hidden way.

@@ -7,6 +7,7 @@ permalink: /wiki/psalms_chapters/
 - [23](#23)
 - [45](#45)
 - [73](#73)
+- [Psalm 110](#psalm-110)
 
 ## Background
 
@@ -45,3 +46,7 @@ The psalmist wondered why he was suffering so much while the worldly people were
 >Whom do I have in heaven but You? / And besides You there is nothing I desire on earth. / My flesh and my heart fail, / But God is the rock of my heart and my portion forever.
 
 \-Psalm 73:25-26
+
+## Psalm 110
+
+This chapter has one of the highest revelations of Christ in the Bible. These verses have been quoted directly more than twenty times in the NT, and twenty more times indirectly. The highest place in the universe is at the right hand of God, where the Lord is now. 
