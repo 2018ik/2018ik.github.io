@@ -10,7 +10,9 @@ permalink: /wiki/blessing/
 
 ## Background
 
-**Blessing** is the overflow of God Himself. On the side of man, this overflow issues from maturity in life.
+**Blessing** is the overflow of God Himself. Blessing is often seen as a God giving His people material things, but the real blessing is God giving Himself to man as the Spirit (Gal. 3:14). 
+
+God blesses by virtue of His being an eternal dispensing of Himself in His self-existence as well as into His believers. Man blesses by the overflow that issues from maturity in life.
 
 ## Definitions
 

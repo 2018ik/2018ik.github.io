@@ -23,4 +23,4 @@ In the context of the rest of 1 Corinthians, Paul was arguing that because all b
 
 >The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
 
-Based on the context, Paul's enumeration of the Trinity here shows that God is Triune for our experience and enjoyment.
+Based on the context, Paul's enumeration of the Trinity here shows that God is Triune for our experience and enjoyment. The Holy Spirit is the circulation and transmission of the grace of Christ with the love of the Father. The entire church life depends upon this divine circulation. 

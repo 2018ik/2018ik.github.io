@@ -14,9 +14,9 @@ permalink: /wiki/fellowship/
 
 ## Background
 
-**Fellowship** (Greek: *koinomia*) is a common, joint and corporate participation between two paries in something. Fellowship implies a sense of traffic. In fact, the word used for "fellowship" in the Chinese Recovery Version Bible is "traffic." This can be illustrated by the power plant being the source of the electrical current or traffic to many homes. On one hand, there is a vertical fellowship between each home and the power plant, and on the other hand, there is a horizontal fellowship between each home, as they are all interconnected on the same grid. Likewise, a Christian must have both fellowship with God, as well as with the members of the Body (1 John 1:3).
+**Fellowship** (Greek: *koinomia*) is a common, joint and corporate participation between two parties in something. For Christians, to have fellowship is to jointly participate with God and other believers in the Spirit with the human spirit. Fellowship implies a sense of traffic. This can be illustrated by the power plant being the source of the electrical current or traffic to many homes. Just as the current of electricity is the electricity itself, the fellowship of the divine life is the divine life and God Himself. To not have fellowship is to not have God; God comes as fellowship. Furthermore, there is a vertical fellowship between each home and the power plant, and on the other hand, there is a horizontal fellowship between each home, as they are all interconnected on the same grid. Likewise, a Christian must have both fellowship with God, as well as with the members of the Body (1 John 1:3).
 
-In the scriptural sense, fellowship involves the issue and flow of the divine life. This fellowship is unique - there is only one life, one source, one Christ, one Spirit - thus there can only be one genuine fellowship of life. Staying in this fellowship is crucial for the Christian life. To be cut off from the fellowship, that is to no longer meet with or commune with the local believers, will inevitably result in spiritual death.
+This fellowship is unique - there is only one life, one source, one Christ, one Spirit - thus there can only be one genuine fellowship of life. Staying in this fellowship is crucial for the Christian life. To be cut off from the fellowship, that is to no longer meet with or commune with the local believers, will inevitably result in spiritual death.
 
 The outward activity of "fellowship" may appear to be believers gathering together, but without prayer and without the spirit, such gatherings are not real fellowship. The real fellowship of life is not social contact, but to be joined to God and to one another in the flowing current of life.
 
@@ -38,13 +38,13 @@ This living water symbolizing the divine life is actually a person (John 11:25; 
 
 ## Vertical Fellowship
 
-We have fellowship with the Father and with His Son Jesus Christ (1 John 1:3, 6). First thing in the morning, we should practice morning revival to spend time with the Lord to have fellowship with the Triune God directly.
+1 John reveals that there are two aspects of fellowship: vertical fellowship with God and horizontal fellowship with the believers. Vertical fellowship is direct fellowship with the Father and with His Son Jesus Christ (1 John 1:3, 6). First thing in the morning, we should practice morning revival to spend time with the Lord to have fellowship with the Triune God directly. 
 
 ## Horizontal Fellowship
 
 We also have fellowship with one another (1 John 1:3, 7). This is the fellowship of the Body of Christ among the churches, and is equivalent to the fellowship of the apostles (Acts 2:42). This is not merely socializing, it is much higher. We are joined to God and he operates on a much higher plane. We should pray with one another. Prayer saves us from natural socialization.
 
-Recall: the source of fellowship is the eternal life, and the Spirit in our spirit is the carrier of life. Accordingly, it is a "fellowship of the Holy Spirit" (2 Cor. 13:14). Therefore, if we are not in spirit we cannot have the proper fellowship. 
+Recall: the source of fellowship is the eternal life, and the Spirit in our spirit is the carrier of life. Accordingly, it is a "fellowship of the Holy Spirit" (2 Cor. 13:14). Therefore, if we are not in spirit we cannot have the proper fellowship. Furthermore, to be in spirit and to be in fellowship is to be in a realm: horizontal and vertical fellowship form a dimensional space in which we can live.
 
 ## Benefits
 

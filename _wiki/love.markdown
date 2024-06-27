@@ -15,7 +15,7 @@ permalink: /wiki/love/
 
 ## Background
 
-**Love** for the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from oneself, but a divine life which comes from God as the Spirit of love who puts real love into the heart (Col. 1:8; Rom. 5:5). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
+**Love** for the Lord is the indispensable requirement for enabling someone to enter into His heart and apprehend all its secrets and to realize and participate in the deep and hidden things God has ordained and prepared (1 Cor. 2:9). This is not a love originating from oneself, but from the divine life which comes from God as the Spirit of love who puts real love into the heart (Col. 1:8; Rom. 5:5; 1 John 3:14). When one loves the Lord, spontaneously they love the Body of Christ, which includes all the saints.
 
 When the Lord appeared to Peter at the Sea of Tiberias, the first question He asked Peter was "Do you love me?" (Matt. 21:15). To perform a work without love amounts to nothing (1 Cor. 13:2-3). Between faith, hope and love, the greatest is love (1 Cor. 13:13). The degradation of the church began with the loss of the first love (Rev. 2:4-5).
 
