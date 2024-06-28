@@ -13,6 +13,8 @@ The **age** (Greek: aion) is the current era in which the world system operates 
 
 ## Significance
 
+The age, the current world situation, is an indicator of God's move. For example, the nation of Israel was re-established in 1948, fulfilling the biblical prophecy.
+
 ## Related Terms
 
 1. World

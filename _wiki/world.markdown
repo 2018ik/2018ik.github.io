@@ -22,7 +22,7 @@ Originally, God was everything to man and was his pleasure and protection. Man a
 
 ## Significance
 
-The world is anything in excess that is beyond our need. Christians often focus on sinfulness, but the world's usurpation is much more subtle. A person who has fallen into sin is easily seen as problematic, and may even be repentant. A person who is occupied by good but worldly things is seen as fine, even wonderful. Yet, they are fully consumed by something other than God
+The world is anything in excess that is beyond our need. Christians often focus on sinfulness, but the world's usurpation is much more subtle. A person who has fallen into sin is easily seen as problematic, and may even be repentant. A person who is occupied by good but worldly things is seen as fine, even wonderful. Yet, they are fully consumed by something other than God.
 
 ## Related Terms
 

@@ -12,7 +12,13 @@ permalink: /wiki/redemption/
 
 ## Background
 
-**Redemption** is God taking our place in suffering judgment and in the payment of debts. Redemption is the result of God’s love, and it is accomplished by the blood of Christ.
+**Redemption** (also called **judicial redemption** to differentiate it from [the redemption of the body](../glorification)) is God taking our place in suffering judgment and in the payment of debts. Redemption is the result of God’s love, and it is accomplished by the blood of Christ. Christ's accomplishment of God's judicial redemption resulted in the five items of: 
+
+1. Forgiveness of sins (Eph. 1:7)
+2. Washing away of sins (Heb. 1:3)
+3. Justification (Rom. 3:24)
+4. Reconciliation (Rom 5:10)
+5. Positional sanctification (Heb. 13:12; 10:29)
 
 [Man fell](../fall_of_man), sin entered, and man became unrighteous in the eyes of God. According to God's righteousness, everything of God must be righteous; therefore, for God to accomplish His economy, He must first make man righteous. This is accomplished through redemption.
 
