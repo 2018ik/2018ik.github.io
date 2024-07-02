@@ -17,4 +17,5 @@ There are all kinds of doctors in a hospital. The best doctor is one that loves 
 
 ## Related Terms
 
-1. Waters of Merah
+1. Healing
+2. Waters of Merah

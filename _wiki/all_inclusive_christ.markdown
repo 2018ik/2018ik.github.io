@@ -43,6 +43,10 @@ The **all-inclusive Christ** refers to the fact that Christ should be everything
 | Pomegranates | The fullness, abundance, beauty and expression of the riches of Christ as life (Exo. 28:33-34; 1 Kings 7:18-20; S.S. 4:3b, 13) |
 | Produce of Canaan | All of the produce of Canaan typify the riches of Christ. Unlike manna, this produce requires laboring on the land, which is a step further in organic salvation. |
 | Reality of every positive thing in the universe | (Col. 2:16-17) |
+| Rest | Matt. 11:28 | 
+| Seed | Not only is Christ the sower, He is also sowing Himself into us as the seed (Matt. 13:3) |
+| Shepherd | Matt. 9:36 |
+| Sower | Matt. 13:3 |
 | Springs | The flowing Spirit of Christ |
 | Stones | Christ as the building material for God's dwelling place (Isa. 28:16; Zech. 4:7; 1 Pet. 2:4) |
 | Sun | (Mal. 4:2; Psa. 22) |

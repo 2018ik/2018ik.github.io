@@ -10,6 +10,7 @@ permalink: /wiki/economical_trinity/
   - [Genesis](#genesis)
   - [Exodus](#exodus)
   - [Numbers](#numbers)
+  - [Psalms](#psalms)
   - [Matthew](#matthew)
   - [Luke](#luke)
   - [John](#john)
@@ -78,6 +79,12 @@ Below is a non-exhaustive list of the Divine Trinity in action and in experience
 | --- | --- |
 | Num. 6:24-27 | This was a triune blessing spoken by Aaron and his sons to the children of Israel. In verse 24, the Father blesses and keeps (Eph. 1:4; John 17:5; 1 Pet. 1:5). In verse 25, the shining of His face and graciousness signifies the Son. The Lord Jesus is the face of the Triune God (Col. 1:5). When the Lord shines on us, He becomes grace to us. In verse 26, the lifting of His countenance and giving of peace signifies the Spirit. The Spirit is the countenance of the Triune God (Eph. 4:30). To have God's smile or His frown is a matter of spiritual experience. When we have God's smile, we have His peace. |
 | Num. 20:8 | As with Exodus 17:6, this rock signifies Christ (1 Cor. 10:4). This time, God told Moses to speak to the rock. This is to come to God and contact Him as we are. |
+
+### Psalms
+
+| Verse | Description |
+| 23:5 | The Son is the feast, the Spirit is the anointing oil and the Father is the source of blessing. |
+| 23:6 | Goodness refers to the grace of Christ, lovingkindness to the Father's love, and the following of these two things being the Spirit which is the fellowship of the Triune God. |
 
 ### Matthew
 
