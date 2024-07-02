@@ -10,7 +10,7 @@ permalink: /wiki/tree_of_life/
 
 ## Background
 
-The Bible begins with the tree of life in the Garden of Eden (Gen 2:9) and ends with the tree of life in the New Jerusalem in Revelation (Rev 21:??). 
+The **tree of life** is a type of the crucified and resurrected Christ. The Bible begins with the tree of life in the Garden of Eden (Gen 2:9) and ends with the tree of life in the New Jerusalem in Revelation (Rev 21:??). 
 
 ## History
 
@@ -23,6 +23,7 @@ Man was placed in front of the tree of life, indicating that God wanted man to p
 In the New Testament this closed way was opened by the Lord who through His death fulfilled all the requirements of God’s glory, holiness, and righteousness. The crucified Christ becomes the reopened way for man to contact God as the tree of life (John 14:6; Heb. 10:19-20)
 
 ## Today
+
 ### Eat the Tree
 
 Eating the tree of life as our enjoyment should be the primary matter in our church life. The content of the church life depends on the enjoyment of Christ; all our problem are caused by the shortage of the enjoyment of Christ.

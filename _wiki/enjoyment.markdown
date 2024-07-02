@@ -8,6 +8,7 @@ permalink: /wiki/enjoyment/
 - [Biblical Basis](#biblical-basis)
 - [Application](#application)
 - [Aspects](#aspects)
+- [Related Terms](#related-terms)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
@@ -18,9 +19,9 @@ permalink: /wiki/enjoyment/
   
 ## Background
 
-**Enjoyment** is the joy of the Triune God becoming the joy of His people as an issue of the indwelling Christ saturating the soul (Rom. 15:13) and implies an inner satisfaction, peace and contentment. To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. God does not want man just to receive Him, but to enjoy Him.
+**Enjoyment** is the joy of the Triune God becoming the joy of His people as an issue of the indwelling Christ saturating the soul (Rom. 15:13) and implies an inner satisfaction, peace and contentment. To enjoy is different from experiencing. For example, a kid can eat vegetables and experience it, but not enjoy it. The way to enjoy the Lord is to love Him (1 Cor. 2:9-10; 16:22). If you give the same kid a pizza, he will simultaneously experience and enjoy it because he loves pizza. God does not want man just to receive Him, but to enjoy Him.
 
-Christ is the allotted portion for the believers to be their enjoyment (Col. 1:12). This enjoyment is actually the unique solution to all problems in the church. The way to enjoy the Lord is to love Him (1 Cor. 2:9-10; 16:22).
+Christ is the allotted portion for the believers to be their enjoyment (Col. 1:12). This enjoyment is actually the unique solution to all problems in the church. 
 
 Actually, the more limited one is, the more they should enjoy. Enjoyment should not be tied to the environment; if it is, then it is not true enjoyment. Paul was in prison, yet the high peak truths he revealed in his epistles were all during imprisonment.
 
@@ -57,6 +58,11 @@ In one's experience, enjoying the Lord can have many aspects, which include but 
 5. Doing God's will (Psa. 40:8a)
 6. Contentment in all circumstances (Phil. 4:11)
 7. Entering into the joy of the Lord in the kingdom (Matt. 25:21-23)
+
+## Related Terms
+
+1. Experience
+2. Expression
 
 ## Testimonies
 

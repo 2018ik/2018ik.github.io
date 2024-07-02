@@ -4,6 +4,7 @@ title: Son of Man
 permalink: /wiki/son_of_man/
 ---
 - [Background](#background)
+- [Under Authority](#under-authority)
 - [Cherishing](#cherishing)
 - [Nourishing](#nourishing)
 - [Designated](#designated)
@@ -11,6 +12,10 @@ permalink: /wiki/son_of_man/
 ## Background
 
 **Son of man** implies God in His humanity. He was born as a man in the lowest status, and raised up in the despised city of Nazareth. He was without an outward beauty of attraction (Isa. 53:2-3). Despite this, he was able to contact every kind of man, and cherish, comfort and heal them - even the most sinful tax collector. 
+
+## Under Authority
+
+The Lord was a man under the authority of God the Father. This is according to what the centurion said in Matthew chapter 8 - "I also am a man under authority" (Matt. 8:5-13). 
 
 ## Cherishing
 

@@ -81,7 +81,7 @@ Genesis 1:2-3 following the first verse which reveals the Father then reveals th
 
 In Genesis 1:26 when creating man, God says let *Us* make man in our image. This is also not the only time that the plural pronoun *Us* is used to refer to God (Isa. 6:8; Gen. 3:22; 11:7).
 
-God as the God of Abraham, Isaac and Jacob also implies the Trinity as the Father, Son and Spirit. God called Abraham as the Father. Isaac as the son of Abraham inherited all that his father had and accomplished the will of his father. Jacob experienced a great work of transformation which corresponds to the transformative work of the Spirit.
+God as the God of Abraham, Isaac and Jacob also implies the Trinity as the Father, Son and Spirit. God called Abraham as the Father. Isaac as the son of Abraham inherited all that his father had and accomplished the will of his father. Jacob experienced a great work of transformation which corresponds to the transformative work of the Spirit. A partial picture of this is seen in Isaac's marriage in Genesis 24.
 
 #### New Testament
 

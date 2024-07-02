@@ -8,7 +8,7 @@ permalink: /wiki/the_one_thing/
 
 ## Background
 
-**The one thing** in Philippians 2:2 refers to the subjective, knowledge, experience and enjoyment of Christ. The one thing is the pursuing of Christ to gain Him and possess Him. In order to think the one thing, believers must exercise their spirit of sober-mindedness (2 Tim. 1:7)
+**The one thing** in Philippians 2:2 refers to the subjective knowledge, experience and enjoyment of Christ. Thinking the one thing is the pursuing of Christ to gain Him and possess Him. In order to think the one thing, believers must exercise their spirit of sober-mindedness (2 Tim. 1:7)
 
 ## Significance
 

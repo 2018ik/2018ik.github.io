@@ -5,9 +5,10 @@ permalink: /wiki/experience/
 ---
 - [Background](#background)
 - [Experience of Life](#experience-of-life)
-  - [Stages](#stages)
+- [Stages](#stages)
 - [Foundation](#foundation)
 - [Tips](#tips)
+- [Related Terms](#related-terms)
 
 ## Background
 
@@ -19,7 +20,9 @@ All genuine experiences of God according to His New Testament economy should lea
 
 Not all experiences of God are life-giving. For example, Samson in the Old Testament had the Spirit of God fall upon him to empower him, but he did not experience life. There was no change in his person, he was only outwardly clad in strength. When a person experiences Christ, he simply senses Christ Himself and is not aware of anything outward. Others may realize how happy, loving, humble or patient he is, but he does not sense these things, only the presence of Christ. 
 
-### Stages
+## Stages
+
+The entire Christian life is a matter of experiencing Christ as life. Paul pursued to lay hold of more and more of the vast, limitless Christ and forgot the things that were behind. 
 
 In Paul's epistles, there is a progression of Christ being revealed in us (Gal. 1:15:16), Christ living in the us (Gal. 2:20), Christ being formed in us (Gal. 4:19) and Christ being magnified in us (Phil 1:20). Eventually, we arrive at the measure of the stature of the fullness of Christ (Eph. 4:13). Based on the context, this is a Body matter, as the fullness of Christ is His Body.
 
@@ -34,3 +37,8 @@ The magi were then corrected by the priests and scribes through the Scriptures t
 ## Tips
  
 1. Set a timer for one minute, set aside everything else, and exercise to touch the Lord for that minute. If we are faithful to this minute each day, we will find this minute growing. 
+
+## Related Terms
+
+1. Enjoyment
+2. Expression

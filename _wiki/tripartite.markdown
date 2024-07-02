@@ -12,12 +12,11 @@ permalink: /wiki/tripartite/
 
 ## Background
 
-The Bible reveals that man is **tripartite** and consists of three parts: spirit, soul and body. The body contacts the physical realm, the soul contacts the psychological realm, and the spirit contacts the spiritual realm.  
+The Bible reveals that man is **tripartite** and consists of three parts: spirit, soul and body. The body contacts the physical realm, the soul contacts the psychological realm, and the spirit contacts the spiritual realm. 
  
 ![diagram of man](../img/WL64-03-20EconomyGod06_1_chart.png)
 
-The spirit is a receiving organ and is joined to God (John 4:24; 1 Cor. 6:17). 
-The soul's original purpose is to be a reflecting organ to inherit the mind, emotion and will of God (2 Cor. 3:18). The heart, is a composite part of man which based on Scripture includes the soul and the conscience, and usually places its emphasis on love (Mark 12:30).
+The spirit is a receiving organ and is joined to God. All spiritual experience originates from the spirit (John 4:24; 1 Cor. 6:17). The soul's original purpose is to be a reflecting organ to inherit the mind, emotion and will of God (2 Cor. 3:18). The soul allows us to enjoy God and to know God's feeling and will. The heart, is a composite part of man which based on Scripture includes the soul and the conscience, and usually places its emphasis on love (Mark 12:30). The body is for the outward expression or magnification of Christ. 
 
 The "inner man" is the regenerated spirit contacted by our person, the soul. In that contact, the soul joins to the spirit and they become one merged person called the inner man. The "outer man" refers to our living in the soul and body without contact with God. The "self" refers to the soul (Matt. 16:24-25). There is a constant battle between the soul and the spirit, the outer man and the inner man (1 Cor. 2:14-15).
 

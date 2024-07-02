@@ -7,14 +7,14 @@ permalink: /wiki/light/
 - [Biblical Definition](#biblical-definition)
 - [Contrast to Darkness](#contrast-to-darkness)
 - [Contrast to Introspection](#contrast-to-introspection)
-- [Gospel](#gospel)
+- [Becoming Light](#becoming-light)
 - [Trivia](#trivia)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
 
 ## Background
 
-**Light** is that which makes manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself (1 John 1:5). By default, unbelievers are objectively in darkness, and believers are subjectively in darkness. When God shines on us, He gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. Furthermore, He reveals more of Himself in His all-inclusiveness (Col. 1:12). This shining is an aspect of God's dispensing. As God's dispensing is from eternity to eternity, so is the shining of God in the New Jerusalem (Rev. 21:23; 22:5).
+**Light** is the presence of God who is light that makes all things manifest (Eph. 5:13). True light is not a thing, such as a shining or presence, it is a Person, God Himself (1 John 1:5). By default, unbelievers are objectively in darkness, and believers are subjectively in darkness. When God shines on us, He gives us the direct sense and realization of sins, wrongdoings, mistakes, trespasses and shortages. Furthermore, He reveals more of Himself in His all-inclusiveness (Col. 1:12). This shining is an aspect of God's dispensing. As God's dispensing is from eternity to eternity, so is the shining of God in the New Jerusalem (Rev. 21:23; 22:5).
 
 ## Biblical Definition
 
@@ -30,7 +30,9 @@ When we are in darkness, we think everything is fine because we can't see anythi
 
 God's presence which issues in the light will spontaneously reveal the hidden things we must deal with. There is no need for introspection of the mind. We only need to deal with what is revealed directly by the light. We simply agree with what is exposed by the light. By confessing, we agree with and acknowledge what we see in God as light.
 
-## Gospel 
+## Becoming Light
+
+As God is light, the believers also become light itself, children of light, and the light of the world (Judg. 5:21; Isa. 60:1). Our function is to shine in the midst of this crooked and perverted generation as luminaries. 
 
 The gospel should be a shining (2 Cor. 4:4). Those who are in darkness like Saul do not need knowledge or persuasive arguments, they need the light. It is by the illumination of the gospel of the glory of Christ that unbelievers are saved. Then, the more that God shines in us, the more we shine forth the gospel of the glory of Christ before men so that they may also be saved (Matt 5:16).
 
