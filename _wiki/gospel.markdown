@@ -4,14 +4,11 @@ title: The Gospel
 permalink: /wiki/gospel/
 ---
 - [Background](#background)
-- [Focus](#focus)
 - [Biblical Basis](#biblical-basis)
 - [Acts 26:18](#acts-2618)
   - [Romans 1:3-4](#romans-13-4)
   - [Philippians](#philippians)
-- [Principles](#principles)
-  - [Little Speakings](#little-speakings)
-  - [Praying](#praying)
+- [Righteousness](#righteousness)
 - [Testimonies](#testimonies)
   - [Testimony #1](#testimony-1)
   - [Testimony #2](#testimony-2)
@@ -21,11 +18,7 @@ permalink: /wiki/gospel/
 
 The **gospel** of God is the entire content of the Bible, which involves His [entire work and purpose](../gods_economy). Experientially, this is Christ as the embodiment of the processed Triune God reaching the believers as the consummated Spirit to be their everything. The gospel is not merely a judicial salvation from eternal perdition, but the entire word of the truth that is may be subjectively experienced (Eph. 1:13). 
 
-In Old Testament, man fell, and in the New Testament, man was redeemed by God so that man may be saved in the present from the all things of the flesh through the Spirit in their spirit.
-
-## Focus
-
-The focus of the gospel is God received by man as the Spirit (Gal. 3). 
+In Old Testament, man fell, and in the New Testament, man was redeemed by God so that man may be saved in the present from the all things of the flesh through the Spirit in their spirit. The focus of the gospel is God received by man as the Spirit (Gal. 3). 
 
 ## Biblical Basis
 
@@ -51,17 +44,9 @@ The Spirit sweeps, and the Son will continue to seek out the lost ones *until* t
 
 The book of Philippians reveals that the matter of the gospel, and living, enjoying and magnifying Christ are inseparable. The furthering of the gospel is actually through living, enjoying and magnifying Christ.
 
-## Principles
+## Righteousness
 
-### Little Speakings
-
-Little speakings mean a lot. the gospel does not mean most of th time you give a long message, it means little speakings. The Lord presented himself as the sower who sows the seed of life into humanity. Just little sowings, little waterings, and little speakings mean a lot over a long period of time.
-
-### Praying 
-
-Don't expect anybody to receive Christ without our prayer.
-
-The Lord cannot move unless we cooperate with Him. Prayer was involved, fasting was involved, and to go. That doesn't mean every time we go there's outward success. More times there's not. But we have somebody else that would never give up because even when He came to the earth, did He have outward success? But thousands rejected and even crucified.
+The basic element of the gospel as supposed by many Christians is love and grace. However, the basic element of the gospel is righteousness, which is related to God's kingdom with His authority. Man has become fallen not only because of sin but because of rebellion and needs to be brought back to the right position of God under His ruling, His kingship. So strictly speaking, the salvation presented to us in the NT is first received by us by our coming to the king, but our meeting the king, being subdued by the king. So that we are under his ruling, under his reigning. Then, we can receive the life. 
 
 ## Testimonies
 

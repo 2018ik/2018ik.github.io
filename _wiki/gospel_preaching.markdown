@@ -8,6 +8,8 @@ permalink: /wiki/gospel_preaching/
 - [Practice](#practice)
   - [Listen](#listen)
   - [Dedicated Time](#dedicated-time)
+  - [Little Speakings](#little-speakings)
+  - [Praying](#praying)
 
 ## Background
 
@@ -31,3 +33,12 @@ Listen to what they have to say, especially their struggles, anger and disappoin
 
 Most people work 8 hours a day, and have weekends off. This provides plenty of time to go out in gospel teams to practice preaching the gospel.
 
+### Little Speakings
+
+Little speakings mean a lot. the gospel does not mean most of th time you give a long message, it means little speakings. The Lord presented himself as the sower who sows the seed of life into humanity. Just little sowings, little waterings, and little speakings mean a lot over a long period of time.
+
+### Praying 
+
+Don't expect anybody to receive Christ without our prayer.
+
+The Lord cannot move unless we cooperate with Him. Prayer was involved, fasting was involved, and to go. That doesn't mean every time we go there's outward success. More times there's not. But we have somebody else that would never give up because even when He came to the earth, did He have outward success? But thousands rejected and even crucified.

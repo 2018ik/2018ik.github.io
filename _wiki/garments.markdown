@@ -4,6 +4,7 @@ title: Garments
 permalink: /wiki/garments/
 ---
 - [Background](#background)
+- [Biblical Basis](#biblical-basis)
 - [Examples](#examples)
   - [Daughter of Tyre](#daughter-of-tyre)
   - [Priestly Garments](#priestly-garments)
@@ -12,6 +13,10 @@ permalink: /wiki/garments/
 ## Background
 
 **Garments** in the Bible signify one's daily walk and living, that is the virtue of one's human behavior.
+
+## Biblical Basis
+
+Isaiah 64:6 describes human righteousness like that of filthy rags. Revelation 19:8 describes fine linen as the righteousness deeds of the saints. Thus, garments as something which one adorns themselves with and can be outwardly seen denotes one's daily walk, living, and deportment.
 
 ## Examples
 

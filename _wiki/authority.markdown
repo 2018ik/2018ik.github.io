@@ -4,6 +4,7 @@ title: Authority
 permalink: /wiki/authority/
 ---
 - [Background](#background)
+- [Purpose](#purpose)
 - [Deputy Authorities](#deputy-authorities)
 - [Under Authority](#under-authority)
 - [Significance](#significance)
@@ -14,7 +15,18 @@ permalink: /wiki/authority/
 
 ## Background
 
-**Authority** is the expression of God as the supreme ruler. This is the basis by which the gospel is preached (Matt. 28:19). 
+**Authority** is the expression of God as the supreme ruler. This is the basis by which the gospel is preached (Matt. 28:19).
+
+## Purpose
+
+The authority of God primarily has two purposes:
+
+1. To serve the saints, shepherd them, and build them up (2 Cor. 10)
+2. To deal with the enemy and the things related to him (Gen. 1:26, 28)
+
+On the positive side, authority is not meant to control people. Paul makes clear in 2 Corinthians 10 that His apostleship that is his authority was not for destruction but for building up. The elders and leadings one sin the churches have a certain authority to represent God but not for destruction and controlling but for shepherding the saints.
+
+On the negative side, when God created man in Genesis he gave them authority; that is, a certain dominion to rule for Him and to defeat and subdue the enemy. However, man fell and as a result, rebellion entered and man lost his original authority over creation. After His resurrection, the Lord Jesus was given all authority over heaven and earth which is given to His disciples (Matt. 28:18-19).
 
 ## Deputy Authorities
 
