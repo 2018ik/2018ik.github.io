@@ -8,7 +8,7 @@ permalink: /wiki/christ_designation/
 
 ## Background
 
-Christ was **designated** the Son of God in power according to the Spirit of Holiness out of the resurrection of the dead (Rom. 1:4). Prior to this designation, Christ was born to be the Son of Man, possessing both human and divine natures, however His human nature had yet to be elevated into divinity. From eternity, Christ was the only-begotten Son of God becoming divinity. Through incarnation, He acquired another element called humanity in His human flesh. In His flesh, He was not the Son of God because it lacked the divine nature. 
+Christ was **designated** the Son of God in power according to the Spirit of Holiness out of the resurrection of the dead (Rom. 1:4). From eternity, Christ was the only-begotten Son of God becoming divinity. Through incarnation, He acquired another element called humanity in His human flesh. However, this human nature had yet to be elevated into divinity. In His flesh, He was not the Son of God because it lacked the divine nature. 
 
 In 1 Peter 3:18, on the one hand He was put to death in the flesh, but made alive in the Spirit. In the eyes of God, the death and resurrection of Christ took place simultaneously, just like how the shell of a grain of wheat breaks and the life-germ is made alive simultaneously. From the time the Lord Jesus expired, the Spirit of Holiness in His Spirit was enlivened with new power to pervade the human flesh of the crucified Jesus, and eventually on the third day when the Lord resurrected from the dead, the human flesh of Jesus was fully permeated with the Spirit. Now, a human being as become God, opening the way for many sons of man to become sons of God.
 
