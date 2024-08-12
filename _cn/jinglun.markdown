@@ -13,6 +13,6 @@ Although **经纶** itself does not translate to the English word "economy" (tha
 
 ## Example Usage
 
-为了时期满足时的经纶……（弗一10）
+为了时期满足时的**经纶**……（弗一10）
 
-Translation: Unto the economy of the fullness of the times...
+Unto the economy of the fullness of the times

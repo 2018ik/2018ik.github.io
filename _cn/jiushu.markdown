@@ -13,6 +13,6 @@ permalink: /cn/jiushu/
 
 ## Example Usage
 
-基督的救赎是称义的基础。
+基督的**救赎**是称义的基础。
 
-Translation: The redemption of Christ is the foundation of justification.
+The redemption of Christ is the foundation of justification.

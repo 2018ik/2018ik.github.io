@@ -13,7 +13,7 @@ permalink: /cn/putaoshu/
 
 ## Example Usage
 
->我是真葡萄树，我辐射栽培的人（约十五1）。
+我是**真葡萄**树，我辐射栽培的人。（约十五1）
 
-Tranlation: I am the true vine, and My Father is the husbandman.
+I am the true vine, and My Father is the husbandman.
 
