@@ -1,0 +1,39 @@
+---
+layout: basev2
+---
+<head>
+  <style>
+    /* Style the results container */
+    #results-container {
+      display: flex;
+      flex-wrap: wrap;
+      max-height: 400px; /* Adjust the max height as needed */
+      overflow-y: auto; /* Add a scrollbar when content overflows */
+    }
+
+    /* Style individual result items */
+    .results-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+      flex-basis: calc(33.33% - 10px); /* Adjust spacing as needed */
+      max-width: calc(33.33% - 10px); /* Adjust spacing as needed */
+      margin: 5px; /* Adjust spacing as needed */
+      border: 1px solid #ccc; /* Add a border for clarity */
+      padding: 10px;
+    }
+  </style>
+</head>
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- include toc_cn.html -%}
+
+</div>

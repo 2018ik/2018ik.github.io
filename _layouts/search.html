@@ -68,10 +68,18 @@ layout: basev2
   
   <!-- Configuration -->
   <script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
-    limit: 20
-  })
+  document.addEventListener("DOMContentLoaded", function() {
+    let currentUrl = window.location.href;
+    let domainEndIndex = currentUrl.indexOf('//') + 2;
+    let firstSlashIndex = currentUrl.indexOf('/', domainEndIndex);
+    let secondSlashIndex = currentUrl.indexOf('/', firstSlashIndex + 1);
+    let subdirectory = currentUrl.substring(firstSlashIndex + 1, secondSlashIndex);
+    let jsonPath = `/search_${subdirectory}.json`;
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: jsonPath,
+      limit: 20
+    });
+  });
   </script>

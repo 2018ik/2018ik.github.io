@@ -75,6 +75,12 @@
         var linkStudy = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkStudyMaterial);
         linkStudy.position.set(1, 0.5, 0.251);
         wall.add(linkStudy);
+        
+        var linkChineseTexture = loader.load('img/zhongwen.jpg');
+        var linkChineseMaterial = new THREE.MeshBasicMaterial({ map: linkChineseTexture });
+        var linkChinese = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkChineseMaterial);
+        linkChinese.position.set(0, -0.5, 0.251);
+        wall.add(linkChinese);
 
         var linkLibraryTexture = loader.load('img/library.png');
         var linkLibraryMaterial = new THREE.MeshBasicMaterial({ map: linkLibraryTexture });
@@ -142,7 +148,7 @@
 
             raycaster.setFromCamera(mouse, camera);
 
-            var intersects = raycaster.intersectObjects([linkGoogle, linkStudy, linkLibrary]);
+            var intersects = raycaster.intersectObjects([linkGoogle, linkStudy, linkChinese, linkLibrary]);
 
             if (intersects.length > 0) {
                 var intersectedObject = intersects[0].object;
@@ -150,6 +156,8 @@
                     window.open('https://www.google.com', '_blank');
                 } else if (intersectedObject === linkStudy) {
                     window.open(document.URL + 'studytools', '_blank');
+                } else if (intersectedObject === linkChinese) {
+                    window.open(document.URL + 'cn', '_blank');
                 } else if (intersectedObject === linkLibrary) {
                     window.open(document.URL + 'wiki', '_blank');
                 }

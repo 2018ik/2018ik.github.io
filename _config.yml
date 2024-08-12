@@ -28,6 +28,7 @@ plugins:
 include:
  - _wiki
  - _studytools
+ - _cn
 sass:
   sass_dir: _sass
 # Exclude from processing.

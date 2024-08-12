@@ -1,0 +1,44 @@
+#!/bin/bash
+
+if [ "$(uname -s)" == "Linux" ]; then
+    BASH_EXECUTABLE="/bin/bash"
+else
+    BASH_EXECUTABLE="/bin/bash.exe"
+fi
+
+if [ "$#" -eq 0 ]; then
+  echo "Usage: $0 <name1> <name2> <name3> ..."
+  exit 1
+fi
+
+script_dir="$($BASH_EXECUTABLE -c 'echo $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )')"
+
+for name in "$@"; do
+  permalink=$(echo "$name" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
+
+  filename="$script_dir/_cn/${permalink}.markdown"
+
+  if [ -e "$filename" ]; then
+    echo "File '$filename' already exists."
+  else
+    file_content="---
+layout: pagev2
+title: TODO
+subtitle: TODO
+permalink: /cn/$permalink/
+---
+- [Background](#background)
+- [Example Usage](#example-usage)
+
+## Background
+
+## Example Usage"
+
+    if [ "$(uname -s)" != "Linux" ]; then
+      file_content=$(echo -e "$file_content" | dos2unix)
+    fi
+
+    echo -e "$file_content" > "$filename"
+    echo "Wiki page '$permalink' created successfully."
+  fi
+done

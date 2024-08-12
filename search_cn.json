@@ -2,7 +2,7 @@
 layout: none
 ---
 [   
-  {% assign wikipages = site.pages | where_exp: "item" , "item.path contains '_wiki'"%}
+  {% assign wikipages = site.pages | where_exp: "item" , "item.path contains '_cn/'"%}
   {% for page in wikipages %}
     {
       "title"    : "{{ page.title | escape }}",
