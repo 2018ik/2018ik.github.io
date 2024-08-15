@@ -9,7 +9,7 @@ permalink: /cn/jiushu/
 
 ## Background
 
-**救赎** means redemption or to redeem. In the Biblical context, 救赎 specifically refers to judicial redemption.
+**救赎** means redemption or to redeem. According to the biblical revelation, 救赎 specifically refers to judicial redemption.
 
 ## Example Usage
 
