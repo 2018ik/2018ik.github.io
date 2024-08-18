@@ -4,7 +4,6 @@ title: Revelation
 permalink: /wiki/revelation/
 ---
 - [Background](#background)
-- [Significance](#significance)
 - [Etymology](#etymology)
 - [Examples in the Bible](#examples-in-the-bible)
   - [Peter](#peter)
@@ -17,17 +16,13 @@ permalink: /wiki/revelation/
 
 ## Background
 
-**Revelation** is God shining on the facts of the Bible. There is a veil over the facts of the Bible, revelation lifts up this curtain so that we can see what is behind it. For the Lord's recovery, facts and knowledge are not good enough. We need a spirit of wisdom and revelation. In other words, revelation is the spiritual or intrinsic significance of the facts of the Bible.
+**Revelation** is God shining on the facts of the Bible. There is a veil over the facts of the Bible, and revelation lifts up this curtain so that we can see what is behind it. This is not purely an intellectual understanding in the mind; receiving revelation requires the operation of the Holy Spirit. In other words, revelation is to receive God's speaking by the spirit so that the unseen, hidden things of God become appreciably real to the receiver. For example, no amount of scientific study or analysis can determine the meaning of the universe or why humans exist. These questions are only answered by the divine revelation of the Bible.
 
-The Bible really has two parts: a box, and a diamond in it. A tragedy of immense proportion is that a great majority of believers treasure the box and pay attention to the box without loving and holding in high esteem the treasure in the box. The diamond in the box is nothing less than the high peak of the divine revelation concerning God's eternal economy: God becoming man to make man God in life and nature but not in the Godhead, for the building up of the Body of Christ which consummates the New Jerusalem. 
-
-## Significance
-
-Receiving revelation requires the operation of the Holy Spirit.
+The Bible really has two parts: a box, and a diamond in it. A tragedy of immense proportion is that a great majority of believers treasure the box and pay attention to the box without loving nor holding in high-esteem the treasure in the box. The diamond in the box is nothing less than the high peak of the divine revelation concerning God's eternal economy: God becoming man to make man God in life and nature but not in the Godhead, for the building up of the Body of Christ which consummates the New Jerusalem.
 
 ## Etymology
 
-The word revelation in Greek is apokalupsis. Apo is to open, and kalupsis is a veil. Therefore, revelation simply means the removal of a veil. 
+The word revelation in Greek is *apokalupsis*. *Apo* is to open, and *kalupsis* is a veil. Therefore, revelation simply means the removal of a veil. 
 
 ## Examples in the Bible
 

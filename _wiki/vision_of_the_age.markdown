@@ -28,7 +28,7 @@ permalink: /wiki/vision_of_the_age/
 
 ## Background
 
-In every age there is the **vision of that age**, and believers must serve God according to this vision, to accomplish the things He wants to get done in that age. This vision refers to the overall vision and direction in that particular time. As God's work progresses through time, each vision inherits from the prior vision, consummating in the all-inheriting vision of the New Jerusalem. To serve God requires not only exercising oneself unto godliness, but also to see and follow the vision of the age (Acts 26:19).
+In every age there is the **vision of that age**, and believers must serve God according to this vision to accomplish the things He wants to get done in that age. As God's work progresses through time, each vision inherits from the prior vision, consummating in the all-inheriting vision of the New Jerusalem. To serve God requires not only to know, love and even to experience and enjoy God, but to see and follow the vision of the age (Acts 26:19).
 
 The Bible reveals that in every age He gives only one vision to man, and that God is not democratic in whom He chooses to receive divine revelation (Acts 26:19, Eph 1:17). In the Old Testament the vision flowed from Adam through Abel, Enosh, Enoch, Noah, Abraham, Jacob, Joseph, Moses, Joshua, Samuel, David, and the prophets. In the gospels, there was John the Baptist, then Jesus. In the beginning of the book of Acts, Peter was the only one who spoke for God. By Acts 13, God raised up Paul who saw the Body of Christ. Lastly, in Revelation, John saw the vision of the New Jerusalem. 
  
