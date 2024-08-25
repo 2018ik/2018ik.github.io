@@ -144,6 +144,17 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     window.onload = function() {
+        // Set placeholder text with line breaks
+        document.getElementById('settingsInput').placeholder = 
+            "I. This is an example sentence\n" +
+            "A. This is another example sentence\n" +
+            "B. This is yet another example sentence\n" +
+            "II. This is once again another example sentence\n" +
+            "A. This is yet again another example sentence\n" +
+            "B. This\n" +
+            "C. Another one\n" +
+            "D. Thanks\n" +
+            "III. Example";
         loadSentences();
         document.addEventListener('keydown', function(event) {
             if (event.code === 'Space') {
@@ -171,7 +182,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // Close the modal when clicking outside of it
     window.onclick = function(event) {
         var modal = document.getElementById("settingsModal");
-        if (event.target == modal) {
+        var modal_close = document.getElementById("modal-close");
+        if (event.target == modal || event.target == modal_close) {
             modal.style.display = "";
             loadSentences();
         }
