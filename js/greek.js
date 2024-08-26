@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", function() {
     submitButton.addEventListener('click', checkWord);
 
     document.addEventListener('keydown', function(event) {
-        if (event.code === 'Space' || event.code === 'Enter') {
+        if ((event.code === 'Space' || event.code === 'Enter') && document.activeElement !== submitButton) {
             checkWord();
         }
     });
@@ -174,8 +174,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function displayVerse() {
     let validVerses = [];
-    let grammar = document.querySelector('#grammarSelector').value;
-    console.log(grammar);
+    let grammar = document.querySelector('#grammarSelector').value
     if (grammar === "all") {
         validVerses = [...new Set([...eph1VersesWithParticiples, ...eph1VersesWithNouns])];
     } else if (grammar === "participle") {
@@ -183,7 +182,6 @@ function displayVerse() {
     } else {
         validVerses = eph1VersesWithNouns;
     }
-    console.log(validVerses);
     const randomIndex = Math.floor(Math.random() * validVerses.length);
     let line = eph1[validVerses[randomIndex]-1];
     let verseParts = line.split(" [");
@@ -238,6 +236,7 @@ function findNouns(words) {
 }
 
 function checkWord() {
+    console.log("check word called")
     if (submitButton.innerText === "Continue") {
         displayVerse();
         errorText.style.display = "none";
