@@ -1,5 +1,5 @@
 ---
-layout: verses
-title: Verse Memorizer
-permalink: /studytools/verses/
+layout: greek
+title: Greek
+permalink: /studytools/greek/
 ---
