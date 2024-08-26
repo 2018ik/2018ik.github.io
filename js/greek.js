@@ -178,7 +178,7 @@ function displayVerse() {
     console.log(grammar);
     if (grammar === "all") {
         validVerses = [...new Set([...eph1VersesWithParticiples, ...eph1VersesWithNouns])];
-    } else if (grammar == "participle") {
+    } else if (grammar === "participle") {
         validVerses = eph1VersesWithParticiples;
     } else {
         validVerses = eph1VersesWithNouns;
@@ -249,11 +249,11 @@ function checkWord() {
     // Verb: V- -PPPGSN-
     let parsing = wordMap[currentWord.toLowerCase()].split(" ");
     let wrong = false;
-    let correctAnswer = "";
+    let correctAnswer = [];
 
     part1 = parsing[0]
     let partOfSpeech = partOfSpeechMap[part1];
-    correctAnswer += partOfSpeech;
+    correctAnswer.push(partOfSpeech);
     if (partOfSpeechSelector.value !== partOfSpeech) {
         wrong = true;
     }
@@ -263,7 +263,7 @@ function checkWord() {
     // part2[0]
     if (part2[1] != "-") {
         let tense = tenseMap[part2[1]];
-        correctAnswer += " " + tense;
+        correctAnswer.push(tense);
         if (tenseSelector.value !== tense) {
             wrong = true;
         }
@@ -271,7 +271,7 @@ function checkWord() {
 
     if (part2[2] != "-") {
         let voice = voiceMap[part2[2]];
-        correctAnswer += " " + voice;
+        correctAnswer.push(voice);
         if (voiceSelector.value !== voice) {
             wrong = true;
         }
@@ -279,7 +279,7 @@ function checkWord() {
     // Check mood
     if (part2[3] != "-") {
         let mood = moodMap[part2[3]];
-        correctAnswer += " " + mood;
+        correctAnswer.push(mood);
         if (moodSelector.value !== mood) {
             wrong = true;
         }
@@ -287,28 +287,32 @@ function checkWord() {
     // Check case
     if (part2[4] != "-") {
         let caseq = caseMap[part2[4]];
-        correctAnswer += " " + caseq;
+        correctAnswer.push(caseq);
         if (caseSelector.value !== caseq) {
             wrong = true;
         }
     }
     if (part2[5] != "-") {
         let number = numberMap[part2[5]];
-        correctAnswer += " " + number;
+        correctAnswer.push(number);
         if (numberSelector.value !== number) {
             wrong = true;
         }
     }
     if (part2[6] != "-") {
         let gender = genderMap[part2[6]];
-        correctAnswer += " " + gender;
+        correctAnswer.push(gender);
         if (genderSelector.value !== gender) {
             wrong = true;
         }
     }
 
     if (wrong) {
-        errorText.innerText = "Wrong! Correct answer: " + correctAnswer;
+        if (grammarSelector.value === 'participle') {
+            errorText.innerText = "Wrong! Correct answer: " + [...correctAnswer.slice(1,3),...correctAnswer.slice(4,7)].join(", ");
+        } else {
+            errorText.innerText = "Wrong! Correct answer: " + correctAnswer.join(", ");
+        }
         errorText.style.display = "";
         rewardText.style.display = "none";
     } else {
