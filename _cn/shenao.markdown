@@ -1,13 +1,9 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 深奥
 subtitle: Profound
 permalink: /cn/shenao/
 ---
-- [Background](#background)
-- [Example Usage](#example-usage)
-
-## Background
 
 **深奥** (shēn'ào) means profound, and is a composite word in Chinese, consisting of two characters:
 
@@ -16,8 +12,3 @@ permalink: /cn/shenao/
 
 When combined as 深奥 (shēn'ào), the word means "profound," "deep," or "abstruse." It describes something that is complex, difficult to understand, or intellectually challenging, often requiring significant thought or study to comprehend fully.
 
-## Example Usage
-
-马可福音不像约翰福音那样**深奥**，也不像马太福音包含那么多的教训。
-
-The Gospel of Mark is not as profound as the Gospel of John, and it does not contain as many teachings as are found in the Gospel of Matthew. 

@@ -1,12 +1,9 @@
 ---
-layout: pagev2
-title: TODO
-subtitle: TODO
+layout: chinese_page
+title: 相调
+subtitle: Blending
 permalink: /cn/xiangtiao/
 ---
-- [Background](#background)
-- [Example Usage](#example-usage)
 
-## Background
+TODO
 
-## Example Usage

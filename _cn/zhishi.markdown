@@ -1,13 +1,9 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 职事
 subtitle: Ministry
 permalink: /cn/zhishi/
 ---
-- [Background](#background)
-- [Example Usage](#example-usage)
-
-## Background
 
 The term **职事** (zhí shì) means ministry and is composed of two characters:
 
@@ -16,8 +12,3 @@ The term **职事** (zhí shì) means ministry and is composed of two characters
 
 When combined, 职事 generally refers to a "ministry" or "service" within a formal context, especially in religious, governmental, or organizational settings. It implies a role or duty performed as part of a service to others or to an institution. The term can be associated with responsibilities or functions that are carried out as part of one's official role, often in a context where service to others is a key component.
 
-## Example Usage
-
-马可福音主要的是记载主在加利利的**职事**。
-
-The Gospel of Mark is mainly a record of the Lord’s ministry in Galilee.

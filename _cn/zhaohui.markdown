@@ -1,12 +1,9 @@
 ---
-layout: pagev2
-title: TODO
-subtitle: TODO
+layout: chinese_page
+title: 召会
+subtitle: Church
 permalink: /cn/zhaohui/
 ---
-- [Background](#background)
-- [Example Usage](#example-usage)
 
-## Background
+TODO
 
-## Example Usage

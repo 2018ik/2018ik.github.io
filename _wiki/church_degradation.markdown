@@ -16,7 +16,7 @@ permalink: /wiki/church_degradation/
 
 ## Background
 
-The **degradation** of the early church seeped in quickly due to the traditions of men, and the nature of man to do what is right in their own eyes. Unlike disparate failures, the degradation of the church cuts off the life source of the church. When the church cares so much about other things, such as non-biblical philosophies and rituals, they lose their appreciation and gaining of Christ, thus cutting off the source of life and becoming degraded. The reason why all of Paul's epistles were written were not only to edify the believers, but to admonish them to counteract the degradation of the church. 
+The **degradation** of the early church seeped in quickly due to the traditions of men, and the nature of man to do what is right in their own eyes.  Paul, Peter and John all wrote their epistles due to the degradation in the churches, particularly 2 Timothy, 2 Peter and the three Epistles of John. Unlike disparate failures, the degradation of the church cuts off the life source of the church. When the church cares so much about other things, such as non-biblical philosophies and rituals, they lose their appreciation and gaining of Christ, thus cutting off the source of life and becoming degraded. The reason why all of Paul's epistles were written were not only to edify the believers, but to admonish them to counteract the degradation of the church. 
 
 ## Causes
 

@@ -1,13 +1,9 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 犹太地
 subtitle: Judea
 permalink: /cn/youtaidi/
 ---
-- [Background](#background)
-- [Example Usage](#example-usage)
-
-## Background
 
 **犹太地** is Judea.
 
@@ -16,8 +12,3 @@ permalink: /cn/youtaidi/
 
 So, "犹太地" literally translates to "Jewish land" or Judea.
 
-## Example Usage
-
-约翰福音主要的是记载主在**犹太地**的行动，以及祂在那里所说深奥的话。
-
-The Gospel of John mainly records the Lord's move in Judea and the profound words He spoke there.
