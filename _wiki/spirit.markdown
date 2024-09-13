@@ -16,9 +16,11 @@ permalink: /wiki/spirit/
   - [Spirit of Holiness](#spirit-of-holiness)
   - [Spirit of God](#spirit-of-god)
   - [Spirit of Jehovah](#spirit-of-jehovah)
+  - [Another Comforter](#another-comforter)
   - [Spirit of Christ](#spirit-of-christ)
   - [Spirit of Jesus](#spirit-of-jesus)
   - [Spirit of Jesus Christ](#spirit-of-jesus-christ)
+  - [Spirit of the Lord](#spirit-of-the-lord)
   - [Lord Spirit](#lord-spirit)
   - [Comforter](#comforter)
   - [Spirit of Reality](#spirit-of-reality)
@@ -33,7 +35,10 @@ permalink: /wiki/spirit/
   - [Eternal Spirit](#eternal-spirit)
   - [Spirit of Grace](#spirit-of-grace)
   - [Spirit of Glory](#spirit-of-glory)
+  - [Spirit of Glory and of God](#spirit-of-glory-and-of-god)
   - [Spirit of Sonship](#spirit-of-sonship)
+  - [Spirit of the Living God](#spirit-of-the-living-god)
+  - [Spirit of your Father](#spirit-of-your-father)
 
 ## Background
 
@@ -118,11 +123,15 @@ This is not actually a divine title of the Spirit. The King James version incorr
 
 ### Spirit of God
 
-This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding above the waters. This is also the Spirit of the creator, and was at that point located outside of man. This Spirit was "not yet" (John 7:39). However, this one is now in us as the Spirit of Christ.
+This is the Spirit of God from the beginning, mentioned in Genesis 1:2 brooding above the waters. This is also the Spirit of the creator, and was at that point located outside of man. This Spirit was at one point in time "not yet" consummated (John 7:39). However, this one is now in us as the Spirit of Christ, as Paul uses the two interchangeably in Romans 8:9.
 
 ### Spirit of Jehovah
 
 The Spirit of Jehovah in the Old Testament is Gods reaching and caring for His people (Judg. 3:10; 6:34). The title *Jehovah* means "He who is who He is" i.e. the eternal "I Am." God appearing to Moses as "I Am who I Am" is to indicate that if Moses had a need for anything, God would supply. He is everything and takes care of man's every need.
+
+### Another Comforter
+
+The Spirit is called "another Comforter" in John 14:16 (or "another advocate." The Greek is *paracletos* which literally means paraclete). The Lord Jesus is the first comforter, and the Spirit is "another" one who takes care of all of our needs.
 
 ### Spirit of Christ
 
@@ -138,9 +147,13 @@ The Spirit of Jesus is mentioned only in Acts 16:7 and is related to the Lord's 
 
 The Spirit of Jesus Christ in Philippians 1:19 refers to Christ both in His humanity and human living and in His divinity and resurrection. This is the all-inclusive compound life-giving Spirit. The Spirit of Jesus Christ bountifully supplies the believers to live Christ (Phil. 1:19). It is only by the operation of this Spirit that one can work out their full salvation (Phil. 2:12-16).
 
+### Spirit of the Lord
+
+The Spirit of the Lord seen in Luke 4:18, Acts 5:9, 8:39 and 2 Corinthians 3:17 is generally equivalent to the Spirit of Jehovah in the OT (translations which render YHWH as "Lord" will have "Spirit of the Lord" in the OT and NT). In the NT, "Lord" now refers to both the Father and the Son. Later in 2 Corinthians 3:18, we see that the Lord *is* the Spirit.
+
 ### Lord Spirit
 
-2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord, and that the very Lord in the heavens is in the human spirit as the pneumatic Christ. In order to behold the Lord as the Spirit, one needs an [unveiled face](../veil). Transformation is also carried out through the Lord Spirit, as the compound Spirit which can put one's being through Christ's death and resurrection.
+2 Corinthians 3:18 mentions the "Lord Spirit" or "Lord, the Spirit" or "Spirit, who is the Lord." This is a composite title like "Father God" or "Lord Christ" which simply means that the Spirit is Lord. Based on the prior verses, the Lord here is Christ (2 Cor. 3:14). This means that the very Lord in the heavens is in the human spirit as the pneumatic Christ. In order to behold the Lord as the Spirit, one needs an [unveiled face](../veil). Transformation is also carried out through the Lord Spirit, as the compound Spirit which can put one's being through Christ's death and resurrection.
 
 ### Comforter
 
@@ -148,7 +161,9 @@ John 14:16 names the Spirit as a Comforter/Helper/Advocate/Counselor/Paraclete t
 
 ### Spirit of Reality
 
-The Spirit of reality such as in John 14:17 shows that in the whole universe, only One is real, and reveals to man the things of God. Being in the Spirit is required for anything we experience to be real. For example, the Spirit is the reality of peace. In Ephesians 2:17, peace was announced as the gospel, but sometimes we are not at peace. The Spirit of reality guides us into real peace, which is God as peace. Furthermore, the Spirit is the reality of resurrection, and of Christ's all-inclusive death. To experience Christ as death and resurrection, as the wheat and barley, we need to Spirit of reality.
+The Spirit of reality such as in John 14:17 and 16:13 is for the things of God to be made real to man. For example, the reality of the divine incorporation is only known through the Spirit of reality (John 14:20).
+
+The Spirit must reach us for anything we experience to be real. For example, the Spirit is the reality of peace. In Ephesians 2:17, peace was announced as the gospel, but sometimes we are not at peace. The Spirit of reality guides us into real peace, which is God as peace. Furthermore, the Spirit is the reality of resurrection, and of Christ's all-inclusive death. To experience Christ as death and resurrection, as the wheat and barley, we need to Spirit of reality.
 
 This Spirit can be seen working through the apostles to reveal to them truths necessary for the building up of the church. For example, the gospel of John was written around A.D. 90, after the consummation of the Spirit of reality. During the time of the gospels, the disciples did not understand many of the things that Jesus said to them. Now in retrospect, John adds commentary which states that though they did not understand what Jesus spoke at the time, they did now (John 2:20-22; 12:15-16).
 
@@ -172,6 +187,12 @@ This can be illustrated by the [hin of olive oil and the four spices in Exodus 3
 
 ### The Spirit
 
+The Spirit is the totality of all the titles of the Spirit. This can be called the all-inclusive Spirit. The NT uses this title when referring to the Spirit in a general way (Mark 1:10; Matt 4:1; John 3:5; Acts 6:3; Rom. 8:16). Three commonly cited verses that use *the Spirit* which span God's NT economy are:
+
+1. The Spirit that was not yet (John 7:39)
+2. The Spirit that was promised (Gal. 3:14)
+3. The Spirit and the bride (Rev. 22:17)
+
 ### Transforming Spirit 
 
 In 2 Corinthians there is a transforming Spirit (2 Cor. 3:18) which when attached has many functions: anointing (2 Cor. 1:21), pledging (2 Cor. 1:22), sealing (2 Cor. 1:23), inscribing (2 Cor. 3:3).
@@ -186,12 +207,25 @@ Christ was offered through the eternal Spirit (Heb. 9:14), which is not bound by
 
 ### Spirit of Grace
 
-The Spirit is of grace (Heb. 10:29) which is God dispensed into man to be his enjoyment. As partakers of the Holy Spirit (Heb. 6:4), man receives grace through the Spirit of grace.
+The Spirit is of grace (Heb. 10:29) which is God dispensed into man to be his enjoyment. As partakers of the Holy Spirit (Heb. 6:4), man receives grace through the Spirit of grace. The Spirit of grace is also prophesied by Zechariah (Zech. 12:10).
 
 ### Spirit of Glory
 
-1 Peter 4:13-14 mentions the Spirit of glory and of God which rests upon suffering believers. This is the Spirit which operated on Stephen which caused his face to be like that of an angel (Acts 6:15).
+1 Peter 4:13-14 mentions the Spirit of glory and of God which rests upon suffering believers. This is the Spirit which operated on Stephen which caused his face to be like that of an angel (Acts 6:15). It is the Lord as the Spirit of glory who transforms believers from glory to glory (2 Cor. 3:18).
+
+### Spirit of Glory and of God
+
+The Spirit of glory and of God is mentioned in 1 Peter 4:14 and indicates that the Spirit of glory is the Spirit of God (i.e. that God is glory), and also that the object of glorification in this context is God. Peter is writing concerning the believer's reproach by society and persecution. This dual-title simply means that the Spirit of glory rests upon us for the purpose of glorifying God.
+
 
 ### Spirit of Sonship
 
-The Spirit of His Son in Galatians 4:6 or the Spirit of Sonship in Romans 8:15 is not separate from the Son but another form of the Son who is sent into our hearts. The One who was crucified on the cross was Christ, but the One who enters into the believers is the Spirit. He came as the Son under the law to qualify all of us for sonship and to share in His sonship. To be redeemed is to be qualified for sonship, to receive the Spirit of the Son is for this sonship to be made real to us in our experience. When we see that we are actually sons of God we can cry out "Abba, Father!"
+The Spirit of Sonship (Rom. 8:15), commonly called the Spirit of "adoption" in a somewhat misleading translation of the Greek word *huiothesia* is the Spirit which makes us God's many sons for the fulfillment of His eternal purpose. It is also called the Spirit of His Son in Galatians 4:6. The Spirit of Sonship is not separate from the Son but another form of the Son who is sent into our hearts. The One who was crucified on the cross was Christ, but the One who enters into the believers is the Spirit. He came as the Son under the law to qualify all of us for sonship and to share in His sonship. To be redeemed is to be qualified for sonship, to receive the Spirit of the Son is for this sonship to be made real to us in our experience. When we see that we are actually sons of God we can cry out "Abba, Father!"
+
+### Spirit of the Living God
+
+This title is used once in 2 Corinthians 3:3 and the context is being inscribed as a letter with spiritual ink. God proves that He is living when He inscribes us, that is to anoint us with Himself, that is to dispense himself into us as life. When we are inscribed, we become a living testimony of Christ which expresses who He is.
+
+### Spirit of your Father
+
+The Lord says that the "Spirit of your Father is the One speaking in you" in Matthew 10:20. The context here is to not be anxious regarding opposition and persecution. As a father cares for his son, the Father's Spirit cares for us in dealing with opposers.

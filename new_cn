@@ -27,12 +27,7 @@ title: TODO
 subtitle: TODO
 permalink: /cn/$permalink/
 ---
-- [Background](#background)
-- [Example Usage](#example-usage)
-
-## Background
-
-## Example Usage"
+"
 
     if [ "$(uname -s)" != "Linux" ]; then
       file_content=$(echo -e "$file_content" | dos2unix)

@@ -48,7 +48,24 @@ const sentences = [
     ["马可福音主要的是记载主在加利利的职事。", "The Gospel of Mark is mainly a record of the Lord’s ministry in Galilee."],
     ["简单的说，基督身体的实际，就是神所救赎的一班人，和神人基督一同过神人的生活。", "Simply put, the reality of the Body of Christ is God's redeemed people and the God-man Jesus living a corporate God-man life."],
     ["变化的目的，就是叫人成为神，直到把人模成祂的形像，和祂完全一样。", "The purpose of transformation is to make man God until man is conformed to the image of God and is exactly like God."],
-    ["我们今天在主的恢复里要向所有的人见证，基督的丰富真是追测不尽，为着我们的享受，他实在是包罗万有。", "Today, in the Lord's recovery, we must testify to everyone that the riches of Christ are truly unsearchable and that He is indeed all-inclusive for our enjoyment."] 
+    ["我们今天在主的恢复里要向所有的人见证，基督的丰富真是追测不尽，为着我们的享受，他实在是包罗万有。", "Today, in the Lord's recovery, we must testify to everyone that the riches of Christ are truly unsearchable and that He is indeed all-inclusive for our enjoyment."],
+    ["实行新路以建造基督生机的身体", "Practicing the new way to build up the organic Body of Christ."]
+    ["可是这些说到羔羊是配的诗歌，大都是因着基督的救赎赞美羔羊是配。", "However these hymns which speak about the lamb's worthiness, most praise Christ for being worthy because of His redemption."]
+    ["说羔羊因救赎了我们，买了我们，所以是配，是完全合乎圣经的。", "To say that the lamb redeemed us, purchased us, and is thus worthy is completely scriptural."],
+    ["这七眼也就是在神宝座前点着的七盏火灯", "These seven eyes are also the seven lamps burning before the throne of God."],
+    ["这恩典赐给了我这比众圣徒中最小者还小的，叫我将基督那追测不尽的丰富，当作福音传给外邦人。（弗三8）", "To me, less than the least of all saints, was this grace given to announce to the Gentiles the unsearchable riches of Christ as the gospel."],
+    ["神命定之路的生活乃是神人生活。", "The living of the God-ordained way is the God-man living."],
+    ["天主教、新教各宗派、弟兄会、灵恩派、和所有的自由团体，都因着他们不完全且不合乎圣经的神学而受阻，看不见神中心的启示", "The Catholic Church, the Protestant denominations, the Brethren assemblies, the Pentecostal churches, and all the free groups are held back by their imperfect and unscriptural theology from the central revelation of God."],
+    ["今天主的恢复， 就是恢复这些关于神永远的经纶行动中，有关神的灵紧要的点。", "The Lord's recovery today is the recovery of these crucial points concerning God's Spirit in the move of God's eternal economy."],
+    ["在新约中有四处主要的经文，两处在福音书，两处在书信，启示活基督这件事。", "In the New Testament there are four verses which reveal the matter of living Christ, two in the Gospels and two in the Epistles."],
+    ["活的父怎样差我来，我又因父活着，照样，那吃我的人，也要因我活着。（约六57）", ""],
+    ["这是新约头一处直接摸着活基督这件事的经文。", "This is the first verse in the New Testament that directly touches on the matter of the living Christ.s"],
+    ["我们是从神一类，因为我们是照着神被造的，有神的形像和样式。", "We are according to God's kind because we were made according to God, having God's image and God's likeness."],
+    ["神的形像是指神圣的属性。", "God's image refers to the divine attributes."],
+    ["神是纯良的，我们被造也是纯良的，虽然今天我们已经堕落了。", "God is pure, and we were made pure, even though today we ar fallen."],
+    ["神是在光中，我们也渴慕在光中，不喜欢在黑暗里。", "God is in the light, and we desire to be in the light; we do not like to be in darkness."],
+    ["我们所有的属性和神的属性是一样的，性质却不相同。", "Our attributes and God's attributes are the same, but the nature is different."]
+    
 ];
 
 

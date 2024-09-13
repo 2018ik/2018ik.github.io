@@ -12,6 +12,8 @@ permalink: /wiki/seven_spirits/
   - [Burning Lamps](#burning-lamps)
   - [Searching Eyes](#searching-eyes)
   - [Speaking](#speaking)
+- [Testimonies](#testimonies)
+  - [Testimony #1](#testimony-1)
 
 ## Background
 
@@ -56,3 +58,11 @@ As the seven eyes of the lamb, the seven Spirits infuse all that God is to the b
 ### Speaking 
 
 The Spirit speaks to all of the churches. At the beginning of each letter to the churches, it is the Lord Jesus speaking (Rev 2:1) but at the end it is the Spirit (Rev. 2:7). The pneumatic Christ as the consummated Spirit and the totality of the Triune God is speaking in both cases. As the Spirit does not speak to individual believers, its purpose is to build up the *churches* in the midst of their degradation. Spending time before the seven lamps and the seven eyes no doubt contributes to the building up of the Body, as the searching and burning will tear down the self, which is the biggest hindrance to the building.
+
+## Testimonies
+
+### Testimony #1
+
+The seven eyes of the Lamb are for God's building. This is not a sevenfold-intensified redemption. The seven eyes represent the sevenfold intensified Spirit which builds the New Jerusalem, God's consummate house. We see in Exodus that the lampstand with its seven lamps is for the enlightening of the tabernacle, God's initial building. In 1 Kings the same lampstand is in the temple. Then in Zechariah, the seven eyes on the engraved stone is for the rebuilding of the temple. Finally, there is a slain lamb standing with seven eyes, and seven Spirits in book of Revelation. This is a progressive revelation, revealing that the seven lamps and seven eyes are figurative portraits of the seven Spirits which is for God's building. 
+
+The seven Spirit's two primary functions is illustrated by the lamps and eyes. The burning lamps are for enlightening, searching, exposing, judging, and burning. Imagine a room full of dirty objects (i.e. your heart). We light up the room that we may see, then search, then expose, judge and burn away all that does not belong in the room. After the room is purified in this way, the seven eyes are for watching, observing, infusing, and transfusing. This adds God's element into us in place of what has been burnt away. In experience, the burning and transfusing takes place simultaneously as part of metabolic transformation.
