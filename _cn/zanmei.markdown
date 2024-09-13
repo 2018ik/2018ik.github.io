@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 赞美
 subtitle: Praise
 permalink: /cn/zanmei/

@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 神人
 subtitle: God-man
 permalink: /cn/shenren/

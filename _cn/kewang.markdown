@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 渴望
 subtitle: Desire
 permalink: /cn/kewang/

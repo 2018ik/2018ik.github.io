@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 自由团体
 subtitle: Free Groups
 permalink: /cn/ziyoutuanti/

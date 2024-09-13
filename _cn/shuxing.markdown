@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 属性
 subtitle: Attribute
 permalink: /cn/shuxing/

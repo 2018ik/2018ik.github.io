@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 性情
 subtitle: Nature (of person)
 permalink: /cn/xingqing/

@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 追测不尽
 subtitle: Unsearchable
 permalink: /cn/zhuicebujin/

@@ -22,7 +22,7 @@ for name in "$@"; do
     echo "File '$filename' already exists."
   else
     file_content="---
-layout: pagev2
+layout: chinese_page
 title: TODO
 subtitle: TODO
 permalink: /cn/$permalink/

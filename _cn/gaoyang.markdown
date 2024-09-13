@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 羔羊
 subtitle: Lamb
 permalink: /cn/gaoyang/

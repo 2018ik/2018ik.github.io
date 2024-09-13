@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 新教
 subtitle: Protestantism
 permalink: /cn/xinjiao/

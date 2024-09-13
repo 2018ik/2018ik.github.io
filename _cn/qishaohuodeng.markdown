@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 七盏火灯
 subtitle: Seven Lamps of Burning Fire
 permalink: /cn/qishaohuodeng/

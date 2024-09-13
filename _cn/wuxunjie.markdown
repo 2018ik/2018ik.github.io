@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 五旬节
 subtitle: Pentecost
 permalink: /cn/wuxunjie/

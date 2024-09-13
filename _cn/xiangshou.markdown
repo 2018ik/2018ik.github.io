@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 享受
 subtitle: Enjoy, enjoyment
 permalink: /cn/xiangshou/

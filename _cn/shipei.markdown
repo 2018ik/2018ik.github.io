@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 是配
 subtitle: Worthy
 permalink: /cn/shipei/

@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 实行
 subtitle: Practice
 permalink: /cn/shixing/

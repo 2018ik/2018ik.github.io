@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 渴慕
 subtitle: Desire, Longing, Thirst, Pursuit
 permalink: /cn/kemu/

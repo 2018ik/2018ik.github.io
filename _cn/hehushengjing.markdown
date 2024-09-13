@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 合乎圣经
 subtitle: Scriptural
 permalink: /cn/hehushengjing/

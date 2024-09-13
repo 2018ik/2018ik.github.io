@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 外邦人
 subtitle: Gentile
 permalink: /cn/waibangren/

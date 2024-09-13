@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 性质
 subtitle: Nature (generally of an object)
 permalink: /cn/xingzhi/

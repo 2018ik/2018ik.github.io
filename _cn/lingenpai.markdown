@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 灵恩派
 subtitle: Charismatic Christianity
 permalink: /cn/lingenpai/

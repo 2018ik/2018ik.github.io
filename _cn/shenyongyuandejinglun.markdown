@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 神永远的经纶
 subtitle: God's Eternal Economy
 permalink: /cn/shenyongyuandejinglun/

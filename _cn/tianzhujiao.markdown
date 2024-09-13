@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 天主教
 subtitle: Catholicism
 permalink: /cn/tianzhujiao/

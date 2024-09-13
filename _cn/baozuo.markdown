@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 宝座
 subtitle: Throne
 permalink: /cn/baozuo/

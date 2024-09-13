@@ -50,7 +50,7 @@ const sentences = [
     ["变化的目的，就是叫人成为神，直到把人模成祂的形像，和祂完全一样。", "The purpose of transformation is to make man God until man is conformed to the image of God and is exactly like God."],
     ["我们今天在主的恢复里要向所有的人见证，基督的丰富真是追测不尽，为着我们的享受，他实在是包罗万有。", "Today, in the Lord's recovery, we must testify to everyone that the riches of Christ are truly unsearchable and that He is indeed all-inclusive for our enjoyment."],
     ["实行新路以建造基督生机的身体", "Practicing the new way to build up the organic Body of Christ."]
-    ["可是这些说到羔羊是配的诗歌，大都是因着基督的救赎赞美羔羊是配。", "However these hymns which speak about the lamb's worthiness, most praise Christ for being worthy because of His redemption."]
+    ["可是这些说到羔羊是配的诗歌，大都是因着基督的救赎赞美羔羊是配。", "However these hymns which speak about the lamb's worthiness, most praise Christ for being worthy because of His redemption."],
     ["说羔羊因救赎了我们，买了我们，所以是配，是完全合乎圣经的。", "To say that the lamb redeemed us, purchased us, and is thus worthy is completely scriptural."],
     ["这七眼也就是在神宝座前点着的七盏火灯", "These seven eyes are also the seven lamps burning before the throne of God."],
     ["这恩典赐给了我这比众圣徒中最小者还小的，叫我将基督那追测不尽的丰富，当作福音传给外邦人。（弗三8）", "To me, less than the least of all saints, was this grace given to announce to the Gentiles the unsearchable riches of Christ as the gospel."],
@@ -65,7 +65,6 @@ const sentences = [
     ["神是纯良的，我们被造也是纯良的，虽然今天我们已经堕落了。", "God is pure, and we were made pure, even though today we ar fallen."],
     ["神是在光中，我们也渴慕在光中，不喜欢在黑暗里。", "God is in the light, and we desire to be in the light; we do not like to be in darkness."],
     ["我们所有的属性和神的属性是一样的，性质却不相同。", "Our attributes and God's attributes are the same, but the nature is different."]
-    
 ];
 
 

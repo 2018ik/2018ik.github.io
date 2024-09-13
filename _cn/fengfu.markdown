@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 丰富
 subtitle: Rich, riches
 permalink: /cn/fengfu/

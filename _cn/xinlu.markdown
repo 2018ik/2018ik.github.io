@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 新路
 subtitle: New Way
 permalink: /cn/xinlu/

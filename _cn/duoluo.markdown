@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 堕落
 subtitle: Fall, Fallen
 permalink: /cn/duoluo/

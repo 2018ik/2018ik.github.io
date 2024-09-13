@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 五旬节派
 subtitle: Pentecostalism
 permalink: /cn/wuxunjiepai/

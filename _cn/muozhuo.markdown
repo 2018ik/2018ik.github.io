@@ -1,5 +1,5 @@
 ---
-layout: pagev2
+layout: chinese_page
 title: 摸着
 subtitle: Touch
 permalink: /cn/muozhuo/
