@@ -14,7 +14,7 @@ permalink: /wiki/ftta/
 
 ## Background
 
-The **Full-time Training** is a Bible truth and church service training whose primary goal is to help its trainees know the truth throughout its two-year curriculum. To buy truth (Prov. 23:23) we must redeem the time, as well as our being. We "redeem" our being by opening our being, that is through consecration. 
+The **Full-time Training** is a Bible truth and church service training whose primary goal is to help its trainees know the truth throughout its two-year curriculum. This include eight items which the Bible primarily reveals: the processed and consummated Triune God, the all-inclusive Christ, the Spirit, the divine life, the church, the Body of Christ, the constitution of God with the believers, and the New Jerusalem. Furthermore, the training teaches concerning prophesying this truth as the gospel to all the earth.
 
 Today, God wants to dwell in our midsts, but there is a massive disparity being us and Him. We need to learn how to live with Him, how to match Him. This is also a training on how to spend time with the Lord. The study of the truth in the FTTA constitutes the trainees with a healthy deposit and an enlarged appetite for the truth that will result in a lifetime endeavor of studying the truth (2 Tim. 1:13-14)
 

@@ -11,13 +11,15 @@ permalink: /wiki/lampstand/
 
 ## Background
 
-The **lampstand** is a piece of golden furniture in the Holy Place of the tabernacle which had seven lamps, one proceeding from the middle and three branches on either side. The is a symbol of Triune God: gold element symbolizes the Father's divine substance, the shape and form of the lampstand symbolizes the Son as the embodiment, and the expression of the lampstand with its lamps is the Spirit. 
+The **lampstand** is a piece of golden furniture in the Holy Place of the tabernacle which had seven lamps, one proceeding from the middle and three branches on either side and is a symbol of Triune God and the church as the testimony of God. The gold element symbolizes the Father's divine substance, the shape and form of the lampstand symbolizes the Son as the embodiment, and the expression of the lampstand with its seven lamps is the sevenfold-intensified Spirit. 
 
 In the book of Revelation, there are seven lampstands referring to the seven local churches, indicating the God Himself has been reproduced in the churches.
 
 ## History
 
-The lampstand and its description is initially seen in Exodus 25 during the building of the tabernacle. It is seen again in the building of the temple in 1 Kings 7:49, followed by the third instance in the rebuilding of the temple in Zechariah 4:2-10. 
+The lampstand and its description is initially seen in Exodus 25 during the building of the tabernacle. The tabernacle had no windows or openings for light, so the only source of light was the lampstand. Natural light is for observing and know natural things, while the light from the lampstand is to know God's economy and administration. The position of the lampstand relative to the lid of the Ark (also called the "mercy seat") is parallel to the position of the seven Spirits before the throne of God.
+
+It is seen again in the building of the temple in 1 Kings 7:49, followed by the third instance in the rebuilding of the temple in Zechariah 4:2-10. 
 
 ## Material
 

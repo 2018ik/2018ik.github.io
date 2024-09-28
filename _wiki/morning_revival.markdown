@@ -17,7 +17,7 @@ permalink: /wiki/morning_revival/
   - [Jesus](#jesus)
 - [Other Patterns](#other-patterns)
   - [George Muller](#george-muller)
-  - [Andrey Murray](#andrey-murray)
+  - [Andrew Murray](#andrew-murray)
   - [All those who are of any use in God's hands](#all-those-who-are-of-any-use-in-gods-hands)
 - [How to Practice](#how-to-practice)
   - [Confession](#confession)
@@ -116,7 +116,7 @@ Each morning, we should confess every sin which the Lord shines on.
 
 ### In the Face
 
-We need personal, intimate, and direct contact with the Lord in order to see the Lord's face. The Lord is the one who shines in our hearts to illuminate the knowledge of the glory of God in the face of Jesus Christ (2 Cor. 4:6). The Lord is shining and ready all the time, we can come and turn our hearts to the Lord that all the veils may be taken away, that we can behold the face of Jesus Christ.
+We need personal, intimate, and direct contact with the Lord in order to see the Lord's face. The Lord is the one who shines in our hearts to illuminate the knowledge of the glory of God in the face of Jesus Christ (2 Cor. 4:6). The Lord is shining and ready all the time, we can come and turn our hearts to the Lord that all the veils may be taken away, that we can behold the face of Jesus Christ. In fact, turning one's heart to love the Lord comes before touching the spirit. 
 
 ### Rise up early and go to bed early
 
@@ -160,12 +160,12 @@ Rely on your companions to remind you each morning.
 
 ### Not Ritualistic
 
-We should fellowship with the Lord, even regarding our waking up early. This should not be something which we do solely out of our natural self. We need the Lord to open our ear in the morning; we need learn to take the Lord as our full supply.
+We should fellowship with the Lord, even regarding our waking up early. This should not be something which we do solely out of our natural self. We need the Lord to open our ear in the morning. The Lord may lead us to a particular verse, song, or bring up something to confess or petition concerning. 
 
 ### Prepare Yourself Practically
 
-Change out of pajamas, stand up, sit up straight, etc. Don't remain lying down. Remember that morning revival is a meeting with God.
+Change out of pajamas, stand up, sit up straight, etc. Don't remain lying down. Remember that morning revival is a meeting with God. One's attire and deportment is also a reflection of their inner being. 
 
 ### Enjoy the Word
 
-Exercising one's spirit to pray-read and to enjoy the Word is an easy way to get out of the mind and turn to God. It is difficult 
+Exercising one's spirit to pray-read and to enjoy the Word is an easy way to get out of the mind and turn to God. It is the word that the Lord speaks to use that is Spirit and life (John 6:63).

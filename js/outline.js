@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
         blankIndices = [];
         let sentence = sentences[currentSentenceIndex];
-        let words = sentence.split(' ');
+        let words = sentence.split(/[ —]+/);
         let blanksCount = Math.max(1, Math.floor(words.length / 4))
 
         iterations = 0;

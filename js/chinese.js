@@ -55,16 +55,21 @@ const sentences = [
     ["这七眼也就是在神宝座前点着的七盏火灯", "These seven eyes are also the seven lamps burning before the throne of God."],
     ["这恩典赐给了我这比众圣徒中最小者还小的，叫我将基督那追测不尽的丰富，当作福音传给外邦人。（弗三8）", "To me, less than the least of all saints, was this grace given to announce to the Gentiles the unsearchable riches of Christ as the gospel."],
     ["神命定之路的生活乃是神人生活。", "The living of the God-ordained way is the God-man living."],
-    ["天主教、新教各宗派、弟兄会、灵恩派、和所有的自由团体，都因着他们不完全且不合乎圣经的神学而受阻，看不见神中心的启示", "The Catholic Church, the Protestant denominations, the Brethren assemblies, the Pentecostal churches, and all the free groups are held back by their imperfect and unscriptural theology from the central revelation of God."],
     ["今天主的恢复， 就是恢复这些关于神永远的经纶行动中，有关神的灵紧要的点。", "The Lord's recovery today is the recovery of these crucial points concerning God's Spirit in the move of God's eternal economy."],
     ["在新约中有四处主要的经文，两处在福音书，两处在书信，启示活基督这件事。", "In the New Testament there are four verses which reveal the matter of living Christ, two in the Gospels and two in the Epistles."],
     ["活的父怎样差我来，我又因父活着，照样，那吃我的人，也要因我活着。（约六57）", ""],
     ["这是新约头一处直接摸着活基督这件事的经文。", "This is the first verse in the New Testament that directly touches on the matter of the living Christ.s"],
     ["我们是从神一类，因为我们是照着神被造的，有神的形像和样式。", "We are according to God's kind because we were made according to God, having God's image and God's likeness."],
     ["神的形像是指神圣的属性。", "God's image refers to the divine attributes."],
-    ["神是纯良的，我们被造也是纯良的，虽然今天我们已经堕落了。", "God is pure, and we were made pure, even though today we ar fallen."],
+    ["神是纯良的，我们被造也是纯良的，虽然今天我们已经堕落了。", "God is pure, and we were made pure, even though today we are fallen."],
     ["神是在光中，我们也渴慕在光中，不喜欢在黑暗里。", "God is in the light, and we desire to be in the light; we do not like to be in darkness."],
-    ["我们所有的属性和神的属性是一样的，性质却不相同。", "Our attributes and God's attributes are the same, but the nature is different."]
+    ["我们所有的属性和神的属性是一样的，性质却不相同。", "Our attributes and God's attributes are the same, but the nature is different."],
+    ["保罗在一章十八和十九节中祷告，愿我们知道神的呼召有何等盼望；祂在圣徒中之基业的荣耀，有何等丰富；以及祂的能力向着我们这信的人，是何等超越的浩大。", "In Ephesians chapter 1 verses 18 to 19 Paul prayed that we would know what is the hope of God’s calling, what are the riches of the glory of God’s inheritance in the saints, and what is the surpassing greatness of God’s power toward us who believe.."],
+    ["神能照着运行在我们里面的大能，极其充盈的成就一切，超过我们所求所想的。", "God, according to the operation of the power within us, is able to superabundantly accomplish all things, beyond what we can ask or think."],
+    ["我们的灵必须敞开，我们的良心必须清洁，我们的心必须纯洁，我们的心思必须清明，我们的情感必须有爱，我们的意志必须服从。", "Our spirit must be opened, our conscience must be clean, our heart must be purified, our mind must be sober, our emotion must be loving, and our will must be submissive."],
+    ["弟兄姊妹常说他们“下沉”；但是我们不“下沉”，我们是在诸天界里，远超过一切。", "Brothers and sisters often say they are down, but we are not down; we are in the heavenlies far above all."],
+    ["天主教、更正教各宗派、弟兄会、灵恩派、和所有的自由团体，都因着他们不完全且不合乎圣经的神学而受阻，看不见神中心的启示", "The Catholic Church, the Protestant denominations, the Brethren assemblies, the Pentecostal churches, and all the free groups are held back by their imperfect and unscriptural theology from the central revelation of God."],
+    ["我不使用“凭基督活着”这句话，因为这句话不能传达正确的思想。", "We don't use the phrase 'live by Christ', because this phrase does not convey the proper thought."]
 ];
 
 
