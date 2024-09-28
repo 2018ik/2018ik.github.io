@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let score = 0;
     let rounds = 0;
     let hardLimit = 50;
-    let bannedWords = ["-", "a", "an", "and", "are", "as", "at", "be", "being", "but", 
+    let bannedWords = ["—", "-", "a", "an", "and", "are", "as", "at", "be", "being", "but", 
     "by", "for", "from", "having", "have", "if", "in", "is", "it", "its", "of", "on", "or", "than", "that", 
     "the", "their", "them", "there", "this", "to", "we", "what", "with"];
 
@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
         var settingsText = document.getElementById("settingsInput").value;
         sentences = settingsText
             .split('\n')
-            .map(sentence => sentence.trim()) 
+            .map(sentence => sentence.trim().replace(/(\S)—(\S)/g, '$1 — $2')) // treat emdash as its own word
             .filter(sentence => sentence.length > 0);
         if (sentences.length == 0) {
             sentences = ["I. This is an example sentence",
@@ -48,10 +48,10 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         }
         blankIndices = [];
-        let sentence = sentences[currentSentenceIndex];
-        let words = sentence.split(/[ —]+/);
+        let sentence = sentences[currentSentenceIndex]
+        let words = sentence.split(/\s+/);
         let blanksCount = Math.max(1, Math.floor(words.length / 4))
-
+        console.log(words);
         iterations = 0;
         while (blankIndices.length < blanksCount) {
             if (iterations > hardLimit) {
