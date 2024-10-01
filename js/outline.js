@@ -8,8 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
     let rounds = 0;
     let hardLimit = 50;
     let bannedWords = ["—", "-", "a", "an", "and", "are", "as", "at", "be", "being", "but", 
-    "by", "for", "from", "having", "have", "if", "in", "is", "it", "its", "may", "of", "on", "or", "such", "than", "that", 
-    "the", "their", "them", "there", "this", "to", "was", "we", "were", "what", "who", "with"];
+    "by", "do", "for", "from", "having", "have", "if", "in", "is", "it", "its", "may", "of", "on", "or", "such", "than", "that", 
+    "the", "their", "them", "they", "there", "this", "to", "was", "we", "were", "what", "which", "who", "with"];
 
     function loadSentences() {
         var settingsText = document.getElementById("settingsInput").value;
