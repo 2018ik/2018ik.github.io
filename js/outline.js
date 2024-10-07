@@ -51,7 +51,6 @@ document.addEventListener("DOMContentLoaded", function() {
         let sentence = sentences[currentSentenceIndex]
         let words = sentence.split(/\s+/);
         let blanksCount = Math.max(1, Math.floor(words.length / 4))
-        console.log(words);
         iterations = 0;
         while (blankIndices.length < blanksCount) {
             if (iterations > hardLimit) {
@@ -59,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 break;
             }
             let index = words.length == 1 ? 0 : Math.floor(1 + Math.random() * (words.length - 1));
-            if (!blankIndices.includes(index) && !bannedWords.includes(words[index].toLowerCase())) {
+            if (!blankIndices.includes(index) && !bannedWords.includes(words[index].replace(/^[^a-zA-Z]+|[^a-zA-Z]+$/g, '').toLowerCase())) {
                 blankIndices.push(index);
             }
             iterations += 1;
@@ -67,9 +66,18 @@ document.addEventListener("DOMContentLoaded", function() {
         let maskedSentence = '';
         for (let i = 0; i < words.length; i++) {
             if (blankIndices.includes(i)) {
-                maskedSentence += '___';
-                if (!/^[a-zA-Z]+$/.test(words[i].charAt(words[i].length-1))) {
-                    maskedSentence += words[i].charAt(words[i].length-1);
+                let pointer = 0;
+                while (pointer < words[i].length && !/^[a-zA-Z']+$/.test(words[i].charAt(pointer))) { // Check for misc. chars like [("' that precede a word
+                    maskedSentence += words[i].charAt(pointer);
+                    pointer += 1;
+                }
+                while (pointer < words[i].length && /^[a-zA-Z']+$/.test(words[i].charAt(pointer))) { // Check for misc. chars like [("' that proceed a word
+                    maskedSentence += "_" 
+                    pointer += 1;
+                }
+                while (pointer < words[i].length && !/^[a-zA-Z']+$/.test(words[i].charAt(pointer))) { // Check for misc. chars like [("' that proceed a word
+                    maskedSentence += words[i].charAt(pointer);
+                    pointer += 1; 
                 }
                 maskedSentence += ' ';
             } else {

@@ -69,7 +69,11 @@ const sentences = [
     ["我们的灵必须敞开，我们的良心必须清洁，我们的心必须纯洁，我们的心思必须清明，我们的情感必须有爱，我们的意志必须服从。", "Our spirit must be opened, our conscience must be clean, our heart must be purified, our mind must be sober, our emotion must be loving, and our will must be submissive."],
     ["弟兄姊妹常说他们“下沉”；但是我们不“下沉”，我们是在诸天界里，远超过一切。", "Brothers and sisters often say they are down, but we are not down; we are in the heavenlies far above all."],
     ["天主教、更正教各宗派、弟兄会、灵恩派、和所有的自由团体，都因着他们不完全且不合乎圣经的神学而受阻，看不见神中心的启示", "The Catholic Church, the Protestant denominations, the Brethren assemblies, the Pentecostal churches, and all the free groups are held back by their imperfect and unscriptural theology from the central revelation of God."],
-    ["我不使用“凭基督活着”这句话，因为这句话不能传达正确的思想。", "We don't use the phrase 'live by Christ', because this phrase does not convey the proper thought."]
+    ["我不使用“凭基督活着”这句话，因为这句话不能传达正确的思想。", "We don't use the phrase 'live by Christ', because this phrase does not convey the proper thought."],
+    ["因为生命之灵的律，在基督耶穌里已经释放了我，使我脱离了罪与死的律。（罗八2）", "For the law of the Spirit of life has freed me in Christ Jesus from the law of sin and of death."],
+    ["在这句话里的三个名词，彼此是同位语。", "The three nouns nouns in this sentence are in apposition to one another."],
+    ["神生机救恩中加强之工作的秘诀", "The secret of the intensified work of God's salvation."],
+    ["基督徒常常说，基督的职事有两个部分或两个段落—祂地上的职事和祂天上的职事。", "Christians often say Christ's ministry has two parts or sections: His earthly ministry and His heavenly ministry."]
 ];
 
 
