@@ -153,13 +153,13 @@
             if (intersects.length > 0) {
                 var intersectedObject = intersects[0].object;
                 if (intersectedObject === linkGoogle) {
-                    window.open('https://www.google.com', '_blank');
+                    window.open('https://www.google.com', '_self');
                 } else if (intersectedObject === linkStudy) {
-                    window.open(document.URL + 'studytools', '_blank');
+                    window.open(document.URL + 'studytools', '_self');
                 } else if (intersectedObject === linkChinese) {
-                    window.open(document.URL + 'cn', '_blank');
+                    window.open(document.URL + 'cn', '_self');
                 } else if (intersectedObject === linkLibrary) {
-                    window.open(document.URL + 'wiki', '_blank');
+                    window.open(document.URL + 'wiki', '_self');
                 }
             }
         }

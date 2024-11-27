@@ -1,0 +1,92 @@
+---
+layout: basev2_st
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outline Maker</title>
+    <script src="/js/outline-maker.js" defer></script>
+    <style>
+
+        header h1 {
+            margin: 0;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            margin-top: 5px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .section {
+            margin-bottom: 15px;
+        }
+
+        .outline-section {
+            margin-bottom: 10px;
+        }
+
+        .outline-point {
+            width: 70%;
+            padding: 8px;
+            font-size: 14px;
+            margin-right: 10px;
+        }
+
+        .outline-section[data-level="1"] {
+            margin-left: 0;
+        }
+
+        .outline-section[data-level="2"] {
+            margin-left: 20px;
+        }
+
+        .outline-section[data-level="3"] {
+            margin-left: 40px;
+        }
+
+        .outline-section[data-level="4"] {
+            margin-left: 60px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Outline Maker</h1>
+        <button id="exportButton">Export to LaTeX PDF</button>
+    </header>
+    <main>
+        <div id="outline">
+            <div class="section">
+                <label>Message Title:</label>
+                <input type="text" id="messageTitle" placeholder="Enter message title">
+            </div>
+            <div class="section">
+                <label>Scripture Reading:</label>
+                <input type="text" id="scriptureReading" placeholder="Enter scripture reading">
+            </div>
+            <div class="outline-section" data-level="1" style="margin-left: 0;">
+                <input type="text" class="outline-point" placeholder="I. Enter outline point">
+                <button class="add-nested">+ Add Subpoint</button>
+            </div>
+        </div>
+        <button id="addRomanNumeral">+ Add Roman Numeral</button>
+    </main>
+</body>
+</html>

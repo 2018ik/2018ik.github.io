@@ -47,7 +47,7 @@ On Lord's day (Sunday), believers should go to the Lord's day meeting, because i
 
 ## Building Character
 
-Character building is easier the younger a person is. Children should be built up in their character so that they will be useful to the Lord when they are older. 
+Building one's character is to cooperate with the Spirit's discipline in the environment to cultivate character traits in one's humanity that make them useful for God's economy. Character building is easier the younger a person is. Children should be built up in their character so that they will be useful to the Lord when they are older. 
 
 ## 30 Character Traits
 

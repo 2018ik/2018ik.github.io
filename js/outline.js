@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
             .map(sentence => sentence.trim().replace(/(\S)—(\S)/g, '$1 — $2')) // treat emdash as its own word
             .filter(sentence => sentence.length > 0);
         if (sentences.length == 0) {
+            resetOutline();
             sentences = ["I. This is an example sentence",
                         "A. This is another example sentence",
                         "B. This is yet another example sentence",
@@ -153,16 +154,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     window.onload = function() {
         // Set placeholder text with line breaks
-        document.getElementById('settingsInput').placeholder = 
-            "I. This is an example sentence\n" +
-            "A. This is another example sentence\n" +
-            "B. This is yet another example sentence\n" +
-            "II. This is once again another example sentence\n" +
-            "A. This is yet again another example sentence\n" +
-            "B. This\n" +
-            "C. Another one\n" +
-            "D. Thanks\n" +
-            "III. Example";
         loadSentences();
         document.addEventListener('keydown', function(event) {
             if (event.code === 'Space') {
@@ -197,6 +188,20 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 });
+
+function resetOutline() {
+    document.getElementById('settingsInput').placeholder = 
+    "I. This is an example sentence\n" +
+    "A. This is another example sentence\n" +
+    "B. This is yet another example sentence\n" +
+    "II. This is once again another example sentence\n" +
+    "A. This is yet again another example sentence\n" +
+    "B. This\n" +
+    "C. Another one\n" +
+    "D. Thanks\n" +
+    "III. Example";
+    document.getElementById('settingsInput').value = "";
+}
 
 // function closeModal() {
 //     var modal = document.getElementById("settingsModal");

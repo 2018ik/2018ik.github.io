@@ -74,7 +74,8 @@ const sentences = [
     ["在这句话里的三个名词，彼此是同位语。", "The three nouns nouns in this sentence are in apposition to one another."],
     ["神生机救恩中加强之工作的秘诀", "The secret of the intensified work of God's salvation."],
     ["基督徒常常说，基督的职事有两个部分或两个段落—祂地上的职事和祂天上的职事。", "Christians often say Christ's ministry has two parts or sections: His earthly ministry and His heavenly ministry."],
-    ["我们接近人的方法，必须随机应变。", "Our way to reach people must be flexible."]
+    ["我们接近人的方法，必须随机应变。", "Our way to reach people must be flexible."],
+    ["只是从前我以为对我是赢得的，这些，我因基督都已经看作亏损。", "What things were gains to me, these I have counted as loss on account of Christ."]
 ];
 
 

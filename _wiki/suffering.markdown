@@ -9,11 +9,13 @@ permalink: /wiki/suffering/
 
 ## Background
 
-**Sufferings**, afflictions and tribulations is by the Lord's sovereignty that His people may realize that the only way for them to live is full dependence on God. Suffering can be for individual transformation, or for the Body. To suffer for the Body means that a person chooses to suffer based on the Spirit's leading for the sake of the gospel. In order to do this, one must know the power of His resurrection (Phil. 3:10).  
+**Suffering** is anything that is not according to one's natural hope, desire, and expectation and therefore an uncomfortable experience for one's soul-life. Although God does not desire His people to suffer, such situations are sovereignly allowed by Him that His people may realize that the only way for them to live is full dependence on God. Satan's goal is that suffering would steal, kill, and destroy our enjoyment of God (John 10:10); God's goal is to gain us and become the only thing that we desire.
 
-Suffering for the Body always involves the cross - that the putting to death of Jesus (the working of the cross which Jesus went through) would be manifested in one's body (2 Cor. 4:10). The issue of taking the cross is for the life of Jesus to operate and for the Word to be ministered (2 Cor. 4:11-13).
+Suffering can be for individual transformation, or for the Body. To suffer for the Body means that a person chooses to suffer based on the Spirit's leading for the sake of the gospel. In order to do this, one must know the power of His resurrection (Phil. 3:10). Suffering for the Body always involves the cross - that the putting to death of Jesus (the working of the cross which Jesus went through) would be manifested in one's body (2 Cor. 4:10). The issue of taking the cross is for the life of Jesus to operate and for the Word to be ministered (2 Cor. 4:11-13).
 
 ## Purpose
+
+God has no intention for His people to suffer. God's heart is that His sheep would lack nothing and lie down in green pastures (Psa. 23:1-2). But the present age is inherently against genuine believers so suffering should be expected, as Christ also suffered in His time (1 Pet. 4:1).
 
 There are three kinds of sufferings:
 
