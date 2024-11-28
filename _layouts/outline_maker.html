@@ -8,6 +8,7 @@ layout: basev2_st
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Outline Maker</title>
     <script src="/js/outline-maker.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <style>
 
         header h1 {
@@ -64,26 +65,49 @@ layout: basev2_st
             margin-left: 60px;
         }
 
+        
+        .outline-label {
+            font-weight: bold;
+            margin-right: 10px;
+            width: 30px;
+            text-align: right;
+        }
+
+        .outline-point {
+            flex-grow: 1;
+            margin-right: 10px;
+        }
+
+        button {
+            margin-left: 5px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        button.toggle-subpoints {
+            width: 30px;
+            text-align: center;
+        }
+        .clickable {
+            cursor: pointer;
+            text-decoration: underline;
+            color: blue;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>Outline Maker</h1>
-        <button id="exportButton">Export to LaTeX PDF</button>
+        <button id="exportButton">Export as tex</button>
     </header>
     <main>
+        <input id="messageTitle" type="text" placeholder="Message Title">
+        <input id="scriptureReading" type="text" placeholder="Scripture Reading">
         <div id="outline">
-            <div class="section">
-                <label>Message Title:</label>
-                <input type="text" id="messageTitle" placeholder="Enter message title">
-            </div>
-            <div class="section">
-                <label>Scripture Reading:</label>
-                <input type="text" id="scriptureReading" placeholder="Enter scripture reading">
-            </div>
-            <div class="outline-section" data-level="1" style="margin-left: 0;">
-                <input type="text" class="outline-point" placeholder="I. Enter outline point">
-                <button class="add-nested">+ Add Subpoint</button>
+            <div class="outline-section" data-level="1">
+                <span class="outline-label clickable" onclick >I.</span>
+                <input type="text" class="outline-point">
+                <button class="add-nested">+ </button>
             </div>
         </div>
         <button id="addRomanNumeral">+ Add Roman Numeral</button>
