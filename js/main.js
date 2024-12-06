@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Save text for all input and textarea elements
 function saveAllText() {
-  const inputs = document.querySelectorAll('input[text], textarea');
+  const inputs = document.querySelectorAll('input[type=text], textarea');
   inputs.forEach((input) => {
       const key = `input-${input.id}`;
       localStorage.setItem(key, input.value);
@@ -27,11 +27,9 @@ function saveAllText() {
 
 // Restore text for all input and textarea elements
 function restoreAllText() {
-  console.log("restoring text")
-  const inputs = document.querySelectorAll('input[text], textarea');
+  const inputs = document.querySelectorAll('input[type=text], textarea');
   inputs.forEach((input) => {
       const key = `input-${input.id}`;
-      console.log(key);
       const savedValue = localStorage.getItem(key);
       if (savedValue !== null) {
           console.log(savedValue);

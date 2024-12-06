@@ -15,165 +15,261 @@
     <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
     <script src="/js/main.js"></script>
     <script>
-        // Three.js scene setup
         var scene = new THREE.Scene();
         scene.background = new THREE.Color(0x87ceeb);
 
         var loader = new THREE.TextureLoader();
         var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-        var renderer = new THREE.WebGLRenderer();
+        var renderer = new THREE.WebGLRenderer({ antialias: true });
         renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.shadowMap.enabled = true;
+        renderer.shadowMap.type = THREE.PCFSoftShadowMap;
         document.body.appendChild(renderer.domElement);
 
-        // OrbitControls for looking around
+        // Controls
         var controls = new THREE.OrbitControls(camera, renderer.domElement);
-        controls.target.set(0, 1, 0); // Set the controls to look at the wall
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+        controls.screenSpacePanning = false;
+        controls.minDistance = 2;
+        controls.maxDistance = 10;
+        controls.maxPolarAngle = Math.PI / 2;
 
-        // Add lights
-        var ambientLight = new THREE.AmbientLight(0x404040); // Soft white light
+        // Lighting
+        var ambientLight = new THREE.AmbientLight(0x404040, 1.5);
         scene.add(ambientLight);
 
-        var directionalLight = new THREE.DirectionalLight(0xffffff, 1);
-        directionalLight.position.set(1, 1, 1).normalize();
+        var directionalLight = new THREE.DirectionalLight(0xffffff, 1.5);
+        directionalLight.position.set(5, 10, 7);
+        directionalLight.castShadow = true;
+        directionalLight.shadow.mapSize.width = 1024;
+        directionalLight.shadow.mapSize.height = 1024;
         scene.add(directionalLight);
 
-        // Create a square platform with shading
+        // Particles
+        var particlesGeometry = new THREE.BufferGeometry();
+        var particlesCount = 5000;
+        var posArray = new Float32Array(particlesCount * 3);
+
+        for(let i = 0; i < particlesCount * 3; i++) {
+            posArray[i] = (Math.random() - 0.5) * 100;
+        }
+
+        particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
+        var particlesMaterial = new THREE.PointsMaterial({
+            size: 0.005,
+            color: 0xffffff,
+            transparent: true,
+            opacity: 0.5
+        });
+
+        var particlesMesh = new THREE.Points(particlesGeometry, particlesMaterial);
+        scene.add(particlesMesh);
+        
+        // Ground
+        var groundGeometry = new THREE.PlaneGeometry(64, 64);
+        var grassTexture = loader.load('img/grass.png');
+        grassTexture.wrapS = THREE.RepeatWrapping;
+        grassTexture.wrapT = THREE.RepeatWrapping;
+        grassTexture.repeat.set(100, 100);
+        var groundMaterial = new THREE.MeshStandardMaterial({ 
+            map: grassTexture, 
+            roughness: 0.8,
+            metalness: 0.1
+        });
+        var ground = new THREE.Mesh(groundGeometry, groundMaterial);
+        ground.rotation.x = -Math.PI / 2;
+        ground.position.y = -0.5;
+        ground.receiveShadow = true;
+        scene.add(ground);
+
+
+        // Stone platform
         var platformGeometry = new THREE.BoxGeometry(5, 0.5, 5);
         var stoneTexture = loader.load('img/stone.png'); 
         stoneTexture.wrapS = THREE.RepeatWrapping;
         stoneTexture.wrapT = THREE.RepeatWrapping;
         stoneTexture.repeat.set(8, 8);
-        var platformMaterial = new THREE.MeshBasicMaterial({ map: stoneTexture, side: THREE.DoubleSide });
+        var platformMaterial = new THREE.MeshStandardMaterial({ 
+            map: stoneTexture, 
+            roughness: 0.7,
+            metalness: 0.3
+        });
         var platform = new THREE.Mesh(platformGeometry, platformMaterial);
+        platform.receiveShadow = true;
         scene.add(platform);
-
-        // Position the platform
         platform.position.y = -0.25;
 
-        // Create a 3D wall with shading
+        // Wall
         var wallGeometry = new THREE.BoxGeometry(5, 2.5, 0.5);        
         var logTexture = loader.load('img/log.png'); 
         logTexture.wrapS = THREE.RepeatWrapping;
         logTexture.wrapT = THREE.RepeatWrapping;
         logTexture.repeat.set(8, 4);
-        var wallMaterial = new THREE.MeshBasicMaterial({ map: logTexture, side: THREE.DoubleSide });
+        var wallMaterial = new THREE.MeshStandardMaterial({ 
+            map: logTexture, 
+            roughness: 0.6,
+            metalness: 0.2
+        });
         
         var wall = new THREE.Mesh(wallGeometry, wallMaterial);
+        wall.castShadow = true;
+        wall.receiveShadow = true;
         scene.add(wall);
-
-        // Position the wall
         wall.position.set(0, 1.25, -2);
 
-        var linkGoogleTexture = loader.load('img/google.png');
-        var linkGoogleMaterial = new THREE.MeshBasicMaterial({ map: linkGoogleTexture });
-        var linkGoogle = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkGoogleMaterial);
-        linkGoogle.position.set(-1, 0.5, 0.251);
-        wall.add(linkGoogle);
+        // Fog
+        scene.fog = new THREE.Fog(0x87ceeb, 10, 50);
 
-        var linkStudyTexture = loader.load('img/studytools.png');
-        var linkStudyMaterial = new THREE.MeshBasicMaterial({ map: linkStudyTexture });
-        var linkStudy = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkStudyMaterial);
-        linkStudy.position.set(1, 0.5, 0.251);
-        wall.add(linkStudy);
-        
-        var linkChineseTexture = loader.load('img/zhongwen.jpg');
-        var linkChineseMaterial = new THREE.MeshBasicMaterial({ map: linkChineseTexture });
-        var linkChinese = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkChineseMaterial);
-        linkChinese.position.set(0, -0.5, 0.251);
-        wall.add(linkChinese);
+        // Links
+        var linkMeshes = [];
 
-        var linkLibraryTexture = loader.load('img/library.png');
-        var linkLibraryMaterial = new THREE.MeshBasicMaterial({ map: linkLibraryTexture });
-        var linkLibrary = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkLibraryMaterial);
-        linkLibrary.position.set(0, 0.5, -0.251);
-        linkLibrary.rotation.y = Math.PI;
-        wall.add(linkLibrary);
-
-        // Add green grass and blue sky background
-        var groundGeometry = new THREE.PlaneGeometry(64, 64);
-        var grassTexture = loader.load('img/grass.png');
-        grassTexture.wrapS = THREE.RepeatWrapping;
-        grassTexture.wrapT = THREE.RepeatWrapping;
-        grassTexture.repeat.set(100, 100); // Repeat the texture to cover the ground
-        var groundMaterial = new THREE.MeshBasicMaterial({ map: grassTexture, side: THREE.DoubleSide });
-        var ground = new THREE.Mesh(groundGeometry, groundMaterial);
-        ground.rotation.x = -Math.PI / 2;
-        ground.position.y = -0.5;
-        scene.add(ground);
-
-
-        // Create a group for clouds
-        var cloudGroup = new THREE.Group();
-
-        // Function to create a cloud
-        function createCloud() {
-            var cloudMaterial = new THREE.MeshBasicMaterial({ color: 0xFFFFFF, transparent: true, opacity: 0.8 }); // White color, slightly transparent
-            var cloud = new THREE.Mesh(new THREE.PlaneGeometry(10, 5), cloudMaterial);
-            cloud.position.set(Math.random() * 100 - 50, 20 + Math.random() * 10, -50);
-            cloudGroup.add(cloud);
+        function createLinkMesh(texture, x, y, z, rotY = 0) {
+            var linkMaterial = new THREE.MeshBasicMaterial({ map: texture });
+            var linkMesh = new THREE.Mesh(new THREE.PlaneGeometry(1, 0.5), linkMaterial);
+            linkMesh.position.set(x, y, z);
+            linkMesh.rotation.y = rotY;
+            linkMesh.userData.originalScale = new THREE.Vector3(1, 1, 1);
+            linkMesh.userData.link = 
+                x === -1 ? 'https://www.google.com' :
+                x === 1 ? document.URL + 'studytools' :
+                x === 0 && y === -0.5 ? document.URL + 'cn' :
+                document.URL + 'wiki';
+            wall.add(linkMesh);
+            linkMeshes.push(linkMesh);
+            return linkMesh;
         }
 
-        // Create multiple clouds
-        for (var i = 0; i < 5; i++) {
-            createCloud();
+        var linkGoogle = createLinkMesh(loader.load('img/google.png'), -1, 0.5, 0.251);
+        var linkStudy = createLinkMesh(loader.load('img/studytools.png'), 1, 0.5, 0.251);
+        var linkChinese = createLinkMesh(loader.load('img/zhongwen.jpg'), 0, -0.5, 0.251);
+        var linkLibrary = createLinkMesh(loader.load('img/library.png'), 0, 0.5, -0.251, Math.PI);
+
+        // Clouds
+        var cloudGroup = new THREE.Group();
+
+        function createRealisticCloud() {
+            var cloudGroup = new THREE.Group();
+            var cloudCount = Math.floor(Math.random() * 5) + 3;
+
+            for (let i = 0; i < cloudCount; i++) {
+                var cloudGeometry = new THREE.SphereGeometry(
+                    Math.random() * 1.5 + 1, 
+                    16, 
+                    16
+                );
+                var cloudMaterial = new THREE.MeshStandardMaterial({ 
+                    color: 0xffffff, 
+                    transparent: true, 
+                    opacity: 0.7,
+                    roughness: 0.9,
+                    metalness: 0.1
+                });
+                var cloud = new THREE.Mesh(cloudGeometry, cloudMaterial);
+                
+                cloud.position.set(
+                    (Math.random() - 0.5) * 3,
+                    (Math.random() - 0.5) * 2,
+                    (Math.random() - 0.5) * 3
+                );
+                
+                cloudGroup.add(cloud);
+            }
+
+            cloudGroup.position.set(
+                Math.random() * 100 - 50, 
+                10 + Math.random() * 10, 
+                -50 + Math.random() * 20
+            );
+
+            return cloudGroup;
+        }
+
+        for (var i = 0; i < 10; i++) {
+            var cloud = createRealisticCloud();
+            cloudGroup.add(cloud);
         }
         scene.add(cloudGroup);
 
-        // Function to animate clouds
         function animateClouds() {
-            cloudGroup.children.forEach(cloud => {
-                cloud.position.x += 0.05;
-                if (cloud.position.x > 50) {
-                    cloud.position.x = -50;
-                }
+            cloudGroup.children.forEach((cloudCluster, index) => {
+                cloudCluster.position.x += 0.05 * (index % 2 === 0 ? 1 : -1);
+                cloudCluster.position.z += 0.02 * (index % 3 === 0 ? 1 : -1);
+                
+                if (cloudCluster.position.x > 50) cloudCluster.position.x = -50;
+                if (cloudCluster.position.x < -50) cloudCluster.position.x = 50;
+                if (cloudCluster.position.z > -30) cloudCluster.position.z = -50;
+                if (cloudCluster.position.z < -50) cloudCluster.position.z = -30;
             });
         }
 
-        // Set camera position
-        camera.position.set(0, 1, 3);
+        camera.position.set(0, 2, 5);
         camera.lookAt(0, 1, 0);
 
-        // Raycaster for detecting clicks
         var raycaster = new THREE.Raycaster();
         var mouse = new THREE.Vector2();
+        var hoveredObject = null;
+
+        function onMouseMove(event) {
+            event.preventDefault();
+
+            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+            raycaster.setFromCamera(mouse, camera);
+            var intersects = raycaster.intersectObjects(linkMeshes);
+
+            if (hoveredObject) {
+                hoveredObject.scale.copy(hoveredObject.userData.originalScale);
+                hoveredObject = null;
+                document.body.style.cursor = 'default';
+            }
+            if (intersects.length > 0) {
+                hoveredObject = intersects[0].object;
+                hoveredObject.scale.set(1.1, 1.1, 1.1);
+                document.body.style.cursor = 'pointer';
+            }
+        }
 
         function handleInteraction(event) {
             event.preventDefault();
 
-            var clientX = event.clientX || (event.touches && event.touches[0].clientX);
-            var clientY = event.clientY || (event.touches && event.touches[0].clientY);
-
-            mouse.x = (clientX / window.innerWidth) * 2 - 1;
-            mouse.y = -(clientY / window.innerHeight) * 2 + 1;
+            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
 
             raycaster.setFromCamera(mouse, camera);
-
-            var intersects = raycaster.intersectObjects([linkGoogle, linkStudy, linkChinese, linkLibrary]);
+            var intersects = raycaster.intersectObjects(linkMeshes);
 
             if (intersects.length > 0) {
                 var intersectedObject = intersects[0].object;
-                if (intersectedObject === linkGoogle) {
-                    window.open('https://www.google.com', '_self');
-                } else if (intersectedObject === linkStudy) {
-                    window.open(document.URL + 'studytools', '_self');
-                } else if (intersectedObject === linkChinese) {
-                    window.open(document.URL + 'cn', '_self');
-                } else if (intersectedObject === linkLibrary) {
-                    window.open(document.URL + 'wiki', '_self');
-                }
+                window.open(intersectedObject.userData.link, '_self');
             }
         }
 
+        window.addEventListener('mousemove', onMouseMove, false);
         window.addEventListener('click', handleInteraction, false);
         window.addEventListener('touchstart', handleInteraction, false);
-        // Render loop
+
+        // Particles
+        function animateParticles() {
+            particlesMesh.rotation.x += 0.0005;
+            particlesMesh.rotation.y += 0.001;
+        }
+
         function animate() {
             requestAnimationFrame(animate);
             controls.update();
             animateClouds();
+            animateParticles();
             renderer.render(scene, camera);
         }
         animate();
+
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }, false);
     </script>
 </body>
 </html>
