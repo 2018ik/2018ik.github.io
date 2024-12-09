@@ -59,7 +59,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 break;
             }
             let index = words.length == 1 ? 0 : Math.floor(1 + Math.random() * (words.length - 1));
-            if (!blankIndices.includes(index) && !bannedWords.includes(words[index].replace(/^[^a-zA-Z]+|[^a-zA-Z]+$/g, '').toLowerCase())) {
+            if (!blankIndices.includes(index) && 
+            !/[^a-zA-Z]/.test(words[index]) &&
+            !bannedWords.includes(words[index].replace(/^[^a-zA-Z]+|[^a-zA-Z]+$/g, '').toLowerCase())) {
                 blankIndices.push(index);
             }
             iterations += 1;

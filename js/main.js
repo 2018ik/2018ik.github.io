@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function() {
         });
       });
   }
-  console.log("adding text restore");
   document.addEventListener('input', saveAllText); // Save text on any input change
   window.addEventListener("load", () => {
     restoreAllText(); // Restore text when the page loads
@@ -32,7 +31,6 @@ function restoreAllText() {
       const key = `input-${input.id}`;
       const savedValue = localStorage.getItem(key);
       if (savedValue !== null) {
-          console.log(savedValue);
           input.value = savedValue;
       }
   });

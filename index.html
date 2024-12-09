@@ -234,8 +234,13 @@
         function handleInteraction(event) {
             event.preventDefault();
 
-            mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-            mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+            if (event.touches) { 
+                mouse.x = (event.touches[0].clientX / window.innerWidth) * 2 - 1;
+                mouse.y = -(event.touches[0].clientY / window.innerHeight) * 2 + 1;
+            } else { 
+                mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+                mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+            }
 
             raycaster.setFromCamera(mouse, camera);
             var intersects = raycaster.intersectObjects(linkMeshes);
