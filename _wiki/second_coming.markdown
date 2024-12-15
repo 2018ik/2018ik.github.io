@@ -13,6 +13,7 @@ permalink: /wiki/second_coming/
     - [Antichrist Rises Up](#antichrist-rises-up)
     - [First Hidden Rapture](#first-hidden-rapture)
     - [Great Tribulation](#great-tribulation)
+- [Indicators](#indicators)
 
 ## Background
 
@@ -53,3 +54,12 @@ Christ first comes in a hidden way, *parousia*. All the  overcoming believers st
 In the last three and a half years, Christ and the bridal army will be descending from the heavens in a hidden way.
 
 Near the end of the great tribulation, the suffering will have sufficiently ripened the believers on earth at which point they will also be raptured (Rev. 14:15-16).
+
+## Indicators
+
+The below list of indicators for the Lord's imminent coming are all theoretical and may not actually be true:
+
+| Indicator | Description |
+| Testimony in Europe | Europe is the seat of the administration of the Antichrist. Before the Lord comes back, He must have a testimony in the land where the Antichrist rules. |
+| Age gets darker | As in the days of Noah, the outward environment becomes degraded to the extent that the saints have no choice but to pray for the Lord to come quickly. |
+| Growth of the church in Rome | The church in Rome, where the Roman Catholic church is overwhelmingly dominant, grows to a sizeable number of saints (150-200+). |

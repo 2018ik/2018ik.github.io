@@ -8,6 +8,6 @@ permalink: /wiki/gtca/
 
 ## Background
 
-**GTCA** (gospelize truthize churchize America) is a method of establishing local churches in America which targets specific cities and college campuses. 
+**GTCA** (gospelize truthize churchize America) is a method of establishing local churches in America which targets specific cities and college campuses.
 
 ## Significance

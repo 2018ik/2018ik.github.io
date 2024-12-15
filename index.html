@@ -234,26 +234,39 @@
         function handleInteraction(event) {
             event.preventDefault();
 
-            if (event.touches) { 
+            if (event.touches && event.touches.length > 0) {
                 mouse.x = (event.touches[0].clientX / window.innerWidth) * 2 - 1;
                 mouse.y = -(event.touches[0].clientY / window.innerHeight) * 2 + 1;
-            } else { 
+            } else {
                 mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
                 mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
             }
 
             raycaster.setFromCamera(mouse, camera);
-            var intersects = raycaster.intersectObjects(linkMeshes);
+            const intersects = raycaster.intersectObjects(linkMeshes);
 
             if (intersects.length > 0) {
-                var intersectedObject = intersects[0].object;
-                window.open(intersectedObject.userData.link, '_self');
+                const link = intersects[0].object.userData.link;
+                if (link) {
+                    window.open(link, '_self');
+                }
             }
         }
 
         window.addEventListener('mousemove', onMouseMove, false);
         window.addEventListener('click', handleInteraction, false);
         window.addEventListener('touchstart', handleInteraction, false);
+        window.addEventListener('touchstart', (event) => {
+            raycaster.setFromCamera(
+                {
+                    x: (event.touches[0].clientX / window.innerWidth) * 2 - 1,
+                    y: -(event.touches[0].clientY / window.innerHeight) * 2 + 1,
+                },
+                camera
+            );
+            const intersects = raycaster.intersectObjects(linkMeshes);
+            controls.enabled = intersects.length === 0; // Disable controls if a link is touched.
+        });
 
         // Particles
         function animateParticles() {

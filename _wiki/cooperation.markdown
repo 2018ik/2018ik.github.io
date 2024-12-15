@@ -8,7 +8,7 @@ permalink: /wiki/cooperation/
 
 ## Background
 
-The fulfillment of God's economy requires full man's cooperation, that man may live because of God (John 6:57). This is a fundamental principle of God's eternal will where He wanted God and man to be joined together through free choice, which is why man was placed in front of the tree of life to voluntarily partake (Gen 2:9). Therefore, man must cooperate with God to receive Him and be joined to Him.
+Man's **cooperation** with God is man taking the *initiative* to seek God and to fulfill His purpose. Man is not only a passive recipient of grace but an active participant in God's economy. This is a fundamental principle of God's eternal will where He wanted God and man to be joined together through free choice, which is why man was placed in front of the tree of life to voluntarily partake (Gen 2:9). This is the principle of incarnation: God works through man, beginning with Christ as the first God-man, and consummating with the corporate Christ as the many believers who have received Christ as life.
 
 The Christian race (Heb 12:1) is not a relay where one passes the baton off to God whenever they are in trouble, it is a race where the runner is one with God.
 
