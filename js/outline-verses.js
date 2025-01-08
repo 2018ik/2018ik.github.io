@@ -171,7 +171,8 @@ document.addEventListener("DOMContentLoaded", function() {
         let lastBook = '';
         let lastChapter = '';
         
-        const refRegex = /(?:(?:[123] )?[A-Za-z]+\.?\s+\d+:\d+(?:-\d+)?)|(?:v\.\s+\d+)|(?:\d+:\d+)/g;
+        // Hardcode from Song of Songs since that book is formatted really weirdly
+        const refRegex = /(?:(?:[123] )?(S\. S\.|\b[A-Za-z]+\.?)\s+\d+:\d+(?:-\d+)?)|(?:v\.\s+\d+)|(?:\d+:\d+)/g;
         
         // Always process Scripture Reading section
         const scriptureReadingMatch = text.match(/Scripture Reading:[\s\S]*?(?=\nI\.|$)/);
