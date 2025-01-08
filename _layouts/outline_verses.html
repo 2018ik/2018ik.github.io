@@ -1,0 +1,202 @@
+---
+layout: basev2_st
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Verse Reference Extractor</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script src="/js/outline-verses.js" defer></script>
+    <style>
+        main.page-content {
+            background-color: #f5f5f5;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .output {
+            white-space: pre-wrap;
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-top: 10px;
+            background: #f9f9f9;
+            border-radius: 4px;
+        }
+        .drop-zone {
+            border: 2px dashed #ccc;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+        .drop-zone:hover {
+            border-color: #2196F3;
+            background: #f0f9ff;
+        }
+        .drop-zone.drag-over {
+            background: #f0f9ff;
+            border-color: #2196F3;
+        }
+        .toggle-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 10px 0;
+        }
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 34px;
+        }
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 34px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 26px;
+            width: 26px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider {
+            background-color: #2196F3;
+        }
+        input:checked + .slider:before {
+            transform: translateX(26px);
+        }
+        .process-btn {
+            background-color: #2196F3;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 500;
+            transition: background-color 0.3s ease;
+        }
+        .process-btn:hover {
+            background-color: #1976D2;
+        }
+        button:disabled {
+            background-color: #ccc;
+            color: #666;
+            cursor: not-allowed;
+            border: 1px solid #aaa;
+        }
+        button:disabled:hover {
+            background-color: #ccc;
+            color: #666;       
+            cursor: not-allowed;
+        }
+        .results-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .verse-content {
+            background: white;
+            padding: 15px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            margin-top: 10px;
+        }
+        .verse-item {
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        .verse-ref {
+            font-weight: bold;
+            color: #2196F3;
+        }
+        h1, h3 {
+            color: #333;
+        }
+        .loading {
+            text-align: center;
+            color: #666;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Verse Reference Extractor</h1>
+        
+        <div>
+            <h3>Option 1: Upload PDF</h3>
+            <div class="drop-zone" id="dropZone">
+                Drop PDF here or click to upload
+                <input type="file" id="fileInput" accept=".pdf" style="display: none">
+            </div>
+        </div>
+
+        <div>
+            <h3>Option 2: Paste Outline Text</h3>
+            <textarea id="textInput" placeholder="Paste outline text here..."></textarea>
+        </div>
+
+        <div class="toggle-container">
+            <label class="toggle-switch">
+                <input type="checkbox" id="modeToggle">
+                <span class="slider"></span>
+            </label>
+            <span>Extract all references (when off, only extracts references after emdashes)</span>
+        </div>
+
+        <button class="process-btn" id="processButton">Process</button>
+        
+        <div class="results-container">
+            <div>
+                <h3>Extracted Verse References:</h3>
+                <div id="output" class="output"></div>
+            </div>
+            
+            <div>
+                <h3>Verse Content:</h3>
+                <div id="verseContent" class="verse-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        
+    </script>
+</body>
+</html>
