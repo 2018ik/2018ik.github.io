@@ -1,0 +1,98 @@
+---
+layout: basev2
+---
+<head>
+  <style>
+    /* Style the results container */
+    #results-container {
+      display: flex;
+      flex-wrap: wrap;
+      max-height: 400px; /* Adjust the max height as needed */
+      overflow-y: auto; /* Add a scrollbar when content overflows */
+    }
+
+    /* Style individual result items */
+    .results-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+      flex-basis: calc(33.33% - 10px); /* Adjust spacing as needed */
+      max-width: calc(33.33% - 10px); /* Adjust spacing as needed */
+      margin: 5px; /* Adjust spacing as needed */
+      border: 1px solid #ccc; /* Add a border for clarity */
+      padding: 10px;
+    }
+    #email-form-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    #google-form {
+      display: flex;
+      gap: 8px;
+    }
+
+    #email-input {
+      flex-grow: 1;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    button {
+      padding: 10px 15px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  
+  {{ content }}
+  {%- include toc_updates.html -%}
+
+  <div id="email-form-container">
+    <form id="google-form" action="https://docs.google.com/forms/d/e/1FAIpQLSfBIP6m0Werm7pixPKgKx1s_piXil0wi4aXUx6NUvPZr4g6JA/formResponse" method="POST">
+      <input type="email" name="emailAddress" id="email-input" placeholder="email@gmail.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+    <p id="submission-message" style="display: none; color: green;">Submitted successfully!</p>
+  </div>
+
+</div>
+
+<script>
+  document.getElementById("google-form").addEventListener("submit", function(event) {
+    event.preventDefault(); // Prevents page reload
+
+    let formData = new FormData(event.target);
+
+    fetch(event.target.action, {
+      method: "POST",
+      body: formData,
+      mode: "no-cors" // Google Forms does not return CORS headers
+    }).then(() => {
+      document.getElementById("submission-message").style.display = "block";
+      document.getElementById("email-input").value = ""; // Clear input
+    }).catch(() => {
+      alert("Error submitting form. Please try again.");
+    });
+  });
+</script>

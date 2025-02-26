@@ -131,9 +131,10 @@
             linkMesh.rotation.y = rotY;
             linkMesh.userData.originalScale = new THREE.Vector3(1, 1, 1);
             linkMesh.userData.link = 
-                x === -1 ? 'https://www.google.com' :
-                x === 1 ? document.URL + 'studytools' :
-                x === 0 && y === -0.5 ? document.URL + 'cn' :
+                x === -1 && y == 0.5 ? 'https://www.google.com' :
+                x === 1 && y == 0.5 ? document.URL + 'studytools' :
+                x === -1 && y === -0.5 ? document.URL + 'cn' :
+                x === 1 && y === -0.5 ? document.URL + 'updates' :
                 document.URL + 'wiki';
             wall.add(linkMesh);
             linkMeshes.push(linkMesh);
@@ -142,7 +143,8 @@
 
         var linkGoogle = createLinkMesh(loader.load('img/google.png'), -1, 0.5, 0.251);
         var linkStudy = createLinkMesh(loader.load('img/studytools.png'), 1, 0.5, 0.251);
-        var linkChinese = createLinkMesh(loader.load('img/zhongwen.jpg'), 0, -0.5, 0.251);
+        var linkChinese = createLinkMesh(loader.load('img/zhongwen.jpg'), -1, -0.5, 0.251);
+        var linkEmail = createLinkMesh(loader.load('img/email.png'), 1, -0.5, 0.251);
         var linkLibrary = createLinkMesh(loader.load('img/library.png'), 0, 0.5, -0.251, Math.PI);
 
         // Clouds

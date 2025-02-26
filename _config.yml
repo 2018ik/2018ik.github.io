@@ -29,8 +29,10 @@ include:
  - _wiki
  - _studytools
  - _cn
+ - _updates
 sass:
   sass_dir: _sass
+repository: 2018ikang/2018ikang.github.io
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -42,28 +44,4 @@ sass:
 
 # For faster local builds
 # exclude: 
-#   - _wiki/b*
-#   - _wiki/c*
-#   - _wiki/d*
-#   - _wiki/e*
-#   - _wiki/f*
-#   - _wiki/g*
-#   - _wiki/h*
-#   - _wiki/i*
-#   - _wiki/j*
-#   - _wiki/k*
-#   - _wiki/l*
-#   - _wiki/m*
-#   - _wiki/n*
-#   - _wiki/o*
-#   - _wiki/p*
-#   - _wiki/q*
-#   - _wiki/r*
-#   - _wiki/s*
-#   - _wiki/t*
-#   - _wiki/u*
-#   - _wiki/v*
-#   - _wiki/w*
-#   - _wiki/x*
-#   - _wiki/y*
-#   - _wiki/z*
+#   - _wiki/*

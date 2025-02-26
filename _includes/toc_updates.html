@@ -1,0 +1,91 @@
+<style>
+  /* Table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0px; 
+  }
+  table td a { 
+    display: block;
+  }
+  table td:first-child, 
+  table th:first-child {
+    white-space: nowrap; /* Prevents text from wrapping */
+    width: 1px; /* Ensures the column does not expand */
+  }
+  table th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  table td { 
+    border: 0px; 
+  }
+  table th {
+    cursor: pointer;
+    border: 0px; 
+  }
+  /* Hover effect for table rows */
+  td:hover {
+    background-color: #e0e0e0;
+  }
+  /* Highlight header on hover */
+  th:hover {
+    background-color: #e0e0e0;
+  }/* Search input style */
+  #search-input {
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+    box-shadow: none;
+    outline: none;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+ 
+  }
+
+  /* Style the search input when focused */
+  #search-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+
+  /* Style the search input placeholder */
+  #search-input::placeholder {
+    color: #999;
+  }
+
+  /* Style the search input on hover */
+  #search-input:hover {
+    border-color: #999;
+  }
+  .container { 
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+</style>
+
+<div class="container">
+  <input type="text" id="search-input" placeholder="Filter...">
+</div>
+<table id="data-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign pages = site.pages | where_exp: 'page', 'page.path contains "_updates/"' %}
+    {% for page in pages %}
+      <tr>
+          <td><a href="{{ page.url }}">{{ page.date }}</a></td>
+          <td><a href="{{ page.url }}">{{ page.title }}</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="../js/sort-script.js"></script>
+<script src="../js/filter-script.js"></script>
