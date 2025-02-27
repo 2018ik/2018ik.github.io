@@ -2,7 +2,7 @@
 layout: pagev2
 title: Last term, first email update
 date: Feb. 26, 2025
-permalink: /updates/test/
+permalink: /updates/2.26.25/
 ---
 
 Hi everyone, I have nothing interesting to report, so here are some random notes from class:

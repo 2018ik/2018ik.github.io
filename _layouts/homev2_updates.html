@@ -76,23 +76,5 @@ layout: basev2
     <p id="submission-message" style="display: none; color: green;">Submitted successfully!</p>
   </div>
 
+  <script src="../js/subscribe-script.js"></script>
 </div>
-
-<script>
-  document.getElementById("google-form").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevents page reload
-
-    let formData = new FormData(event.target);
-
-    fetch(event.target.action, {
-      method: "POST",
-      body: formData,
-      mode: "no-cors" // Google Forms does not return CORS headers
-    }).then(() => {
-      document.getElementById("submission-message").style.display = "block";
-      document.getElementById("email-input").value = ""; // Clear input
-    }).catch(() => {
-      alert("Error submitting form. Please try again.");
-    });
-  });
-</script>
