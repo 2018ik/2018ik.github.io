@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "$(uname -s)" == "Linux" ]; then
+if [ "$(uname -s)" == "Darwin" ]; then
     BASH_EXECUTABLE="/bin/bash"
 else
     BASH_EXECUTABLE="/bin/bash.exe"
@@ -33,7 +33,7 @@ permalink: /wiki/$permalink/
 
 ## Significance"
 
-    if [ "$(uname -s)" != "Linux" ]; then
+    if [ "$(uname -s)" != "Darwin" ]; then
       file_content=$(echo -e "$file_content" | dos2unix)
     fi
 
