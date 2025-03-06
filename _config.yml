@@ -20,7 +20,7 @@
 
 title: psrp.life
 # uncomment the below for local development without internet
-description: "offline dev description"
+description: ""
 site_url: "http://localhost:4000"
 
 # Build settings
