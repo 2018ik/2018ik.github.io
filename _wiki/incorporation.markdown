@@ -29,11 +29,15 @@ This divine incorporation between God and man can be called the Body-Christ, the
 
 ### Father's House
 
+John 14
+
 ### Son's Vine
 
-John 15 reveals that the Lord abides in the believers and the believers abide in the Lord. These are persons indwelling one another.
+John 15 depicts the divine incorporation as a vine with its branches. As the vine and its branches share one life and abide in one another, so does the the Lord abide in the believers and the believers abide in the Lord. It is difficult to tell where the vine ends and the branches start because they are one with each other.
 
 ### Spirit's Child
+
+John 16
 
 ### Body of Christ
 
