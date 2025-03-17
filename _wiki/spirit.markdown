@@ -39,6 +39,7 @@ permalink: /wiki/spirit/
   - [Spirit of Sonship](#spirit-of-sonship)
   - [Spirit of the Living God](#spirit-of-the-living-god)
   - [Spirit of your Father](#spirit-of-your-father)
+- [Symbols](#symbols)
 
 ## Background
 
@@ -229,3 +230,22 @@ This title is used once in 2 Corinthians 3:3 and the context is being inscribed 
 ### Spirit of your Father
 
 The Lord says that the "Spirit of your Father is the One speaking in you" in Matthew 10:20. The context here is to not be anxious regarding opposition and persecution. As a father cares for his son, the Father's Spirit cares for us in dealing with opposers.
+
+## Symbols
+
+| Item | Description |
+| --- | --- |
+| Brooding Bird | Brooding is for bringing something to life; the Hebrew word here implies the brooding of a bird to take care of its eggs. The brooding of the Spirit of God upon the death waters preceded the creation of life (Gen. 1:2). For unbelievers, this is the sanctifying Spirit leading them to salvation. For believers, they can also be in situations of death, but the Spirit is always there hovering, brooding to bring them back to life. |
+| Dove | The Spirit descended as a dove out of heaven upon Jesus (Matt. 3:16; John 1:32). |
+| Olive Oil | Christ is anointed by the Spirit in Isaiah 61:1, which in parallel to Psalm 45:7 and Hebrews 1:9 which says Christ is anointed with oil indicates that oil is a type of the Spirit. This must be olive oil as that is the only type of oil mentioned in the Bible. Christ is the olive tree (Rom. 11:17) and olive oil is used for lighting the lampstand (Zech. 4:3) as well as the compound ointment (Exo. 30:25). |
+| Anointing Ointment | Signifying the compounding of the humanity of Jesus into the Spirit. See [holy anointing oil](../holy_anointing_oil). |
+| Wind | The Hebrew word *ruach* is translated spirit, wind, or breath. |
+| Breath | The Lord Jesus breathed the Spirit into the discples (John 20:22). |
+| Cloud | |
+| Fire | |
+| Light | |
+| Rain | |
+| Living Water | |
+| River of Water | |
+| Seven Lamps | |
+| Seven Eyes | |
