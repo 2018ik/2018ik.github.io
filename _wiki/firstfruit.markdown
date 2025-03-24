@@ -25,5 +25,4 @@ In our spirit is a Person who longs to satisfy God the Father. We need to take t
 
 ## Second Coming
 
-All the overcoming believers still alive on earth during the second coming will be raptured prior to the three and a half year great tribulation as the firstfruits to God and to the Lamb (Rev. 3:10; 14:1,14-6). However, the highest incentive for us to be the firstfruits is to satisfy God, not to escape tribulation. Then eventually, all the graves will open, and all will resurrect. 
-
+Christ first comes in a hidden way, *parousia*. All the overcoming believers still alive on earth during the second coming will be raptured prior to the three and a half year great tribulation as the firstfruits to God and to the Lamb (Rev. 3:10; 14:1,14-6). However, the highest incentive for us to be the firstfruits is to satisfy God, not to escape tribulation. Then eventually, all the graves will open, and all will resurrect. 
