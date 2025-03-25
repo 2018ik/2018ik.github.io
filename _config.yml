@@ -45,5 +45,5 @@ repository: 2018ikang/2018ikang.github.io
 #
 
 # For faster local builds
-exclude: 
-  - _wiki/*
+# exclude: 
+#   - _wiki/*
