@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", function() {
             // Process each chunk
             for (const chunk of chunks) {
                 const referenceString = chunk.join(', ');
-                const response = await fetch(`https://api.lsm.org/recver.php?String=${encodeURIComponent(referenceString)}&Out=json`);
+                const response = await fetch(`https://silent-snow-4a5f.kang43.workers.dev/?q=${encodeURIComponent(referenceString)}`);
                 const data = await response.json();
                 if (data.verses) {
                     allVerses = allVerses.concat(data.verses);

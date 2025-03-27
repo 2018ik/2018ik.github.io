@@ -25,7 +25,7 @@ let totalWords = 0;
 let skipFirstStage = false;
 
 async function fetchVerses(inputString) {
-    const response = await fetch(`https://api.lsm.org/recver.php?String=${encodeURIComponent(inputString)}&Out=json`);
+    const response = await fetch(`https://silent-snow-4a5f.kang43.workers.dev/?q=${encodeURIComponent(inputString)}`);
     const data = await response.json();
     verses = data.verses;
     totalKeystrokes = 0;
