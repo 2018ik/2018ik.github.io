@@ -45,7 +45,11 @@ The second coming of the Lord takes place at the beginning of the last week of t
 
 | Event | Description |
 | --- | --- |
-
+| Temple is rebuilt on temple mount | This occurs at the very beginning of the Tribulation and marks the beginning of the final week (last seven years on the present age) |
+| Israel forms covenant with powerful leader in Europe | This person will become the Antichrist |
+| Attempted assassination on European leader | Someone will attempt to kill this leader, after which the spirit of Antichrist will enter post-recovery |
+| Antichrist manifested | Antichrist will demand to be worshipped. Marks the beginning of the Great Tribulation. |
+ 
 ### Hidden Coming
 
 | Event | Description |
