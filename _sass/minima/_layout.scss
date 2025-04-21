@@ -256,18 +256,15 @@
 .post-content table {
   width: 100%;
   border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
 }
 
 .post-content table th,
 .post-content table td {
   padding: 0.5em;
   border: 1px solid #ddd;
-}
-
-.post-content table {
-  display: block;
-  overflow-x: auto;
-  white-space: nowrap;
+  white-space: normal; /* Allow cell content to wrap */
 }
 
 .post-content {
