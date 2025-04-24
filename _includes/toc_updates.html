@@ -77,7 +77,7 @@
     </tr>
   </thead>
   <tbody>
-    {% assign pages = site.pages | where_exp: 'page', 'page.path contains "_updates/"' %}
+    {% assign pages = site.pages | where_exp: 'page', 'page.path contains "_updates/"' | reverse %}
     {% for page in pages %}
       <tr>
           <td><a href="{{ page.url }}">{{ page.date }}</a></td>
