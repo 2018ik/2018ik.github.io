@@ -7,10 +7,22 @@ document.addEventListener("DOMContentLoaded", function() {
     let score = 0;
     let rounds = 0;
     let hardLimit = 50;
-    let bannedWords = ["—", "-", "a", "an", "and", "are", "as", "at", "be", "being", "but", 
-    "by", "do", "for", "from", "having", "have", "if", "in", "is", "it", "its", "may", "of", "on", "or", "such", "than", "that", 
-    "the", "their", "them", "they", "there", "this", "to", "was", "we", "were", "what", "which", "who", "with"];
-
+    let isOrderedMode = false;
+    let completedSentences = [];
+    let bannedWords = [
+        "-", "a", "about", "after", "all", "also", "among", "an", "any", "also", "and", "are",
+        "as", "at", "be", "because", "before", "being", "between", "both", "but", "by",
+        "can", "could", "did", "do", "does", "for", "from", "had", "has", "have",
+        "having", "He", "he", "her", "him", "his", "how", "if", "in", "into",
+        "is", "it", "its", "just", "like", "may", "merely", "more", "most", "no",
+        "not", "of", "on", "only", "or", "other", "our", "out", "over", "she",
+        "should", "since", "so", "such", "than", "that", "the", "their", "them",
+        "then", "there", "these", "they", "this", "through", "to", "under",
+        "until", "us", "very", "was", "we", "were", "what", "when", "where",
+        "which", "while", "who", "whom", "why", "will", "with", "within",
+        "would", "yes", "yet", "you", "your", "—"
+      ]
+      
     function loadSentences() {
         var settingsText = document.getElementById("settingsInput").value;
         sentences = settingsText
@@ -35,27 +47,83 @@ document.addEventListener("DOMContentLoaded", function() {
         revealed = false;
         score = 0;
         rounds = 0;
+        completedSentences = [];
         showNextSentence();
     }
+    
+    // Function to toggle ordered mode
+    function toggleOrderedMode() {
+        isOrderedMode = !isOrderedMode;
+        document.getElementById('orderedModeBtn').classList.toggle('active', isOrderedMode);
+        
+        // Reset the game when toggling modes
+        blankIndices = [];
+        currentSentenceIndex = -1;
+        previousSentenceIndex = -1;
+        revealed = false;
+        score = 0;
+        rounds = 0;
+        completedSentences = [];
+        
+        document.getElementById('score').innerText = score + "/" + rounds;
+        showNextSentence();
+    }
+    
+    // Function to update display for ordered mode
+    function updateOrderedModeDisplay() {
+        if (isOrderedMode) {
+            // In ordered mode, display all completed sentences
+            document.getElementById('prevSentence').innerHTML = completedSentences.join('<br><br>');
+            document.getElementById('nextSentence').innerText = "";
+        } else {
+            // In random mode, show previous and next sentence for context
+            if (currentSentenceIndex > 0) {
+                document.getElementById('prevSentence').innerText = sentences[currentSentenceIndex-1];
+            } else {
+                document.getElementById('prevSentence').innerText = "";
+            }
+            if (currentSentenceIndex < sentences.length-1) {
+                document.getElementById('nextSentence').innerText = sentences[currentSentenceIndex+1];
+            } else {
+                document.getElementById('nextSentence').innerText = "";
+            }
+        }
+    }
+    
     // Function to show the next sentence
     function showNextSentence() {
         rounds += 1;
         document.getElementById('guess').value = "";
-        if (sentences.length == 1) {
-            currentSentenceIndex = 0
+        
+        if (isOrderedMode) {
+            // In ordered mode, proceed sequentially
+            currentSentenceIndex += 1;
+            
+            // Reset to beginning if we've reached the end
+            if (currentSentenceIndex >= sentences.length) {
+                currentSentenceIndex = 0;
+                completedSentences = [];
+            }
         } else {
-            while (currentSentenceIndex === previousSentenceIndex) {
-                currentSentenceIndex = Math.floor(Math.random() * sentences.length);
+            // In random mode, select randomly
+            if (sentences.length == 1) {
+                currentSentenceIndex = 0;
+            } else {
+                while (currentSentenceIndex === previousSentenceIndex) {
+                    currentSentenceIndex = Math.floor(Math.random() * sentences.length);
+                }
             }
         }
+        
         blankIndices = [];
-        let sentence = sentences[currentSentenceIndex]
+        let sentence = sentences[currentSentenceIndex];
         let words = sentence.split(/\s+/);
-        let blanksCount = Math.max(1, Math.floor(words.length / 4))
-        iterations = 0;
+        let blanksCount = Math.max(1, Math.floor(words.length / 4));
+        let iterations = 0;
+        
         while (blankIndices.length < blanksCount) {
             if (iterations > hardLimit) {
-                console.log("Hit hard limit, breaking out of loop!")
+                console.log("Hit hard limit, breaking out of loop!");
                 break;
             }
             let index = words.length == 1 ? 0 : Math.floor(1 + Math.random() * (words.length - 1));
@@ -66,6 +134,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             iterations += 1;
         }
+        
         let maskedSentence = '';
         for (let i = 0; i < words.length; i++) {
             if (blankIndices.includes(i)) {
@@ -87,17 +156,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 maskedSentence += words[i] + ' ';
             }
         }
+        
         document.getElementById('sentence').innerText = maskedSentence;
-        if (currentSentenceIndex > 0) {
-            document.getElementById('prevSentence').innerText = sentences[currentSentenceIndex-1];
-        } else {
-            document.getElementById('prevSentence').innerText = "";
-        }
-        if (currentSentenceIndex < sentences.length-1) {
-            document.getElementById('nextSentence').innerText = sentences[currentSentenceIndex+1];
-        } else {
-            document.getElementById('nextSentence').innerText = "";
-        }
+        updateOrderedModeDisplay();
         revealed = false;
     }
 
@@ -111,6 +172,7 @@ document.addEventListener("DOMContentLoaded", function() {
             let j = 0;
             let win = true;
             const caseSensitive = document.getElementById('caseSensitiveCheckbox').checked;
+            
             for (let i = 0; i < words.length; i++) {
                 if (blankIndices.includes(i)) {
                     if (j >= guesses.length) {
@@ -132,17 +194,25 @@ document.addEventListener("DOMContentLoaded", function() {
                     unmaskedSentence += words[i] + ' ';
                 }
             }
+            
             if (win === true) {
                 score += 1;
             }
+            
             document.getElementById('score').innerText = score + "/" + rounds;
             document.getElementById('sentence').innerHTML = unmaskedSentence;
             revealed = true;
             previousSentenceIndex = currentSentenceIndex;
+            
+            // For ordered mode, add the completed sentence to the list
+            if (isOrderedMode) {
+                completedSentences.push(document.getElementById('sentence').innerHTML);
+            }
         } else {
             showNextSentence();
         }
     }
+    
     // Function to check if an element or any of its parents has the 'site-header' class
     function hasParentWithClass(element, className) {
         while (element) {
@@ -155,31 +225,50 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     window.onload = function() {
+        // Create ordered mode button
+        const orderedModeBtn = document.createElement('button');
+        orderedModeBtn.id = 'orderedModeBtn';
+        orderedModeBtn.textContent = 'Ordered Mode';
+        orderedModeBtn.addEventListener('click', toggleOrderedMode);
+        
+        // Insert it next to settings button
+        const settingsBtn = document.getElementById('settings-button');
+        settingsBtn.parentNode.insertBefore(orderedModeBtn, settingsBtn.nextSibling);
+        
         // Set placeholder text with line breaks
         loadSentences();
+        
+        // Space key press to reveal words
         document.addEventListener('keydown', function(event) {
-            if (event.code === 'Space') {
+            if (event.code === 'Space' && !event.repeat) {
                 const guessInput = document.getElementById('guess');
-                if (!guessInput.matches(':focus')) { 
+                const settingsModal = document.getElementById('settingsModal');
+                
+                // Only handle space if not focused in the input field and modal not visible
+                if (!guessInput.matches(':focus') && settingsModal.style.display === "") { 
+                    event.preventDefault(); // Prevent default space behavior
                     revealWords();
                 }
             }
         });
+
         document.addEventListener('click', function(event) {
             const clickedElement = event.target;
             if (hasParentWithClass(clickedElement, 'site-header') 
-                || ['guess', 'settings-button'].includes(clickedElement.id)
+                || ['guess', 'settings-button', 'orderedModeBtn'].includes(clickedElement.id)
                 || document.getElementById("settingsModal").style.display !== "") {
                 return; 
             }
             revealWords();
         });
+        
         document.getElementById('guess').addEventListener('keydown', function(event) {
             if ((event.code === 'Enter' || event.key === 'Enter') && document.getElementById("settingsModal").style.display === "") {
                 revealWords();
             }
         });
     };
+    
     // Close the modal when clicking outside of it
     window.onclick = function(event) {
         var modal = document.getElementById("settingsModal");
@@ -204,9 +293,3 @@ function resetOutline() {
     "III. Example";
     document.getElementById('settingsInput').value = "";
 }
-
-// function closeModal() {
-//     var modal = document.getElementById("settingsModal");
-//     modal.style.display = "";
-//     loadSentences();
-// }
