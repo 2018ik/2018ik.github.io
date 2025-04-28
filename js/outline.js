@@ -12,10 +12,10 @@ document.addEventListener("DOMContentLoaded", function() {
     let bannedWords = [
         "-", "a", "about", "after", "all", "also", "among", "an", "any", "also", "and", "are",
         "as", "at", "be", "because", "before", "being", "between", "both", "but", "by",
-        "can", "could", "did", "do", "does", "for", "from", "had", "has", "have",
-        "having", "He", "he", "her", "him", "his", "how", "if", "in", "into",
+        "can", "could", "did", "do", "does", "even", "far", "for", "from", "had", "has", "have",
+        "having", "he", "her", "him", "his", "how", "if", "in", "into",
         "is", "it", "its", "just", "like", "may", "merely", "more", "most", "no",
-        "not", "of", "on", "only", "or", "other", "our", "out", "over", "she",
+        "not", "now", "of", "on", "only", "or", "other", "our", "out", "over", "she",
         "should", "since", "so", "such", "than", "that", "the", "their", "them",
         "then", "there", "these", "they", "this", "through", "to", "under",
         "until", "us", "very", "was", "we", "were", "what", "when", "where",
