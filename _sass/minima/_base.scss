@@ -66,6 +66,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* subtle soft shadow */
 }
 
 
@@ -138,7 +139,7 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
+  color: #5c5c5c;
   border-left: 4px solid $border-color-01;
   padding-left: $spacing-unit * .5;
   @include relative-font-size(1.125);
