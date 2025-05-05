@@ -254,17 +254,40 @@
 }
 
 .post-content table {
-  width: 100%;
-  border-collapse: collapse;
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   overflow-x: auto;
+  background-color: #fdfdfd;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .post-content table th,
 .post-content table td {
-  padding: 0.5em;
+  padding: 0.75em 1em;
   border: 1px solid #ddd;
-  white-space: normal; /* Allow cell content to wrap */
+  text-align: left;
+  white-space: normal;
+  font-size: 0.95rem;
+}
+
+.post-content table th {
+  background-color: #f0f4ff; /* light blue header */
+  font-weight: 600;
+  color: #333;
+}
+
+.post-content table tr:nth-child(even) {
+  background-color: #fafafa; /* zebra striping */
+}
+
+.post-content table tr:hover {
+  background-color: #f1f7ff; /* row hover effect */
 }
 
 .post-content {
