@@ -12,6 +12,7 @@ permalink: /wiki/second_coming/
   - [Great Tribulation](#great-tribulation)
   - [Open Coming](#open-coming)
   - [Millenial Kingdom](#millenial-kingdom)
+  - [Great White Throne Judgment](#great-white-throne-judgment)
 - [Indicators](#indicators)
 
 ## Background
@@ -83,6 +84,18 @@ This is also called the "dispensation of righteousness." During this period, the
 | Sheep nations are shepherded | Live on earth as mortals, under Christ’s rule (Matt. 25:34; Zech. 14:16). They are taught by Israel and the reigning overcomers (Isa 2:2-4). |
 | Israel restored | Saved Jewish remnant becomes central on earth. The center of God's earthly administration at this point is Jerusalem (Zech. 12:10; Ezek. 36–37). |
 | Children born | Mortal humans (sheep, Israel) continue to reproduce (Isa. 65:20–25) |
+
+### Great White Throne Judgment
+
+After the millennium and a brief rebellion led by Satan, Christ executes the final judgment on all unbelievers. This judgment is not for believers (John 5:24), but for the dead whose names are not written in the book of life. The judgment is righteous, detailed, and based on both a person’s works and their relationship to the Lamb’s book of life (Rev. 20:11–15).
+
+| Event | Description |
+| --- | --- |
+| Satan cast into lake of fire | After a short release and final deception of the nations, Satan is thrown into the lake of fire forever (Rev. 20:7–10). |
+| Resurrection of the dead | All the dead who were not part of the first resurrection are raised to stand before the throne (Rev. 20:5, 12). |
+| Two scrolls opened | The first scroll records each person’s works. They are judged according to these, determining the degree of punishment (Rev. 20:12; Rom. 2:5–6; Luke 12:47–48). |
+| Book of life opened | If a person’s name is not found in the book of life, they are cast into the lake of fire. This is the final separation from God (Rev. 20:15). |
+| Degrees of punishment | Though all unbelievers go to the lake of fire, the intensity of punishment varies according to their works and light received (Luke 12:47–48; Matt. 11:22–24). |
 
 ## Indicators
 
