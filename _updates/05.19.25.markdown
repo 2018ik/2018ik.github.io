@@ -1,0 +1,6 @@
+---
+layout: special_page
+title: Week 13 + We must each go up the mountain to see God face to face
+date: May 19, 2025
+permalink: /updates/05.19.25/
+---
