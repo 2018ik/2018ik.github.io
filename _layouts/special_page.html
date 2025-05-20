@@ -453,7 +453,7 @@ p {
             sun.position.z = -50;
             
             // Create corona (outer glow)
-            const coronaGeometry = new THREE.SphereGeometry(25, 64, 64);
+            const coronaGeometry = new THREE.SphereGeometry(25, 16, 16);
             const coronaMaterial = new THREE.ShaderMaterial({
                 uniforms: {
                     time: { value: 0 }
@@ -484,7 +484,7 @@ p {
             sun.add(corona);
             
             // Add a larger, subtle glow
-            const glowGeometry = new THREE.SphereGeometry(35, 32, 32);
+            const glowGeometry = new THREE.SphereGeometry(35, 16, 16);
             const glowMaterial = new THREE.ShaderMaterial({
                 uniforms: {},
                 vertexShader: `
@@ -709,7 +709,7 @@ p {
             const cloudMesh = new THREE.Points(cloudGeometry, cloudMaterial);
             
             // Add solid cloud core for additional volume
-            const cloudCoreGeometry = new THREE.SphereGeometry(3, 32, 32);
+            const cloudCoreGeometry = new THREE.SphereGeometry(3, 16, 16);
             const cloudCoreMaterial = new THREE.MeshPhysicalMaterial({
                 color: 0xffffff,
                 transparent: true,
@@ -833,6 +833,7 @@ p {
             }
             
             // Animate clouds
+            const t = Date.now() * 0.0001;
             scene.traverse(function(object) {
                 if (object instanceof THREE.Group && object !== playerCloudGroup) {
                     // Get cloud userData properties or set defaults
@@ -843,7 +844,7 @@ p {
                     const rotationSpeed = userData.rotationSpeed || 0.0005;
                     
                     // Animate position based on sine wave
-                    object.position.y = initialY + Math.sin(Date.now() * 0.0001 * speed + object.position.x) * amplitude;
+                    object.position.y = initialY + Math.sin(t * speed + object.position.x) * amplitude;
                     
                     // Gentle rotation
                     object.rotation.y += rotationSpeed;
