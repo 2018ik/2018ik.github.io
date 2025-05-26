@@ -157,6 +157,7 @@
     <section class="content-section" id="section00">
       <div class="content-inner">
         <h1>Intro</h1>
+        <a href="../" style="text-decoration: none; color: rgb(174, 229, 255)">[back to table of contents]</a>
         <p>Hi everyone! We just finished week 14, so 6 more weeks to go! The schedule was a bit different this week since we watched the Memorial Day conference, which was on the preparation of the bride. </p>
         <img class="embedded-img" src="../../img/05.26.25.1.webp" alt="food">
         <p>Speaking of the bride, I've been reading <em>The Song of Songs</em> by Watchman Nee ⬇️⬇️⬇️</p>
@@ -366,7 +367,6 @@
 
     // Particles collections
     const heartParticles = [];
-    const darkParticles = [];
     const heavenlyParticles = [];
     const workElements = [];
     
@@ -376,7 +376,7 @@
     
     // Lighting
     let ambientLight, pointLight, darkPointLight, heavenlyLight, earthLight, workLight;
-    
+    const isMobile = /Android|iPhone|iPad/.test(navigator.userAgent);
     function init() {
       // Create scene
       scene = new THREE.Scene();
@@ -392,7 +392,7 @@
           powerPreference: "high-performance"
       });
       renderer.setSize(window.innerWidth, window.innerHeight);
-      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1));
       renderer.setClearColor(0x000000, 0);
       renderer.outputEncoding = THREE.sRGBEncoding;
       
@@ -436,6 +436,17 @@
           // Maintain pixel ratio for mobile devices
           renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
       });
+      let scrollScheduled = false;
+
+      window.addEventListener('scroll', () => {
+        if (!scrollScheduled) {
+          scrollScheduled = true;
+          requestAnimationFrame(() => {
+            onScroll();
+            scrollScheduled = false;
+          });
+        }
+      });
       // Create scene groups
       loveScene = new THREE.Group();
       darkScene = new THREE.Group();
@@ -478,7 +489,7 @@
           opacity: 0
       });
       
-      for (let i = 0; i < 50; i++) {
+      for (let i = 0; i < 25; i++) {
           const heart = new THREE.Sprite(heartMaterial);
           const scale = 0.5;
           heart.scale.set(scale, scale, 1);
@@ -502,36 +513,7 @@
       }
       
       // Create dark particles
-      const darkParticleMaterial = new THREE.SpriteMaterial({
-          map: glowTexture,
-          color: 0x333344,
-          transparent: true,
-          blending: THREE.AdditiveBlending,
-          depthWrite: false,
-          opacity: 0
-      });
-      
-      for (let i = 0; i < 100; i++) {
-          const particle = new THREE.Sprite(darkParticleMaterial);
-          const scale = 0.05 + Math.random() * 0.1;
-          particle.scale.set(scale, scale, 1);
-          
-          particle.position.x = (Math.random() - 0.5) * 15;
-          particle.position.y = (Math.random() - 0.5) * 15;
-          particle.position.z = (Math.random() - 0.5) * 10 - 5;
-          
-          particle.userData = {
-              velocity: new THREE.Vector3(
-                  (Math.random() - 0.5) * 0.005,
-                  (Math.random() - 0.5) * 0.005,
-                  (Math.random() - 0.5) * 0.005
-              ),
-              originalScale: scale
-          };
-          
-          darkScene.add(particle);
-          darkParticles.push(particle);
-      }
+
         
         // Create and add sun
       sun = createSun();
@@ -592,8 +574,7 @@
       workScene.add(workAmbient);
       
       // Add fog to the scene
-      scene.fog = new THREE.FogExp2(0x000000, 0.02);
-      
+      scene.fog = isMobile ? null : new THREE.FogExp2(0x000000, 0.02);
       // Set initial scene visibility
       updateScenes(0);
       
@@ -788,15 +769,6 @@
       darkPointLight.intensity = 1 * darkProgress;
       sun.position.z = -80 - darkProgress * 100;
       sun.position.y = 0 - darkProgress * 400 + heavenlyProgress*20;
-      
-      darkParticles.forEach(particle => {
-          if (particle.material) {
-              particle.material.opacity = 1 * darkProgress;
-              const scale = particle.userData.originalScale * (0.5 + darkProgress * 0.5);
-              particle.scale.set(scale, scale, 1);
-          }
-      });
-      
       // Update heavenly scene
       heavenlyLight.intensity = heavenlyProgress;
       
@@ -907,37 +879,6 @@
           }
       });
       
-      // Animate dark particles
-      darkParticles.forEach(particle => {
-          particle.position.add(particle.userData.velocity);
-          
-          // Make them swirl slowly toward center
-          const distance = particle.position.length();
-          if (distance > 0.1) {
-              const swirl = new THREE.Vector3(-particle.position.y, particle.position.x, 0).normalize();
-              swirl.multiplyScalar(0.001);
-              particle.userData.velocity.add(swirl);
-              
-              // Add slight attraction to center
-              const toCenter = new THREE.Vector3().sub(particle.position).normalize();
-              toCenter.multiplyScalar(0.0002);
-              particle.userData.velocity.add(toCenter);
-          }
-          
-          // Limit velocity
-          if (particle.userData.velocity.length() > 0.01) {
-              particle.userData.velocity.normalize().multiplyScalar(0.01);
-          }
-          
-          // Boundary check and reset
-          if (particle.position.length() > 15) {
-              particle.position.set(
-                  (Math.random() - 0.5) * 15,
-                  (Math.random() - 0.5) * 15,
-                  (Math.random() - 0.5) * 10 - 5
-              );
-          }
-      });
       
       // Slowly rotate the camera for added effect
       camera.position.x = Math.sin(Date.now() * 0.0002) * 0.4;
