@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Week 14 + Make me a bride! | psrp.life</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1, minimum-scale=1">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Arial', sans-serif;
+      color: white;
+      overflow-x: hidden;
+    }
+    
+    #canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -2;
+      width: 100vw !important;
+      height: 100vh !important;
+      pointer-events: none;
+    }
+    
+    .content-wrapper {
+      position: relative;
+      height: 600vh;
+      width: 100%;
+      z-index: 1;
+    }
+    
+    .content-section {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0 5%;
+      box-sizing: border-box;
+    }
+    
+    .content-inner {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      background-color: rgba(0, 0, 0, 0.55);
+      backdrop-filter: blur(5px);
+      border-radius: 8px;
+    }
+    
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      
+    }
+    
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+    .highlight-glory {
+      color: #fffbcd; 
+      text-shadow: 0 0 2px rgb(98, 80, 0); 
+      font-weight: bold;
+    }
+
+    .highlight-life {
+      color: #d1ffd9; 
+      text-shadow: 0 0 2px rgb(0, 84, 15); 
+      font-weight: bold;
+    }
+
+    .highlight-dark {
+      color: #dadada; 
+      text-shadow: 0 0 6px rgb(17, 17, 17);
+      font-weight: bold;
+    }
+
+    .highlight-dirt {
+      color: #d8b974; 
+      text-shadow: 0 0 6px rgb(98, 60, 0);
+      font-weight: bold;
+    }
+    .highlight-death {
+      color: #ffaeae; 
+      text-shadow: 0 0 2px rgb(89, 0, 0); 
+      font-weight: bold;
+    }
+    .highlight-orange {
+      color: #ffe4bd; 
+      text-shadow: 0 0 2px rgb(89, 50, 0); 
+      font-weight: bold;
+    }
+    .highlight-white {
+      color: #ffffff; 
+      text-shadow: 0 0 2px rgb(0, 0, 0); 
+      font-weight: bold;
+    }
+
+    .highlight-spirit {
+      color: #b9f2ff; 
+      text-shadow: 0 0 2px rgb(0, 38, 150); 
+      font-weight: bold;
+    }
+
+    .highlight-love {
+      color: #fdecff; 
+      text-shadow: 0 0 2px rgb(138, 0, 106); 
+      font-weight: bold;
+    }
+    .verse-quote {
+      font-style: italic;
+      background-color: rgba(255, 255, 255, 0.08); 
+      padding: 1rem;
+      border-left: 4px solid #fdecff;
+      margin: 1.5rem 0;
+      border-radius: 6px;
+      text-shadow: 0 0 1px rgba(255, 255, 255, 0.2);
+    }
+    .verse-quote em {
+      font-style: normal;
+      color: #dedede;
+      font-size: 0.95em;
+    }
+    .content-inner img.embedded-img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 1rem auto;
+      border-radius: 12px;
+      box-shadow: 0 0 12px rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+     /* Prevent zoom-related layout issues */
+    @media screen and (max-width: 768px) {
+      .content-inner {
+        padding: 1rem;
+        margin: 0 2%;
+      }
+      
+      h1 {
+        font-size: 1.5rem;
+      }
+      
+      p {
+        font-size: 1rem;
+      }
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/simplex-noise/2.4.0/simplex-noise.min.js"></script>
+  <script src="../../js/assets.js"></script>
+</head>
+<body>
+  <div id="canvas"></div>
+  
+  <div class="content-wrapper">
+    <section class="content-section" id="section00">
+      <div class="content-inner">
+        <h1>Intro</h1>
+        <p>Hi everyone! We just finished week 14, so 6 more weeks to go! The schedule was a bit different this week since we watched the Memorial Day conference, which was on the preparation of the bride. </p>
+        <img class="embedded-img" src="../../img/05.26.25.1.webp" alt="food">
+        <p>Speaking of the bride, I've been reading <em>The Song of Songs</em> by Watchman Nee ⬇️⬇️⬇️</p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section01">
+      <div class="content-inner">
+        <p>Song of Songs is a love story between God and man, an "abridged" version of the line of romance in the Bible. <span class="highlight-love">In the past, I never understood how someone can have a romantic relationship with God.</span></p>
+
+        <p>Yes, it's a scriptural fact, and I've sung <a style="color: lightblue"; href="https://www.hymnal.net/en/hymn/lb/82">songs like "Divine Romance" a million times</a>, but what does being in a loving relationship with God look like? Is it like loving a human person? Is He supposed to be on my mind all the time?</p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section02">
+      <div class="content-inner">
+        <p>Well, we may initially experience God's love in a general way—"Lord, I love you for having mercy on me and saving me." "Lord, thank you for my family, my job, my pastor, etc." We love Him because of certain objective or outward things apart from His person.</p>
+        <p>However, seeking believers eventually become <span class="highlight-death">deeply dissatisfied.</span> They have a thirsting for something higher, that is, to have an intimate relationship with the Lord. <span class="highlight-love">This thirsting is love, and the beginning of the seeker's journey in Song of Songs.</span></p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section10">
+      <div class="content-inner">
+        <h1>(1) Initial pursuit</h1>
+        <p>We pursue because we have received a vision. On the positive side, we realized at some point that there is nothing compared to His love—"For your love is better than wine" (1:2). </p>
+        <p><span class="highlight-glory">Even if it was only for 15 seconds as you sang the chorus to that one hymn in that one conference, you touched something real which brought joy, elation, and excitement greater than anything under the sun. </span></p>
+        <p>On the negative side, you lose your taste for the outward things which previously satisfied you. </p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section11">
+      <div class="content-inner">
+        <p>We have an inexplicable thirst: the feeling we experienced for 15 seconds before—<span class="highlight-glory">is there more?</span> We have not fully perceived the Lord, but we have seen enough for us to love Him. His drawing power is our pursuing power!</p>
+        <p>As we talk with God in His chambers, <span class="highlight-dark">He shines on us to show us that we are "black"</span> (1:5). That is, there is nothing good in our natural self. The lover is just a country girl; Her beloved is the King! Surely they are not a match. Yet, God doesn't mind: He loves us, appreciates us, and gives us rest and satisfaction. </p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section12">
+      <div class="content-inner">
+        <p class="verse-quote">His left hand is under my head, / And his right hand embraces me. <em>(2:6)</em></p>
+        <p>As the Lord embraces us, <span class="highlight-love">He tilts our head up to look into His eyes.</span> As long as we look at the Lord, all of our problems are solved. However, we cannot help but look at and judge ourselves and those around us. As we continue to look at how "black" we are and how "black" everyone around us is, <span class="highlight-dark">we begin to fall into despair</span>. It seems like we have lost God's presence…</p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section20">
+      <div class="content-inner">
+        <h1>(2) Deliverance from self</h1>
+        <p>Why are these people so annoying? Why am I like this? Can God love someone like me? <span class="highlight-death">As these thoughts ruminate, we put a wall between us and Christ.</span> The lover sees her beloved depicted as a <span class="highlight-life">gazelle leaping upon mountains and skipping upon hills,</span> signifying the Lord's resurrection power. However, they are separated by a wall of introspection (2:9).</p>
+        <p>Some people when they are tired or stressed, pause their fellowship—both with God and the saints—to focus on their problem. They have not learned to involve the Lord in every matter of their daily life in a mountain-leaping, hill-skipping way. </p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section21">
+      <div class="content-inner">
+        <p class="verse-quote">"My beloved responds and says to me, / Rise up, my love, / My beauty, and come away;" <em>(2:10)</em></p>
+
+        <p>The Lord is always calling us to rise up! Not in a way of fear but in a way of love. He is not testing our ability; <span class="highlight-spirit">He is the overcoming life in us.</span> Only by taking His life can we live a life through the cross, signified by His calling us to the clefts of the rock (2:14). But like the lover, we are often more comfortable to stay behind the wall. </p>
+
+        <p class="highlight-death">So how does the lover respond to her beloved's call?</p>
+      </div>
+    </section>
+
+
+    <section class="content-section" id="section22">
+      <div class="content-inner">
+        <p class="verse-quote">"My beloved is mine, and I am his; / He pastures his flock among the lilies." <em>(2:16)</em></p>
+        <p>In her response, she reaffirms their love for one another, but with no obvious "yes" to His call. The next verse confirms <span class="highlight-death">her rejection</span>—she wants to wait "until the day dawns and the shadows flee away." This means she wants to come out of her low situation first, not realizing that answering the call <em>is</em> the solution to her problems. Sometimes, we don't feel like going to the meetings because we're sad, but meeting is our salvation. </p>
+        <p><span class="highlight-spirit">Eventually though, she misses him enough that she has no choice but to rise up and look for him </span> (3:1-2). </p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section30">
+      <div class="content-inner">
+        <h1>(3) Ascension</h1>
+        <p>Amidst our earthly entanglements, we make a determined choice to look away unto Jesus! <span class="highlight-glory">In ascension, we are far above all outward, earthly things.</span> In 3:6, the lover comes out of the wilderness like a pillar of smoke: a spiritual ladder which can stand on the earth and touch the heavens. Ascension is to live continually in our spirit which is joined to the ascended Christ.</p>
+        <p>However, such a living requires discernment between spirit and soul, fact and feeling.</p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section31">
+      <div class="content-inner">
+        <p> <span class="highlight-death">The wall between the lover and her beloved was a product of her feelings</span>. If we live by our doubting mind and fickle emotions, it may not feel like the Lord is with us. But we must exercise faith to declare to the enemy: <span class="highlight-glory">"Christ has already won the victory! I am joined to Him in ascension!"</span></p>
+        <p> In ascension, the King calls her His bride for the first time (4:8). In the first section (1:2-2:7), the maiden mainly praised the King, and the King's praise for the maiden is simple. Now, the King gains a private enjoyment of His bride, and describes her in a specific way:
+      </div>
+    </section>
+
+
+    <section class="content-section" id="section32">
+      <div class="content-inner">
+        <p>She has the <span class="highlight-life">fragrance of God,</span> <span class="highlight-orange">her lips drip fresh honey,</span> <span class="highlight-white">honey and milk are under her tongue,</span> and  <span class="highlight-love">she is a private garden for His enjoyment</span> (4:10-12).</p>
+        <p class="verse-quote"> “Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.” <em>4:16</em></p>
+        <p>Whether it's the cold and difficult north wind, or the warm and pleasant south wind, <span class="highlight-love">she is willing to be worked on that she can be enjoyed by her beloved.</span></p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section40">
+      <div class="content-inner">
+        <h1>(4) Deeper cross</h1>
+        <p>After our "mountain" experience, we may find ourselves down in a "valley" once more. The beloved asks her again:</p>
+        <p class="verse-quote">"Open to me, my sister, my love, / My dove, my perfect one; / For my head is drenched with dew, / My locks with the drops of night." <em>(5:2)</em></p>
+        <p><span class="highlight-death">This is his call for her to receive a deeper cross.</span> His head drenched with dew and locks with the drops of night refer to the Lord's prayer in Gethsemane during which His sweat became like great drops of blood falling down upon the ground (Luke 22:44). </p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section41">
+      <div class="content-inner">
+        <p>Previously, she received the Lord as King, <span class="highlight-death">now the Lord presents Himself as a Son of Sorrows!</span> The Christian life is not all sunshine and rainbows, but a life of suffering together with Him and being conformed to His death.</p>
+        <p>The lover has plenty of excuses. She has put off her coat, she has washed her feet, she thinks she is clean, and <span class="highlight-dirt">doesn't want to touch the dust and dirt of the world</span> (5:3). She thinks she needs to preserve her cleanliness, her apparent "ascended" state, not realizing that by keeping up appearances she has stopped progressing and is regressing instead.</p>
+      </div>
+    </section>
+
+
+    <section class="content-section" id="section42">
+      <div class="content-inner"> 
+        <p>When she finally decides to open her door, the beloved goes into hiding (5:6). <span class="highlight-orange">Sometimes, as we follow the Lord to the cross, it seems like He is in hiding.</span> Though we followed Him and His cross to the FTTA, it sometimes feels like we are suffering without God. </p>
+        <p>The lover is even <span class="highlight-death">wounded and questioned</span> as she desperately searches for Him. But after she declares His preciousness by faith (5:10-16), she once again realizes that He has never left. <span class="highlight-life">He is always in the garden of our spirit</span> (6:2). This is a similar experience as before, though the level and degree is deeper.</p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section50">
+      <div class="content-inner">
+        <h1>(5) Working with God</h1>
+        <p>At the end of the fourth stage, the lover is called "Shulammite" for the first time (6:13), the feminine form of Solomon, meaning she is one with him. Only by being one with God can we work with Him! It's no longer about me, my experiences, my enjoyment, my peace, my gain, my cross, it's about God's desire.</p>
+        <p class="verse-quote">“Come, my beloved, let us go forth into the field; let us lodge in the villages." <em>(7:11)</em></p>
+        <p>She is no longer acting alone, and the Lord is no longer acting alone; <span class="highlight-love">it is a joint work of "us."</span></p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section51">
+      <div class="content-inner">
+        <p> She is a person who is altogether submissive to God with her self thoroughly dealt with (7:1-9). She can go forth into the field of the world without worrying about her coat and her cleanliness, and she can lodge in the villages without worrying about the dust and the dirt.</p>
+        <p class="verse-quote">"Let us rise up early for the vineyards; / Let us see if the vine has budded..." <em>(7:12)</em></p>
+        <p>She follows the Lamb wherever He goes to seek after the lost sheep and the wounded ones (signified by fields and villages). She cares about the fruitfulness of every saint (signified by the condition of the vineyards). <span class="highlight-glory">Her vision has been enlarged to see the Body of Christ.</span></p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section52">
+      <div class="content-inner">
+        <p class="verse-quote">...There I will give you my love. <em>(7:12)</em></p>
+        <p><span class="highlight-love">The lover's work and her loving are not separate things.</span> We have no work-love balance! We love the Lord and involve Him in everything we do.</p>
+        <p>The love which motivated our initial pursuit of God must remain present for our entire Christian walk. To those who do not love God, all things <em>don't</em> work together for good (Rom. 8:29), God will <em>not</em> reveal the hidden things on His heart (1 Cor. 2:9), and God will <em>not</em> abide with them (John 14:23).  </p>
+      </div>
+    </section>
+    
+    <section class="content-section" id="section60">
+      <div class="content-inner">
+        <h1>(6) Hoping to be raptured</h1>
+        <p>Ultimately, our sojourning on the earth comes to an end. As we continue to mature spiritually and physically, <span class="highlight-dark">our outer man inevitably decays</span> and we become aware of the limitation of the flesh. So we groan in ourselves, eagerly awaiting the redemption of our body (Rom. 8:23). I feel pretty fit now, but 20 years from now, I may no longer be able to eat McDonald’s all the time without noticeable side effects. In those moments, I will groan for the redemption of my body. </p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section61">
+      <div class="content-inner">
+        <p class="verse-quote">"Who is this who comes up from the wilderness, / Leaning on her beloved?" <em>(8:5)</em></p>
+        <p>The lover at this point leans on her beloved. The more we are perfected, the more we depend on God. This is contrary to the worldly principle of the student eventually surpassing his master. Many trainees after four terms feel more weak than when they started! This is because the more we grow in life, the more we realize our helplessness. <span class="highlight-love">Our trust is not in our holding power but on God's strong shoulders.</span></p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section62">
+      <div class="content-inner">
+        <p class="verse-quote">"Set me as a seal on your heart, / As a seal on your arm; / For love is as strong as death, / Jealousy is as cruel as Sheol…" <em>(8:6)</em></p>
+        <p> We ask Him to remember us with His heart and to sustain us with His arm. No matter how "powerful" we are in this age, we realize that <span class="highlight-death">all flesh heads toward an inescapable death.</span></p>
+        <p>But death is not stronger than the Lord's love! And neither is it stronger than his jealousy. If we go about our day paying attention to things other than God, His jealousy over us is surely as cruel to Him as Sheol. He wants us to look only at Him, longing for His return:</p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section70">
+      <div class="content-inner">
+        <h1>Conclusion</h1>
+        <p>The last verse in Song of Songs expresses the bride's desire for His second coming:</p>
+        <p class="verse-quote">"Make haste, my beloved, / And be like a gazelle or a young hart / Upon the mountains of spices." <em>(8:14)</em></p>
+        <p>"Come, Lord Jesus!" is also the last prayer in the entire Bible and the conclusion of the universal divine romance. The Lord will only come back for a prepared bride; <span class="highlight-love">He is patiently waiting for His church to pass through these six stages.</span> </p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section71">
+      <div class="content-inner">
+        <p>Our love for the Lord began with our pursuit of a King who would meet our every need. As we continue to be infused with Him as love, we willingly follow Him to the cross for His need. <span class="highlight-life">Yet, He only calls us according to our measure.</span> I think the cyclical journey of the lover in Song of Songs can be described with 1 Corinthians 10:13:</p>
+        <p class="verse-quote">"...God is faithful, who will not allow that you be tempted beyond what you are able, but will, with the temptation, also make the way out, that you may be able to endure it."</p>
+      </div>
+    </section>
+
+    <section class="content-section" id="section72">
+      <div class="content-inner">
+          <h1><a style="color: lightblue"; href="https://www.hymnal.net/en/hymn/ns/160">NS160</a></h1>
+          <p> Give yourself to love the Lord. <br>
+              No other way is so prevailing <br>
+              And no other way, no other way is so safe.</p>
+          <p> Each morning we must rise up and say to Him, <br>
+              “Lord Jesus, I love You.”</p>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    // Wait for THREE.js to load
+    window.addEventListener('DOMContentLoaded', () => {
+        init();
+        animate();
+    });
+    
+    // Setup
+    let scene, camera, renderer;
+    let loveScene, darkScene, heavenlyScene, earthScene, workScene, wideScene;
+    let scrollProgress = 0;
+    let sun, sunGlow;
+
+    // Particles collections
+    const heartParticles = [];
+    const darkParticles = [];
+    const heavenlyParticles = [];
+    const workElements = [];
+    
+    // Dynamic features
+    let ground;
+    let zoomOutView;
+    
+    // Lighting
+    let ambientLight, pointLight, darkPointLight, heavenlyLight, earthLight, workLight;
+    
+    function init() {
+      // Create scene
+      scene = new THREE.Scene();
+      
+      // Create camera
+      camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+      camera.position.z = 5;
+      
+      // Create renderer with mobile-friendly settings
+      renderer = new THREE.WebGLRenderer({ 
+          antialias: true, 
+          alpha: true,
+          powerPreference: "high-performance"
+      });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setClearColor(0x000000, 0);
+      renderer.outputEncoding = THREE.sRGBEncoding;
+      
+      const canvasContainer = document.getElementById('canvas');
+      canvasContainer.appendChild(renderer.domElement);
+      
+      renderer.domElement.addEventListener('touchstart', (e) => {
+          if (e.touches.length > 1) {
+              e.preventDefault();
+          }
+      }, { passive: false });
+      
+      renderer.domElement.addEventListener('touchmove', (e) => {
+          if (e.touches.length > 1) {
+              e.preventDefault();
+          }
+      }, { passive: false });
+      
+      renderer.domElement.addEventListener('touchend', (e) => {
+          e.preventDefault();
+      }, { passive: false });
+      
+      // Prevent zoom on double tap
+      let lastTouchTime = 0;
+      renderer.domElement.addEventListener('touchstart', (e) => {
+          const currentTime = new Date().getTime();
+          const tapLength = currentTime - lastTouchTime;
+          if (tapLength < 500 && tapLength > 0) {
+              e.preventDefault();
+          }
+          lastTouchTime = currentTime;
+      });
+      window.addEventListener('resize', () => {
+          // Update camera aspect ratio
+          camera.aspect = window.innerWidth / window.innerHeight;
+          camera.updateProjectionMatrix();
+          
+          // Update renderer size
+          renderer.setSize(window.innerWidth, window.innerHeight);
+          
+          // Maintain pixel ratio for mobile devices
+          renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      });
+      // Create scene groups
+      loveScene = new THREE.Group();
+      darkScene = new THREE.Group();
+      heavenlyScene = new THREE.Group();
+      earthScene = new THREE.Group();
+      workScene = new THREE.Group();
+      wideScene = new THREE.Group();
+      
+      scene.add(loveScene);
+      scene.add(darkScene);
+      scene.add(heavenlyScene);
+      scene.add(earthScene);
+      scene.add(workScene);
+      scene.add(wideScene);
+      
+      // Set up lighting for love scene
+      ambientLight = new THREE.AmbientLight(0xffc0cb, 0.3);
+      loveScene.add(ambientLight);
+      
+      pointLight = new THREE.PointLight(0xff6b8b, 1, 100);
+      pointLight.position.set(0, 0, 2);
+      loveScene.add(pointLight);
+      
+      // Set up lighting for dark scene
+      darkPointLight = new THREE.PointLight(0x89cff0, 0.8, 50);
+      darkPointLight.position.set(0, 0, 3);
+      darkScene.add(darkPointLight);
+      
+      // Create textures for reuse
+      const heartTexture = createHeartTexture();
+      const glowTexture = createGlowTexture();
+      const cloudTexture = createCloudTexture();
+      
+      const heartMaterial = new THREE.SpriteMaterial({
+          map: heartTexture,
+          color: 0xffc0cb,
+          transparent: true,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false,
+          opacity: 0
+      });
+      
+      for (let i = 0; i < 50; i++) {
+          const heart = new THREE.Sprite(heartMaterial);
+          const scale = 0.5;
+          heart.scale.set(scale, scale, 1);
+          
+          heart.position.x = (Math.random() - 0.5) * 10;
+          heart.position.y = (Math.random() - 0.5) * 10;
+          heart.position.z = (Math.random() - 0.5) * 5;
+          
+          heart.userData = {
+              velocity: new THREE.Vector3(
+                  (Math.random() - 0.5) * 0.01,
+                  (Math.random() - 0.5) * 0.01,
+                  (Math.random() - 0.5) * 0.01
+              ),
+              rotationSpeed: Math.random() * 0.02 - 0.01,
+              originalScale: scale
+          };
+          
+          loveScene.add(heart);
+          heartParticles.push(heart);
+      }
+      
+      // Create dark particles
+      const darkParticleMaterial = new THREE.SpriteMaterial({
+          map: glowTexture,
+          color: 0x333344,
+          transparent: true,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false,
+          opacity: 0
+      });
+      
+      for (let i = 0; i < 100; i++) {
+          const particle = new THREE.Sprite(darkParticleMaterial);
+          const scale = 0.05 + Math.random() * 0.1;
+          particle.scale.set(scale, scale, 1);
+          
+          particle.position.x = (Math.random() - 0.5) * 15;
+          particle.position.y = (Math.random() - 0.5) * 15;
+          particle.position.z = (Math.random() - 0.5) * 10 - 5;
+          
+          particle.userData = {
+              velocity: new THREE.Vector3(
+                  (Math.random() - 0.5) * 0.005,
+                  (Math.random() - 0.5) * 0.005,
+                  (Math.random() - 0.5) * 0.005
+              ),
+              originalScale: scale
+          };
+          
+          darkScene.add(particle);
+          darkParticles.push(particle);
+      }
+        
+        // Create and add sun
+      sun = createSun();
+      heavenlyScene.add(sun);
+      sun.position.set(0,0, -80);
+      
+      // Heavenly light
+      heavenlyLight = new THREE.DirectionalLight(0xffffcc, 1);
+      heavenlyLight.position.set(0, 1, 5);
+      heavenlyScene.add(heavenlyLight);
+      heavenlyParticles.push(heavenlyLight);
+      
+      // Add ambient light to heavenly scene
+      const heavenlyAmbient = new THREE.AmbientLight(0xccccff, 0.8);
+      heavenlyScene.add(heavenlyAmbient);
+      
+      // Add surrounding clouds 
+      for (let i = 0; i < 25; i++) {
+          const distance = 25 + Math.random() * 45;
+          const angle = Math.random() * Math.PI * 2;
+          
+          const x = Math.sin(angle) * distance;
+          const y = -15 + Math.random() * 25;
+          const z = Math.cos(angle) * distance;
+          
+          const cloudScale = 2 + Math.random() * 4;
+          const cloud = createRealisticCloud(x, y, z, cloudScale);
+          heavenlyScene.add(cloud);
+          heavenlyParticles.push(cloud);
+      }
+      
+      // Create Earth Scene (Green Field)
+      const groundGeometry = new THREE.PlaneGeometry(50, 50);
+      const groundMaterial = new THREE.MeshLambertMaterial({
+          color: 0x2d572c,
+          side: THREE.DoubleSide,
+          transparent: true,
+          opacity: 0
+      });
+      ground = new THREE.Mesh(groundGeometry, groundMaterial);
+      ground.rotation.x = -Math.PI / 2;
+      ground.position.y = -3;
+      earthScene.add(ground);
+      
+      // Add earth lighting
+      earthLight = new THREE.DirectionalLight(0xffffcc, 1);
+      earthLight.position.set(5, 10, 5);
+      earthScene.add(earthLight);
+      
+      const earthAmbient = new THREE.AmbientLight(0x88aa88, 0.5);
+      earthScene.add(earthAmbient);
+      
+      workLight = new THREE.DirectionalLight(0xffffaa, 1);
+      workLight.position.set(-5, 10, 5);
+      workScene.add(workLight);
+      
+      const workAmbient = new THREE.AmbientLight(0xaaddaa, 0.6);
+      workScene.add(workAmbient);
+      
+      // Add fog to the scene
+      scene.fog = new THREE.FogExp2(0x000000, 0.02);
+      
+      // Set initial scene visibility
+      updateScenes(0);
+      
+      // Handle scroll
+      window.addEventListener('scroll', onScroll);
+  }
+  
+  function createHeartTexture() {
+      const canvas = document.createElement('canvas');
+      canvas.width = 64;
+      canvas.height = 64;
+      const context = canvas.getContext('2d');
+      
+      // Draw heart
+      context.beginPath();
+      context.moveTo(32, 20);
+      context.bezierCurveTo(32, 17, 29, 14, 25, 14);
+      context.bezierCurveTo(18, 14, 18, 23, 18, 23);
+      context.bezierCurveTo(18, 27, 22, 36, 32, 45);
+      context.bezierCurveTo(42, 36, 46, 27, 46, 23);
+      context.bezierCurveTo(46, 23, 46, 14, 39, 14);
+      context.bezierCurveTo(35, 14, 32, 17, 32, 20);
+      context.fillStyle = 'white';
+      context.fill();
+      
+      // Create gradient for glow effect
+      const gradient = context.createRadialGradient(32, 32, 4, 32, 32, 32);
+      gradient.addColorStop(0, 'rgba(255, 255, 255, 0.8)');
+      gradient.addColorStop(0.5, 'rgba(255, 255, 255, 0.5)');
+      gradient.addColorStop(1, 'rgba(255, 255, 255, 0)');
+      
+      // Apply glow
+      context.globalCompositeOperation = 'source-atop';
+      context.fillStyle = gradient;
+      context.fillRect(0, 0, 64, 64);
+      
+      const texture = new THREE.CanvasTexture(canvas);
+      texture.generateMipmaps = false;
+      texture.minFilter = THREE.LinearFilter;
+      texture.magFilter = THREE.LinearFilter;
+      texture.format = THREE.RGBAFormat;
+      texture.encoding = THREE.sRGBEncoding;
+      
+      return texture;
+  }
+  
+  function createGlowTexture() {
+    const size = 64;
+    const canvas = document.createElement('canvas');
+    canvas.width = size;
+    canvas.height = size;
+    const ctx = canvas.getContext('2d', { alpha: true });
+
+    const imageData = ctx.createImageData(size, size);
+    const data = imageData.data;
+
+    const cx = size / 2;
+    const cy = size / 2;
+    const maxDist = Math.sqrt(cx * cx + cy * cy);
+    const maxFalloffDist = maxDist * 0.95;
+
+    for (let y = 0; y < size; y++) {
+      for (let x = 0; x < size; x++) {
+        const dx = x - cx;
+        const dy = y - cy;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        const norm = Math.min(dist / maxFalloffDist, 1.0);
+
+        const alpha = Math.pow(1 - norm, 2.5);
+        const intensity = Math.floor(alpha * 255);
+
+        const i = (y * size + x) * 4;
+        data[i] = intensity;     // R
+        data[i + 1] = intensity; // G
+        data[i + 2] = intensity; // B
+        data[i + 3] = intensity; // A
+      }
+    }
+
+    ctx.putImageData(imageData, 0, 0);
+
+    const texture = new THREE.CanvasTexture(canvas);
+    texture.generateMipmaps = false;
+    texture.minFilter = THREE.LinearFilter;
+    texture.magFilter = THREE.LinearFilter;
+    texture.format = THREE.RGBAFormat;
+    texture.encoding = THREE.LinearEncoding;
+
+    return texture;
+  }
+  
+  function createCloudTexture() {
+      const canvas = document.createElement('canvas');
+      canvas.width = 128;
+      canvas.height = 64;
+      const context = canvas.getContext('2d');
+      
+      // Create gradient for cloud
+      const gradient = context.createRadialGradient(64, 32, 0, 64, 32, 64);
+      gradient.addColorStop(0, 'rgba(255, 255, 255, 0.8)');
+      gradient.addColorStop(0.4, 'rgba(255, 255, 255, 0.6)');
+      gradient.addColorStop(0.7, 'rgba(255, 255, 255, 0.2)');
+      gradient.addColorStop(1, 'rgba(255, 255, 255, 0)');
+      
+      // Draw cloud base
+      context.fillStyle = gradient;
+      context.fillRect(0, 0, 128, 64);
+      
+      // Add some texture to make it cloud-like
+      context.globalCompositeOperation = 'source-atop';
+      
+      // Add some random cloud bumps
+      for (let i = 0; i < 8; i++) {
+          const x = 20 + Math.random() * 88;
+          const y = 10 + Math.random() * 44;
+          const radius = 10 + Math.random() * 20;
+          
+          context.beginPath();
+          context.arc(x, y, radius, 0, Math.PI * 2);
+          context.fillStyle = 'rgba(255, 255, 255, 0.7)';
+          context.fill();
+      }
+      
+      const texture = new THREE.CanvasTexture(canvas);
+      // CRITICAL FIXES for mobile Safari
+      texture.generateMipmaps = false;
+      texture.minFilter = THREE.LinearFilter;
+      texture.magFilter = THREE.LinearFilter;
+      texture.format = THREE.RGBAFormat;
+      texture.flipY = false;
+      texture.encoding = THREE.sRGBEncoding;
+      
+      return texture;
+  }
+  
+  function onScroll() {
+      const scrollPosition = window.scrollY;
+      const totalHeight = document.body.scrollHeight - window.innerHeight;
+      scrollProgress = Math.min(scrollPosition / totalHeight, 1);
+      
+      updateScenes(scrollProgress);
+  }
+  
+  function updateScenes(progress) {
+      const totalScenes = 23;
+      
+      const scenes = Array(totalScenes).fill(0);
+      const sceneSize = 1 / totalScenes;
+      const currentScene = Math.min(Math.floor(progress / sceneSize), totalScenes - 1);
+      let t_x = (progress - currentScene * sceneSize) / sceneSize;
+      
+      // Apply a curved transition using easeInOutCubic
+      function easeInOut(t) {
+          return t < 0.5 
+              ? 4 * Math.pow(t, 3.5)
+              : 1 - Math.pow(-2 * t + 2, 3.5) / 2;
+      }
+
+      const easedT = easeInOut(t_x);
+
+      for (let i = 0; i < totalScenes; i++) {
+          if (i === currentScene) {
+              scenes[i] = 1 - easedT;
+          } else if (i === currentScene + 1 && i < totalScenes) {
+              scenes[i] = easedT;
+          } else {
+              scenes[i] = 0;
+          }
+      }
+
+      const introProgress = scenes[0]+scenes[1]+scenes[2];
+      const loveProgress = scenes[3]+scenes[4]+scenes[5];
+      const darkProgress = scenes[6]+scenes[7]+scenes[8];
+      const heavenlyProgress = scenes[9]+scenes[10]+scenes[11];
+      const earthProgress = scenes[12]+scenes[13]+scenes[14];
+      const workProgress = scenes[15]+scenes[16]+scenes[17];
+      const wideProgress = scenes[18]+scenes[19]+scenes[20];
+      const endProgress = scenes[21]+scenes[22];
+      
+      // Update love scene
+      pointLight.intensity = 1 * loveProgress;
+      ambientLight.intensity = 0.3 * loveProgress;
+      sun.material.opacity = heavenlyProgress + earthProgress+workProgress+wideProgress;
+
+      heartParticles.forEach(heart => {
+          heart.material.opacity = loveProgress;
+          const scale = heart.userData.originalScale * (1 - progress * 0.5);
+          heart.scale.set(scale, scale, 1);
+      });
+      
+      // Update dark scene
+      darkPointLight.intensity = 1 * darkProgress;
+      sun.position.z = -80 - darkProgress * 100;
+      sun.position.y = 0 - darkProgress * 400 + heavenlyProgress*20;
+      
+      darkParticles.forEach(particle => {
+          if (particle.material) {
+              particle.material.opacity = 1 * darkProgress;
+              const scale = particle.userData.originalScale * (0.5 + darkProgress * 0.5);
+              particle.scale.set(scale, scale, 1);
+          }
+      });
+      
+      // Update heavenly scene
+      heavenlyLight.intensity = heavenlyProgress;
+      
+      heavenlyParticles.forEach(element => {
+          if (element.children && element.children.length > 0) {
+              element.children.forEach(geometry => {
+                  if (geometry.material) {
+                      geometry.material.opacity = 1*heavenlyProgress;
+                  }
+              });
+          }
+          if (element.material) {
+              element.material.opacity = 1*heavenlyProgress;
+          }
+      });
+      
+      // Update earth scene (green field)
+      earthLight.intensity = earthProgress + wideProgress;
+      const groundOpacity = earthProgress + workProgress + wideProgress;
+      ground.material.opacity = groundOpacity;
+      
+      // Update work scene
+      workLight.intensity = workProgress;
+      
+      // Update wide view scene
+      if (zoomOutView) {
+          zoomOutView.visible = wideProgress > 0;
+          // Scale up as we enter this scene
+          const viewScale = 0.1 + wideProgress * 0.9;
+          zoomOutView.scale.set(viewScale, viewScale, viewScale);
+      }
+      
+      // Camera movement for wide scene - zoom out
+      if (wideProgress > 0) {
+          camera.position.z = 5 + wideProgress * 15;
+          camera.position.y = wideProgress * 10;
+          camera.lookAt(0, -3, 0);
+      } else {
+          camera.position.z = 5;
+          camera.lookAt(0, 0, 0);
+      }
+      
+      // Apply ethereal/blurry effect by adjusting scene fog
+      scene.fog.density = 0.02 + (progress * 0.08) * (1 - heavenlyProgress);
+      
+      // Define color stops
+      const colors = [
+          [255, 255, 255], // gray
+          [222, 222, 222], // gray
+          [193, 193, 193], // gray
+          [255, 192, 203], // pink
+          [255, 192, 203], // pink
+          [255, 192, 203], // pink
+          [0, 0, 0],       // black
+          [0, 0, 0],       // black
+          [0, 0, 0],       // black
+          [135, 206, 235], // sky blue
+          [135, 206, 235], // sky blue
+          [135, 206, 235], // sky blue
+          [34, 45, 90],   // dark blue
+          [34, 45, 90],   // dark blue
+          [34, 45, 90],   // dark blue
+          [135, 206, 235], // sky blue (again)
+          [135, 206, 235], // sky blue (again)
+          [135, 206, 235], // sky blue (again)
+          [255, 165, 0],   // orange
+          [255, 165, 0],   // orange
+          [255, 165, 0],   // orange
+          [135, 206, 235], // sky blue
+          [135, 206, 235], // sky blue
+          [135, 206, 235], // sky blue
+      ];
+
+      // Determine which segment we're in
+      const totalSegments = colors.length - 1;
+      const segmentSize = 1 / totalSegments;
+      const currentSegment = Math.min(Math.floor(progress / segmentSize), totalSegments - 1);
+      const t = (progress - currentSegment * segmentSize) / segmentSize;
+
+      const eT = easeInOut(t);
+
+      // Interpolate between current and next color
+      const [r1, g1, b1] = colors[currentSegment];
+      const [r2, g2, b2] = colors[currentSegment + 1];
+
+      const r = Math.floor(r1 * (1 - eT) + r2 * eT);
+      const g = Math.floor(g1 * (1 - eT) + g2 * eT);
+      const b = Math.floor(b1 * (1 - eT) + b2 * eT);
+
+      renderer.setClearColor(new THREE.Color(`rgb(${r}, ${g}, ${b})`));
+  }
+  
+  function animate() {
+      requestAnimationFrame(animate);
+      
+      // Animate heart particles
+      heartParticles.forEach(heart => {
+          heart.position.add(heart.userData.velocity);
+          heart.rotation.z += heart.userData.rotationSpeed;
+          
+          // Boundary check and reset
+          if (heart.position.length() > 10) {
+              heart.position.set(
+                  (Math.random() - 0.5) * 10,
+                  (Math.random() - 0.5) * 10,
+                  (Math.random() - 0.5) * 5
+              );
+          }
+      });
+      
+      // Animate dark particles
+      darkParticles.forEach(particle => {
+          particle.position.add(particle.userData.velocity);
+          
+          // Make them swirl slowly toward center
+          const distance = particle.position.length();
+          if (distance > 0.1) {
+              const swirl = new THREE.Vector3(-particle.position.y, particle.position.x, 0).normalize();
+              swirl.multiplyScalar(0.001);
+              particle.userData.velocity.add(swirl);
+              
+              // Add slight attraction to center
+              const toCenter = new THREE.Vector3().sub(particle.position).normalize();
+              toCenter.multiplyScalar(0.0002);
+              particle.userData.velocity.add(toCenter);
+          }
+          
+          // Limit velocity
+          if (particle.userData.velocity.length() > 0.01) {
+              particle.userData.velocity.normalize().multiplyScalar(0.01);
+          }
+          
+          // Boundary check and reset
+          if (particle.position.length() > 15) {
+              particle.position.set(
+                  (Math.random() - 0.5) * 15,
+                  (Math.random() - 0.5) * 15,
+                  (Math.random() - 0.5) * 10 - 5
+              );
+          }
+      });
+      
+      // Slowly rotate the camera for added effect
+      camera.position.x = Math.sin(Date.now() * 0.0002) * 0.4;
+      camera.position.y = Math.cos(Date.now() * 0.0002) * 0.4;
+      camera.lookAt(0, 0, 0);
+      
+      // Pulse the lights
+      const pulseValue = Math.sin(Date.now() * 0.001) * 0.1 + 0.9;
+      pointLight.intensity = pulseValue * Math.max(0, 1 - scrollProgress * 2);
+      
+      renderer.render(scene, camera);
+    }
+    </script>
+</body>
+</html>

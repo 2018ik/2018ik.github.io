@@ -1,0 +1,6 @@
+---
+layout: song_of_songs
+title: Week 14 + Make me a bride!
+date: May 26, 2025
+permalink: /updates/05.26.25/
+---
