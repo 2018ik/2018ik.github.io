@@ -357,7 +357,6 @@ p {
         const scene = new THREE.Scene();
         // Add fog to the scene for depth
         scene.fog = new THREE.FogExp2(0xaaccff, 0.0007);
-        
         // Initialize camera
         const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
         camera.position.set(0, 0, 0);
@@ -368,7 +367,9 @@ p {
             alpha: true,
             powerPreference: "high-performance"
         });
-        renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+        const isMobile = /Android|iPhone|iPad/.test(navigator.userAgent);
+        renderer.setPixelRatio(isMobile ? .75 : Math.min(window.devicePixelRatio, 1));
         renderer.outputEncoding = THREE.sRGBEncoding;
 
         renderer.setSize(window.innerWidth, window.innerHeight);
