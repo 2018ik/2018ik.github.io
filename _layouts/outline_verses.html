@@ -137,9 +137,9 @@ layout: basev2_st
             margin-top: 10px;
         }
         .verse-item {
-            margin-bottom: 10px;
-            padding-bottom: 10px;
             border-bottom: 1px solid #eee;
+            padding: 0px 16px;
+            transition: background 0.3s ease;
         }
         .verse-ref {
             font-weight: bold;
@@ -152,6 +152,72 @@ layout: basev2_st
             text-align: center;
             color: #666;
             padding: 20px;
+        }
+        /* Base outline/verse shared styling */
+        .outline-point {
+            font-size: 20px;
+            font-weight: 600;
+            padding: 12px 16px;
+            border-radius: 8px 8px 0 0;
+            margin-top: 30px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s ease;
+            border-left: 4px solid transparent;
+        }
+
+        .outline-point.active {
+            border-left: 8px solid #676767;
+            background: #bfbfbf;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+
+        .verse-item:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.06);
+        }
+
+        /* Group-based theming */
+        .outline-group-0,
+        .verse-item.outline-group-0 {
+            background: #e8f4fc;
+            border-left: 4px solid #2196F3;
+        }
+
+        .outline-group-1,
+        .verse-item.outline-group-1 {
+            background: #fcefe8;
+            border-left: 4px solid #FF9800;
+        }
+
+        .outline-group-2,
+        .verse-item.outline-group-2 {
+            background: #f0f8e8;
+            border-left: 4px solid #4CAF50;
+        }
+
+        .outline-group-3,
+        .verse-item.outline-group-3 {
+            background: #f3e8fc;
+            border-left: 4px solid #9C27B0;
+        }
+
+        .outline-group-4,
+        .verse-item.outline-group-4 {
+            background: #fff8e1;
+            border-left: 4px solid #FFC107;
+        }
+        .verse-group.collapsed {
+            display: none;
+        }
+
+        .outline-point {
+            cursor: pointer;
+            user-select: none;
+            transition: background 0.2s ease;
+        }
+
+        .outline-point:hover {
+            filter: brightness(95%);
         }
     </style>
 </head>
@@ -172,15 +238,12 @@ layout: basev2_st
             <textarea id="textInput" placeholder="Paste outline text here..."></textarea>
         </div>
 
-        <div class="toggle-container">
-            <label class="toggle-switch">
-                <input type="checkbox" id="modeToggle">
-                <span class="slider"></span>
-            </label>
-            <span>Extract all references</span>
-        </div>
-
         <button class="process-btn" id="processButton">Process</button>
+        <div>
+            <div id="progressContainer" style="width: 100%; height: 20px; background: #ddd; border-radius: 8px; overflow: hidden;">
+                <div id="progressBar" style="height: 100%; width: 0%; background: #2196F3; transition: width 0.2s ease;"></div>
+            </div>
+        </div>
         
         <div class="results-container">
             <div>
