@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function() {
     const textInput = document.getElementById('textInput');
     const output = document.getElementById('output');
     const verseContent = document.getElementById('verseContent');
-    const modeToggle = document.getElementById('modeToggle');
     const processBtn = document.getElementById('processButton');
 
 
@@ -136,51 +135,218 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }
 
-    async function fetchVerses(references) {
+    function createBatches(references, maxBatchSize) {
+        const batches = [];
+        const batchMetadata = [];
+        
+        let currentBatch = [];
+        let currentMetadata = [];
+        
+        for (let i = 0; i < references.length; i++) {
+            const chunk = references[i];
+            
+            if (chunk.length === 0) {
+                // Handle empty chunks - add to metadata but don't add to batch
+                currentMetadata.push({
+                    originalIndex: i,
+                    references: [],
+                    isEmpty: true
+                });
+            } else {
+                // Add non-empty chunk to current batch
+                currentBatch.push(...chunk);
+                currentMetadata.push({
+                    originalIndex: i,
+                    references: [...chunk],
+                    isEmpty: false
+                });
+            }
+            
+            // Check if we should finalize this batch
+            if (currentBatch.length >= maxBatchSize || i === references.length - 1) {
+                if (currentBatch.length > 0 || currentMetadata.some(m => m.isEmpty)) {
+                    batches.push(currentBatch.join(', '));
+                    batchMetadata.push(currentMetadata);
+                    currentBatch = [];
+                    currentMetadata = [];
+                }
+            }
+        }
+        
+        return { batches, batchMetadata };
+    }
+
+    function normalizeReference(ref) {
+        const bookMappings = {'genesis':'gen','exodus':'exo','leviticus':'lev','numbers':'num','deuteronomy':'deut','joshua':'josh','judges':'judg','ruth':'ruth','1 samuel':'1 sam','2 samuel':'2 sam','1 kings':'1 kings','2 kings':'2 kings','1 chronicles':'1 chron','2 chronicles':'2 chron','ezra':'ezra','nehemiah':'neh','esther':'esth','job':'job','psalm':'psa','psalms':'psa','proverbs':'prov','ecclesiastes':'eccl','song of songs':'s. s.','isaiah':'isa','jeremiah':'jer','lamentations':'lam','ezekiel':'ezek','daniel':'dan','hosea':'hos','joel':'joel','amos':'amos','obadiah':'obad','jonah':'jonah','micah':'mic','nahum':'nah','habakkuk':'hab','zephaniah':'zeph','haggai':'hag','zechariah':'zech','malachi':'mal','matthew':'matt','mark':'mark','luke':'luke','john':'john','acts':'acts','romans':'rom','1 corinthians':'1 cor','2 corinthians':'2 cor','galatians':'gal','ephesians':'eph','philippians':'phil','colossians':'col','1 thessalonians':'1 thes','2 thessalonians':'2 thes','1 timothy':'1 tim','2 timothy':'2 tim','titus':'titus','philemon':'philem','hebrews':'heb','james':'james','1 peter':'1 pet','2 peter':'2 pet','1 john':'1 john','2 john':'2 john','3 john':'3 john','jude':'jude','revelation':'rev'};
+
+        let normalized = ref.trim().toLowerCase();
+        
+        // Handle common variations and clean up
+        normalized = normalized.replace(/\s+/g, ' '); // normalize whitespace
+        normalized = normalized.replace(/\./, ''); // remove trailing period
+        
+        // Extract book name and chapter:verse portion
+        const match = normalized.match(/^(.+?)\s+(\d+.*)$/);
+        if (!match) return normalized; // Return as-is if no match
+        
+        let bookName = match[1].trim();
+        const chapterVerse = match[2];
+        
+        // Handle numbered books (1 cor, 2 cor, etc.)
+        const numberedMatch = bookName.match(/^(\d+)\s+(.+)$/);
+        if (numberedMatch) {
+            const number = numberedMatch[1];
+            const baseBook = numberedMatch[2];
+            const mappedBook = bookMappings[baseBook] || baseBook;
+            return `${number} ${mappedBook} ${chapterVerse}`;
+        }
+        
+        // Map full book name to abbreviation
+        const mappedBook = bookMappings[bookName] || bookName;
+        
+        return `${mappedBook} ${chapterVerse}`;
+    }
+
+    function mapVersesToOriginalOrder(batchVerses, batchMetadata) {
+        const result = [];
+        
+        for (const metadata of batchMetadata) {
+            for (const chunkMeta of metadata) {
+                if (chunkMeta.isEmpty) {
+                    // Empty chunk gets empty array
+                    result[chunkMeta.originalIndex] = [];
+                } else {
+                    // Find verses that match this chunk's references
+                    const chunkVerses = [];
+                    
+                    for (const expectedRef of chunkMeta.references) {
+                        const normalizedExpected = normalizeReference(expectedRef);
+                        
+                        // Find matching verses from the batch
+                        const matchingVerses = batchVerses.filter(verse => {
+                            const normalizedVerseRef = normalizeReference(verse.ref);
+                            
+                            // Direct match
+                            if (normalizedVerseRef === normalizedExpected) {
+                                return true;
+                            }
+                            
+                            // Handle range matching (e.g., "rev 19:7-9" should match "rev 19:7", "rev 19:8", "rev 19:9")
+                            // Check if the verse ref is within the expected range
+                            const expectedMatch = normalizedExpected.match(/^(.+)\s+(\d+):(\d+)(?:-(\d+))?$/);
+                            const verseMatch = normalizedVerseRef.match(/^(.+)\s+(\d+):(\d+)$/);
+                            
+                            if (expectedMatch && verseMatch) {
+                                const [, expectedBook, expectedChapter, expectedStartVerse, expectedEndVerse] = expectedMatch;
+                                const [, verseBook, verseChapter, verseNum] = verseMatch;
+                                
+                                if (expectedBook === verseBook && expectedChapter === verseChapter) {
+                                    const verseNumber = parseInt(verseNum);
+                                    const startVerse = parseInt(expectedStartVerse);
+                                    const endVerse = expectedEndVerse ? parseInt(expectedEndVerse) : startVerse;
+                                    
+                                    return verseNumber >= startVerse && verseNumber <= endVerse;
+                                }
+                            }
+                            
+                            return false;
+                        });
+                        
+                        chunkVerses.push(...matchingVerses);
+                    }
+                    
+                    // Remove duplicates while preserving order
+                    const uniqueVerses = [];
+                    const seenRefs = new Set();
+                    for (const verse of chunkVerses) {
+                        if (!seenRefs.has(verse.ref)) {
+                            seenRefs.add(verse.ref);
+                            uniqueVerses.push(verse);
+                        }
+                    }
+                    
+                    result[chunkMeta.originalIndex] = uniqueVerses;
+                }
+            }
+        }
+        
+        return result;
+    }
+
+    async function fetchVerses(references, maxBatchSize = 20) {
         verseContent.innerHTML = '<div class="loading">Loading verses...</div>';
         const progressBar = document.getElementById('progressBar');
-        let allVerses = [];
-        console.log(references);
         
         try {
-            // Process each chunk
-            for (let i = 0; i < references.length; i++) {
-                const chunk = references[i];
-
-                if (chunk.length === 0) {
-                    allVerses.push([]);
+            // Create batches
+            const { batches, batchMetadata } = createBatches(references, maxBatchSize);
+            console.log(`Created ${batches.length} batches from ${references.length} chunks`);
+            
+            let allBatchVerses = [];
+            
+            // Process each batch
+            for (let batchIndex = 0; batchIndex < batches.length; batchIndex++) {
+                const batch = batches[batchIndex];
+                
+                if (batch.trim() === '') {
+                    // Skip empty batches
+                    allBatchVerses.push([]);
                 } else {
-                    const referenceString = chunk.join(', ');
-                    const response = await sendLsmRequest(referenceString);
+                    const response = await sendLsmRequest(batch);
                     const data = await response.json();
-                    if (data.verses) {
-                        allVerses.push(data.verses);
-                    }
+                    allBatchVerses.push(data.verses || []);
                 }
-
+                
                 // Update progress bar
-                const progress = ((i + 1) / references.length) * 100;
+                const progress = ((batchIndex + 1) / batches.length) * 100;
                 progressBar.style.width = `${progress}%`;
-
+                
                 await new Promise(resolve => setTimeout(resolve, 100));
             }
             
-            if (allVerses.length === 0) {
+            // Map verses back to original order
+            const mappedVerses = [];
+            for (let batchIndex = 0; batchIndex < allBatchVerses.length; batchIndex++) {
+                const batchVerses = allBatchVerses[batchIndex];
+                const metadata = batchMetadata[batchIndex];
+                
+                const mappedBatch = mapVersesToOriginalOrder(batchVerses, [metadata]);
+                
+                // Merge results maintaining original indices
+                for (let originalIndex in mappedBatch) {
+                    if (mappedBatch[originalIndex]) {
+                        if (!mappedVerses[originalIndex]) {
+                            mappedVerses[originalIndex] = [];
+                        }
+                        mappedVerses[originalIndex].push(...mappedBatch[originalIndex]);
+                    }
+                }
+            }
+            
+            // Fill any missing indices with empty arrays
+            for (let i = 0; i < references.length; i++) {
+                if (!mappedVerses[i]) {
+                    mappedVerses[i] = [];
+                }
+            }
+            
+            if (mappedVerses.length === 0 || mappedVerses.every(verses => verses.length === 0)) {
                 verseContent.innerHTML = '<div style="color: #721c24; background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 15px; border-radius: 4px;">No verses found for the given references.</div>';
                 return;
             }
+            
             // Display outline points with verses
             let html = '';
             const text_array = textInput.value.split('\n').map(line => line.trim()).filter(line => line !== '');
-            console.log(text_array)
-            console.log(allVerses)
-            for (let i = 0; i < allVerses.length; i++) {
+
+            for (let i = 0; i < mappedVerses.length; i++) {
                 const groupClass = `outline-group-${i % 5}`;
                 const groupId = `group-${i}`;
 
                 html += `<div class="outline-point ${groupClass}" data-target="${groupId}">${text_array[i]}</div>`;
                 html += `<div class="verse-group ${groupClass}" id="${groupId}">`;
-                for (const verse of allVerses[i]) {
+                
+                for (const verse of mappedVerses[i]) {
                     html += `
                         <div class="verse-item ${groupClass}">
                             <span class="verse-ref">${verse.ref}</span>
@@ -194,7 +360,6 @@ document.addEventListener("DOMContentLoaded", function() {
             const outlinePoints = document.querySelectorAll('.outline-point');
             outlinePoints.forEach(point => {
                 point.addEventListener('click', () => {
-                    console.log('Clicked on outline point:', point.textContent);
                     const targetId = point.dataset.target;
                     const targetGroup = document.getElementById(targetId);
                     targetGroup.classList.toggle('collapsed');
@@ -206,6 +371,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 progressBar.style.width = '0%';
             }, 800);
             
+            return mappedVerses;
+            
         } catch (error) {
             verseContent.innerHTML = `
                 <div style="color: #721c24; background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 15px; border-radius: 4px;">
@@ -213,8 +380,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 </div>`;
             console.error('Error:', error);
         }
-        return allVerses;
-
     }
     async function processInput() {
         processBtn.disabled = true;
@@ -225,12 +390,16 @@ document.addEventListener("DOMContentLoaded", function() {
         }
 
         const references = extractReferences(text);
-        console.log(references);
         output.textContent = references.flat().join('; ');
         // Fetch and display verse content
         await fetchVerses(references);
         processBtn.disabled = false;
     }
+
+    function normalizeWhitespace(str) {
+        return str.replace(/\s+/g, ' ').trim();
+    }   
+    
     function normalizeSingleChapterRefs(text) {
         const books = [
             { name: 'Obadiah', abbrs: ['Obad'] },
@@ -267,7 +436,7 @@ document.addEventListener("DOMContentLoaded", function() {
             '1\\s*Sam\\.?', '1\\s*Samuel', '2\\s*Sam\\.?', '2\\s*Samuel',
             '1\\s*Kings?', '2\\s*Kings?', '1\\s*Chron\\.?', '1\\s*Chronicles', '2\\s*Chron\\.?', '2\\s*Chronicles',
             'Ezra', 'Neh\\.?', 'Nehemiah', 'Esth\\.?', 'Esther', 'Job', 'Psa\\.?', 'Ps\\.?', 'Psalms',
-            'Prov\\.?', 'Proverbs', 'Eccl\\.?', 'Ecclesiastes', 'Song', 'Song of Songs',
+            'Prov\\.?', 'Proverbs', 'Eccl\\.?', 'Ecclesiastes', 'S. S.', 'Song of Songs',
             'Isa\\.?', 'Isaiah', 'Jer\\.?', 'Jeremiah', 'Lam\\.?', 'Lamentations', 'Ezek\\.?', 'Ezekiel', 'Dan\\.?', 'Daniel',
             'Hos\\.?', 'Hosea', 'Joel', 'Amos', 'Obad\\.?', 'Obadiah', 'Jonah', 'Mic\\.?', 'Micah', 'Nah\\.?', 'Nahum',
             'Hab\\.?', 'Habakkuk', 'Zeph\\.?', 'Zephaniah', 'Hag\\.?', 'Haggai', 'Zech\\.?', 'Zechariah', 'Mal\\.?', 'Malachi',
@@ -290,8 +459,9 @@ document.addEventListener("DOMContentLoaded", function() {
         
         for (let line of lines) {
             referencesForThisLine = [];
-            // Skip lines that don't contain verse references
+            line = normalizeWhitespace(line);
             line = normalizeSingleChapterRefs(line);
+            // Skip lines that don't contain verse references
             if (!/\d+:\d+/.test(line)) {
                 // Update last book if the line contains a book name
                 const bookMatch = line.match(fullRegex);
@@ -304,22 +474,21 @@ document.addEventListener("DOMContentLoaded", function() {
             
             // Split by semicolons to handle different reference groups
             const refGroups = line.split(';');
-            console.log(line);
             
             for (let i = 0; i < refGroups.length; i++) {
                 let group = refGroups[i].trim();
                 
                 // Remove "cf." prefix if present
-                group = group.replace(/^\s*cf\\.?\s+/i, '');
+                group = group.replace(/^\s*cf\\.\s+/i, '');
+                // remove "verse" prefix if present
+                group = group.replace(/^\s*v+\\.\s+/i, '');
                 
                 // Check if this group has a book name
                 const bookMatch = group.match(fullRegex);
-                console.log(group, bookMatch);
                 if (bookMatch) {
                     // This group has a book name - update lastBook and process
                     const bookName = bookMatch[1].replace(/\.$/, '').trim();
                     lastBook = bookName;
-                console.log(lastBook);
                     
                     // Extract all chapter:verse patterns from this group
                     const chapterVerseRegex = /(\d+):(\d+(?:-\d+)?(?:,\s*\d+(?:-\d+)?)*)/g;
