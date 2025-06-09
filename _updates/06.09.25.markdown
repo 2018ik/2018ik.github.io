@@ -1,0 +1,126 @@
+---
+layout: pagev2
+title: Week 16 + Weddings
+date: June 9, 2025
+permalink: /updates/06.09.25/
+---
+- [Intro](#intro)
+- [How was it?](#how-was-it)
+- [The intrinsic significance of weddings](#the-intrinsic-significance-of-weddings)
+- [The non-intrinsic significance of weddings](#the-non-intrinsic-significance-of-weddings)
+
+## Intro
+
+Hi everyone, we are now done with week 16! Only four more weeks to go (including the semiannual training) and three more weeks till graduation…
+
+Anyways, this past weekend I was in Oklahoma City for my younger older brother's wedding.
+
+![wedding image 1](../../img/06.09.25.2.webp)
+*Congrats dude*
+
+![wedding image 2](../../img/06.09.25.4.webp)
+*The bride's family all wore green and was much greater in number than the groom's family*
+
+## How was it?
+
+I've been asked this question a lot today, and my response has been "it was good." Nothing super epic or life-changing IMO since it's not my wedding, but it was a very enjoyable time. Here are a few (highly) paraphrased quotes that I remember which may capture the essence of the testimony time:
+
+<div style="max-width: 700px; margin: 0 auto; font-family: sans-serif;">
+  <div style="background:#f9f9f9; border-left:5px solid #ccc; padding:1em; margin:1.5em 0; box-shadow:2px 2px 8px rgba(0,0,0,0.05);">
+    <p style="margin:0;">"The first time I met Caleb, my impression was that he was just a good, kind brother."</p>
+    <p style="text-align:right; margin:0; font-style:italic;">– bride</p>
+  </div>
+
+  <div style="background:#f0f0ff; border-right:5px solid #99f; padding:1em; margin:1.5em 0 1.5em auto; box-shadow:2px 2px 8px rgba(0,0,0,0.05); max-width:85%;">
+    <p style="margin:0;">"The first time I met Ana, my impression was that she was just a good, kind sister."</p>
+    <p style="text-align:right; margin:0; font-style:italic;"> – groom</p>
+  </div>
+
+  <div style="background:#fff3f3; border-left:5px solid #e88; padding:1em; margin:1.5em 0; box-shadow:2px 2px 8px rgba(0,0,0,0.05);">
+    <p style="margin:0;">"During the interim, I prayed for all of my teammates, but when I got to Caleb, I was like, oh no…" <span style='font-size:0.9em; color:#555;'>[Editor’s note: it was likely more difficult for her to pray for him because he held a special place in her heart]</span></p>
+    <p style="text-align:right; margin:0; font-style:italic;">– bride</p>
+  </div>
+
+  <div style="background:#f5faff; border-right:5px solid #77c; padding:1em; margin:1.5em 0 1.5em auto; box-shadow:2px 2px 8px rgba(0,0,0,0.05); max-width:85%;">
+    <p style="margin:0;">"When I prayed regarding my marriage, Ana's name just came up in my heart, and I was like, OK—that's interesting, and moved on. Later, when I prayed again, I thought of Ana <em>again</em>, and I was like, OK—maybe God is trying to tell me something?"</p>
+    <p style="text-align:right; margin:0; font-style:italic;">– groom</p>
+  </div>
+
+  <div style="background:#f1fff1; border-left:5px solid #8c8; padding:1em; margin:1.5em 0; box-shadow:2px 2px 8px rgba(0,0,0,0.05);">
+    <p style="margin:0;">"Young brothers and sisters in the audience, don't worry about your marriage. God will arrange everything as he did for Isaac and Rebekah."</p>
+    <p style="text-align:right; margin:0; font-style:italic;">– groom</p>
+  </div>
+
+  <div style="background:#fffbe5; border-right:5px solid #fc0; padding:1em; margin:1.5em 0 1.5em auto; box-shadow:2px 2px 8px rgba(0,0,0,0.05); max-width:85%;">
+    <p style="margin:0;">“God has blessed me with a wonderful son, but God has blessed me even more with a wonderful daughter-in-law” <span style='font-size:0.9em; color:#555;'>(awww)</span></p>
+    <p style="text-align:right; margin:0; font-style:italic;">– groom’s mom</p>
+  </div>
+
+  <div style="background:#eef9ff; border-left:5px solid #6cf; padding:1em; margin:1.5em 0; box-shadow:2px 2px 8px rgba(0,0,0,0.05);">
+    <p style="margin:0;">"Brother Caleb, when you fellowshipped and poured out to me what you felt about Ana, I was crystal clear: this is God's will for you."</p>
+    <p style="text-align:right; margin:0; font-style:italic;">– ex-gospel partner</p>
+  </div>
+
+  <div style="background:#fff0e6; border-right:5px solid #f96; padding:1em; margin:1.5em 0 1.5em auto; box-shadow:2px 2px 8px rgba(0,0,0,0.05); max-width:85%;">
+    <p style="margin:0;">"I've lived in a lot of brothers' houses and normally I'm the only one who puts the clean dishes from the dishwasher away, but Caleb actually helped me in the morning and sometimes even got there first and did it for me. So in your marriage, I guess you two won't have any issues with dishes."</p>
+    <p style="text-align:right; margin:0; font-style:italic;">– ex-housemate</p>
+  </div>
+
+  <div style="background:#f7f0ff; border-left:5px solid #b6a6d6; padding:1em; margin:1.5em 0; box-shadow:2px 2px 8px rgba(0,0,0,0.05);">
+    <p style="margin:0;">"[To groom] I'm your Mexican aunt now"</p>
+    <p style="text-align:right; margin:0; font-style:italic;">– bride's aunt</p>
+  </div>
+
+  <div style="background:#000; color:#0ff; border-left:5px solid #0ff; padding:1em; margin:1.5em 0; box-shadow:0 0 10px #0ff;">
+    <p style="margin:0; font-family:monospace;">"[sick electro dubstep beatbox drop]" 🎵🔥</p>
+    <p style="text-align:right; margin:0; font-style:italic; color: white; ">– younger brother</p>
+  </div>
+</div>
+
+![wedding image 3](../../img/06.09.25.7.webp)
+*All the trainees and ex-trainees plus a student from GMU*
+
+![wedding image 4](../../img/06.09.25.5.webp)
+*The food was tacos and Chinese food, representing the respective cuisines which the bride and groom grew up eating (Mexican and Panda Express)*
+
+## The intrinsic significance of weddings
+
+Weddings were invented by God. Adam didn't ask God to make another female person of the same life and nature to marry him. It was God who did not like the fact that Adam was alone, so He built Eve to be his counterpart (Gen. 2:18). This was the first wedding in the Bible, and a picture of what God wanted for Himself (a bride, look up *2025 Memorial Day Conference* if you don't know what I'm talking about). 
+
+<p style="font-family: sans-serif; line-height: 1.8; text-align: center;">
+  Every time a couple looks at each other, they should be reminded that 
+  <span style="font-weight: bold; font-size: 1.2em; color: #444;">GOD</span> 
+  became flesh to 
+  <span style="font-weight: bold; font-size: 1.1em; color: rgb(168, 0, 0);">REDEEM</span>, 
+  <span style="font-weight: bold; font-size: 1.3em; color: rgb(0, 164, 16)">REGENERATE</span>, 
+  <span style="font-weight: bold; font-size: 1.5em; color: rgb(0, 76, 255)">TRANSFORM</span>, and 
+  <span style="font-weight: bold; font-size: 1.7em; color:rgb(255, 255, 0); text-shadow: 2px 2px 4px rgba(0,0,0,1);">GLORIFY</span> man, thereby gaining a corporate Body of 
+  <span style="font-size: 1.3em; color:rgb(255, 153, 212); text-shadow: 1px 1px 2px rgb(100, 0, 109);">loving seekers</span>
+  who are 
+  <span style="font-weight: bold; font-size: 1.3em; letter-spacing: 0.5px; color: #444;">ONE WITH HIM IN LIFE AND NATURE</span> 
+  to consummate in the New Jerusalem as 
+  <span style="font-weight: bold; font-size: 1.7em; color:rgb(207, 0, 221);">HIS BRIDE FOR ETERNITY!</span>
+</p>
+
+## The non-intrinsic significance of weddings
+
+Adam and Eve were not only the first wedded couple in the Bible, but also the first arranged marriage. Adam had no choice but to marry the one whom God had arranged for him. Technically, **every marriage is an arranged marriage**. Every proper marriage in the Bible was wonderfully arranged by God. 
+
+**Isaac** and Rebekah found each other on that camel train with virtually no effort at all. **Jacob** had his natural desire stifled as God had arranged for him his real wife: Leah. **Joseph** also had his wife pretty much just given to him, as well as **Moses**. Ruth and **Boaz** were arranged to be together ever since God ordained for the Israelites to not reap the corners of the field for the poor (Lev. 19:9-10). The church was arranged to be married to **Christ** since at least eternity past.
+
+Since God arranges every marriage according to His perfect will and timing, there is no reason to ever worry about getting married or who you are going to marry. To worry is to question God's sovereign arrangement. Of course, we are very weak in every aspect except to carry out fleshly works, so we cannot help but to worry.
+
+![soul diagram](../../img/06.09.25.1.gif)
+*God's operation in the soul*
+
+But we must know that this sense of worry, anxiety, and doubt is a product of our natural emotions and **must be terminated**. If you feel your faith is strong and your spiritual life to be in ascension when your potentially God-arranged match is working out, but then lose this so-called faith and fall into a spiritual low when such a match is not working out, then you are a soulish believer. Your soul has not yet experienced enough of God's destroying work. 
+
+God in His infinite power and wisdom can easily arrange for us the best spouse of all time who ticks every single one of our preferences, but that would be the opposite of what God wants to do in us. He doesn't want to satisfy our natural desires for us to live a soulishly happy life. **He wants to tear down everything that is natural to terminate us thoroughly**. When we have nothing except for God, He becomes our sole satisfaction.
+
+God's goal therefore is not to provide us with the best earthly counterpart (although He does have a sovereign arrangement for each one). Rather, **His goal is to become our Husband**! You know, earthly marriage doesn't even exist in resurrection (Matt. 22:30). In eternity future, there is only one marriage, the marriage between Christ and the church. So today: just gain Christ! Just call on His sweet name every morning, every noon, every evening, every night, every meeting, every breakfast, lunch, and dinner and all your problems including the marriage ones will be solved.
+
+![bacon](../../img/06.09.25.6.webp)
+*Prior to the wedding, the families met each other at the chophouse, which besides steaks served a unique dish called "Bacon, Elevated"*
+
+![wedding image 5](../../img/06.09.25.3.webp)
+*Bonus picture*
