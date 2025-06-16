@@ -1,2 +1,69 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.glass-loop {
+  position: relative;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.07);
+  color: #2a2a2a;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1.1rem;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* Glowing loop border */
+.glass-loop::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  border-radius: 22px;
+  background: linear-gradient(120deg, #fff4c7, #fdffff, #ffcc00);
+  background-size: 300% 300%;
+  animation: loopBorder 6s linear infinite;
+  z-index: -1;
+  filter: blur(4px);
+  opacity: 0.7;
+}
+
+@keyframes loopBorder {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Optional pulsing inner glow */
+.glass-loop::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 20px;
+  background: radial-gradient(circle at center, rgba(255,255,255,0.05), transparent 70%);
+  animation: pulse 5s ease-in-out infinite;
+  z-index: 0;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.1;
+  }
+  50% {
+    opacity: 0.2;
+  }
+}
